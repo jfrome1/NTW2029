@@ -1,7 +1,7 @@
-<!-- ---
+---
 title: Nutshell test
 ---
-
+<!--
 ## Hiding Headings
 
 # :Section 1
