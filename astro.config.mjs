@@ -6,6 +6,8 @@ import remarkAttr from 'remark-attr';
 import markdoc from '@astrojs/markdoc';
 
 export default defineConfig({
+	site: 'https://jfrome1.github.io',
+	base: '/ntw2029/',
   integrations: [
     starlight({
       plugins: [

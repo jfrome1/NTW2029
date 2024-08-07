@@ -6,11 +6,11 @@ title: Discussions
 
 Every student will [:anonymously](#x-anonymous) post questions, comments, and feedback after every class meeting. You will do this on the Canvas "Discussions" page, using a separate thread for each meeting. I will respond in these threads, and you are encouraged to post replies or follow-up questions to anyone's posts.
 
-Students are expected to [:read all posts](/courses/policies/tech-guidelines/#canvas) on the discussion forums, as my responses often contain important clarifications or information.
+Students are expected to [:read all posts](/ntw2029/courses/policies/tech-guidelines/#canvas) on the discussion forums, as my responses often contain important clarifications or information.
 
 ## Other discussions
 
-I'll create threads for a few other topics. I encourage you to ask questions and I'll do my best to respond. [:Email me](/courses/policies/tech-guidelines/#course-email) if I haven't responded to your question within 24 hours.
+I'll create threads for a few other topics. I encourage you to ask questions and I'll do my best to respond. [:Email me](/ntw2029/courses/policies/tech-guidelines/#course-email) if I haven't responded to your question within 24 hours.
 
 # :x anonymous
 
