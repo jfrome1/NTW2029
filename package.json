@@ -1,0 +1,25 @@
+{
+  "name": "bizarre-belt",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.1",
+    "@astrojs/markdoc": "^0.11.3",
+    "@astrojs/starlight": "^0.25.3",
+    "@lorenzo_lewis/starlight-utils": "^0.1.1",
+    "astro": "^4.12.3",
+    "remark": "^15.0.1",
+    "remark-attr": "^0.11.1",
+    "remark-cli": "^12.0.1",
+    "sharp": "^0.32.5",
+    "starlight-links-validator": "^0.9.0",
+    "typescript": "^5.4.5"
+  }
+}
