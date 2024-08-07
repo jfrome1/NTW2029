@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Nutshell test
 ---
 
@@ -72,3 +72,4 @@ You want to embed an explanation, but no-one's written it yet & you can't be bot
 [:Knife-Wielding Tentacle, starting at 0:36](https://youtu.be/pQ2dI_B_Ycg?t=36) links to `https://youtu.be/pQ2dI_B_Ycg?t=36`
 
 For more advanced features (like how to make a section hidden by default, get sections by text-search instead of headings, add words before/after an embedded snippet, etc...) check out [the documentation!](https://github.com/ncase/nutshell#advanced-features--options)
+ -->
