@@ -36,7 +36,7 @@ The file should be single-spaced.
 ## Papers
 
 - Submit paper assignments as MS Word documents, _not_ a pdf or other file format.
-- Find an example properly formatted paper <a href="/ntw2029/../../../public/downloads/formattedpaper.docx" >here</a>.
+- Find an example properly formatted paper <a href="/ntw2029/public/downloads/formattedpaper.docx" >here</a>.
 - The paper must be double-spaced, left-justified, with numbered pages and standard margins, in 12-point Arial, Helvetica, or Times New Roman font.
 - Leave page headers completely blank/empty. Leave page footers blank except for page numbers.
 - Don't use borders, backgrounds, or anything decorative (necessary figures or tables are fine).
