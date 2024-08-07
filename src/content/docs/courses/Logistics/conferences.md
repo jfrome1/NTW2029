@@ -1,0 +1,15 @@
+---
+title: Conferences
+---
+- Conferences in this course are conducted via Zoom at this link, which is my Zoom "Personal Meeting Room": https://nus-sg.zoom.us/j/2503945161. If you have difficulties joining, email me to let me know what's going on.
+- To make sure the conference works well for all attendees:
+	- Find in a quiet, indoor space without wind noise or other people nearby (note: avoid a public place in the library; please reserve a room or find a room elsewhere)
+	- Keep your video on and check that your lighting is adequate
+	- Please do not eat during the conference
+	- Make every effort to be on time, but if you are going to be late, email me before the scheduled time to let me know when to expect you
+- To make sure you get full benefit from the conference:
+	- Review any pre-conference feedback I sent you and prepare questions or topics for our conference in advance
+		- Preparing for the conference is important because I consider conferences to be a chance for the student to ask me for guidance and I generally let the student guide the discussion
+	- Be prepared to take notes during the conference (if you type faster than you write, split the screen between Zoom and your notes, or use 2 monitors)
+	- Review the assignment that is the topic of the conference—both the posted assignment instructions and and your submission
+	- Right after the conference, complete the posted assignment to email me a brief summary of the main points I made and tell me your planned next steps so you don't forget them and I can try to prevent any misunderstandings
