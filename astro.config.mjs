@@ -5,9 +5,7 @@ import starlightUtils from '@lorenzo_lewis/starlight-utils';
 import markdoc from '@astrojs/markdoc';
 
 export default defineConfig({
-  site: 'https://jfrome1.github.io',
-
-	base: '/ntw2029/',
+  
   integrations: [
     starlight({
       plugins: [
