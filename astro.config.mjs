@@ -6,7 +6,7 @@ import markdoc from '@astrojs/markdoc';
 
 export default defineConfig({
 
-
+	base: '/ntw2029/',
   integrations: [
     starlight({
       plugins: [
