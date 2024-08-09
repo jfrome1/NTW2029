@@ -5,8 +5,7 @@ import starlightUtils from '@lorenzo_lewis/starlight-utils';
 import markdoc from '@astrojs/markdoc';
 
 export default defineConfig({
-  
-  integrations: [
+	integrations: [
     starlight({
       plugins: [
 //        starlightLinksValidator(),
