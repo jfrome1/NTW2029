@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import overrideIntegration from "./src/overrideIntegration.mjs";
 // import starlightLinksValidator from 'starlight-links-validator';
 import starlightUtils from '@lorenzo_lewis/starlight-utils';
 import markdoc from '@astrojs/markdoc';
@@ -9,6 +10,7 @@ export default defineConfig({
 //  site: 'https://jfrome1.github.io/ntw2029/', // GitHub Pages URL config
 //  base: '/ntw2029/',
   integrations: [
+	overrideIntegration(),
     starlight({
       plugins: [
 //        starlightLinksValidator(),
