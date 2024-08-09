@@ -57,7 +57,7 @@ You are not expected to use GenAI, and it's fine if you don't. If you don't use 
 
 The easiest way to download chat transcripts is to use ChatGPT in the [Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [:ChatGPT Convdown](#x-convdown) extension.
 
-You can also use [:a different browser or GenAI tool](#x-different-tool), or you can copy and paste the chat transcript [:into a text file](#x-text-file). But you must make sure that the format matches [:the format used by the ChatGPT Convdown](/formatting.md/#genai-chats).
+You can also use [:a different browser or GenAI tool](#x-different-tool), or you can copy and paste the chat transcript [:into a text file](#x-text-file). But you must make sure that the format matches [:the format used by the ChatGPT Convdown](/courses/policies/formatting/#GenAI-chats).
 
 # :x text file
 
