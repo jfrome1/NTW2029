@@ -57,7 +57,7 @@ You are not expected to use GenAI, and it's fine if you don't. If you don't use 
 
 The easiest way to download chat transcripts is to use ChatGPT in the [Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [:ChatGPT Convdown](#x-convdown) extension.
 
-You can also use [:a different browser or GenAI tool](#x-different-tool), or you can copy and paste the chat transcript [:into a text file](#x-text-file). But you must make sure that the format matches [:the format used by the ChatGPT Convdown](/courses/policies/formatting/#-genai-chat-formatting).
+You can also use [:a different browser or GenAI tool](#x-different-tool), or you can copy and paste the chat transcript [:into a text file](#x-text-file). But you must make sure that the format matches [:the format used by the ChatGPT Convdown](/formatting.md/#genai-chats).
 
 # :x text file
 
@@ -65,9 +65,9 @@ The transcript must be a text file with a `.txt` or `.md` file extension (the fi
 
 # :x convdown
 
-You can download the extension [here](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-convdown). It is extension is [open-source](https://github.com/esteinmann/chatgpt-convdown) and seems trustworthy; let me know if you think there is any reason for concern.
+You can download the extension [here](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-convdown). The extension is [open-source](https://github.com/esteinmann/chatgpt-convdown) and seems trustworthy; let me know if you think there is any reason for concern.
 
-ChatGPT Convdown downloads the transcript as a plain text file called a "Markdown" file, with extension `.md`. It's also ok to submit the transcript as a `.txt` file, but not as `.docx`, `.pdf`, or anything else. You don't need to know about Markdown, but can read more [here](https://en.wikipedia.org/wiki/Markdown) if interested.
+ChatGPT Convdown downloads the transcript as a plain text file called a "Markdown" file, with extension `.md`. It's also ok to submit the transcript as a `.txt` file, but not as `.docx`, `.pdf`, or anything else. You don't need to know about Markdown, but can read more [:here](https://en.wikipedia.org/wiki/Markdown) if interested.
 
 # :x different tool
 
