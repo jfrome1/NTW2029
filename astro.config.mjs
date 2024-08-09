@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 // import starlightLinksValidator from 'starlight-links-validator';
 import starlightUtils from '@lorenzo_lewis/starlight-utils';
 import markdoc from '@astrojs/markdoc';
-import remarkExternalLinks from 'remark-external-links';
+// import remarkExternalLinks from 'remark-external-links';
 
 export default defineConfig({
 //  site: 'https://jfrome1.github.io/ntw2029/', // GitHub Pages URL config
@@ -59,9 +59,9 @@ export default defineConfig({
     }),
     markdoc()
   ],
-  markdown: {
+/*   markdown: {
     remarkPlugins: [
       [remarkExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
     ]
-  }
+  } */
 });
