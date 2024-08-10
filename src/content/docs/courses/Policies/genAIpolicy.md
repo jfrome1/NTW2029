@@ -91,10 +91,3 @@ Please read NUS guidance on [use of AI tools generally](https://libguides.nus.ed
 
 ## Instructor GenAI declaration
 
-I've tried to use GenAI to help with teaching preparation and instruction, but so far I haven't found it very helpful. Nonetheless, I am still interested in experimenting with this possibility, so for the sake of transparency, I'm letting you know that I might use AI in the following ways:
-
-- generate questions for in-class activities or optional (ungraded) online quizzes
-- generate writing examples for discussion or to illustrate my points
-- revise handouts or lecture notes
-- revise online course content, including on Canvas and my course website
-- revise my written feedback on assignments (I write the draft feedback without GenAI and do all final revisions)
