@@ -3,7 +3,7 @@ title: Generative AI policy
 ---
 ## Summary of the GenAI policy
 
-- You are free to use or not use GenAI chatbots in this course [:in any way](#x-modified).
+- You are free to use or not use GenAI chatbots in this course [:in any way](#x-modified)
 - *Every* assignment in this course must include either 1) a transcript of all relevant GenAI use or 2) a statement that no GenAI was used.
 - There is no penalty for using GenAI as long as you submit your chat transcripts.
 
@@ -27,7 +27,7 @@ These tools count as GenAI regardless of how you use them--i.e. it's GenAI use e
 
 ## Using GenAI in this course...
 
-The course's [:permissive GenAI policy](#xpermissive) is: you may use GenAI chatbots ([:but only chatbots](#x-chatbots)) for any coursework with no penalty if you submit [:the actual chat transcript](#x-one-chat) along with the assignment. If you use GenAI but don't submit [:the transcript](#x-submit-all), you've [:broken the rules](#x-no-submission).
+The course's [:permissive GenAI policy](#x-permissive) is: you may use GenAI chatbots ([:but only chatbots](#x-chatbots)) for any coursework with no penalty if you submit [:the actual chat transcript](#x-one-chat) along with the assignment. If you use GenAI but don't submit [:the transcript](#x-submit-all), you've [:broken the rules](#x-no-submission).
 
 Use or non-use of GenAI in this course [:will not affect your grade](#x-grade).
 
@@ -110,11 +110,7 @@ Please read NUS guidance on [use of AI tools generally](https://libguides.nus.ed
 I've tried to use GenAI to help with teaching preparation and instruction, but so far I haven't found it very helpful. Nonetheless, I am still interested in experimenting with this possibility, so for the sake of transparency, I'm letting you know that I might use AI in the following ways:
 
 - generate questions for in-class activities or optional (ungraded) online quizzes
-
 - generate writing examples for discussion or to illustrate my points
-
 - revise handouts or lecture notes
-
 - revise online course content, including on Canvas and my course website
-
 - revise my written feedback on assignments (I write the draft feedback without GenAI and do all final revisions)
