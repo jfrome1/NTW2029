@@ -446,146 +446,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Assessments/assignments.md": {
-	id: "courses/Assessments/assignments.md";
-  slug: "courses/assessments/assignments";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises.md": {
-	id: "courses/Assessments/exercises.md";
-  slug: "courses/assessments/exercises";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e01.md": {
-	id: "courses/Assessments/exercises/e01.md";
-  slug: "courses/assessments/exercises/e01";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e02-explain-your-skill.md": {
-	id: "courses/Assessments/exercises/e02-explain-your-skill.md";
-  slug: "courses/assessments/exercises/e02-explain-your-skill";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e02.md": {
-	id: "courses/Assessments/exercises/e02.md";
-  slug: "courses/assessments/exercises/e02";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e03.md": {
-	id: "courses/Assessments/exercises/e03.md";
-  slug: "courses/assessments/exercises/e03";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e04.md": {
-	id: "courses/Assessments/exercises/e04.md";
-  slug: "courses/assessments/exercises/e04";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e05.md": {
-	id: "courses/Assessments/exercises/e05.md";
-  slug: "courses/assessments/exercises/e05";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e06.md": {
-	id: "courses/Assessments/exercises/e06.md";
-  slug: "courses/assessments/exercises/e06";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e07.md": {
-	id: "courses/Assessments/exercises/e07.md";
-  slug: "courses/assessments/exercises/e07";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e08.md": {
-	id: "courses/Assessments/exercises/e08.md";
-  slug: "courses/assessments/exercises/e08";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e09.md": {
-	id: "courses/Assessments/exercises/e09.md";
-  slug: "courses/assessments/exercises/e09";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/exercises/e10.md": {
-	id: "courses/Assessments/exercises/e10.md";
-  slug: "courses/assessments/exercises/e10";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Assessments/participation.md": {
-	id: "courses/Assessments/participation.md";
-  slug: "courses/assessments/participation";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/General advice/index.mdx": {
-	id: "courses/General advice/index.mdx";
-  slug: "courses/general-advice";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".mdx"] };
-"courses/General advice/recommendation request advice.md": {
-	id: "courses/General advice/recommendation request advice.md";
-  slug: "courses/general-advice/recommendation-request-advice";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Logistics/conferences.md": {
-	id: "courses/Logistics/conferences.md";
-  slug: "courses/logistics/conferences";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Logistics/extensions.md": {
-	id: "courses/Logistics/extensions.md";
-  slug: "courses/logistics/extensions";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Logistics/telegram.md": {
-	id: "courses/Logistics/telegram.md";
-  slug: "courses/logistics/telegram";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Policies/discussions.md": {
-	id: "courses/Policies/discussions.md";
-  slug: "courses/policies/discussions";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "courses/Policies/formatting.md": {
 	id: "courses/Policies/formatting.md";
   slug: "courses/policies/formatting";
@@ -607,23 +467,23 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Policies/policies.md": {
-	id: "courses/Policies/policies.md";
-  slug: "courses/policies/policies";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"courses/Policies/readings.md": {
-	id: "courses/Policies/readings.md";
-  slug: "courses/policies/readings";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "courses/Policies/tech-guidelines.md": {
 	id: "courses/Policies/tech-guidelines.md";
   slug: "courses/policies/tech-guidelines";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"courses/Policies/test.md": {
+	id: "courses/Policies/test.md";
+  slug: "courses/policies/test";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"hidden/hidden-titles.md": {
+	id: "hidden/hidden-titles.md";
+  slug: "hidden/hidden-titles";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -635,65 +495,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".mdx"] };
-"writing/Getting a yoyo to sleep means keeping it.md": {
-	id: "writing/Getting a yoyo to sleep means keeping it.md";
-  slug: "writing/getting-a-yoyo-to-sleep-means-keeping-it";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "writing/citations.md": {
 	id: "writing/citations.md";
   slug: "writing/citations";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/common issues for native chinese speakers.md": {
-	id: "writing/common issues for native chinese speakers.md";
-  slug: "writing/common-issues-for-native-chinese-speakers";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/concision and wordiness.md": {
-	id: "writing/concision and wordiness.md";
-  slug: "writing/concision-and-wordiness";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/empty phrases.md": {
-	id: "writing/empty phrases.md";
-  slug: "writing/empty-phrases";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/nutshell.md": {
-	id: "writing/nutshell.md";
-  slug: "writing/nutshell";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/titles.md": {
-	id: "writing/titles.md";
-  slug: "writing/titles";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/transitions.md": {
-	id: "writing/transitions.md";
-  slug: "writing/transitions";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"writing/word choice.md": {
-	id: "writing/word choice.md";
-  slug: "writing/word-choice";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
