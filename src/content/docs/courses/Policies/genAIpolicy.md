@@ -67,8 +67,7 @@ The transcript must be a text file with a `.txt` or `.md` file extension (the fi
 
 You can download the extension [here](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-convdown). The extension is [open-source](https://github.com/esteinmann/chatgpt-convdown) and seems trustworthy; let me know if you think there is any reason for concern.
 
-ChatGPT Convdown downloads the transcript as a plain text file called a "Markdown" file, with extension `.md`. It's also ok to submit the transcript as a `.txt` file, but not as `.docx`, `.pdf`, or anything else. You don't need to know about Markdown, but can read more ,if interested [:here](https://en.wikipedia.org/wiki/Markdown)
-
+ChatGPT Convdown downloads the transcript as a plain text file called a "Markdown" file, with extension `.md`. It's also ok to submit the transcript as a `.txt` file, but not as `.docx`, `.pdf`, or anything else. You don't need to know about Markdown, but can read more [:here](https://en.wikipedia.org/wiki/Markdown) if interested.
 
 # :x different tool
 
