@@ -11,9 +11,9 @@ export default defineConfig({
   integrations: [
 
     starlight({
-      components: {
+/*       components: {
         Pagination: "./src/components/CustomPagination.astro"
-      },
+      }, */
       plugins: [
 //        starlightLinksValidator(),
 		starlightUtils({
