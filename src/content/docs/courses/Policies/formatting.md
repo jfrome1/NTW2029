@@ -17,7 +17,7 @@ Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
 ![avoid links](/images/link-to-file.png)
 
-## GenAI chats
+# GenAI chats
 
 - Transcripts should be in plain text files, in the following format:
 
