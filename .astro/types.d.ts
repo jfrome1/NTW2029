@@ -341,6 +341,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"course-ntw2029/papers/p1.md": {
+	id: "course-ntw2029/papers/p1.md";
+  slug: "course-ntw2029/papers/p1";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "course-ntw2029/papers/p2-1 overview.md": {
 	id: "course-ntw2029/papers/p2-1 overview.md";
   slug: "course-ntw2029/papers/p2-1-overview";
