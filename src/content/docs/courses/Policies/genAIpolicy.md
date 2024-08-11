@@ -113,4 +113,4 @@ I've tried to use GenAI to help with teaching preparation and instruction, but s
 - generate writing examples for discussion or to illustrate my points
 - revise handouts or lecture notes
 - revise online course content, including on Canvas and my course website
-- revise my written feedback on assignments (I write the draft feedback without GenAI and do all final revisions)
+- revise my written feedback on assignments (I write the initial feedback without GenAI and do all final revisions)
