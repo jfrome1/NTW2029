@@ -70,19 +70,19 @@ Unit 1: Biological Evolution and Evolutionary Psychology
 
 - play "The Evolution of Trust", watch 2 videos on cooperation
 
-#- [The Evolution of Trust](https://ncase.me/trust/) (around 30 min)
+# - [The Evolution of Trust](https://ncase.me/trust/) (around 30 min)
 
-#- [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
+# - [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
 
-#- [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
+# - [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
 
 - Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009.
 
-#- read just until page 60—we'll discuss the rest in another class
+# - read just until page 60—we'll discuss the rest in another class
 
-#- discussion questions:
+# - discussion questions:
 
-######	What is the overall structure of the chapter's opening argument?
+## What is the overall structure of the chapter's opening argument?
 
 ######	What are the different types of cooperation Boyd describes?
 
@@ -96,7 +96,7 @@ Unit 1: Biological Evolution and Evolutionary Psychology
 
 - COR, 6, "Engaging Sources," 85-105
 
-#- [should I assign this? what's in it?]
+# - [should I assign this? what's in it?]
 
 # Week 3: evaluating EP
 
@@ -108,7 +108,7 @@ Unit 1: Biological Evolution and Evolutionary Psychology
 
 - §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71
 
-###### Discussion questions:
+##### Discussion questions:
 
 ######	What is the author's attitude towards the arguments he presents? Can you tell if Goldfinch agrees with the arguments or not? How?
 
