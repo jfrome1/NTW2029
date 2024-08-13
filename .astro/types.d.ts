@@ -145,9 +145,9 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"docs": {
-"course-ntw2029/exercises/a2.md": {
-	id: "course-ntw2029/exercises/a2.md";
-  slug: "course-ntw2029/exercises/a2";
+"course-ntw2029/exercises/e1.md": {
+	id: "course-ntw2029/exercises/e1.md";
+  slug: "course-ntw2029/exercises/e1";
   body: string;
   collection: "docs";
   data: any
