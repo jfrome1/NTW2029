@@ -1,5 +1,7 @@
 /* custom.css */
 
+
+
 :root {
 	/* Text size and line height */
 	--sl-text-xs: 0.8125rem; /* 13px */
@@ -38,6 +40,24 @@ pre, code {
 	border: 1px solid #ddd; /* Optional: border around the code block */
 	border-radius: 5px; /* Optional: rounded corners for the border */
 }
+
+.table-container {
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+/* Adjust the main content area width */
+main {
+	max-width: 90%; /* Adjust this value as needed */
+	margin: 0 auto; /* Center the content */
+	padding: 0 20px; /* Optional: Add some padding */
+  }
 
 .nutshell-heading-embed{ display:none; }
 /***************************************************
