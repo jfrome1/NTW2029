@@ -281,7 +281,7 @@ BUBBLES:
 
 /* Misc styling for bubbles. I am a busybody. */
 .nutshell-bubble li{
-	margin-bottom: 0.5em;
+	margin-bottom: 1.5em;
 }
 .nutshell-bubble code{
 	background: #ddd;

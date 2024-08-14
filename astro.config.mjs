@@ -11,9 +11,6 @@ export default defineConfig({
   integrations: [
 
     starlight({
-/*       components: {
-        Pagination: "./src/components/CustomPagination.astro"
-      }, */
       plugins: [
 //        starlightLinksValidator(),
 		starlightUtils({
@@ -22,22 +19,22 @@ export default defineConfig({
 			},
 		  }),
       ],
-      title: 'My Docs',
+      title: 'NTW2029',
       customCss: [
         './src/styles/custom.css'
       ],
       sidebar: [
         {
-    		label: 'NTW2029',
+    		label: 'Course',
 	    	// Don't collapse the main group by default.
 			collapsed: false,
 			autogenerate: { directory: 'course-ntw2029', collapsed: true },
         },
 		{
-			label: 'General',
+			label: 'Policies',
 			// Don't collapse the main group by default.
 			collapsed: false,
-			autogenerate: { directory: 'courses', collapsed: true },
+			autogenerate: { directory: 'policies', collapsed: true },
 		  },
 		  {
 			label: 'Writing',

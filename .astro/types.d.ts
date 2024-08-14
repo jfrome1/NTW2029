@@ -145,96 +145,103 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"docs": {
+"course-ntw2029/course information/instructor.md": {
+	id: "course-ntw2029/course information/instructor.md";
+  slug: "course-ntw2029/course-information/instructor";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "course-ntw2029/exercises/e1.md": {
 	id: "course-ntw2029/exercises/e1.md";
   slug: "course-ntw2029/exercises/e1";
   body: string;
   collection: "docs";
-  data: any
-} & { render(): Render[".md"] };
-"course-ntw2029/index.md": {
-	id: "course-ntw2029/index.md";
-  slug: "course-ntw2029";
-  body: string;
-  collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/meetings/schedule.md": {
 	id: "course-ntw2029/meetings/schedule.md";
   slug: "course-ntw2029/meetings/schedule";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Policies/formatting.md": {
-	id: "courses/Policies/formatting.md";
-  slug: "courses/policies/formatting";
+"course-ntw2029/policies/formatting.md": {
+	id: "course-ntw2029/policies/formatting.md";
+  slug: "course-ntw2029/policies/formatting";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Policies/genAIpolicy.md": {
-	id: "courses/Policies/genAIpolicy.md";
-  slug: "courses/policies/genaipolicy";
+"course-ntw2029/policies/genAIpolicy.md": {
+	id: "course-ntw2029/policies/genAIpolicy.md";
+  slug: "course-ntw2029/policies/genaipolicy";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Policies/grading.md": {
-	id: "courses/Policies/grading.md";
-  slug: "courses/policies/grading";
+"course-ntw2029/policies/grading.md": {
+	id: "course-ntw2029/policies/grading.md";
+  slug: "course-ntw2029/policies/grading";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Policies/tech-guidelines.md": {
-	id: "courses/Policies/tech-guidelines.md";
-  slug: "courses/policies/tech-guidelines";
+"course-ntw2029/policies/tech-guidelines.md": {
+	id: "course-ntw2029/policies/tech-guidelines.md";
+  slug: "course-ntw2029/policies/tech-guidelines";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"courses/Policies/test.md": {
-	id: "courses/Policies/test.md";
-  slug: "courses/policies/test";
+"course-ntw2029/policies/test.md": {
+	id: "course-ntw2029/policies/test.md";
+  slug: "course-ntw2029/policies/test";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/resources/ev religion.md": {
+	id: "course-ntw2029/resources/ev religion.md";
+  slug: "course-ntw2029/resources/ev-religion";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "hidden/assignment guidelines.md": {
 	id: "hidden/assignment guidelines.md";
   slug: "hidden/assignment-guidelines";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "hidden/hidden-titles.md": {
 	id: "hidden/hidden-titles.md";
   slug: "hidden/hidden-titles";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "hidden/writing/citations.md": {
 	id: "hidden/writing/citations.md";
   slug: "hidden/writing/citations";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "hidden/writing/writing resources.md": {
 	id: "hidden/writing/writing resources.md";
   slug: "hidden/writing/writing-resources";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".mdx"] };
 };
 
@@ -246,5 +253,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("./../src/content/config.js");
 }
