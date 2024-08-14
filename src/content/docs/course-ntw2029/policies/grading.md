@@ -10,7 +10,9 @@ title: Grading
 |Paper 1|30%|
 |Paper 2|40%|
 
-## Class Participation
+Grading criteria will be posted shortly.
+
+<!-- ## Class Participation
 
 Your class participation grade is based on how seriously I think you are engaged with the class. As a class, we will develop a rubric to set reasonable expectations about class participation. the following potential contributors to class participation:
 
@@ -82,3 +84,4 @@ Both papers will have students submit proposals, outlines, and/or drafts for ins
 ## Student Examples
 
 Students have told me that discussing anonymous examples from former students is extremely useful, and I use such examples regularly. I will assume that you are ok with me using your coursework for anonymous examples in future classes. Let me know if you have any concern about this; I can allow you to opt-out.
+ -->

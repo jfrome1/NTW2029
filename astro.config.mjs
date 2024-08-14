@@ -30,12 +30,12 @@ export default defineConfig({
 			collapsed: false,
 			autogenerate: { directory: 'course-ntw2029', collapsed: true },
         },
-		{
+/* 		{
 			label: 'Policies',
 			// Don't collapse the main group by default.
 			collapsed: false,
 			autogenerate: { directory: 'policies', collapsed: true },
-		  },
+		  }, */
 		  {
 			label: 'Writing',
 			autogenerate: { directory: 'writing', collapsed: true },

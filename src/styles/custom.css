@@ -265,7 +265,7 @@ BUBBLES:
 	position:absolute;
 	width:100%;
 	bottom:0;
-	border: 0;
+	border: 20;
 	background: none;
 
 	/* A button that gets darker. */
