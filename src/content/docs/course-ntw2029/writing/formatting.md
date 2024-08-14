@@ -3,13 +3,13 @@ title: Formatting
 ---
 ## Exercises
 
-Exercises should be typed directly into the provided text box.
-Include the following information on all exercises:
+Exercises should be typed directly into the provided text box (unless otherwise indicated).
+Include the following information on all exercises (except Exercise 1):
 
 - at the top: the name I call you in class and your section (E1 or E2)
 - at the bottom: a word count and a GenAI no-use statement (if you didn't use GenAI)
 
-If you did use GenAI, attach your chat transcript as a separate file.
+If you did use GenAI, attach your chat transcript as a separate file as described [here](policies/genAIpolicy/).
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
@@ -41,7 +41,7 @@ The file should be single-spaced.
 - Leave page headers completely blank/empty. Leave page footers blank except for page numbers.
 - Don't use borders, backgrounds, or anything decorative (necessary figures or tables are fine).
 - Insert a tab at the beginning of each new paragraph.
-- Include in-text citations and a reference list at the end of drafts and final papers. Guidelines are on the [Citations](link) page.
+- Include in-text citations and a reference list at the end of drafts and final papers. Guidelines are on the [Citations](../policies/link) page.
 - Follow American Psychological Association (APA) formatting rules for capitalization [(here)](https://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.HTML) and italics [(here)](https://apastyle.apa.org/style-grammar-guidelines/italics-quotations/italics). Hint: you have to actually click those links and read those pages if you want correct formatting; don't rely on me to do it for you.
 - Put a word count at the end of the paper, before the reference list.
 - The [:paper title](/writing/titles/#paper-titles) should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined

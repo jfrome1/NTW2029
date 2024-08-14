@@ -1,5 +1,5 @@
 ---
-title: instructor information
+title: Instructor information
 date: 2024-08-14
 ---
 ## Contact Info
@@ -12,15 +12,6 @@ date: 2024-08-14
 ## Dr. Jonathan Frome's mini intellectual history
 
 I received a BA in Philosophy at Amherst College, an MA in English at the University of Florida, Gainesville, and a PhD in Communication Arts (Film Studies) at the University of Wisconsin—Madison. In graduate school, I learned about cognitive film theory, which aims to use cognitive psychology to understand how audiences respond to films. This theory sparked my continuing interest in the intersections between science and humanities. My dissertation research used cognitive theory to better understand some of the differences in emotional response between films and video games. After many years developing these theories of emotion, I have recently grown more skeptical about our ability to study emotional responses to media. Figuring out the capabilities and limitations of emotion research is one of my main interests. I also study video game theory, philosophy of emotion, and I am engaged in collaborative empirical research with psychologists at other universities.
-
-## Do You Need Help?
-
-If you are having trouble, ask for help. I am easily accessible outside of class.
-
-- In person: I am on campus most days. I can often meet students briefly after class, but for longer conversations, contact me to arrange a meeting time.
-- By email: [:Email me questions](../policies/tech-guidelines#course-email) at any time (although please check this site first for answers to questions about course logistics). I will do my best to respond promptly.
-- By chat: send a message to our class MS Teams chat
-- Please Canvas messaging: please email me rather than sending me a message through Canvas.
 
 ### Teaching Style & Philosophy
 

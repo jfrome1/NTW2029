@@ -2,7 +2,7 @@
 title: Technology
 ---
 
-## Frome website
+## NTW2029 website
 
 This website is the primary way I give course information to the class. Please email me if there is something to improve: confusing language, a broken link, a typo, etc.
 
@@ -10,9 +10,15 @@ This website is the primary way I give course information to the class. Please e
 
 Notifications: set up Canvas notifications so you don't miss anything important. Use [these instructions](https://community.canvaslms.com/t5/Student-Guide/How-do-I-manage-my-Canvas-notification-settings-as-a-student/ta-p/434) so that you are immediately notified for categories "Course Content", "Due Date", "Discussions", and "Announcement".
 
+Canvas discussions hides replies by default. It's important that you see the replies from me and your classmates. Make it a habit to [:expand threads](#x-threads) when you read the discussions (sadly, this can't be set as the default).
+
+# :x threads
+
+![expand threads](/public/images/expand-threads.png)
+
 ## Microsoft Teams
 
-For out-of-class communication, we will use [:the chat function](#x-chat) in [:Microsoft Teams](https://ntouch.nus.edu.sg/dwp/app/#/knowledge/KBA00015405/rkm). Please download the Teams app for your phone and make sure notifications are on.
+For out-of-class communication, we will use [:the chat function](#x-chat) in [Microsoft Teams](https://ntouch.nus.edu.sg/dwp/app/#/knowledge/KBA00015405/rkm). Please download the Teams app for your phone and make sure notifications are on.
 
 NUS creates Teams groups for every course section. You must request to be added, which you should do ASAP.
 
@@ -27,11 +33,11 @@ Please follow these guidelines for emailing me:
 
 ## Digital calendar
 
-- You _must_ have a calendar with your course due dates on it. If you don't use one, [:set it up right away](#x-calendar).
+- You _must_ have a calendar with your course due dates on it. If you don't currently use one, [:set it up right away](#x-calendar).
 
 # :x calendar
 
-I don't know a single student who has missed an assignment who DID use a calendar (i.e., students who forget to submit are always those that don't use and/or check their calendars). Your life may have worked just fine without a calendar until now. It won't in the future. Set up a calendar, put all assignment due dates on it right at the beginning of the semester, check the calendar daily, and if your calendar is electronic, make sure to set up a default one-day advance reminder for assignment due dates.
+Every student I have had who forgot to submit an asssignment was one who didn't use a calendar. Some relied on memory; others had a to-do list. Your life may have worked just fine without a calendar until now. Now you need one. Set up a calendar, put all assignment due dates on it right at the beginning of the semester, check the calendar daily, and if your calendar is electronic, make sure to set up a default one-day advance reminder for assignment due dates.
 
 # :x chat
 

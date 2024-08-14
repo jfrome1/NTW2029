@@ -1,6 +1,6 @@
 ---
 
-title: Exercise 1
+title: Exercise 1 - Introductions
 date: 2024-08-13
 
 ---

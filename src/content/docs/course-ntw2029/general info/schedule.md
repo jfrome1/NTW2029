@@ -8,21 +8,35 @@ date: 2024-08-13
 
 - EP and art topic: origins of evolutionary thought
 - Writing topic: university academic writing
-- Assignment due after this class meeting: [Exercise 1 - introductions](../exercises/e1/)
-	- Due: Thu 15 Aug 2024
+- Assignment due after this class meeting: [Exercise 1 - introductions](../../exercises/e01-introductions/)
+	- Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e)
 
 ## 1.2	- Fri 16 Aug 2024
 
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
-	- Read: watch assigned videos
+	- Read: watch [:assigned videos](#x-videos)
 - Writing topic: academic writing as a conversation
 	- Read (recommended):
 		- _TSIS_ refers to: Graff, Gerald, and Cathy Birkenstein. _"They Say / I Say": The Moves That Matter in Academic Writing_. 3rd ed. New York: W. W. Norton & Company, 2014.
 		- _TSIS_ Preface - "Demystifying Academic Conversation", xvi-xxvi
 		- _TSIS_ Introduction - "Entering the Conversation", 1-15
 		- _TSIS_ 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Assignment due after this class meeting: Exercise 2 - explain something
-	- Due: Sun 18 Aug 2024
+- Assignment due after this class meeting: [Exercise 2 - explain something](../../exercises/e02-explain-something/)
+	- Due: [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052)
+
+# :x videos
+
+Please watch the following. Remember that you can come back to these later in the course for review!
+
+- [What is Evolution?](https://youtu.be/GhHOjC4oxh8) (9 min)
+- [Survival Of The Fittest — What does it REALLY mean?](https://youtu.be/nUSTpO7-igw) (8 min)
+- [How Evolution works](https://www.youtube.com/watch?v=hOfRN0KihOU) (12 min)
+- [What is the Evidence for Evolution?](https://youtu.be/lIEoO5KdPvg) (12 min)
+- [Does the Theory of Evolution Really Matter?](https://youtu.be/hqepQGOYKZ0) (10 min)
+- [What is Natural Selection?](https://youtu.be/0SCjhI86grU) (10 min)
+- [Natural Selection & Sexual Selection: An Illustrated Introduction](https://www.youtube.com/watch?v=RxHdzw7E0wU) (9 min)
+- [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4) (3 min)
+- [What Is The Gene's Eye View of Evolution?](https://youtu.be/KqdlBOoZsXo) (13 min)
 
 ## 2.1	- Tue 20 Aug 2024
 
