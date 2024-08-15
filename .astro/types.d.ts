@@ -1,14 +1,5 @@
 declare module 'astro:content' {
 	interface Render {
-		'.mdoc': Promise<{
-			Content(props: Record<string, any>): import('astro').MarkdownInstance<{}>['Content'];
-			headings: import('astro').MarkdownHeading[];
-		}>;
-	}
-}
-
-declare module 'astro:content' {
-	interface Render {
 		'.mdx': Promise<{
 			Content: import('astro').MarkdownInstance<{}>['Content'];
 			headings: import('astro').MarkdownHeading[];
@@ -161,37 +152,37 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general info/instructor.md": {
-	id: "course-ntw2029/general info/instructor.md";
+"course-ntw2029/general-info/instructor.md": {
+	id: "course-ntw2029/general-info/instructor.md";
   slug: "course-ntw2029/general-info/instructor";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general info/need-help.md": {
-	id: "course-ntw2029/general info/need-help.md";
+"course-ntw2029/general-info/need-help.md": {
+	id: "course-ntw2029/general-info/need-help.md";
   slug: "course-ntw2029/general-info/need-help";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general info/readings.md": {
-	id: "course-ntw2029/general info/readings.md";
+"course-ntw2029/general-info/readings.md": {
+	id: "course-ntw2029/general-info/readings.md";
   slug: "course-ntw2029/general-info/readings";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general info/schedule.md": {
-	id: "course-ntw2029/general info/schedule.md";
+"course-ntw2029/general-info/schedule.md": {
+	id: "course-ntw2029/general-info/schedule.md";
   slug: "course-ntw2029/general-info/schedule";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/genAIpolicy.md": {
-	id: "course-ntw2029/policies/genAIpolicy.md";
-  slug: "course-ntw2029/policies/genaipolicy";
+"course-ntw2029/policies/gen-ai-policy.md": {
+	id: "course-ntw2029/policies/gen-ai-policy.md";
+  slug: "course-ntw2029/policies/gen-ai-policy";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -213,6 +204,13 @@ declare module 'astro:content' {
 "course-ntw2029/resources/ev religion.md": {
 	id: "course-ntw2029/resources/ev religion.md";
   slug: "course-ntw2029/resources/ev-religion";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/schedule.md": {
+	id: "course-ntw2029/schedule.md";
+  slug: "course-ntw2029/schedule";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
