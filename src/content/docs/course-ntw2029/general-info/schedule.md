@@ -8,7 +8,7 @@ date: 2024-08-13
 
 - EP and art topic: origins of evolutionary thought
 - Writing topic: university academic writing
-- Assignment due after this class meeting: [Exercise 1 - introductions](../../exercises/e01-introductions/)
+- Assignment due after this class meeting: [Exercise 1 - introductions](../../exercises/e01-introductions)
 	- Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e)
 
 ## 1.2	- Fri 16 Aug 2024
@@ -21,7 +21,7 @@ date: 2024-08-13
 		- _TSIS_ Preface - "Demystifying Academic Conversation", xvi-xxvi
 		- _TSIS_ Introduction - "Entering the Conversation", 1-15
 		- _TSIS_ 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Assignment due after this class meeting: [Exercise 2 - explain something](../../exercises/e02-explain-something/)
+- Assignment due after this class meeting: [Exercise 2 - explain something](../../exercises/e02-explain-something)
 	- Due: [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052)
 
 # :x videos
