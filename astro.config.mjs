@@ -4,20 +4,17 @@ import starlight from '@astrojs/starlight';
 import starlightUtils from '@lorenzo_lewis/starlight-utils';
 import markdoc from '@astrojs/markdoc';
 // import remarkExternalLinks from 'remark-external-links';
-import vercelStatic from '@astrojs/vercel/static';
+import vercel from '@astrojs/vercel/serverless';
 
 export default defineConfig({
 //  site: 'https://jfrome1.github.io/ntw2029/', // GitHub Pages URL config
 //  base: '/ntw2029/',
-output: 'static',
-	adapter: vercelStatic({
-		webAnalytics: {
-			enabled: true
-		},
-	},
-),
-  integrations: [
-    starlight({
+output: 'server',
+adapter: vercel({
+  webAnalytics: { enabled: true }
+}),
+integrations: [
+	starlight({
       plugins: [
 //        starlightLinksValidator(),
 		starlightUtils({
