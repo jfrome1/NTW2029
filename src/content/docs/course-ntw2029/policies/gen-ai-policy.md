@@ -3,15 +3,11 @@ title: Generative AI policy
 ---
 ## Summary of the GenAI policy
 
-- You are free to use or not use GenAI chatbots in this course [:in any way](#x-modified)
+- You are free to use or not use GenAI chatbots in this course in any way
 - *Every* assignment in this course must include either 1) a transcript of all relevant GenAI use or 2) a statement that no GenAI was used.
 - There is no penalty for using GenAI as long as you submit your chat transcripts.
 
 See the rest of the page for important details.
-
-# :x modified
-
-[Note to colleagues: I hope others will use a similar policy in their courses and provide me transcripts, and this summary statement can be modified by the instructor for each course. Another course might say "You are free to use or not use GenAI in any way for generating ideas or for receiving feedback on drafts you write yourself." I can modify language below to reflect changes you might want]
 
 ## What counts as GenAI?
 
