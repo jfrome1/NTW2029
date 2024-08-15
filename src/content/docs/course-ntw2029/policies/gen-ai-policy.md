@@ -69,7 +69,7 @@ You are not expected to use GenAI, and it's fine if you don't. If you don't use 
 
 The easiest way to download chat transcripts is to use ChatGPT in the [Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [:ChatGPT Convdown](#x-convdown) extension.
 
-You can also use [:a different browser or GenAI tool](#x-different-tool), or you can copy and paste the chat transcript [:into a text file](#x-text-file). But you must make sure that the format matches [:the format used by the ChatGPT Convdown](../writing/formatting.md#GenAI-chats).
+You can also use [:a different browser or GenAI tool](#x-different-tool), or you can copy and paste the chat transcript [:into a text file](#x-text-file). But you must make sure that the format matches the format used by the ChatGPT Convdown.
 
 # :x text file
 
@@ -99,7 +99,7 @@ GenAI policy in this course should be understood in relation to the [:NUS Academ
 
 # :x NUS GenAI
 
-Please read NUS guidance on [use of AI tools generally](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-4), [using AI tools for assignments](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-5), and [plagarism](https://libguides.nus.edu.sg/copyright_essentials_teaching_learning_research/plagiarism). Relevant sections of the NUS Code of Student Conduct are [here](https://www.nus.edu.sg/celc/statements-and-e-resources-on-plagiarism/).
+Please read NUS guidance on [use of AI tools generally](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-4), [using AI tools for assignments](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-5), and [plagiarism](https://libguides.nus.edu.sg/copyright_essentials_teaching_learning_research/plagiarism). Relevant sections of the NUS Code of Student Conduct are [here](https://www.nus.edu.sg/celc/statements-and-e-resources-on-plagiarism/).
 
 ## Instructor GenAI declaration
 
