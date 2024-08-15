@@ -150,98 +150,98 @@ declare module 'astro:content' {
   slug: "course-ntw2029/exercises/e01-introductions";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/exercises/e02-explain-something.md": {
 	id: "course-ntw2029/exercises/e02-explain-something.md";
   slug: "course-ntw2029/exercises/e02-explain-something";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/general info/instructor.md": {
 	id: "course-ntw2029/general info/instructor.md";
   slug: "course-ntw2029/general-info/instructor";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/general info/need-help.md": {
 	id: "course-ntw2029/general info/need-help.md";
   slug: "course-ntw2029/general-info/need-help";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/general info/readings.md": {
 	id: "course-ntw2029/general info/readings.md";
   slug: "course-ntw2029/general-info/readings";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/general info/schedule.md": {
 	id: "course-ntw2029/general info/schedule.md";
   slug: "course-ntw2029/general-info/schedule";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/policies/genAIpolicy.md": {
 	id: "course-ntw2029/policies/genAIpolicy.md";
   slug: "course-ntw2029/policies/genaipolicy";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/policies/grading.md": {
 	id: "course-ntw2029/policies/grading.md";
   slug: "course-ntw2029/policies/grading";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/policies/tech-guidelines.md": {
 	id: "course-ntw2029/policies/tech-guidelines.md";
   slug: "course-ntw2029/policies/tech-guidelines";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/resources/ev religion.md": {
 	id: "course-ntw2029/resources/ev religion.md";
   slug: "course-ntw2029/resources/ev-religion";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "course-ntw2029/writing/formatting.md": {
 	id: "course-ntw2029/writing/formatting.md";
   slug: "course-ntw2029/writing/formatting";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "hidden/assignment guidelines.md": {
 	id: "hidden/assignment guidelines.md";
   slug: "hidden/assignment-guidelines";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "hidden/hidden-titles.md": {
 	id: "hidden/hidden-titles.md";
   slug: "hidden/hidden-titles";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".mdx"] };
 };
 
@@ -253,5 +253,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("./../src/content/config.js");
 }
