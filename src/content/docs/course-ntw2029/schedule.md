@@ -9,7 +9,8 @@ date: 2024-08-13
 - EP and art topic: origins of evolutionary thought
 - Writing topic: university academic writing
 
-#### Due [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](exercises/e01-introductions/)
+### Due:
+[Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](exercises/e01-introductions/)
 
 ## 1.2	- Fri 16 Aug 2024
 
@@ -22,7 +23,7 @@ date: 2024-08-13
 		- _TSIS_ Introduction - "Entering the Conversation", 1-15
 		- _TSIS_ 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 
-#### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](exercises/e02-explain-something/)
+### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](exercises/e02-explain-something/)
 
 # :x videos
 
@@ -49,7 +50,7 @@ Please watch the following. Remember that you can come back to these later in th
 		- _COR_ refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. The Craft of Research. 4th ed. Chicago, IL: University of Chicago Press, 2016.
 		- _COR_ 6, "Engaging Sources", (6.1-6.5 only, 85-94)
 
-#### Due anytime (no deadline): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41918?module_item_id=365296) (optional, ungraded)
+### Due anytime (no deadline): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41918?module_item_id=365296) (optional, ungraded)
 
 ## 2.2	- Fri 23 Aug 2024
 
@@ -61,7 +62,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended): COR, 6, "Engaging Sources," 85-105
 
-#### Due: Exercise 3 - explain Boyd reading intro, due Sun 25 Aug 2024
+### Due: Exercise 3 - explain Boyd reading intro, due Sun 25 Aug 2024
 
 ## 3.1	- Tue 27 Aug 2024
 
@@ -70,7 +71,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. https://writingproject.fas.harvard.edu/files/hwp/files/hwp_brief_guides_elements.pdf.
 
-#### Due: Evolution intermediate quiz (optional, ungraded)
+### Due: Evolution intermediate quiz (optional, ungraded)
 
 ## 3.2	- Fri 30 Aug 2024
 
@@ -81,7 +82,7 @@ Please watch the following. Remember that you can come back to these later in th
 	- _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
 	- _Rewriting_ 1, "Coming to Terms"
 
-#### Due: Exercise 4 - explain Goldfinch section, due Sun 01 Sep 2024
+### Due: Exercise 4 - explain Goldfinch section, due Sun 01 Sep 2024
 
 ## 4.1	- Tue 03 Sep 2024
 
@@ -97,7 +98,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: outlining, paragraph structure
 	- Read (recommended):
 
-#### Due: Paper 1 proposal (optional), due Sun 08 Sep 2024
+### Due: Paper 1 proposal (optional), due Sun 08 Sep 2024
 
 ## 5.1	- Tue 10 Sep 2024
 
@@ -113,7 +114,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-#### Due: Paper 1 draft, due Sun 15 Sep 2024
+### Due: Paper 1 draft, due Sun 15 Sep 2024
 
 ## 6.1	- Tue 17 Sep 2024
 
@@ -122,7 +123,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-#### Due: Exercise 5 - Paper 1 conference summary, due day of conference
+### Due: Exercise 5 - Paper 1 conference summary, due day of conference
 
 ## 6.2	- Fri 20 Sep 24
 
@@ -131,7 +132,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-#### Due: Paper 1 final, due Sun 22 Sep 2024
+### Due: Paper 1 final, due Sun 22 Sep 2024
 
 ## Reading week	-
 
@@ -140,7 +141,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-#### Due: Exercise 6 - Paper 1 self-evaluation
+### Due: Exercise 6 - Paper 1 self-evaluation
 Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
 
 ## 7.1	- Tue 01 Oct 2024
@@ -158,7 +159,7 @@ Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058
 	- handout on reading empirical research articles
 
-#### Due: Paper 2 general topic proposal, due Sun 06 Oct 2024
+### Due: Paper 2 general topic proposal, due Sun 06 Oct 2024
 
 ## 8.1	- Tue 08 Oct 2024
 
@@ -170,7 +171,7 @@ Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read (recommended):
 
-#### Due: Paper 2 academic conversation overview, due Sun 13 Oct 2024
+### Due: Paper 2 academic conversation overview, due Sun 13 Oct 2024
 
 ## 9.1	- Tue 15 Oct 2024
 
@@ -182,34 +183,34 @@ Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
 - Writing topic: counterarguments and objections
 	- Read (recommended):
 
-#### Due: Paper 2 brief source summary and context, due Sun 20 Oct 2024
+### Due: Paper 2 brief source summary and context, due Sun 20 Oct 2024
 
 ## 10.1	- Tue 22 Oct 2024
 
 - Writing topic: peer review, conclusions
 	- Read (recommended): peer drafts
 
-#### Due: Paper 2 source summary, due Wed 23 Oct 2024
+### Due: Paper 2 source summary, due Wed 23 Oct 2024
 
 ## 10.2	- Fri 25 Oct 2024
 
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-#### Due: Paper 2 proposal and draft outline, due Sun 27 Oct 2024
+### Due: Paper 2 proposal and draft outline, due Sun 27 Oct 2024
 
 ## 11.1	- Tue 29 Oct 2024
 
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-#### Due: Exercise 8 - Paper 2 proposal conference summary, due
+### Due: Exercise 8 - Paper 2 proposal conference summary, due
 
 ## 11.2	- Fri 01 Nov 24
 
 - no class meeting, Well-Being Day
 
-#### Due: Paper 2 intro and full outline, due Sun 03 Nov 2024
+### Due: Paper 2 intro and full outline, due Sun 03 Nov 2024
 
 ## 12.1	- Tue 05 Nov 2024
 
@@ -222,14 +223,14 @@ Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-#### Due: Paper 2 full draft, due Sun 10 Nov 2024
+### Due: Paper 2 full draft, due Sun 10 Nov 2024
 
 ## 13.1	- Tue 12 Nov 2024
 
 - EP and art topic: no class meeting, student conferences
 	- Read:
 
-#### Due: Exercise 9 - Paper 2 draft conference summary, due day of conference
+### Due: Exercise 9 - Paper 2 draft conference summary, due day of conference
 
 ## 13.2	- Fri 15 Nov   2024
 
@@ -237,10 +238,8 @@ Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
 
 ## Reading week	- 16 Nov 2024 to 22 Nov 2024
 
+### Due:
 
-#### Due:
-	- Paper 2
-		- Due: Sun 17 Nov 2024
-	- Exercise 9 - Paper 2 self-evaluation
-	- Exercise 10 - Workload report
-		- Due: Mon 18 Nov 2024
+- Paper 2 is due Sun, 17 Nov 2024
+- Exercise 9 - Paper 2 self-evaluation is due Mon, 18 Nov 2024
+- Exercise 10 - Workload report is due Mon, 18 Nov 2024

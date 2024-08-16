@@ -62,7 +62,8 @@ export default defineConfig({
                 items: [
 					'course-ntw2029/exercises/guidelines',
 					'course-ntw2029/exercises/e01-introductions',
-                  'course-ntw2029/exercises/e02-explain-something',
+	                'course-ntw2029/exercises/e02-explain-something',
+					'course-ntw2029/exercises/e10-workload',
                 ],
               },
             ],

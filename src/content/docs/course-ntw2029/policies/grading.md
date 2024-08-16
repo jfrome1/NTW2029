@@ -61,4 +61,4 @@ If any of these three elements are missing, the exercise gets no credit (0 point
 
 ## Papers 1 and 2
 
-Detailed grading criteria for for papers will be discussed in class and provided on the course website. Both papers will have students submit proposals, outlines, and/or drafts for instructor and peer feedback to make sure students have enough guidance to produce successful work.
+Detailed grading criteria for for papers will be discussed in class and provided on the course website. Both papers will have students submit proposals, outlines, and/or drafts for instructor and peer feedback to make sure students have enough guidance to produce successful work. Students cannot skip paper assignments. All steps of each paper must be submitted at passing quality to pass the course.
