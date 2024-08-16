@@ -24,7 +24,7 @@ export default defineConfig({
             },
           }),
         ],
-        title: 'NTW2029',
+        title: 'NTW2029 - Home',
         customCss: [
           './src/styles/custom.css'
         ],
@@ -43,7 +43,7 @@ export default defineConfig({
                   'course-ntw2029/general-info/instructor',
                   'course-ntw2029/general-info/need-help',
                   'course-ntw2029/general-info/readings',
-                  'course-ntw2029/general-info/schedule',
+				  'course-ntw2029/general-info/conferences',
                 ],
               },
               {
@@ -52,25 +52,28 @@ export default defineConfig({
           items: [
             'course-ntw2029/policies/gen-ai-policy',
             'course-ntw2029/policies/tech-guidelines',
+			'course-ntw2029/policies/policies',
+			'course-ntw2029/policies/grading',
           ],
           },
           {
                 label: 'Exercises',
                 collapsed: true,
                 items: [
-                  'course-ntw2029/exercises/e01-introductions',
+					'course-ntw2029/exercises/guidelines',
+					'course-ntw2029/exercises/e01-introductions',
                   'course-ntw2029/exercises/e02-explain-something',
                 ],
               },
             ],
           },
-          {
+/*          {
             label: 'Writing',
-            items: [
+             items: [
               { link: '/writing/assignments', label: 'Assignments' },
               { link: '/writing/resources', label: 'Resources' },
             ],
-          },
+          },*/
         ],
       head: [
       {
