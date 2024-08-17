@@ -9,7 +9,7 @@ Include the following information on all exercises (except Exercise 1):
 - at the top: the name I call you in class and your section (E1 or E2)
 - at the bottom: a word count and a GenAI no-use statement (if you didn't use GenAI)
 
-If you did use GenAI, attach your chat transcript as a separate file as described [here](policies/genAIpolicy/).
+If you did use GenAI, attach your chat transcript as a separate file as described [here](../writing/policies/genAIpolicy).
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
@@ -36,18 +36,17 @@ The file should be single-spaced.
 ## Papers
 
 - Submit paper assignments as MS Word documents, _not_ a pdf or other file format.
-- Find an example properly formatted paper <a href="/ntw2029/public/downloads/formattedpaper.docx" >here</a>.
+- See an example properly formatted paper <a href="public/downloads/formattedpaper.docx" >here</a>.
 - The paper must be double-spaced, left-justified, with numbered pages and standard margins, in 12-point Arial, Helvetica, or Times New Roman font.
 - Leave page headers completely blank/empty. Leave page footers blank except for page numbers.
 - Don't use borders, backgrounds, or anything decorative (necessary figures or tables are fine).
 - Insert a tab at the beginning of each new paragraph.
-- Include in-text citations and a reference list at the end of drafts and final papers. Guidelines are on the [Citations](../policies/link) page.
-- Follow American Psychological Association (APA) formatting rules for capitalization [(here)](https://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.HTML) and italics [(here)](https://apastyle.apa.org/style-grammar-guidelines/italics-quotations/italics). Hint: you have to actually click those links and read those pages if you want correct formatting; don't rely on me to do it for you.
+- Include in-text citations and a reference list at the end of drafts and final papers. Guidelines are on the [Citations](./link) page.
+- Follow American Psychological Association (APA) formatting rules for capitalization [(here)](https://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.HTML) and italics [(here)](https://apastyle.apa.org/style-grammar-guidelines/italics-quotations/italics). Hint: you have to actually click those links and read those pages if you want correct formatting; don't rely on my draft feedback about incorrect formatting.
 - Put a word count at the end of the paper, before the reference list.
-- The [:paper title](/writing/titles/#paper-titles) should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined
-- Do not use a cover page. Instead, provide the following information at the top left-hand corner of the first page (not in the header):
-/../../../public/downloads/formattedpaper.docx
-
+- The [:paper title](#x-temp) should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined
+- Don't [:skip an extra line](#x-extra-line) between paragraphs.
+- Do not use a cover page. Instead, provide the following information at the top left-hand corner of the first page (not in the header)
 ```
 Your Name
 Prof. Frome - NTW2029
@@ -55,7 +54,9 @@ Assignment Name (e.g. Paper 1 draft)
 Assignment due date
 ```
 
-- Don't [:skip an extra line](#x-extra-line) between paragraphs.
+# :x temp
+
+link to be added
 
 # :x extra line
 
@@ -88,6 +89,4 @@ To remove the extra spacing between paragraphs in Microsoft Word:
 - Paragraph spacing: No extra line between paragraphs
 - MS Word settings: "Don't add space between paragraphs of the same style" option checked (follow provided  instructions to adjust settings)
 
-# Outline formatting
-
--
+<!-- # Outline formatting -->
