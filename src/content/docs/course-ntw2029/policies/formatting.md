@@ -9,7 +9,7 @@ Include the following information on all exercises (except Exercise 1):
 - at the top: the name I call you in class and your section (E1 or E2)
 - at the bottom: a word count and a GenAI no-use statement (if you didn't use GenAI)
 
-If you did use GenAI, attach your chat transcript as a separate file as described [here](../writing/policies/genAIpolicy).
+If you did use GenAI, attach your chat transcript as a separate file as described [here](course-ntw2029/policies/gen-ai-policy).
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
