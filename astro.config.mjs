@@ -54,6 +54,8 @@ export default defineConfig({
             'course-ntw2029/policies/tech-guidelines',
 			'course-ntw2029/policies/policies',
 			'course-ntw2029/policies/grading',
+			'course-ntw2029/policies/formatting',
+			'course-ntw2029/policies/extensions',
           ],
           },
           {
