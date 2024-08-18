@@ -8,7 +8,7 @@ date: 2024-08-16
 # Approach
 
 - The exercises should be [:written grammatically](#x-grammar), in a [:formal style](#x-formal), with a focus on simple language and clear communication.
-- Write with a focus on simple language and do NOT try to impress me or your classmates with your big vocabulary. It often backfires and goes against the main purpose of academic writing, which is communicating your ideas effectively.
+- Write with a focus on simple language and do NOT try to impress me or your classmates with your big vocabulary. It often backfires and goes against the main purpose of academic writing, which is communicating your ideas clearly.
 - Don't cite sources or use quotes in the exercises unless I specifically tell you to.
 - Don't do any outside research for the exercises. The exercises are ways to encourage your thinking, they are not research exercises where you are supposed to get ideas from other people or sources.
 - Do not write introductions or conclusions for the exercises. Get right to the point.
