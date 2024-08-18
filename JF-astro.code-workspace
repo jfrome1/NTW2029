@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../96.05 web coding notes"
 		}
 	],
 	"settings": {}
