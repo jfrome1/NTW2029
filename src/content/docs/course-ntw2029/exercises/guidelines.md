@@ -10,12 +10,12 @@ date: 2024-08-16
 - The exercises should be [:written grammatically](#x-grammar), in a [:formal style](#x-formal), with a focus on simple language and clear communication.
 - Write with a focus on simple language and do NOT try to impress me or your classmates with your big vocabulary. It often backfires and goes against the main purpose of academic writing, which is communicating your ideas effectively.
 - Don't cite sources or use quotes in the exercises unless I specifically tell you to.
-- Do not do any outside research for the exercises. The exercises are ways to encourage your thinking, they are not research exercises where you are supposed to get ideas from other people or sources.
+- Don't do any outside research for the exercises. The exercises are ways to encourage your thinking, they are not research exercises where you are supposed to get ideas from other people or sources.
 - Do not write introductions or conclusions for the exercises. Get right to the point.
 
 # :x grammar
 
-Write grammatically so I know that any writing errors are not due to carelessness. It doesn't work to write the exercises carelessly with the plan proofread carefully only for the papers. I need to see what your "good" writing looks like before the paper drafts so I know what I need to teach you.
+Write grammatically so I know that any writing errors are not due to carelessness. It doesn't work to write the exercises carelessly with the plan to proofread more carefully for the papers. I need to see what your "good" writing looks like before the paper drafts so I know what I need to teach you.
 
 # :x formal
 
@@ -29,10 +29,10 @@ By "formal style" I don't mean bureaucratic or pretentious; I just mean write it
 # Logistics
 
 - Exercises are always due at 11:59pm. Proper sleep is important for health (both physical and mental) and I do not want you staying up late to finish.
-- You may resubmit exercises until the deadline if needed (for example, if you are reading over your submission and see an embarassing typo).
+- You may resubmit exercises until the deadline if needed (for example, if you are reading over your submission and see an embarrassing typo).
 
 # Comments
 
-- I will not always make significant comments on your exercises, but I do read them all thoroughly.
-- I will write comments on your first exercise submitted through Canvas. Let me know if you don't see the comments.
-- I do not usually provide substantial written feedback on exercises. Written feedback is extremely time-consuming to produce and it is simply impossible for me to provide it for every exercise. You will receive indirect feedback on your submission during class discussion, and you are _always_ welcome to ask for additional feedback by scheduling a meeting with me.
+- I read all assignments thoroughly, whether or not I write a lot of comments.
+- I will write comments on your first exercise submitted through Canvas. Let me know if you don't see the comments so we can troubleshoot.
+- I can't always provide substantial written feedback on exercises because it is so time-consuming to produce.You are always welcome to ask for additional feedback by scheduling a meeting with me.
