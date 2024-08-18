@@ -19,9 +19,18 @@ If you are coming from another class that is far away, and have trouble making o
 
 ## Electronics Policy
 
-- This courses aims to discuss big, complicated ideas, which requires a different sort of focus than many other courses. It is a sort of focus that is easily disrupted by electronic devices, which promise to have the answers you want just one web search away (even though they usually don't). To reduce the temptation to search for the answers online rather than in your own mind, I do not allow electronic devices (phones, laptops, tablets, etc.) to be used during class for any reason except to accommodate for a disability. If you have a disability and would like accommodation, let me know as soon as possible.
-- Please have all phones and laptops put away and out of sight in your pocket or bag, not on the table. If you have a reason that you must have your phone out during class (e.g. your family member is extremely sick and you are waiting for an emergency text) let me know in advance so I know why you have it out.
-- I will provide printed notes for each class, and you will take handwritten notes on these handouts or your own paper. Thus, you will not miss anything important even if you are used to taking notes on a laptop.
+- To encourage [:focus on discussion](#x-focus), no electronic devices should be visible in class other than those needed to [:accommodate a disability](#x-disability).
+- To make notetaking easier, I'll provide hardcopy lecture notes for each class.
+
+# :x focus
+
+This courses aims to discuss big, complicated ideas, which requires a different sort of focus than many other courses. It is a sort of focus that is easily disrupted by electronic devices, which promise to have the answers you want just one web search away (even though they usually don't). To reduce the temptation to search for the answers online rather than in your own mind, I do not allow electronic devices (phones, laptops, tablets, etc.) to be used during class for any reason except to accommodate for a disability.
+
+If you have a reason that you must have your phone out during class (e.g. your family member is extremely sick and you are waiting for an emergency text) let me know in advance so I know why you have it out.
+
+# :x disability
+
+It's fine to use a device if you need one as an accommodation. If you have a disability and would like accommodation, let me know as soon as possible.
 
 ## Food & Drink
 
@@ -29,11 +38,10 @@ If you are coming from another class that is far away, and have trouble making o
 
 ## Talking
 
-- I love it when students talk in class to ask questions or as part of the class discussion.
-- I am easily distracted when students talk quietly to their nearby classmates, because I think that they are confused about something I said, and I start thinking about what might have confused them, and then I wonder if I confused everyone, and then class discussion suffers. Please, just raise your hand and ask me to repeat myself.
+- Please don't talk quietly to classmates during class (unless in a small group activity). It can appear disrespectful.
+- If you have a question or comment, just raise your hard. If you missed something, just ask me to repeat myself. It's fine.
 
 ## Feedback and Course Improvement
 
-- My teaching approach includes the idea that I should always strive to find ways to improve my course and teaching effectiveness so students learn as much as possible and that both students and teachers enjoy the process.
-- One thing experience has taught me is that every group of students is different enough that my teaching techniques and course design must be continuously revised to best meet the needs of any particular group of students. Towards this end, I'm going to be asking each of you to invest some small effort in helping me gather information I can use to improve the course. These efforts include post-class feedback and reporting on your course workload.
-- One way I improve course materials is through use of anonymous student examples. Students have told me that discussing examples is extremely useful, and I use such examples regularly. I will assume that you are ok with me using your coursework for anonymous examples in future classes. Let me know if you have any concern about this; I can allow you to opt-out.
+- I am constantly looking for ways to improve the class, and to do this, I need your help, such as posting class feedback and reporting on your workload. Feel free to email me additional feedback.
+- I use anonymous student writing examples in class frequently, since students say they are very useful. I will assume that you are ok with me using your coursework anonymously in future classes. Let me know if you have any concern about this; I can allow you to opt-out.
