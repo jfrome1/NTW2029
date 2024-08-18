@@ -87,7 +87,9 @@ ChatGPT Convdown downloads the transcript as a plain text file called a "Markdow
 
 # :x different tool
 
-I recommended one browser and extension combination, but you are welcome to use others if you can figure them out. If you find something that works, please let me know so I can tell other students.
+I recommended one browser and extension combination, but you are welcome to use others if you can figure them out.
+
+If you find something else that works, especially a Chrome/Edge or Safari extension, _please_ let me know so I can tell other students.
 
 ## How to submit the transcript
 
