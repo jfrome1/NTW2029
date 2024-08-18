@@ -15,7 +15,7 @@ date: 2024-08-16
 
 # :x grammar
 
-Write grammatically so I know that any writing errors are not due to carelessness. It doesn't work to write the exercises carelessly with the plan to for the papers. I need to see what your "good" writing looks like before the paper drafts so I know what I need to teach you.
+Write grammatically so I know that any writing errors are not due to carelessness. It doesn't work to write the exercises carelessly with the plan proofread carefully only for the papers. I need to see what your "good" writing looks like before the paper drafts so I know what I need to teach you.
 
 # :x formal
 
