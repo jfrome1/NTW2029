@@ -1,6 +1,10 @@
 /* custom.css */
 
-
+main {
+	width: 100%;
+	max-width: 100%;
+	--sl-content-width: 100%; /* this is the most important setting for content in main pane */
+  }
 
 :root {
 	/* Text size and line height */
