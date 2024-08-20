@@ -36,7 +36,7 @@ The file should be single-spaced.
 ## Papers
 
 - Submit paper assignments as MS Word documents, _not_ a pdf or other file format.
-- See an example properly formatted paper <a href="../../../../../public/downloads/formattedpaper.docx" >here</a>.
+- See an example properly formatted paper <a href="https://canvas.nus.edu.sg/courses/66393/files/4607378/download?download_frd=1" >here</a>.
 - The paper must be double-spaced, left-justified, with numbered pages and standard margins, in 12-point Arial, Helvetica, or Times New Roman font.
 - Leave page headers completely blank/empty. Leave page footers blank except for page numbers.
 - Don't use borders, backgrounds, or anything decorative (necessary figures or tables are fine).
