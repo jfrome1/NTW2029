@@ -52,7 +52,7 @@ Please watch the following. Remember that you can come back to these later in th
 	- Read (recommended):
 		- _TSIS_ 1 "They Say - Starting with What Others Are Saying", 19-29
 		- _TSIS_ 2, "Her Point Is - The Art of Summarizing", 30-41
-		- _COR_ refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. The Craft of Research. 4th ed. Chicago, IL: University of Chicago Press, 2016.
+		- _COR_ refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research_. 4th ed. Chicago, IL: University of Chicago Press, 2016.
 		- _COR_ 6, "Engaging Sources", (6.1-6.5 only, 85-94)
 
 ### Due anytime (no deadline): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41918?module_item_id=365296) (optional, ungraded)
