@@ -4,6 +4,11 @@ title: Schedule
 date: 2024-08-13
 
 ---
+:::tip
+Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
+:::
+
+
 ## 1.1	- Tue 13 Aug 2024
 
 - EP and art topic: origins of evolutionary thought
