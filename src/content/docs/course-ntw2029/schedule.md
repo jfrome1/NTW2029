@@ -137,17 +137,9 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-###### Due: Paper 1 final, due Sun 22 Sep 2024
+###### Due Sun 22 Sep 2024: Paper 1 final
 
-## Reading week	-
-
-- EP and art topic:
-	- Read:
-- Writing topic:
-	- Read (recommended):
-
-###### Due: Exercise 6 - Paper 1 self-evaluation
-Exercise 7 - Class participation self-evaluation, due Mon 23 Sep 2024
+###### Due Mon 23 Sep 2024: <br><br>- Exercise 6 - Paper 1 self-evaluation<br>- Exercise 7 - Class participation self-evaluation
 
 ## 7.1	- Tue 01 Oct 2024
 
