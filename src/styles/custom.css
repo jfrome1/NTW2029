@@ -18,7 +18,21 @@ main {
 	--sl-text-4xl: 1.75rem; /* h2, 28px */
 	--sl-text-5xl: 2rem; /* h1, <40px */
 	--sl-text-6xl: 4rem; /* 64px */
+	--border-color: black; /* Default border color for light mode */
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --border-color: white; /* Border color for dark mode */
+    }
+}
+
+h6 {
+	border: 1px solid var(--border-color);
+    padding: 10px;
+    display: inline-block;
+}
+
 main ul {
 	list-style-type: disc;
   }
