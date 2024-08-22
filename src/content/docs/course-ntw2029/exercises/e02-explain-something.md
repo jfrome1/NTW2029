@@ -5,14 +5,10 @@ date: 2024-08-13
 
 ---
 
-Note: many pages on this site use text-expansion links. I recommend first reading the entire page through without clicking any links. Then, go back and click the links for additional important information.
-
-## Explain something
-
 Almost every piece of writing advice I will give you in this course relates to one of two ideas:
 
 - academic writing can be thought of as a conversation
-- the writer's job is to make reading their work as effortless as possible
+- the writer's job is to make their reader's job as effortless as possible
 
 This assignment relates to the latter idea and will give you practice thinking about your writing from a reader's perspective. You will write an explanation of how to do something. Your imagined reader is a classmate who has no familiarity with in your topic. You will have to explain how to do this thing in 300 words or less, with no pictures or diagrams.
 

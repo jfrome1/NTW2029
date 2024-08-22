@@ -7,11 +7,13 @@ date: 2024-08-13
 
 Instructors are told that this course should require an average of 10 hours of work per week, and I want to make sure I am within that guideline. I need your help to make sure I'm meeting this goal.
 
-Please download the <a href="https://canvas.nus.edu.sg/courses/66393/files/4607379/download?download_frd=1" >workload log</a>, save it, and [:log your time](#x-estimate) it in weekly [:in hours](#x-hours). Include both reading and [:writing](#x-writing) assignments.
+For this assignment, keep a record of the amount of time you spend on this class and [submit an updated workload report](https://canvas.nus.edu.sg/courses/66393/assignments/124142) weekly. I'll move the assignment deadline back a week as each week passes.
 
-The log lists assignments and class meeting "preparation", which includes reading, notes, viewing, and anything else you do for class outside of the assignments.
+Please download a blank [workload report](https://canvas.nus.edu.sg/users/90279/files/3681635/download?verifier=5vZywX2dmrbvOWHp6fMYhvYUq0QGyBTbKRtZdKTY&download_frd=1), save it, and [:log your time](#x-estimate) [:in hours](#x-hours). Include both [:writing](#x-writing) assignments and "preparation", which includes everything else you do for the course outside of class.
 
+:::note
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.
+:::
 
 # :x estimate
 
