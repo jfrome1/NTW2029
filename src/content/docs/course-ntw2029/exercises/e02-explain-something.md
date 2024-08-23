@@ -14,10 +14,11 @@ This assignment relates to the latter idea and will give you practice thinking a
 
 Pick something that you know how to do but that most people in this class won't know how to do. It should be something that you took lessons for, or had to be explicitly taught, or had to teach yourself using a tutorial or instruction manual. Due to the word limit, pick something small within your larger area of expertise. For example, "how to dance" is too broad, but "how to do the dance move called 'flossing'" might work.
 
+<!-- next time, add something like: don't just say what to do, but explain how to do it if it is something difficult. and don't pick something that is easy to describe but hard to do, like playing an instrument "to play piano, hit the keys in the right order with the right timing and rhythm" -->
+
 Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-scope).
 
-Make sure that you [:think of your reader](#x-reader) while writing your explanation.
-
+Make sure that you [:think of your reader](#x-reader) while writing your explanation. After reading your explanation, your reader should be able to do the thing you describe (although not expertly).
 
 What would an average NUSC first-year student know about your topic already? What terms or concepts would they need explained?
 
@@ -48,6 +49,16 @@ The key guidelines to review are:
 - GenAI policy
 - due dates and (if needed) extensions
 - workload report
+
+# :x scope
+
+Some examples:
+
+- how to teach a dog to roll over
+- how to make a stir fry with bok choy and mushrooms
+- how to calibrate a home 3D printer
+- how to tune up brakes on a bicycle
+- how to mix colors when painting with watercolor
 
 # Example submission
 
@@ -98,14 +109,3 @@ GenAI output:
 > Understanding how to style text in Markdown is essential for creating clear and visually appealing documents, especially for web content. By mastering these basic formatting techniques, students can enhance the readability and effectiveness of their writing, ensuring that their key points stand out to readers. Markdown's simplicity and efficiency make it a valuable tool for anyone involved in digital writing and publishing.
 
 This output is an improvement, but it gives too many contextual details, which might confuse my reader. It also seemed long, so I asked for a word count, and it was 467 words! The GAI forgot about the word limit after just a few prompts. At this point, I decided it would be easier to revise the text myself, rather than trying to get the GAI to revise it further, so I heavily revised the above text manually to produce the example I provided above.
-
-# :x scope
-
-Some examples:
-
-- how to teach a dog to roll over
-- how to make a stir fry with bok choy and mushrooms
-- how to calibrate a home 3D printer
-- how to tune up brakes on a bicycle
-- how to mix colors when painting with watercolor
-
