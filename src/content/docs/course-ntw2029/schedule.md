@@ -67,7 +67,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):_COR_, 6, "Engaging Sources," 85-105
 
-###### Due: Exercise 3 - explain Boyd reading intro, due Sun 25 Aug 2024
+###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
 
 ## 3.1	- Tue 27 Aug 2024
 

@@ -14,3 +14,5 @@ Don't assume that you should summarize each paragraph and present the informatio
 Keep your submission under 500 words (but you do not need to make it that long; try to explain the passage in as few words as you can without omitting anything important).
 
 Please review exercise guidelines, follow GenAI policy, and submit an updated workload report.
+
+NOTE: to make sure everyone knows how to submit GenAI links, review the [updated GenAI policy](../policies/gen-ai-policy) and submit a chat link on this assignment, even if you don't use GenAI in any significant way
