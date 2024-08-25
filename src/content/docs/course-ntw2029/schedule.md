@@ -69,12 +69,12 @@ Please watch the following. Remember that you can come back to these later in th
 - Class media:
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://canvas.nus.edu.sg/users/90279/files/3681677/download?verifier=VePnp5Fwb3QwXRGfevo40g7hWSoEANz1u0SPBo8H&download_frd=1)
 
-###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/365289): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
+###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
 
 ## 3.1	- Tue 27 Aug 2024
 
 - EP and art topic: criticisms of ep
-	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](https://canvas.nus.edu.sg/users/90279/files/3681669/download?verifier=uc1hTASjwaB5LOi7cCQFjLh39JarlG42fkzWSwoX&download_frd=1)
+	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](https://canvas.nus.edu.sg/users/90279/files/4640794/download?verifier=kwt63OIGGxWhNR7CBQNTUR5ZYHR42hYtqm3Tjih4&download_frd=1)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](https://writingproject.fas.harvard.edu/files/hwp/files/hwp_brief_guides_elements.pdf)
 
@@ -90,7 +90,7 @@ Please watch the following. Remember that you can come back to these later in th
 	- _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
 	- _Rewriting_ 1, "Coming to Terms" [download](https://canvas.nus.edu.sg/users/90279/files/4640818/download?verifier=X2pX4zOGQ7j7hA6kdFtbo2Yp3iCzB9MLopAFbleO&download_frd=1)
 
-###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411463): Exercise 4 - explain Goldfinch section
+###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): Exercise 4 - explain Goldfinch section
 
 ## 4.1	- Tue 03 Sep 2024
 
@@ -106,7 +106,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: outlining, paragraph structure
 	- Read (recommended):
 
-###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411473): Paper 1 proposal (optional, submit if you want feedback)
+###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): Paper 1 proposal (optional, submit if you want feedback)
 
 ## 5.1	- Tue 10 Sep 2024
 
@@ -122,7 +122,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411480): Paper 1 draft
+###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): Paper 1 draft
 
 ## 6.1	- Tue 17 Sep 2024
 
@@ -131,7 +131,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/modules/items/411462): Exercise 5 - Paper 1 conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): Exercise 5 - Paper 1 conference summary
 
 ## 6.2	- Fri 20 Sep 24
 
@@ -140,11 +140,11 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-###### Due Sun 22 Sep 2024: Paper 1 final
+###### Due [Sun 22 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136408?module_item_id=411481): Paper 1 final
 
-###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411464): Exercise 6 - Paper 1 self-evaluation
+###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): Exercise 6 - Paper 1 self-evaluation
 
-###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411465): Exercise 7 - Class participation self-evaluation
+###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
 
 ## 7.1	- Tue 01 Oct 2024
 
@@ -161,7 +161,7 @@ Please watch the following. Remember that you can come back to these later in th
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](https://canvas.nus.edu.sg/users/90279/files/4617822/download?verifier=6Avo9wkwqvmCnwtp33TSlCTgale0vn5wpqqtPUdU&download_frd=1)
 	- handout on reading empirical research articles
 
-###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411482): Paper 2 general topic proposal
+###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
 
 ## 8.1	- Tue 08 Oct 2024
 
@@ -173,7 +173,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read (recommended):
 
-###### Due Sun [13 Oct 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411483): Paper 2 academic conversation overview
+###### Due Sun [13 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136410?module_item_id=411483): Paper 2 academic conversation overview
 
 ## 9.1	- Tue 15 Oct 2024
 
@@ -185,34 +185,34 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: counterarguments and objections
 	- Read (recommended):
 
-###### Due [Sun 20 Oct 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411484): Paper 2 brief source summary and context
+###### Due [Sun 20 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136411?module_item_id=411484): Paper 2 brief source summary and context
 
 ## 10.1	- Tue 22 Oct 2024
 
 - Writing topic: peer review, conclusions
 	- Read (recommended): peer drafts
 
-###### Due [Wed 23 Oct 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411485): Paper 2 source summary
+###### Due [Wed 23 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136412?module_item_id=411485): Paper 2 source summary
 
 ## 10.2	- Fri 25 Oct 2024
 
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411486): Paper 2 proposal and draft outline
+###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): Paper 2 proposal and draft outline
 
 ## 11.1	- Tue 29 Oct 2024
 
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/modules/items/411466): Exercise 8 - Paper 2 proposal conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136398?module_item_id=411466): Exercise 8 - Paper 2 proposal conference summary
 
 ## 11.2	- Fri 01 Nov 24
 
 - no class meeting, Well-Being Day
 
-###### Due [Sun 03 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411487): Paper 2 intro and full outline
+###### Due [Sun 03 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136414?module_item_id=411487): Paper 2 intro and full outline
 
 ## 12.1	- Tue 05 Nov 2024
 
@@ -225,14 +225,14 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411488): Paper 2 full draft
+###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): Paper 2 full draft
 
 ## 13.1	- Tue 12 Nov 2024
 
 - EP and art topic: no class meeting, student conferences
 	- Read:
 
-###### Due day of conference: Exercise 9 - Paper 2 draft conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136399?module_item_id=411467): Exercise 9 - Paper 2 draft conference summary
 
 ## 13.2	- Fri 15 Nov   2024
 
@@ -240,8 +240,8 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## Reading week	- 16 Nov 2024 to 22 Nov 2024
 
-###### Due [Sun, 17 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411490): Paper 2 final
+###### Due [Sun, 17 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136416?module_item_id=411490): Paper 2 final
 
-###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/365289): Exercise 10 - Workload report
+###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/124142?module_item_id=365289): Exercise 10 - Workload report
 
-###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411469): Exercise 11 - Paper 2 self-evaluation
+###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136400?module_item_id=411469): Exercise 11 - Paper 2 self-evaluation
