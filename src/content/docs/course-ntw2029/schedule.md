@@ -87,7 +87,7 @@ Please watch the following. Remember that you can come back to these later in th
 	- _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
 	- _Rewriting_ 1, "Coming to Terms"
 
-###### Due: Exercise 4 - explain Goldfinch section, due Sun 01 Sep 2024
+###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411463): Exercise 4 - explain Goldfinch section
 
 ## 4.1	- Tue 03 Sep 2024
 
@@ -103,7 +103,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: outlining, paragraph structure
 	- Read (recommended):
 
-###### Due: Paper 1 proposal (optional), due Sun 08 Sep 2024
+###### Due Sun 08 Sep 2024: Paper 1 proposal (optional), due
 
 ## 5.1	- Tue 10 Sep 2024
 
@@ -119,7 +119,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due: Paper 1 draft, due Sun 15 Sep 2024
+###### Due Sun 15 Sep 2024: Paper 1 draft, due
 
 ## 6.1	- Tue 17 Sep 2024
 
@@ -128,7 +128,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-###### Due: Exercise 5 - Paper 1 conference summary, due day of conference
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/modules/items/411462): Exercise 5 - Paper 1 conference summary
 
 ## 6.2	- Fri 20 Sep 24
 
@@ -139,7 +139,8 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due Sun 22 Sep 2024: Paper 1 final
 
-###### Due Mon 23 Sep 2024: <br><br>- Exercise 6 - Paper 1 self-evaluation<br>- Exercise 7 - Class participation self-evaluation
+###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411464): Exercise 6 - Paper 1 self-evaluation
+###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411465): Exercise 7 - Class participation self-evaluation
 
 ## 7.1	- Tue 01 Oct 2024
 
@@ -156,7 +157,7 @@ Please watch the following. Remember that you can come back to these later in th
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](https://canvas.nus.edu.sg/files/4617822/download?download_frd=1)
 	- handout on reading empirical research articles
 
-###### Due: Paper 2 general topic proposal, due Sun 06 Oct 2024
+###### Due Sun 06 Oct 2024: Paper 2 general topic proposal, due
 
 ## 8.1	- Tue 08 Oct 2024
 
@@ -168,7 +169,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read (recommended):
 
-###### Due: Paper 2 academic conversation overview, due Sun 13 Oct 2024
+###### Due Sun 13 Oct 2024: Paper 2 academic conversation overview
 
 ## 9.1	- Tue 15 Oct 2024
 
@@ -180,34 +181,34 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: counterarguments and objections
 	- Read (recommended):
 
-###### Due: Paper 2 brief source summary and context, due Sun 20 Oct 2024
+###### Due Sun 20 Oct 2024: Paper 2 brief source summary and context
 
 ## 10.1	- Tue 22 Oct 2024
 
 - Writing topic: peer review, conclusions
 	- Read (recommended): peer drafts
 
-###### Due: Paper 2 source summary, due Wed 23 Oct 2024
+###### Due Wed 23 Oct 2024: Paper 2 source summary
 
 ## 10.2	- Fri 25 Oct 2024
 
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-###### Due: Paper 2 proposal and draft outline, due Sun 27 Oct 2024
+###### Due Sun 27 Oct 2024: Paper 2 proposal and draft outline
 
 ## 11.1	- Tue 29 Oct 2024
 
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-###### Due: Exercise 8 - Paper 2 proposal conference summary, due
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/modules/items/411466): Exercise 8 - Paper 2 proposal conference summary
 
 ## 11.2	- Fri 01 Nov 24
 
 - no class meeting, Well-Being Day
 
-###### Due: Paper 2 intro and full outline, due Sun 03 Nov 2024
+###### Due Sun 03 Nov 2024: Paper 2 intro and full outline
 
 ## 12.1	- Tue 05 Nov 2024
 
@@ -220,14 +221,14 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: peer review
 	- Read (recommended): peer drafts
 
-###### Due: Paper 2 full draft, due Sun 10 Nov 2024
+###### Due Sun 10 Nov 2024: Paper 2 full draft
 
 ## 13.1	- Tue 12 Nov 2024
 
 - EP and art topic: no class meeting, student conferences
 	- Read:
 
-###### Due: Exercise 9 - Paper 2 draft conference summary, due day of conference
+###### Due day of conference: Exercise 9 - Paper 2 draft conference summary
 
 ## 13.2	- Fri 15 Nov   2024
 
@@ -235,4 +236,8 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## Reading week	- 16 Nov 2024 to 22 Nov 2024
 
-###### Due: <br><br>- Paper 2 is due Sun, 17 Nov 2024<br>- Exercise 10 - Workload report is due Mon, 18 Nov 2024<br>- Exercise 11 - Paper 2 self-evaluation is due Mon, 18 Nov 2024
+###### Due Sun, 17 Nov 2024: Paper 2
+
+###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/365289): Exercise 10 - Workload report
+
+###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/411469): Exercise 11 - Paper 2 self-evaluation
