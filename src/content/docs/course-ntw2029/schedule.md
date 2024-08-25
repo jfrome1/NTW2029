@@ -67,7 +67,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):_COR_, 6, "Engaging Sources," 85-105
 
-###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
+###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/modules/items/365289): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
 
 ## 3.1	- Tue 27 Aug 2024
 
@@ -235,4 +235,4 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## Reading week	- 16 Nov 2024 to 22 Nov 2024
 
-###### Due: <br><br>- Paper 2 is due Sun, 17 Nov 2024<br>- Exercise 9 - Paper 2 self-evaluation is due Mon, 18 Nov 2024<br>- Exercise 10 - Workload report is due Mon, 18 Nov 2024
+###### Due: <br><br>- Paper 2 is due Sun, 17 Nov 2024<br>- Exercise 10 - Workload report is due Mon, 18 Nov 2024<br>- Exercise 11 - Paper 2 self-evaluation is due Mon, 18 Nov 2024
