@@ -6,15 +6,6 @@ Here are additional resources to learn about evolution. Some provide further exp
 
 Please use the right sidebar or search bar to quickly find relevant resources. If you have any suggestions for additions to these resources, please send me a link.
 
-# misc
-
-- Why do we reproduce through sex rather than cloning or other methods? [Why Is Sex a Thing?](https://www.youtube.com/watch?v=KdceuaRZno4&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=12)
-- [Simulating Green Beard Altruism](https://www.youtube.com/watch?v=goePYJ74Ydg)
-	- *this video relates to both altruism and cooperation*
-- [Can your genes turn against you? Genetic conflict & the Parliament of genes!](https://www.youtube.com/watch?v=LtmAHmTLYy0&list=PLInNVsmlBUlQT_peuWctrmGMiLngK-6fb&index=1) (17 min)
-- [Where Did Music Come From?](https://www.youtube.com/watch?v=5_3OS0nY3WQ)
-- [Evolutionarily Stable Strategies ft. Richard Dawkins](https://www.youtube.com/watch?v=mUxt--mMjwA)
-
 ## Evolution—Is it really true?
 
 - [Evolution: It's a Thing](https://www.youtube.com/watch?v=P3GagfbA2vo)
@@ -158,13 +149,21 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [Are Humans Still Evolving?](https://www.youtube.com/watch?v=wEhOZJ55Ve8&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=4)
 - Genetic engineering: [CRISPR and the Future of Human Evolution](https://www.youtube.com/watch?v=_pGNM9CTLJg&list=PLsmqeqKj7M-pS2SyV82Y4CGyihKLCW35w&index=4)
 
-
 ## Innate (genetic) aspects of psychology
 
 - [The "False Belief" Test: Theory of Mind](https://www.youtube.com/watch?v=8hLubgpY2_w)
 - [Born good? Babies help unlock the origins of morality](https://www.youtube.com/watch?v=FRvVFW85IcU)
 
-## useful YouTube channels
+## Other
+
+- Why do we reproduce through sex rather than cloning or other methods? [Why Is Sex a Thing?](https://www.youtube.com/watch?v=KdceuaRZno4&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=12)
+- [Simulating Green Beard Altruism](https://www.youtube.com/watch?v=goePYJ74Ydg)
+	- *this video relates to both altruism and cooperation*
+- [Can your genes turn against you? Genetic conflict & the Parliament of genes!](https://www.youtube.com/watch?v=LtmAHmTLYy0&list=PLInNVsmlBUlQT_peuWctrmGMiLngK-6fb&index=1) (17 min)
+- [Where Did Music Come From?](https://www.youtube.com/watch?v=5_3OS0nY3WQ)
+- [Evolutionarily Stable Strategies ft. Richard Dawkins](https://www.youtube.com/watch?v=mUxt--mMjwA)
+
+## Useful YouTube channels
 
 - [Stated Clearly](https://www.youtube.com/user/sciencestatedclearly)
 - [Genetics & Evolution Stated Casually](https://www.youtube.com/c/StatedCasually) — more content from the "Stated Clearly" creator
@@ -175,9 +174,4 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 ## Evolution-related websites
 
 - [EvoS Journal | Welcome to the EvoS Consortium!](https://evostudies.org/evos-journal/) — produces a journal that publishes undergraduate student papers
-
-## useful Wikipedia pages
-
-Wikipedia is very useful when first learning about a new topic. I myself use Wikipedia frequently, but I know that it is not something you can cite in academic writing. This article will help you understand the strengths and weaknesses of Wikipedia: [Is Wikipedia a credible source? - Paperpile](https://paperpile.com/g/wikipedia-credible-source/)
-
 
