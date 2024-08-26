@@ -69,6 +69,13 @@ export default defineConfig({
 					'course-ntw2029/exercises/e10-workload',
                 ],
               },
+			  {
+                label: 'Resources',
+                collapsed: true,
+                items: [
+					'course-ntw2029/resources/ev-religion',
+					'course-ntw2029/resources/ev-resources',                ],
+              },
             ],
           },
         ],
