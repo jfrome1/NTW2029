@@ -73,10 +73,16 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## 3.1	- Tue 27 Aug 2024
 
-- EP and art topic: criticisms of ep
-	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](https://canvas.nus.edu.sg/users/90279/files/4640794/download?verifier=kwt63OIGGxWhNR7CBQNTUR5ZYHR42hYtqm3Tjih4&download_frd=1)
+- EP and art topic: criticisms of EP
+	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](https://canvas.nus.edu.sg/users/90279/files/4640794/download?verifier=kwt63OIGGxWhNR7CBQNTUR5ZYHR42hYtqm3Tjih4&download_frd=1), [:discussion questions](#x-goldfinch)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](https://writingproject.fas.harvard.edu/files/hwp/files/hwp_brief_guides_elements.pdf)
+
+# :x goldfinch
+
+- What is the author's attitude towards the arguments he presents? Can you tell if Goldfinch agrees with the arguments or not? How?
+- Each section of the reading contains a different argument challenging EP. Can you summarize each argument in one or two sentences?
+- Consider the EP arguments we have discussed so far in class. Are the arguments proposed in the readings effective challenges to these EP arguments?
 
 ###### Due anytime:  (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41919?module_item_id=365301)
 
@@ -111,13 +117,16 @@ Please watch the following. Remember that you can come back to these later in th
 ## 5.1	- Tue 10 Sep 2024
 
 - EP and art topic: EP and art: art and natural selection via cooperation
-	- Read: "The Evolution of Cooperation", in Boyd, Brian, _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. 51-66 (reread, with focus on 55-66) [download]https://canvas.nus.edu.sg/users/90279/files/3681671/download?verifier=pRrOsYbIkMOsTe86o6YIxRNeqNH6kaMDPw3iO9np&download_frd=1)
+	- Read:
+		- "The Evolution of Cooperation", in Boyd, Brian, _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. 51-66 (reread, with focus on 55-66) [download]https://canvas.nus.edu.sg/users/90279/files/3681671/download?verifier=pRrOsYbIkMOsTe86o6YIxRNeqNH6kaMDPw3iO9np&download_frd=1)
 - Writing topic: structuring sentences clearly, qualifying claims
-	- Read (recommended): _COR_ 17, "Revising Style: Telling Your Story Clearly"
+	- Read (recommended):
+		- _COR_ 17, "Revising Style: Telling Your Story Clearly"
+		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](https://canvas.nus.edu.sg/users/90279/files/4648470/download?verifier=hJhyqcoMP9MQ5tKxIrGIGhctqIgbnU5LWMbxOzxW&download_frd=1)
 
 ## 5.2	- Fri 13 Sep 2024
 
-- EP and art topic: catch-up class
+- EP and art topic: cooperation and storytelling, and catch-up class
 	- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](https://canvas.nus.edu.sg/users/90279/files/3681627/download?verifier=ezKObIw4jZS2sTULEZfeO1B5H9oTc9VE5RQhoFO9&download_frd=1)
 - Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
@@ -144,8 +153,6 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): Exercise 6 - Paper 1 self-evaluation
 
-###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
-
 ## 7.1	- Tue 01 Oct 2024
 
 - EP and art topic: EP and the multilevel mind
@@ -158,10 +165,13 @@ Please watch the following. Remember that you can come back to these later in th
 - EP and art topic: no new EP content after 7.1
 - Writing topic: evaluating empirical research
 	- Read (recommended):
-		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](https://canvas.nus.edu.sg/users/90279/files/4617822/download?verifier=6Avo9wkwqvmCnwtp33TSlCTgale0vn5wpqqtPUdU&download_frd=1)
-	- handout on reading empirical research articles
+		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](https://canvas.nus.edu.sg/users/90279/files/4617822/download?verifier=6Avo9wkwqvmCnwtp33TSlCTgale0vn5wpqqtPUdU&download_frd=1), [:discussion questions](#x-ahn)
+	- Handout: [How to read empirical research articles](https://canvas.nus.edu.sg/users/90279/files/4648479/download?verifier=NZhve25mgG6QKrqClAEf6O5TvxE6YZsnyOKtTrXL&download_frd=1)
 
 ###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
+
+###### Due [Sun 06 Oct Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
+
 
 ## 8.1	- Tue 08 Oct 2024
 
@@ -201,10 +211,9 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): Paper 2 proposal and draft outline
 
-## 11.1	- Tue 29 Oct 2024
+## 11.1 Tue 29 Oct 2024  — no class meeting; individual student conferences
 
-- Writing topic: peer review
-	- Read (recommended): peer drafts
+- sign up for conference times here [link to be posted]
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136398?module_item_id=411466): Exercise 8 - Paper 2 proposal conference summary
 
@@ -227,18 +236,9 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): Paper 2 full draft
 
-## 13.1	- Tue 12 Nov 2024
-
-- EP and art topic: no class meeting, student conferences
-	- Read:
+## 13.1 and 13.2 (12 Nov and 15 Nov) — no class meetings; individual student conferences
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136399?module_item_id=411467): Exercise 9 - Paper 2 draft conference summary
-
-## 13.2	- Fri 15 Nov   2024
-
-- EP and art topic: no class meeting, student conferences
-
-## Reading week	- 16 Nov 2024 to 22 Nov 2024
 
 ###### Due [Sun, 17 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136416?module_item_id=411490): Paper 2 final
 
