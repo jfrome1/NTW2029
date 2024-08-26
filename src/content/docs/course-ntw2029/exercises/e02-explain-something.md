@@ -18,7 +18,7 @@ Pick something that you know how to do but that most people in this class won't 
 
 Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-scope).
 
-Make sure that you [:think of your reader](#x-reader) while writing your explanation. After reading your explanation, your reader should be able to do the thing you describe (although not expertly).
+Make sure that you [:think of your reader](#x-reader) while writing your explanation. After reading your explanation, your reader should be able to do the thing you explain (even if at a beginner level). It's not enough if they just know _about_ the task you explain.
 
 What would an average NUSC first-year student know about your topic already? What terms or concepts would they need explained?
 
