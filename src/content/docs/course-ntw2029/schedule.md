@@ -96,7 +96,7 @@ Please watch the following. Remember that you can come back to these later in th
 	- _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
 	- _Rewriting_ 1, "Coming to Terms" [download](https://canvas.nus.edu.sg/users/90279/files/4640818/download?verifier=X2pX4zOGQ7j7hA6kdFtbo2Yp3iCzB9MLopAFbleO&download_frd=1)
 
-###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): Exercise 4 - explain Goldfinch section
+###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](exercises/e04-goldfinch.md)
 
 ## 4.1	- Tue 03 Sep 2024
 
