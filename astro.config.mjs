@@ -66,6 +66,7 @@ export default defineConfig({
 					'course-ntw2029/exercises/e01-introductions',
 	                'course-ntw2029/exercises/e02-explain-something',
 					'course-ntw2029/exercises/e03-boyd',
+					'course-ntw2029/exercises/e04-goldfinch',
 					'course-ntw2029/exercises/e10-workload',
                 ],
               },
