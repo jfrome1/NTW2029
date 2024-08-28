@@ -57,7 +57,7 @@ export default defineConfig({
 			'course-ntw2029/policies/formatting',
 			'course-ntw2029/policies/extensions',
           ],
-          },(),
+          },
           {
                 label: 'Exercises',
                 collapsed: true,
