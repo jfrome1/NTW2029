@@ -1,4 +1,5 @@
 ---
+import "astro-feedback/styles/feelback.css";
 ---
 
 <!DOCTYPE html>
@@ -19,29 +20,10 @@
     <main>
       <slot />
     </main>
-
+<p>TEST1</p>
     <!-- Your site's footer -->
     <footer>
       <p>Your Site Footer</p>
     </footer>
-
-    <!-- Tracking script -->
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        // Select all links with the class 'nutshell-expandable-text'
-        const nutshellLinks = document.querySelectorAll('a.nutshell-expandable-text');
-
-        // Add click event listener to each link
-        nutshellLinks.forEach(link => {
-          link.addEventListener('click', function(event) {
-            // Send custom event to Umami
-            umami.trackEvent('Nutshell Link Click', 'Nutshell Links', {
-              url: link.href,
-              text: link.textContent
-            });
-          });
-        });
-      });
-    </script>
   </body>
 </html>
