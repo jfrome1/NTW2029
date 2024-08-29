@@ -14,7 +14,7 @@ Canvas discussions hides replies by default. It's important that you see the rep
 
 # :x threads
 
-![expand threads](/public/images/expand-threads.png)
+![expand threads](/images/expand-threads.png)
 
 ## Microsoft Teams
 
