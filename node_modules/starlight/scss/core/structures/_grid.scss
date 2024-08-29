@@ -1,0 +1,87 @@
+////
+/// Grid
+/// @group core-structures
+/// @author Benjamin Fleming
+////
+
+
+// Settings
+// --------
+
+/// Controls whether styles in this file (grid) are generated.
+/// @type Boolean
+$sl-generate-grid: $sl-generate !default;
+
+/// Number of grid options for cells in a row at maximum width
+/// @type Number
+$sl-grids: 8 !default;
+
+/// How much can the cells contract before wrapping
+/// @type Number
+$sl-grid-cell-contract: 0% !default;
+
+/// The grid module selector
+/// @type String
+$sl-grid-selector: sl-module('grid') !default;
+
+/// The grid cell module selector
+/// @type String
+$sl-grid-cell-selector: sl-module('cell') !default;
+
+
+// Asserts
+// -------
+
+@include sl-assert($sl-generate-grid, 'bool');
+@include sl-assert($sl-grids, 'number');
+@include sl-assert($sl-grid-cell-contract, 'number');
+@include sl-assert($sl-grid-selector, 'string');
+@include sl-assert($sl-grid-cell-selector, 'string');
+
+
+// Styles
+// ------
+
+@if $sl-generate-grid {
+
+	#{$sl-grid-selector} {
+		@extend %sl-structure;
+
+		> #{$sl-grid-cell-selector} {
+			width: 100%;
+		}
+
+		$max-width: sl-convert($sl-max-width, px);
+		$contract: sl-convert($sl-grid-cell-contract, 'decimal') * $max-width;
+
+		@for $i from 2 through $sl-grids {
+
+			@include sl-parameter('has-' + $i) {
+
+				> #{$sl-grid-cell-selector} {
+					width: (100% / $i);
+				}
+			}
+
+			$root-cell-width: ($max-width / $i);
+
+			@for $j from ($i - 1) through 1 {
+				$cell-width: (100% / $j);
+				$breakpoint: $root-cell-width * ($j + 1) - $contract;
+
+				@if $breakpoint > 0 {
+
+					@include sl-until($breakpoint) {
+
+						@include sl-parameter('has-' + $i) {
+
+							> #{$sl-grid-cell-selector} {
+								width: $cell-width;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,63 @@
+////
+/// Container
+/// @group core-structures
+/// @author Benjamin Fleming
+////
+
+
+// Settings
+// --------
+
+/// Controls whether styles in this file (container) are generated.
+/// @type Boolean
+$sl-generate-container: $sl-generate !default;
+
+/// The container module selector
+/// @type String
+$sl-container-selector: sl-module('container') !default;
+
+
+// Asserts
+// -------
+
+@include sl-assert($sl-generate-container, 'bool');
+@include sl-assert($sl-container-selector, 'string');
+
+
+// Styles
+// ------
+
+@if $sl-generate-container {
+
+	#{$sl-container-selector} {
+		max-width: $sl-max-width;
+		margin-left: auto;
+		margin-right: auto;
+
+		@each $division-name, $division-value in $sl-divisions {
+
+			@include sl-parameter('width-' + $division-name) {
+				max-width: sl-convert($division-value, 'decimal') * $sl-max-width;
+			}
+		}
+
+		@include sl-parameter('width-fill') {
+			max-width: none;
+		}
+
+		@include sl-parameter('align-left') {
+			margin-left: 0;
+			margin-right: auto;
+		}
+
+		@include sl-parameter('align-right') {
+			margin-left: auto;
+			margin-right: 0;
+		}
+
+		@include sl-parameter('align-center') {
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+}

@@ -1,0 +1,220 @@
+////
+/// Framework
+/// @group core-utilities
+/// @author Benjamin Fleming
+////
+
+
+// Mixins
+// ------
+
+/// A mixin wrapper for the sl-selector function.
+/// @require {function} sl-selector
+/// @param {String | List} $type - If a string, the prefix is retrieved from the `$sl-prefixes` map. If a list (of size
+///   2), the first value is treated as a selector string, and the second prefix type. This allows prefixing entire
+///   selectors.
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the selector
+/// @output The selector and the passed styles
+@mixin sl-selector($type, $names...) {
+	#{sl-selector($type, $names)} {
+		@content;
+	}
+}
+
+/// An alias for passing 'module' as the type to the sl-selector mixin.
+/// @require {function} sl-selector
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the module selector
+/// @output The module selector and the passed styles
+@mixin sl-module($names...) {
+	#{sl-selector('module', $names)} {
+		@content;
+	}
+}
+
+/// An alias for passing 'utility' as the type to the sl-selector mixin.
+/// @require {function} sl-selector
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the utility selector
+/// @output The utility selector and the passed styles
+@mixin sl-utility($names...) {
+	#{sl-selector('utility', $names)} {
+		@content;
+	}
+}
+
+/// An alias for passing 'parameter' as the type to the sl-selector mixin.
+/// @require {function} sl-selector
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the parameter selector
+/// @output The parameter selector and the passed styles
+@mixin sl-parameter($names...) {
+	#{sl-selector('&' 'parameter', $names)} {
+		@content;
+	}
+}
+
+/// An alias for passing 'state' as the type to the sl-selector mixin.
+/// @require {function} sl-selector
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the state selector
+/// @output The state selector and the passed styles
+@mixin sl-state($names...) {
+	#{sl-selector('&' 'state', $names)} {
+		@content;
+	}
+}
+
+/// An alias for passing 'feature' as the type to the sl-selector mixin.
+/// @require {function} sl-selector
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the feature selector
+/// @output The feature selector and the passed styles
+@mixin sl-feature($names...) {
+	#{sl-selector('&' 'feature', $names)} {
+		@content;
+	}
+}
+
+/// An alias for passing 'featureless' as the type to the sl-selector mixin.
+/// @require {function} sl-selector
+/// @param {List} $names - Each name passed is prefixed and separated by a comma. If a name is also a list, each item of
+///   that is prefixed and joined together.
+/// @content Styles for the featureless selector
+/// @output The featureless selector and the passed styles
+@mixin sl-featureless($names...) {
+	#{sl-selector('&' 'featureless', $names)} {
+		@content;
+	}
+}
+
+/// Shorthand for selecting a prefix value of an attribute. Typically used to select class prefixes. It is important to
+/// note that the prefix itself will be targeted.
+/// @param {String | List} $attribute - The attribute to select the prefix on. If a list is provided, the first item in
+///   the list is treated as the selector prefix, while the second is then assigned as the attribute.
+/// @param {String} $prefix - The prefix to select.
+/// @param {Boolean} $multivalue [true] - If the attribute can contain multiple space-separated values, such as the
+///   class attribute. As an example, this setting can be disabled when selecting on the ID attribute, as that can only
+///   contain one value.
+/// @param {String} $selector [null] - The prefix to the selector. This is so you can change how it's targeted, such as
+///   a child (>), sibling (+) or anything else. This setting overrides the attribute parameter, if that parameter is
+///   passed as a list.
+/// @content Styles for the prefix selector
+/// @output The prefix selector and the passed styles
+@mixin sl-selector-prefix($attribute, $prefix, $multivalue: true, $selector: null) {
+
+	@if length($attribute) > 1 {
+		$selector: if($selector == null, nth($attribute, 1), $selector);
+		$attribute: nth($attribute, 2);
+	}
+
+	$selector: unquote(if($selector == null, '', $selector));
+	$attribute: unquote($attribute);
+	$prefix: unquote($prefix);
+
+	@if $multivalue {
+
+		#{$selector}[#{$attribute}^='#{$prefix}'],
+		#{$selector}[#{$attribute}*=' #{$prefix}'] {
+			@content;
+		}
+
+	} @else {
+
+		#{$selector}[#{$attribute}^='#{$prefix}'] {
+			@content;
+		}
+	}
+}
+
+/// Shorthand for selecting a suffix value of an attribute. Typically used to select class suffixes. It is important to
+/// note that the suffix itself will be targeted.
+/// @param {String | List} $attribute - The attribute to select the suffix on. If a list is provided, the first item in
+///   the list is treated as the selector prefix, while the second is then assigned as the attribute.
+/// @param {String} $suffix - The suffix to select.
+/// @param {Boolean} $multivalue [true] - If the attribute can contain multiple space-separated values, such as the
+///   class attribute. As an example, this setting can be disabled when selecting on the ID attribute, as that can only
+///   contain one value.
+/// @param {String} $selector [null] - The prefix to the selector. This is so you can change how it's targeted, such as
+///   a child (>), sibling (+) or anything else. This setting overrides the attribute parameter, if that parameter is
+///   passed as a list.
+/// @content Styles for the suffix selector
+/// @output The suffix selector and the passed styles
+@mixin sl-selector-suffix($attribute, $suffix, $multivalue: true, $selector: null) {
+
+	@if length($attribute) > 1 {
+		$selector: if($selector == null, nth($attribute, 1), $selector);
+		$attribute: nth($attribute, 2);
+	}
+
+	$selector: unquote(if($selector == null, '', $selector));
+	$attribute: unquote($attribute);
+	$suffix: unquote($suffix);
+
+	@if $multivalue {
+
+		#{$selector}[#{$attribute}$='#{$suffix}'],
+		#{$selector}[#{$attribute}*='#{$suffix} '] {
+			@content;
+		}
+
+	} @else {
+
+		#{$selector}[#{$attribute}$='#{$suffix}'] {
+			@content;
+		}
+	}
+}
+
+/// Extends tags onto a selector.
+/// @param {String | List} $tags - A tag or list of tags to extend.
+/// @content Styles for the extended selector
+/// @output The extended selector and the passed styles
+@mixin sl-extend-tags($tags...) {
+
+	// Selector manipulation functions are only available in the Ruby implementation of Sass version >= 3.4
+	// Since this framework intends to support libsass version >= 3.2, a workaround has been discovered and utilised
+	// for this particular use-case.
+
+	// Old code is kept below for future use (when libsass supports selector functions). An option would be to check
+	// for the existence of the unify function using the function-exists method. Unfortunately the contents of the
+	// directive is always checked for errors, and it will throw an "invalid selector after &" error no matter what.
+
+	// $selector: selector-unify(&, $tags);
+	//
+	// @if $selector != null {
+	//
+	//     @at-root #{$selector} {
+	//         @content;
+	//     }
+	// }
+
+	// Workaround uses a temporary placeholder selector that is injected into the document root then extended.
+	// Since selector extensions use many of these selector manipulation functions under the hood, we can take
+	// advantage of the extend directive to emulate them.
+	// Since this mixin can potentially be used more than once, the placeholder selector needs to be unique for each
+	// use.
+
+	$tags: sl-flatten($tags);
+	$placeholder: '%sl-' + unique-id();
+	$selector: '';
+	$sep: '';
+
+	@each $tag in $tags {
+		$selector: $selector + $sep + $tag + $placeholder;
+		$sep: ',';
+	}
+
+	@at-root #{unquote($selector)} {
+		@content;
+	}
+
+	@extend #{unquote($placeholder)} !optional;
+}
