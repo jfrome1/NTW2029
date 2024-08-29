@@ -15,6 +15,7 @@ This assignment relates to the latter idea and will give you practice thinking a
 Pick something that you know how to do but that most people in this class won't know how to do. It should be something that you took lessons for, or had to be explicitly taught, or had to teach yourself using a tutorial or instruction manual. Due to the word limit, pick something small within your larger area of expertise. For example, "how to dance" is too broad, but "how to do the dance move called 'flossing'" might work.
 
 <!-- next time, add something like: don't just say what to do, but explain how to do it if it is something difficult. and don't pick something that is easy to describe but hard to do, like playing an instrument "to play piano, hit the keys in the right order with the right timing and rhythm" -->
+<!-- add requirement to have a title that makes clear what they are going to explain -->
 
 Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-scope).
 
