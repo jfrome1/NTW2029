@@ -1,5 +1,5 @@
 # Node modules
-node_modules/
+# node_modules/
 
 # Frome work files
 drafts/
@@ -76,7 +76,7 @@ Thumbs.db
 .svelte-kit
 
 # Astro build output
-.astro/
+# .astro/
 
 # Temporary files
 tmp/

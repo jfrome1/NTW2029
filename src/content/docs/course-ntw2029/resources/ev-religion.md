@@ -10,7 +10,7 @@ Some people believe that acceptance of Darwin's theory of evolution requires rej
 
 As discussed in class, the best way to know whether someone rejects evolution is not by knowing whether the person believes in God, as many people believe in both God and evolution, but knowing their stance about the age of the Earth.
 
-The two views about the age of the Earth are that it is less than 10,000 years old and that it is around 4.5 Billion years old. The "young-Earth" view is held primarily by [:Biblical literalists](https://en.wikipedia.org/wiki/Biblical_literalism), have gone through the births and deaths of people named in the Bible and added them up to determine the age of the Earth. This position is sometimes called [:Young Earth creationism](https://en.wikipedia.org/wiki/Young_Earth_creationism).
+The two views about the age of the Earth are that it is less than 10,000 years old and that it is around 4.5 Billion years old. The "young-Earth" view is held primarily by [:Biblical literalists](https://en.wikipedia.org/wiki/Biblical_literalism), who have gone through the Bible, noted the births and deaths of people named there, and added up their ages to determine the age of the Earth. The position that the Earth is less than 10,000 years old is sometimes called [:Young Earth creationism](https://en.wikipedia.org/wiki/Young_Earth_creationism).
 
 Others think the Earth is billions of years old based on [:scientific evidence](#x-scientific).
 
