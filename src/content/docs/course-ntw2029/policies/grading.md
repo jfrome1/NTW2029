@@ -17,7 +17,8 @@ Your class participation grade is based on how seriously I think you are engaged
 - timely attendance
 - [:engagement during class](#x-engagement)
 - engagement and [:communication](#x-communication) outside of class
-- [:class preparation](#x-preparation)
+- [:preparation for class meetings](#x-class-preparation)
+- [:preparation for course](#x-course-preparation)
 - active contribution towards [:your individual learning](#x-individual)
 - providing course feedback
 
@@ -39,9 +40,16 @@ Good communication means you:
 - communicate with me in advance about any issues with attendance or assignment completion
 - take initiative to ask for help with any potential problems
 
-# :x preparation
+# :x class preparation
 
 Good class preparation means you come to class with all needed materials, honestly engage with the reading, and come to class with questions and/or ideas.
+
+# :x course preparation
+
+Preparing for the course has two parts:
+
+1. reading the course website carefully, including the info, policies, all assignments, and resource
+2. setting up the apps and notifications as described on the [technology guidelines](policies/tech-guidelines) page.
 
 # :x individual
 

@@ -9,29 +9,13 @@ Include the following information on all exercises (except Exercise 1):
 - at the top: the name I call you in class and your section (E1 or E2)
 - at the bottom: a word count and a GenAI no-use statement (if you didn't use GenAI)
 
-If you did use GenAI, attach your chat transcript as a separate file as described [here](course-ntw2029/policies/gen-ai-policy).
+If you did use GenAI, include the link to your chat transcript at the end of the exercise as described [here](../policies/gen-ai-policy/).
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
 # :x no links
 
 ![avoid links](/images/link-to-file.png)
-
-# GenAI chats
-
-- Transcripts should be in plain text files, in the following format:
-
-```
-# Title of the chat
-
-## You
-This is where your prompt is shown.
-
-## ChatGPT
-This is where the GenAI output is shown.
-```
-
-The file should be single-spaced.
 
 ## Papers
 
@@ -47,7 +31,8 @@ The file should be single-spaced.
 - The [:paper title](#x-temp) should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined
 - Don't [:skip an extra line](#x-extra-line) between paragraphs.
 - Do not use a cover page. Instead, provide the following information at the top left-hand corner of the first page (not in the header)
-```
+
+```text
 Your Name
 Prof. Frome - NTW2029
 Assignment Name (e.g. Paper 1 draft)

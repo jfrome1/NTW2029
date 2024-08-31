@@ -11,7 +11,7 @@ date: 2024-08-16
 - Write with a focus on simple language and do NOT try to impress me or your classmates with your big vocabulary. It often backfires and goes against the main purpose of academic writing, which is communicating your ideas clearly.
 - Don't cite sources or use quotes in the exercises unless I specifically tell you to.
 - Don't do any outside research for the exercises. The exercises are ways to encourage your thinking, they are not research exercises where you are supposed to get ideas from other people or sources.
-- Do not write introductions or conclusions for the exercises. Get right to the point.
+- Don't include introductions or conclusions for the exercises. Get right to the point.
 
 # :x grammar
 
@@ -30,9 +30,10 @@ By "formal style" I don't mean bureaucratic or pretentious; I just mean write it
 
 - Exercises are always due at 11:59pm. Proper sleep is important for health (both physical and mental) and I do not want you staying up late to finish.
 - You may resubmit exercises until the deadline if needed (for example, if you are reading over your submission and see an embarrassing typo).
+- Your exercises must follow [:formatting guidelines](../policies/formatting/#exercises) to receive credit
 
 # Comments
 
 - I read all assignments thoroughly, whether or not I write a lot of comments.
 - I will write comments on your first exercise submitted through Canvas. Let me know if you don't see the comments so we can troubleshoot.
-- I can't always provide substantial written feedback on exercises because it is so time-consuming to produce.You are always welcome to ask for additional feedback by scheduling a meeting with me.
+- I can't always provide substantial written feedback on exercises because it is so time-consuming to produce. You are always welcome to ask for additional feedback by scheduling a meeting with me.
