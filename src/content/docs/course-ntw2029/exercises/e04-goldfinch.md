@@ -12,7 +12,7 @@ Group A: summarize section 2.7.4 (pp. 64-68)
 
 Group B: summarize section 2.7.5 (pp. 68-71)
 
-Please review exercise guidelines, follow GenAI policy, and submit an updated workload report.
+Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. Citations are not necessary for this exercise.
 
 # :x summary
 
