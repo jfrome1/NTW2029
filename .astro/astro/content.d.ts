@@ -284,6 +284,20 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"course-ntw2029/writing/citations.md": {
+	id: "course-ntw2029/writing/citations.md";
+  slug: "course-ntw2029/writing/citations";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/writing/software.md": {
+	id: "course-ntw2029/writing/software.md";
+  slug: "course-ntw2029/writing/software";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "hidden/assignment guidelines.md": {
 	id: "hidden/assignment guidelines.md";
   slug: "hidden/assignment-guidelines";

@@ -12,90 +12,100 @@ export default defineConfig({
   // base: '/ntw2029/',
   output: 'server',
   adapter: vercel({
-    webAnalytics: { enabled: true }
+	webAnalytics: { enabled: true }
   }),
-  integrations: [
-      starlight({
-        plugins: [
-          // starlightLinksValidator(),
-          starlightUtils({
-            multiSidebar: {
-              switcherStyle: "horizontalList",
-            },
-          }),
-        ],
-        title: 'NTW2029 - Home',
-        customCss: [
-          './src/styles/custom.css'
-        ],
-        sidebar: [
-          {
-            label: 'Course',
-            items: [
-        {
-          link: 'course-ntw2029/schedule',
-          label: 'Course schedule',
-          },
-              {
-                label: 'General info',
-                collapsed: true,
-                items: [
-                  'course-ntw2029/general-info/instructor',
-                  'course-ntw2029/general-info/need-help',
-                  'course-ntw2029/general-info/readings',
-				  'course-ntw2029/general-info/conferences',
-                ],
-              },
-              {
-          label: 'Policies',
-          collapsed: true,
-          items: [
-            'course-ntw2029/policies/gen-ai-policy',
-            'course-ntw2029/policies/tech-guidelines',
-			'course-ntw2029/policies/policies',
-			'course-ntw2029/policies/grading',
-			'course-ntw2029/policies/formatting',
-			'course-ntw2029/policies/extensions',
-          ],
-          },
-          {
-                label: 'Exercises',
-                collapsed: true,
-                items: [
-					'course-ntw2029/exercises/guidelines',
-					'course-ntw2029/exercises/e01-introductions',
-	                'course-ntw2029/exercises/e02-explain-something',
-					'course-ntw2029/exercises/e03-boyd',
-					'course-ntw2029/exercises/e04-goldfinch',
-					'course-ntw2029/exercises/e10-workload',
-                ],
-              },
-			  {
-                label: 'Resources',
-                collapsed: true,
-                items: [
+integrations: [
+	starlight({
+		plugins: [
+		// starlightLinksValidator(),
+		starlightUtils({
+			multiSidebar: {
+			switcherStyle: "horizontalList",
+				},
+			}),
+		],
+		title: 'NTW2029 - Home',
+		customCss: [
+		'./src/styles/custom.css'
+		],
+		sidebar: [
+		{
+			label: 'Course',
+			items: [
+			{
+			link: 'course-ntw2029/schedule',
+			label: 'Course schedule',
+			},
+			{
+			label: 'General info',
+			collapsed: true,
+			items: [
+				'course-ntw2029/general-info/instructor',
+				'course-ntw2029/general-info/need-help',
+				'course-ntw2029/general-info/readings',
+				'course-ntw2029/general-info/conferences',
+				],
+			},
+			{
+			label: 'Policies',
+			collapsed: true,
+			items: [
+				'course-ntw2029/policies/gen-ai-policy',
+				'course-ntw2029/policies/tech-guidelines',
+				'course-ntw2029/policies/policies',
+				'course-ntw2029/policies/grading',
+				'course-ntw2029/policies/formatting',
+				'course-ntw2029/policies/extensions',
+				],
+			},
+			{
+			label: 'Exercises',
+			collapsed: true,
+			items: [
+				'course-ntw2029/exercises/guidelines',
+				'course-ntw2029/exercises/e01-introductions',
+				'course-ntw2029/exercises/e02-explain-something',
+				'course-ntw2029/exercises/e03-boyd',
+				'course-ntw2029/exercises/e04-goldfinch',
+				'course-ntw2029/exercises/e10-workload',
+				],
+			},
+			{
+				label: 'Resources',
+				collapsed: true,
+				items: [
 					'course-ntw2029/resources/ev-religion',
-					'course-ntw2029/resources/ev-resources',                ],
-              },
-            ],
-          },
-        ],
-      head: [
-      {
-        tag: 'script',
-        attrs: {
-        src: '/js/nutshell.js',
-        defer: true,
-        }
-      },
-      {
-        tag: 'script',
-        attrs: {
-        src: '/nutshell-config.js',
-        defer: true,
-        }
-      },
-	  {
+					'course-ntw2029/resources/ev-resources',
+				],
+			},
+			{
+				label: 'Writing',
+				collapsed: true,
+				items: [
+					'course-ntw2029/writing/citations',
+					'course-ntw2029/writing/software',
+				],
+			},
+
+			],
+		},
+	],
+	head: [
+		{
+		tag: 'script',
+		attrs: {
+		src: '/js/nutshell.js',
+		defer: true,
+		}
+		},
+		{
+		tag: 'script',
+		attrs: {
+		src: '/nutshell-config.js',
+		defer: true,
+		}
+		},
+		{
 		tag: 'script',
 		attrs: {
 			src: 'https://cloud.umami.is/script.js',
@@ -103,21 +113,21 @@ export default defineConfig({
 			defer: true,
 			},
 		},
-      ],
+	],
 	}),
   ],
   markdown: {
-      remarkPlugins: [
-              [remarkExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
-      ],
-	  rehypePlugins: [
+	remarkPlugins: [
+			[remarkExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
+	],
+	rehypePlugins: [
 		[
-		  rehypeExternalLinks,
-		  {
+		rehypeExternalLinks,
+		{
 			content: { type: 'text', value: ' 🡕' }
-		  }
+		}
 		],
-	  ],
-    },
+	],
+	},
 },
 );

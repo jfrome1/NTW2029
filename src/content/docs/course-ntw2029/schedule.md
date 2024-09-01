@@ -101,9 +101,15 @@ Please watch the following. Remember that you can come back to these later in th
 ## 4.1	- Tue 03 Sep 2024
 
 - EP and art topic: EP and art: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 [download](https://canvas.nus.edu.sg/users/90279/files/3681842/download?verifier=YjBXmoP0at9tRUwMJHhJg3JQMDEx6afsGLXGJglI&download_frd=1)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 [download](https://canvas.nus.edu.sg/users/90279/files/3681842/download?verifier=YjBXmoP0at9tRUwMJHhJg3JQMDEx6afsGLXGJglI&download_frd=1), [:discussion questions](#x-pinker)
 - Writing topic: quotation, citation
 	- Read (recommended): _TSIS_ 3 "As He Himself Puts It - The Art of Quoting", 42-51
+
+# :x pinker
+
+- Pinker discusses several topics that are not needed to answer the main question posed by this chapter, even though they are topically related to that question. What is the main question that Pinker aims to answer in this chapter?
+- Is Pinker aiming to explain one phenomenon or many sub-phenomena? What is the basis for your answer?
+- How are the sections on individual art forms related to Pinker's main question and to each other?
 
 ## 4.2	- Fri 06 Sep 2024
 
