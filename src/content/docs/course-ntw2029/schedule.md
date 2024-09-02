@@ -63,7 +63,7 @@ Please watch the following. Remember that you can come back to these later in th
 		- watch 2 videos on cooperation
 			- [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
 			- [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
-		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. [download](../../../../public/downloads/boydOriginStoriesEvolution2009-51-66.pdf)
+		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. [download](../../../public/downloads/boydOriginStoriesEvolution2009-51-66.pdf)
 		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. [download](https://canvas.nus.edu.sg/users/90279/files/3681671/download?verifier=pRrOsYbIkMOsTe86o6YIxRNeqNH6kaMDPw3iO9np&download_frd=1)
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):_COR_, 6, "Engaging Sources," 85-105
