@@ -26,7 +26,7 @@ Citations give fair credit to the original source of ideas being discussed, and 
 
 - In this course, citations are required for all assignments unless stated otherwise.
 - Provide citations to the original source every time [:you use others' ideas](#x-others-ideas).
-- Most plagiarism is [:unintentional]; but failure to cite can have serious consequences, including failing the assignment or course.
+- Most plagiarism is [:unintentional](#x-unintentional); but failure to cite can have serious consequences, including failing the assignment or course.
 - Two exceptions to citation: [:common knowledge](#x-common) and [:information from class](#x-class)
 
 # :x common
