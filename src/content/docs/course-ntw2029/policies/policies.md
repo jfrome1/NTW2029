@@ -13,7 +13,7 @@ date: 2024-08-16
 - If you miss class, get notes from a classmate and then contact me if you still have specific questions.
 - If you cannot attend class due to illness, you may ask a friend to help you call in on video chat to hear the lecture.
 
-# :X on time
+# :x on time
 
 If you are coming from another class that is far away, and have trouble making our class on time for that reason, please discuss it with me.
 

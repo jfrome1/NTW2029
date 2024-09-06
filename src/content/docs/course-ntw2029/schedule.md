@@ -13,7 +13,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: origins of evolutionary thought
 - Writing topic: university academic writing
 
-###### Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](exercises/e01-introductions/)
+###### Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](assignments/e01-introductions)
 
 ## 1.2	- Fri 16 Aug 2024
 
@@ -26,7 +26,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- _TSIS_ Introduction - "Entering the Conversation", 1-15
 		- _TSIS_ 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 
-###### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](exercises/e02-explain-something/)
+###### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](assignments/e02-explain-something)
 
 # :x videos
 
@@ -69,7 +69,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Class media:
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://canvas.nus.edu.sg/users/90279/files/3681677/download?verifier=VePnp5Fwb3QwXRGfevo40g7hWSoEANz1u0SPBo8H&download_frd=1)
 
-###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
+###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](assignments/e03-boyd)
 
 ## 3.1	- Tue 27 Aug 2024
 
@@ -96,14 +96,17 @@ Please watch the following. Remember that you can come back to these later in th
 	- _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
 	- _Rewriting_ 1, "Coming to Terms" [download](https://canvas.nus.edu.sg/users/90279/files/4640818/download?verifier=X2pX4zOGQ7j7hA6kdFtbo2Yp3iCzB9MLopAFbleO&download_frd=1)
 
-###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](exercises/e04-goldfinch.md)
+###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](assignments/e04-goldfinch.md)
 
 ## 4.1	- Tue 03 Sep 2024
 
 - EP and art topic: EP and art: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 [download](https://canvas.nus.edu.sg/users/90279/files/3681842/download?verifier=YjBXmoP0at9tRUwMJHhJg3JQMDEx6afsGLXGJglI&download_frd=1), [:discussion questions](#x-pinker)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](https://canvas.nus.edu.sg/users/90279/files/3681842/download?verifier=YjBXmoP0at9tRUwMJHhJg3JQMDEx6afsGLXGJglI&download_frd=1), [:discussion questions](#x-pinker)
 - Writing topic: quotation, citation
 	- Read (recommended): _TSIS_ 3 "As He Himself Puts It - The Art of Quoting", 42-51
+- Class media: <!--Class media: -->
+	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
+	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
 
 # :x pinker
 
@@ -114,11 +117,17 @@ Please watch the following. Remember that you can come back to these later in th
 ## 4.2	- Fri 06 Sep 2024
 
 - EP and art topic: EP and art: art and sexual selection
-	- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](https://canvas.nus.edu.sg/users/90279/files/3681674/download?verifier=sGqFplFszpOq1vTcQWh4QzX0O7rGbcIXeLAEZa1i&download_frd=1)
+	- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](https://canvas.nus.edu.sg/users/90279/files/3681674/download?verifier=sGqFplFszpOq1vTcQWh4QzX0O7rGbcIXeLAEZa1i&download_frd=1), [:discussion questions](#x-dutton)
 - Writing topic: outlining, paragraph structure
 	- Read (recommended):
 
-###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): Paper 1 proposal (optional, submit if you want feedback)
+# :x dutton
+
+- On p. 139, there is a sentence beginning "It is human intelligence..." that contains the word "art". Which of the two senses of "art" is Dutton using here?
+- How many sections are in this article? Can you summarize the main point of each section?
+- What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
+
+###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/p1outline.md)
 
 ## 5.1	- Tue 10 Sep 2024
 
