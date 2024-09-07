@@ -1,5 +1,5 @@
 # Node modules
-node_modules/
+**/node_modules
 
 # Frome work files
 drafts/
@@ -83,3 +83,4 @@ tmp/
 temp/
 C:\Users\frome\Dropbox\JD\90-99 teaching courses\96 websites\96.01 website for NTW2029\JF-astro.code-workspace
 /JF-astro.code-workspace
+.vercel
