@@ -3,9 +3,8 @@ import FeelbackMessage from "astro-feelback/components/FeelbackMessage.astro";
 import "astro-feelback/styles/feelback.css";
 ---
 <FeelbackMessage 
-contentSetId="a0d75f8f-e94b-4e67-ab72-8c595f37b914"
+contentSetId="fa082a37-0dbe-49fd-90d2-9b52e6628949"
 textAnswer="Thanks for your feedback"
-withEmail
 placeholder="Type your message"
 />
 
@@ -31,11 +30,12 @@ placeholder="Type your message"
 <style is:global>
         .feelback-container {
         margin: 2rem auto 3rem;
-        --max-width: 400px !important;
+        max-width: 400px !important;
     }
 
     .feelback-container [data-feelback-type="button-group"] .feelback-btn {
         border-radius: 100%;
+        margin: 0!important;
     }
 
     .feelback-container
