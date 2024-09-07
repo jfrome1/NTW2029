@@ -5,7 +5,7 @@ date: 2024-08-16
 
 ---
 
-I'll have at least three  individual with each student this semester. Conferences in this course are usually conducted via Zoom at this link: <https://nus-sg.zoom.us/j/2503945161>. If you have difficulties joining, email me to let me know what's going on.
+I'll have at least three individual conferences with each student this semester. Conferences in this course are usually conducted via Zoom at this link: <https://nus-sg.zoom.us/j/2503945161>. If you have difficulties joining, email me to let me know what's going on.
 
 Please follow these guidelines to avoid distractions during the conference:
 
