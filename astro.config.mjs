@@ -15,11 +15,11 @@ export default defineConfig({
       plugins: [
         // starlightLinksValidator(),
         starlightNutshell(),
-        starlightUtils({
-          multiSidebar: {
-            switcherStyle: "horizontalList",
-          },
-        }),
+        // starlightUtils({
+        //   multiSidebar: {
+        //     switcherStyle: "dropdown",
+        //   },
+        // }),
       ],
       title: "NTW2029 - Home",
       components: {
@@ -30,49 +30,46 @@ export default defineConfig({
       customCss: ["./src/styles/custom.css"],
       sidebar: [
         {
-          label: "Course",
+          link: "course-ntw2029/schedule",
+          label: "Course schedule",
+        },
+        {
+          label: "Course information",
+          collapsed: true,
+          items: [
+            "course-ntw2029/course-info/start-here",
+            "course-ntw2029/course-info/instructor",
+            "course-ntw2029/course-info/need-help",
+            "course-ntw2029/course-info/readings",
+            "course-ntw2029/course-info/conferences",
+            "course-ntw2029/course-info/gen-ai-policy",
+            "course-ntw2029/course-info/tech-guidelines",
+            "course-ntw2029/course-info/policies",
+            "course-ntw2029/course-info/grading",
+            "course-ntw2029/course-info/extensions",
+          ],
+        },
+        {
+          label: "Assignments",
+          collapsed: true,
+          items: [
+            "course-ntw2029/assignments/ex-guidelines",
+            "course-ntw2029/assignments/formatting",
+            "course-ntw2029/assignments/e01-introductions",
+            "course-ntw2029/assignments/e02-explain-something",
+            "course-ntw2029/assignments/e03-boyd",
+            "course-ntw2029/assignments/e04-goldfinch",
+            "course-ntw2029/assignments/p1",
+            "course-ntw2029/assignments/p1outline",
+            "course-ntw2029/assignments/e10-workload",
+          ],
+        },
+        {
+          label: "Resources",
           items: [
             {
-              link: "course-ntw2029/schedule",
-              label: "Course schedule",
-            },
-            {
-              label: "Course information",
-              collapsed: true,
-              items: [
-                "course-ntw2029/course-info/start-here",
-				"course-ntw2029/course-info/instructor",
-                "course-ntw2029/course-info/need-help",
-                "course-ntw2029/course-info/readings",
-                "course-ntw2029/course-info/conferences",
-				"course-ntw2029/course-info/gen-ai-policy",
-                "course-ntw2029/course-info/tech-guidelines",
-                "course-ntw2029/course-info/policies",
-                "course-ntw2029/course-info/grading",
-                "course-ntw2029/course-info/extensions",
-              ],
-            },
-            {
-              label: "Assignments",
-              collapsed: true,
-              items: [
-                "course-ntw2029/assignments/ex-guidelines",
-                "course-ntw2029/assignments/formatting",
-                "course-ntw2029/assignments/e01-introductions",
-                "course-ntw2029/assignments/e02-explain-something",
-                "course-ntw2029/assignments/e03-boyd",
-                "course-ntw2029/assignments/e04-goldfinch",
-                "course-ntw2029/assignments/p1",
-                "course-ntw2029/assignments/p1outline",
-                "course-ntw2029/assignments/e10-workload",
-              ],
-            },
-		],
-		label: "Resources",
-		items: [
-            {
               label: "Evolution",
-			  collapsed: true,
+              collapsed: true,
               items: [
                 "course-ntw2029/resources/evolution/ev-religion",
                 "course-ntw2029/resources/evolution/ev-resources",
