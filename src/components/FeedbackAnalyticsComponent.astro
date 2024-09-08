@@ -1,0 +1,167 @@
+---
+import FeelbackMessage from "astro-feelback/components/FeelbackMessage.astro";
+import "astro-feelback/styles/feelback.css";
+---
+
+<FeelbackMessage
+  contentSetId="6a7c8169-29bb-4bec-9d4b-8ce99d2ba99f"
+  textAnswer="Thanks for your feedback"
+  placeholder="Type your message"
+/>
+
+<script>
+  declare global {
+    interface Window {
+      umami: any;
+    }
+  }
+  window.addEventListener("load", function() {
+    let readEventTriggered = false;
+
+    function handleNutshellClick(event: Event) {
+        const link = event.currentTarget as HTMLAnchorElement;
+        const currentMode = link.getAttribute("mode");
+        
+        if (currentMode === "open") {
+          window.umami.track("openNutshell", { page: document.title, text: link.textContent });
+            
+            // Store the opening time
+            link.setAttribute("data-open-time", Date.now().toString());
+            
+            const observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    if (mutation.type === 'childList') {
+                        mutation.addedNodes.forEach((node) => {
+                            if (node instanceof HTMLElement) {
+                                const newSubLinks = node.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
+                                newSubLinks.forEach(addNutshellListener);
+                            }
+                        });
+                    }
+                });
+            });
+
+            observer.observe(link, { childList: true, subtree: true });
+
+            setTimeout(() => observer.disconnect(), 1000);
+        } else if (currentMode === "closed") {
+          const openTime = parseInt(link.getAttribute("data-open-time") || "0");
+          const duration = Date.now() - openTime;
+            window.umami.track("closeNutshell", { 
+                page: document.title, 
+                text: link.textContent,
+                duration: duration 
+            });
+            link.removeAttribute("data-open-time");
+        }
+    }
+
+    function addNutshellListener(link: HTMLAnchorElement) {
+        if (!link.hasAttribute("listener-added")) {
+            link.addEventListener("click", handleNutshellClick);
+            link.setAttribute("listener-added", "true");
+        }
+    }
+
+    function handleLinkClick(event: Event) {
+        const link = event.currentTarget as HTMLAnchorElement;
+        const isExternal = link.target === "_blank";
+        const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
+        
+        window.umami.track(eventName, {
+            page: document.title,
+            text: link.textContent,
+            link: link.href
+        });
+    }
+
+    function addLinkListener(link: HTMLAnchorElement) {
+        if (!link.classList.contains("nutshell-expandable") && !link.hasAttribute("link-listener-added")) {
+            link.addEventListener("click", handleLinkClick);
+            link.setAttribute("link-listener-added", "true");
+        }
+    }
+
+    function addInitialListeners() {
+        const nutshellLinks = document.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
+        nutshellLinks.forEach(addNutshellListener);
+
+        const allLinks = document.querySelectorAll("a") as NodeListOf<HTMLAnchorElement>;
+        allLinks.forEach(addLinkListener);
+    }
+
+    function handleScroll() {
+        if (!readEventTriggered) {
+            const scrollPosition = window.scrollY + window.innerHeight;
+            const totalHeight = document.documentElement.scrollHeight;
+            
+            if (scrollPosition >= totalHeight / 2) {
+                window.umami.track("read", { page: document.title });
+                readEventTriggered = true;
+                window.removeEventListener("scroll", handleScroll);
+            }
+        }
+    }
+
+    addInitialListeners();
+    window.addEventListener("scroll", handleScroll);
+
+    const documentObserver = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            if (mutation.type === 'childList') {
+                mutation.addedNodes.forEach((node) => {
+                    if (node instanceof HTMLElement) {
+                        const newNutshellLinks = node.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
+                        newNutshellLinks.forEach(addNutshellListener);
+
+                        const newLinks = node.querySelectorAll("a") as NodeListOf<HTMLAnchorElement>;
+                        newLinks.forEach(addLinkListener);
+                    }
+                });
+            }
+        });
+    });
+
+    documentObserver.observe(document.body, { childList: true, subtree: true });
+});
+</script>
+
+<style is:global>
+  .feelback-container {
+    margin: 2rem 0 3rem;
+    --max-width: 400px !important;
+  }
+
+  .feelback-container [data-feelback-type="button-group"] .feelback-btn {
+    border-radius: 100%;
+  }
+
+  .feelback-container [data-feelback-type="button-group"] .feelback-btn.active {
+    color: var(--sl-color-text-invert);
+    background-color: var(--sl-color-text-accent);
+  }
+
+  .feelback-container textarea,
+  .feelback-container input[type="text"],
+  .feelback-container input[type="email"] {
+    border-radius: 0.5rem;
+    border: 1px solid var(--sl-color-gray-5);
+  }
+
+  .feelback-container textarea:hover,
+  .feelback-container input[type="text"]:hover,
+  .feelback-container input[type="email"]:hover {
+    border: 1px solid var(--sl-color-gray-2);
+  }
+
+  .feelback-container .feelback-btn[type="submit"] {
+    border-radius: 0.5rem;
+    padding: 1.25rem 2rem;
+    color: var(--sl-color-text-invert);
+    background-color: var(--sl-color-text-accent);
+    font-weight: bold;
+  }
+  .feelback-container .feelback-btn[type="submit"]:hover {
+    background-color: hsl(var(--sl-hue-accent), 80%, 70%);
+  }
+</style>
