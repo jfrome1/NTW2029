@@ -37,8 +37,8 @@ Thumbs.db
 *.swp
 *.bak
 *.backup
-.vercel/
-.astro/
+.vercel
+.astro
 
 # Coverage reports
 coverage/
