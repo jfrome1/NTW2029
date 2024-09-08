@@ -1,5 +1,5 @@
 ---
-title: Instructor information
+title: About your instructor
 date: 2024-08-14
 ---
 ## Contact Info

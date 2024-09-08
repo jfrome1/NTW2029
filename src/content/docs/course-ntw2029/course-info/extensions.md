@@ -5,7 +5,7 @@ date: 2024-08-17
 
 ---
 
-If _you email me in advance_, any assignment, including final papers, may be submitted up to 24 hours late for any reason. Just [:email me](../policies/tech-guidelines#course-email) and say "I would like a 24 hour extension on [name of assignment]. I will [:submit it by](#x-submit) [extended due date]."
+If _you email me in advance_, any assignment, including final papers, may be submitted up to 24 hours late for any reason. Just [:email me](../course-info/tech-guidelines#course-email) and say "I would like a 24 hour extension on [name of assignment]. I will [:submit it by](#x-submit) [extended due date]."
 
 Due to this policy, no additional extensions will be granted except in serious, documented circumstances.
 
