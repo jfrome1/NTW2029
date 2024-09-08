@@ -1,7 +1,7 @@
 # Node modules
 **/node_modules
 
-# Frome work files
+# Framework files
 drafts/
 coding-notes/
 96.01 website for NTW2029.code-workspace
@@ -26,62 +26,20 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# IDE-specific files
+# Editor-specific files
 .vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
 
-# Dependency directories
-.pnp/
-.pnp.js
-
-# TypeScript cache
-*.tsbuildinfo
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional stylelint cache
-.stylelintcache
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env.test
-
-# Parcel cache
-.cache
-
-# Next.js build output
-.next
-
-# Nuxt.js build output
-.nuxt
-
-# Gatsby files
-.cache/
-
-# SvelteKit build output
-.svelte-kit
-
-# Astro build output
-# .astro/
-
 # Temporary files
-tmp/
-temp/
-C:\Users\frome\Dropbox\JD\90-99 teaching courses\96 websites\96.01 website for NTW2029\JF-astro.code-workspace
-/JF-astro.code-workspace
+*.tmp
+*.swp
+*.bak
+*.backup
 .vercel
 .astro
+
+# Coverage reports
+coverage/
+*.lcov
