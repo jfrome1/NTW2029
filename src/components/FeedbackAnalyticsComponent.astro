@@ -98,15 +98,11 @@ import "astro-feelback/styles/feelback.css";
         allLinks.forEach(addLinkListener);
     }
 
-    function isInViewport(element: HTMLElement): boolean {
-        const rect = element.getBoundingClientRect();
-        return (
-            rect.top >= 0 &&
-            rect.left >= 0 &&
-            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-        );
-    }
+    function isScrolledPast(element: HTMLElement): boolean {
+    const rect = element.getBoundingClientRect();
+    console.log(rect.bottom < -500)
+    return rect.bottom < -500; 
+}
 
     function handleScroll() {
         if (!readEventTriggered) {
@@ -121,7 +117,7 @@ import "astro-feelback/styles/feelback.css";
         }
         const openNutshells = document.querySelectorAll('.nutshell-expandable[mode="open"]') as NodeListOf<any>;
         openNutshells.forEach(nutshell => {
-            if (!isInViewport(nutshell)) {
+            if (isScrolledPast(nutshell)) {
                 handleNutshellInactive(nutshell);
                 nutshell.close()
             }
