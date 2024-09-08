@@ -186,9 +186,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/assignments/guidelines.md": {
-	id: "course-ntw2029/assignments/guidelines.md";
-  slug: "course-ntw2029/assignments/guidelines";
+"course-ntw2029/assignments/ex-guidelines.md": {
+	id: "course-ntw2029/assignments/ex-guidelines.md";
+  slug: "course-ntw2029/assignments/ex-guidelines";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/assignments/formatting.md": {
+	id: "course-ntw2029/assignments/formatting.md";
+  slug: "course-ntw2029/assignments/formatting";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -207,93 +214,114 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general-info/conferences.md": {
-	id: "course-ntw2029/general-info/conferences.md";
-  slug: "course-ntw2029/general-info/conferences";
+"course-ntw2029/course-info/conferences.md": {
+	id: "course-ntw2029/course-info/conferences.md";
+  slug: "course-ntw2029/course-info/conferences";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general-info/instructor.md": {
-	id: "course-ntw2029/general-info/instructor.md";
-  slug: "course-ntw2029/general-info/instructor";
+"course-ntw2029/course-info/extensions.md": {
+	id: "course-ntw2029/course-info/extensions.md";
+  slug: "course-ntw2029/course-info/extensions";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general-info/need-help.md": {
-	id: "course-ntw2029/general-info/need-help.md";
-  slug: "course-ntw2029/general-info/need-help";
+"course-ntw2029/course-info/gen-ai-policy.md": {
+	id: "course-ntw2029/course-info/gen-ai-policy.md";
+  slug: "course-ntw2029/course-info/gen-ai-policy";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/general-info/readings.md": {
-	id: "course-ntw2029/general-info/readings.md";
-  slug: "course-ntw2029/general-info/readings";
+"course-ntw2029/course-info/grading.md": {
+	id: "course-ntw2029/course-info/grading.md";
+  slug: "course-ntw2029/course-info/grading";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/extensions.md": {
-	id: "course-ntw2029/policies/extensions.md";
-  slug: "course-ntw2029/policies/extensions";
+"course-ntw2029/course-info/instructor.md": {
+	id: "course-ntw2029/course-info/instructor.md";
+  slug: "course-ntw2029/course-info/instructor";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/formatting.md": {
-	id: "course-ntw2029/policies/formatting.md";
-  slug: "course-ntw2029/policies/formatting";
+"course-ntw2029/course-info/need-help.md": {
+	id: "course-ntw2029/course-info/need-help.md";
+  slug: "course-ntw2029/course-info/need-help";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/gen-ai-policy.md": {
-	id: "course-ntw2029/policies/gen-ai-policy.md";
-  slug: "course-ntw2029/policies/gen-ai-policy";
+"course-ntw2029/course-info/outlineformatting.md": {
+	id: "course-ntw2029/course-info/outlineformatting.md";
+  slug: "course-ntw2029/course-info/outlineformatting";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/grading.md": {
-	id: "course-ntw2029/policies/grading.md";
-  slug: "course-ntw2029/policies/grading";
+"course-ntw2029/course-info/policies.md": {
+	id: "course-ntw2029/course-info/policies.md";
+  slug: "course-ntw2029/course-info/policies";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/outlineformatting.md": {
-	id: "course-ntw2029/policies/outlineformatting.md";
-  slug: "course-ntw2029/policies/outlineformatting";
+"course-ntw2029/course-info/readings.md": {
+	id: "course-ntw2029/course-info/readings.md";
+  slug: "course-ntw2029/course-info/readings";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/policies.md": {
-	id: "course-ntw2029/policies/policies.md";
-  slug: "course-ntw2029/policies/policies";
+"course-ntw2029/course-info/start-here.md": {
+	id: "course-ntw2029/course-info/start-here.md";
+  slug: "course-ntw2029/course-info/start-here";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/policies/tech-guidelines.md": {
-	id: "course-ntw2029/policies/tech-guidelines.md";
-  slug: "course-ntw2029/policies/tech-guidelines";
+"course-ntw2029/course-info/tech-guidelines.md": {
+	id: "course-ntw2029/course-info/tech-guidelines.md";
+  slug: "course-ntw2029/course-info/tech-guidelines";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/resources/ev-religion.md": {
-	id: "course-ntw2029/resources/ev-religion.md";
-  slug: "course-ntw2029/resources/ev-religion";
+"course-ntw2029/resources/evolution/ev-religion.md": {
+	id: "course-ntw2029/resources/evolution/ev-religion.md";
+  slug: "course-ntw2029/resources/evolution/ev-religion";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/resources/ev-resources.md": {
-	id: "course-ntw2029/resources/ev-resources.md";
-  slug: "course-ntw2029/resources/ev-resources";
+"course-ntw2029/resources/evolution/ev-resources.md": {
+	id: "course-ntw2029/resources/evolution/ev-resources.md";
+  slug: "course-ntw2029/resources/evolution/ev-resources";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/resources/writing/citations.md": {
+	id: "course-ntw2029/resources/writing/citations.md";
+  slug: "course-ntw2029/resources/writing/citations";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/resources/writing/software.md": {
+	id: "course-ntw2029/resources/writing/software.md";
+  slug: "course-ntw2029/resources/writing/software";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"course-ntw2029/resources/writing/topic sentences.md": {
+	id: "course-ntw2029/resources/writing/topic sentences.md";
+  slug: "course-ntw2029/resources/writing/topic-sentences";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -305,30 +333,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"course-ntw2029/writing/citations.md": {
-	id: "course-ntw2029/writing/citations.md";
-  slug: "course-ntw2029/writing/citations";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"course-ntw2029/writing/software.md": {
-	id: "course-ntw2029/writing/software.md";
-  slug: "course-ntw2029/writing/software";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"course-ntw2029/writing/topic sentences.md": {
-	id: "course-ntw2029/writing/topic sentences.md";
-  slug: "course-ntw2029/writing/topic-sentences";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "hidden/assignment guidelines.md": {
 	id: "hidden/assignment guidelines.md";
   slug: "hidden/assignment-guidelines";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"hidden/ev-topics.md": {
+	id: "hidden/ev-topics.md";
+  slug: "hidden/ev-topics";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">

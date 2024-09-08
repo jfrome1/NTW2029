@@ -1,5 +1,5 @@
 ---
-title: NTW2029 GenAI policy
+title: GenAI policy
 ---
 
 ## Summary of the GenAI policy
