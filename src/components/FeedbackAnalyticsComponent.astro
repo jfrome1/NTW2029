@@ -18,14 +18,28 @@ import "astro-feelback/styles/feelback.css";
   window.addEventListener("load", function() {
     let readEventTriggered = false;
 
+    function handleNutshellInactive(link: HTMLAnchorElement) {
+        const openTime = parseInt(link.getAttribute("data-open-time") || "0");
+        if (openTime === 0) return; // The nutshell wasn't open
+
+        const duration = Date.now() - openTime;
+        
+        window.umami.track("inactiveNutshell", { 
+            page: document.title, 
+            text: link.textContent,
+            duration: duration
+        });
+        
+        link.removeAttribute("data-open-time");
+    }
+
     function handleNutshellClick(event: Event) {
         const link = event.currentTarget as HTMLAnchorElement;
         const currentMode = link.getAttribute("mode");
         
         if (currentMode === "open") {
-          window.umami.track("openNutshell", { page: document.title, text: link.textContent });
+            window.umami.track("openNutshell", { page: document.title, text: link.textContent });
             
-            // Store the opening time
             link.setAttribute("data-open-time", Date.now().toString());
             
             const observer = new MutationObserver((mutations) => {
@@ -45,14 +59,7 @@ import "astro-feelback/styles/feelback.css";
 
             setTimeout(() => observer.disconnect(), 1000);
         } else if (currentMode === "closed") {
-          const openTime = parseInt(link.getAttribute("data-open-time") || "0");
-          const duration = Date.now() - openTime;
-            window.umami.track("closeNutshell", { 
-                page: document.title, 
-                text: link.textContent,
-                duration: duration 
-            });
-            link.removeAttribute("data-open-time");
+            handleNutshellInactive(link);
         }
     }
 
@@ -65,6 +72,7 @@ import "astro-feelback/styles/feelback.css";
 
     function handleLinkClick(event: Event) {
         const link = event.currentTarget as HTMLAnchorElement;
+
         const isExternal = link.target === "_blank";
         const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
         
@@ -90,6 +98,16 @@ import "astro-feelback/styles/feelback.css";
         allLinks.forEach(addLinkListener);
     }
 
+    function isInViewport(element: HTMLElement): boolean {
+        const rect = element.getBoundingClientRect();
+        return (
+            rect.top >= 0 &&
+            rect.left >= 0 &&
+            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    }
+
     function handleScroll() {
         if (!readEventTriggered) {
             const scrollPosition = window.scrollY + window.innerHeight;
@@ -101,10 +119,17 @@ import "astro-feelback/styles/feelback.css";
                 window.removeEventListener("scroll", handleScroll);
             }
         }
+        const openNutshells = document.querySelectorAll('.nutshell-expandable[mode="open"]') as NodeListOf<any>;
+        openNutshells.forEach(nutshell => {
+            if (!isInViewport(nutshell)) {
+                handleNutshellInactive(nutshell);
+                nutshell.close()
+            }
+        });
     }
 
     addInitialListeners();
-    window.addEventListener("scroll", handleScroll);
+    document.addEventListener("scroll", handleScroll);
 
     const documentObserver = new MutationObserver((mutations) => {
         mutations.forEach((mutation) => {
@@ -162,6 +187,6 @@ import "astro-feelback/styles/feelback.css";
     font-weight: bold;
   }
   .feelback-container .feelback-btn[type="submit"]:hover {
-    background-color: hsl(var(--sl-hue-accent), 80%, 70%);
+    opacity: 0.7;
   }
 </style>

@@ -103,7 +103,7 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [Evolution is dumb](https://youtu.be/c_jyHp3bmEw?t=422)
 - [Why do men have nipples?](https://youtu.be/c_jyHp3bmEw?t=497)
 
-## Dinosaurs and birds
+## Birds are dinosaurs
 
 - [What Is A Dinosaur And What Isn't a Dinosaur?](https://www.youtube.com/watch?v=5_8h_Pwy15s)
 - [The Dinosaur On Your Dinner Table](https://www.youtube.com/watch?v=gQJHuG1Byj0&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=48)
@@ -115,8 +115,8 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [Simulating the Evolution of Sacrificing for Family](https://www.youtube.com/watch?v=iLX_r_WPrIw)
 - Cooperation _between_ species (not among members of a species): [How Does Cooperation Evolve?](https://www.youtube.com/watch?v=1tz6WE4ALUs)
 - The flip side of cooperation: [Mechanisms of Natural Selection Part 2: Conflict, Spite, and Reciprocity](https://www.youtube.com/watch?v=nOfj9LxA7QY)
-- [How Does Cooperation Evolve? ](https://www.youtube.com/watch?v=1tz6WE4ALUs&t=15s)
-- [Altruism ](https://www.youtube.com/watch?v=jKtOXvA14X4)
+- [How Does Cooperation Evolve?](https://www.youtube.com/watch?v=1tz6WE4ALUs&t=15s)
+- [Altruism](https://www.youtube.com/watch?v=jKtOXvA14X4)
 
 ## Nature/nurture
 
@@ -146,7 +146,7 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [The Wason Selection Task || Classic Puzzle #03](https://www.youtube.com/watch?v=iR97LBgpsl8)
 - [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA)
 
-## Future evolution
+## Are humans still evolving?
 
 - [Are Humans Still Evolving?](https://www.youtube.com/watch?v=wEhOZJ55Ve8&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=4)
 - Genetic engineering: [CRISPR and the Future of Human Evolution](https://www.youtube.com/watch?v=_pGNM9CTLJg&list=PLsmqeqKj7M-pS2SyV82Y4CGyihKLCW35w&index=4)
@@ -176,4 +176,3 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 ## Evolution-related websites
 
 - [EvoS Journal | Welcome to the EvoS Consortium!](https://evostudies.org/evos-journal/) — produces a journal that publishes undergraduate student papers
-

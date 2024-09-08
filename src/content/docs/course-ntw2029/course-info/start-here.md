@@ -1,31 +1,31 @@
 ---
 
-title: Read this first
+title: Read this first!
 date: 2024-09-08
 
 ---
 
-## Here's what the webpages are about:
+## Here's what the website pages are about:
 
-Course information:
+### Course information
 
-- Conference guidelines: how to prepare for assigned, scheduled conferences with me
-- Extension policy: policy for assignment deadline extensions
-- GenAI policy: class GenAI policy
-- Grading: grading elements and criteria
-- About your instructor: about me and my teaching style
+- About your instructor: me and my teaching style
 - Do you have questions?: how and when to ask for help
-- Policies: what I expect during class meetings
 - Readings: how to understand the reading assignments on the schedule
 - Technology guidelines: technology rules for the course
+- Extension policy: policy for assignment deadline extensions
+- Policies: what I expect during class meetings
+- Conference guidelines: how to prepare for assigned, scheduled conferences with me
+- GenAI policy: using GenAI for assignments
+- Grading: grading elements and criteria
 
-Assignments:
+### Assignments
 
 - Formatting: requirements for formatting course assignments
 - Exercise guidelines: how to approach the exercises
 - the other pages: requirements for each assignment
 
-Resources:
+### Resources
 
 - Evolution: additional resources for understanding evolution and evolutionary psychology
 - Writing: additional resources for improving your writing skills
