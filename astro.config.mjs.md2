@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-// import starlightLinksValidator from 'starlight-links-validator';
+// import starlightLinksValidator from "starlight-links-validator";
 import starlightUtils from "@lorenzo_lewis/starlight-utils";
 // import markdoc from '@astrojs/markdoc';
 import remarkExternalLinks from "remark-external-links";
@@ -13,8 +13,10 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [
-        // starlightLinksValidator(),
         starlightNutshell(),
+        // starlightLinksValidator({
+        //   exclude: ["/#x-.*/"],
+        // }),
         starlightUtils({
           multiSidebar: {
             switcherStyle: "horizontalList",
@@ -37,27 +39,32 @@ export default defineConfig({
               label: "Course schedule",
             },
             {
-              label: "Course information",
+              label: "General info",
               collapsed: true,
               items: [
-                "course-ntw2029/course-info/start-here",
-				"course-ntw2029/course-info/instructor",
+                "course-ntw2029/course-info/instructor",
                 "course-ntw2029/course-info/need-help",
                 "course-ntw2029/course-info/readings",
                 "course-ntw2029/course-info/conferences",
-				"course-ntw2029/course-info/gen-ai-policy",
-                "course-ntw2029/course-info/tech-guidelines",
-                "course-ntw2029/course-info/policies",
-                "course-ntw2029/course-info/grading",
-                "course-ntw2029/course-info/extensions",
+              ],
+            },
+            {
+              label: "Policies",
+              collapsed: true,
+              items: [
+                "course-ntw2029/policies/gen-ai-policy",
+                "course-ntw2029/policies/tech-guidelines",
+                "course-ntw2029/policies/policies",
+                "course-ntw2029/policies/grading",
+                "course-ntw2029/policies/formatting",
+                "course-ntw2029/policies/extensions",
               ],
             },
             {
               label: "Assignments",
               collapsed: true,
               items: [
-                "course-ntw2029/assignments/ex-guidelines",
-                "course-ntw2029/assignments/formatting",
+                "course-ntw2029/assignments/guidelines",
                 "course-ntw2029/assignments/e01-introductions",
                 "course-ntw2029/assignments/e02-explain-something",
                 "course-ntw2029/assignments/e03-boyd",
@@ -67,23 +74,20 @@ export default defineConfig({
                 "course-ntw2029/assignments/e10-workload",
               ],
             },
-		],
-		label: "Resources",
-		items: [
             {
-              label: "Evolution",
-			  collapsed: true,
+              label: "Resources",
+              collapsed: true,
               items: [
-                "course-ntw2029/resources/evolution/ev-religion",
-                "course-ntw2029/resources/evolution/ev-resources",
+                "course-ntw2029/resources/ev-religion",
+                "course-ntw2029/resources/ev-resources",
               ],
             },
             {
               label: "Writing",
               collapsed: true,
               items: [
-                "course-ntw2029/resources/writing/citations",
-                "course-ntw2029/resources/writing/software",
+                "course-ntw2029/writing/citations",
+                "course-ntw2029/writing/software",
               ],
             },
           ],
