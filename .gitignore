@@ -1,6 +1,9 @@
 # Node modules
 **/node_modules
 
+# Frome work files & build output
+**/.astro
+
 # Frome work files
 drafts/
 coding-notes/
