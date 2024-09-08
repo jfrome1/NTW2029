@@ -66,6 +66,7 @@ export default defineConfig({
         },
         {
           label: "Resources",
+          collapsed: true,
           items: [
             {
               label: "Evolution",
