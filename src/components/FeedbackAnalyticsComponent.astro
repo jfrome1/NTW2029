@@ -38,7 +38,6 @@ import "astro-feelback/styles/feelback.css";
         const currentMode = link.getAttribute("mode");
         
         if (currentMode === "open") {
-            console.log("Nutshell opened");
             window.umami.track("openNutshell", { page: document.title, text: link.textContent });
             
             link.setAttribute("data-open-time", Date.now().toString());
@@ -60,7 +59,6 @@ import "astro-feelback/styles/feelback.css";
 
             setTimeout(() => observer.disconnect(), 1000);
         } else if (currentMode === "closed") {
-            console.log("Nutshell closed");
             handleNutshellInactive(link);
         }
     }
@@ -116,7 +114,6 @@ import "astro-feelback/styles/feelback.css";
             const totalHeight = document.documentElement.scrollHeight;
             
             if (scrollPosition >= totalHeight / 2) {
-                console.log("Read event triggered");
                 window.umami.track("read", { page: document.title });
                 readEventTriggered = true;
                 window.removeEventListener("scroll", handleScroll);
@@ -125,7 +122,6 @@ import "astro-feelback/styles/feelback.css";
         const openNutshells = document.querySelectorAll('.nutshell-expandable[mode="open"]') as NodeListOf<any>;
         openNutshells.forEach(nutshell => {
             if (!isInViewport(nutshell)) {
-                console.log("Nutshell scrolled out of view");
                 handleNutshellInactive(nutshell);
                 nutshell.close()
             }
@@ -191,6 +187,6 @@ import "astro-feelback/styles/feelback.css";
     font-weight: bold;
   }
   .feelback-container .feelback-btn[type="submit"]:hover {
-    background-color: hsl(var(--sl-hue-accent), 80%, 70%);
+    opacity: 0.7;
   }
 </style>
