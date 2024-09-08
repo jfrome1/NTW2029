@@ -42,10 +42,10 @@ export default defineConfig({
               label: "General info",
               collapsed: true,
               items: [
-                "course-ntw2029/general-info/instructor",
-                "course-ntw2029/general-info/need-help",
-                "course-ntw2029/general-info/readings",
-                "course-ntw2029/general-info/conferences",
+                "course-ntw2029/course-info/instructor",
+                "course-ntw2029/course-info/need-help",
+                "course-ntw2029/course-info/readings",
+                "course-ntw2029/course-info/conferences",
               ],
             },
             {
