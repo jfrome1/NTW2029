@@ -2,70 +2,83 @@
 import FeelbackMessage from "astro-feelback/components/FeelbackMessage.astro";
 import "astro-feelback/styles/feelback.css";
 ---
-<FeelbackMessage 
-contentSetId="fa082a37-0dbe-49fd-90d2-9b52e6628949"
-textAnswer="Thanks for your feedback"
-placeholder="Type your message"
+
+<FeelbackMessage
+  contentSetId="6a7c8169-29bb-4bec-9d4b-8ce99d2ba99f"
+  textAnswer="Thanks for your feedback"
+  placeholder="Type your message"
 />
 
 <script>
-    declare global {
-        interface Window {
-            umami: any
-        }
+  declare global {
+    interface Window {
+      umami: any;
     }
-    window.addEventListener("load", function() {
-        const links = document.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
-        links.forEach(link => {
-            link.addEventListener("click", function() {
-            if (link.getAttribute("mode") === "open") {
-            console.log("click")
-            window.umami.track("openNutshell", { page: document.title, text: link.textContent });
-            }
-            });
+  }
+  window.addEventListener("load", function () {
+    const links = document.querySelectorAll(
+      ".nutshell-expandable"
+    ) as NodeListOf<HTMLAnchorElement>;
+
+    function handleClick(link: HTMLAnchorElement) {
+      if (link.getAttribute("mode") === "open") {
+        console.log("click");
+        window.umami.track("openNutshell", {
+          page: document.title,
+          text: link.textContent,
         });
+
+        const subLinks = link.querySelectorAll(
+          ".nutshell-expandable"
+        ) as NodeListOf<HTMLAnchorElement>;
+        subLinks.forEach((subLink) => {
+          subLink.addEventListener("click", () => handleClick(subLink));
+        });
+      }
+    }
+
+    links.forEach((link) => {
+      link.addEventListener("click", () => handleClick(link));
     });
+  });
 </script>
 
 <style is:global>
-        .feelback-container {
-        margin: 2rem auto 3rem;
-        max-width: 400px !important;
-    }
+  .feelback-container {
+    margin: 2rem 0 3rem;
+    --max-width: 400px !important;
+  }
 
-    .feelback-container [data-feelback-type="button-group"] .feelback-btn {
-        border-radius: 100%;
-        margin: 0!important;
-    }
+  .feelback-container [data-feelback-type="button-group"] .feelback-btn {
+    border-radius: 100%;
+  }
 
-    .feelback-container
-        [data-feelback-type="button-group"]
-        .feelback-btn.active {
-        color: var(--sl-color-text-invert);
-        background-color: var(--sl-color-text-accent);
-    }
+  .feelback-container [data-feelback-type="button-group"] .feelback-btn.active {
+    color: var(--sl-color-text-invert);
+    background-color: var(--sl-color-text-accent);
+  }
 
-    .feelback-container textarea,
-    .feelback-container input[type="text"],
-    .feelback-container input[type="email"] {
-        border-radius: 0.5rem;
-        border: 1px solid var(--sl-color-gray-5);
-    }
+  .feelback-container textarea,
+  .feelback-container input[type="text"],
+  .feelback-container input[type="email"] {
+    border-radius: 0.5rem;
+    border: 1px solid var(--sl-color-gray-5);
+  }
 
-    .feelback-container textarea:hover,
-    .feelback-container input[type="text"]:hover,
-    .feelback-container input[type="email"]:hover {
-        border: 1px solid var(--sl-color-gray-2);
-    }
+  .feelback-container textarea:hover,
+  .feelback-container input[type="text"]:hover,
+  .feelback-container input[type="email"]:hover {
+    border: 1px solid var(--sl-color-gray-2);
+  }
 
-    .feelback-container .feelback-btn[type="submit"] {
-        border-radius: 0.5rem;
-        padding: 1.25rem 2rem;
-        color: var(--sl-color-text-invert);
-        background-color: var(--sl-color-text-accent);
-        font-weight: bold;
-    }
-    .feelback-container .feelback-btn[type="submit"]:hover {
-        background-color: hsl(var(--sl-hue-accent), 80%, 70%);
-    }
+  .feelback-container .feelback-btn[type="submit"] {
+    border-radius: 0.5rem;
+    padding: 1.25rem 2rem;
+    color: var(--sl-color-text-invert);
+    background-color: var(--sl-color-text-accent);
+    font-weight: bold;
+  }
+  .feelback-container .feelback-btn[type="submit"]:hover {
+    background-color: hsl(var(--sl-hue-accent), 80%, 70%);
+  }
 </style>
