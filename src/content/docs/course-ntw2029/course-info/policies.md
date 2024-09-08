@@ -38,10 +38,10 @@ It's fine to use a device if you need one as an accommodation. If you have a dis
 
 ## Talking
 
-- Please don't talk quietly to classmates during class (unless in a small group activity). It can appear disrespectful.
-- If you have a question or comment, just raise your hard. If you missed something, just ask me to repeat myself. It's fine.
+- Please don't talk to classmates during class (unless in a small group activity). Even if it is about a class topic, from the outside, it looks like you are disengaged from class and it can be distracting.
+- If you have a question or comment, just raise your hand and ask. Don't worry about asking a question. If you missed something, just ask me to repeat myself. It's fine.
 
 ## Feedback and Course Improvement
 
 - I am constantly looking for ways to improve the class, and to do this, I need your help, such as posting class feedback and reporting on your workload. Feel free to email me additional feedback.
-- I use anonymous student writing examples in class frequently, since students say they are very useful. I will assume that you are ok with me using your coursework anonymously in future classes. Let me know if you have any concern about this; I can allow you to opt-out.
+- I use anonymous student writing examples in class frequently, since students say they are very useful. I will assume that you are ok with me using your coursework anonymously in future classes. If not, just let me know.
