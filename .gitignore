@@ -2,7 +2,7 @@
 **/node_modules
 
 # Frome work files & build output
-**/.astro
+*.astro
 
 # Frome work files
 drafts/
