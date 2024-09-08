@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-// import starlightLinksValidator from 'starlight-links-validator';
+// import starlightLinksValidator from "starlight-links-validator";
 import starlightUtils from "@lorenzo_lewis/starlight-utils";
 // import markdoc from '@astrojs/markdoc';
 import remarkExternalLinks from "remark-external-links";
