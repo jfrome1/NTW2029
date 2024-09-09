@@ -74,6 +74,7 @@ export default defineConfig({
               items: [
                 "course-ntw2029/resources/evolution/ev-religion",
                 "course-ntw2029/resources/evolution/ev-resources",
+				"course-ntw2029/resources/evolution/nct",
               ],
             },
             {
@@ -82,6 +83,7 @@ export default defineConfig({
               items: [
                 "course-ntw2029/resources/writing/citations",
                 "course-ntw2029/resources/writing/software",
+				"course-ntw2029/resources/writing/topic-sentences",
               ],
             },
           ],
