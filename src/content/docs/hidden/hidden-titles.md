@@ -1,7 +1,6 @@
 ---
 title: Titles
-sidebar:
-  hidden: true
+
 ---
 ## Paper titles
 

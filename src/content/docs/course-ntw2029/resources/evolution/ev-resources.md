@@ -115,8 +115,8 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [Simulating the Evolution of Sacrificing for Family](https://www.youtube.com/watch?v=iLX_r_WPrIw)
 - Cooperation _between_ species (not among members of a species): [How Does Cooperation Evolve?](https://www.youtube.com/watch?v=1tz6WE4ALUs)
 - The flip side of cooperation: [Mechanisms of Natural Selection Part 2: Conflict, Spite, and Reciprocity](https://www.youtube.com/watch?v=nOfj9LxA7QY)
-- [How Does Cooperation Evolve? ](https://www.youtube.com/watch?v=1tz6WE4ALUs&t=15s)
-- [Altruism ](https://www.youtube.com/watch?v=jKtOXvA14X4)
+- [How Does Cooperation Evolve?](https://www.youtube.com/watch?v=1tz6WE4ALUs&t=15s)
+- [Altruism](https://www.youtube.com/watch?v=jKtOXvA14X4)
 
 ## Nature/nurture
 
@@ -176,4 +176,3 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 ## Evolution-related websites
 
 - [EvoS Journal | Welcome to the EvoS Consortium!](https://evostudies.org/evos-journal/) — produces a journal that publishes undergraduate student papers
-
