@@ -67,7 +67,6 @@ window.addEventListener("load", function() {
       }
     } else if (currentMode === "closed") {
       handleNutshellInactive(link);
-      // Stop observing the nutshell-bubble
       const nutshellBubble = document.querySelector('.nutshell-bubble') as HTMLElement;
       if (nutshellBubble) {
         nutshellObserver.unobserve(nutshellBubble);
@@ -110,7 +109,6 @@ window.addEventListener("load", function() {
     allLinks.forEach(addLinkListener);
   }
 
-  // Create the Intersection Observer for nutshell-bubble
   const nutshellObserver = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
         console.log(entry)
@@ -119,7 +117,7 @@ window.addEventListener("load", function() {
           const nutshellLink = nutshellBubble.previousElementSibling?.previousSibling as HTMLAnchorElement;
         if (nutshellLink && nutshellLink.getAttribute("mode") === "open") {
           handleNutshellInactive(nutshellLink);
-          nutshellLink.click(); // This will close the nutshell
+          nutshellLink.click(); 
         }
       }
     });
