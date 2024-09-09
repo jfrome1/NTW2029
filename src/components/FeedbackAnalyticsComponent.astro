@@ -10,144 +10,156 @@ import "astro-feelback/styles/feelback.css";
 />
 
 <script>
-  declare global {
-    interface Window {
-      umami: any;
+declare global {
+  interface Window {
+    umami: any;
+  }
+}
+
+window.addEventListener("load", function() {
+  let readEventTriggered = false;
+
+  function handleNutshellInactive(link: HTMLAnchorElement) {
+    const openTime = parseInt(link.getAttribute("data-open-time") || "0");
+    if (openTime === 0) return; 
+
+    const duration = Date.now() - openTime;
+    
+    window.umami.track("inactiveNutshell", { 
+      page: document.title, 
+      text: link.textContent,
+      duration: duration
+    });
+    
+    link.removeAttribute("data-open-time");
+  }
+
+  function handleNutshellClick(event: Event) {
+    const link = event.currentTarget as HTMLAnchorElement;
+    const currentMode = link.getAttribute("mode");
+    
+    if (currentMode === "open") {
+      window.umami.track("openNutshell", { page: document.title, text: link.textContent });
+      
+      link.setAttribute("data-open-time", Date.now().toString());
+      
+      const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+          if (mutation.type === 'childList') {
+            mutation.addedNodes.forEach((node) => {
+              if (node instanceof HTMLElement) {
+                const newSubLinks = node.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
+                newSubLinks.forEach(addNutshellListener);
+              }
+            });
+          }
+        });
+      });
+
+      observer.observe(link, { childList: true, subtree: true });
+
+      setTimeout(() => observer.disconnect(), 1000);
+
+      // Find and start observing the nutshell-bubble
+      const nutshellBubble = document.querySelector('.nutshell-bubble') as HTMLElement;
+      if (nutshellBubble) {
+        nutshellObserver.observe(nutshellBubble);
+      }
+    } else if (currentMode === "closed") {
+      handleNutshellInactive(link);
+      const nutshellBubble = document.querySelector('.nutshell-bubble') as HTMLElement;
+      if (nutshellBubble) {
+        nutshellObserver.unobserve(nutshellBubble);
+      }
     }
   }
-  window.addEventListener("load", function() {
-    let readEventTriggered = false;
 
-    function handleNutshellInactive(link: HTMLAnchorElement) {
-        const openTime = parseInt(link.getAttribute("data-open-time") || "0");
-        if (openTime === 0) return; // The nutshell wasn't open
-
-        const duration = Date.now() - openTime;
-        
-        window.umami.track("inactiveNutshell", { 
-            page: document.title, 
-            text: link.textContent,
-            duration: duration
-        });
-        
-        link.removeAttribute("data-open-time");
+  function addNutshellListener(link: HTMLAnchorElement) {
+    if (!link.hasAttribute("listener-added")) {
+      link.addEventListener("click", handleNutshellClick);
+      link.setAttribute("listener-added", "true");
     }
+  }
 
-    function handleNutshellClick(event: Event) {
-        const link = event.currentTarget as HTMLAnchorElement;
-        const currentMode = link.getAttribute("mode");
-        
-        if (currentMode === "open") {
-            window.umami.track("openNutshell", { page: document.title, text: link.textContent });
-            
-            link.setAttribute("data-open-time", Date.now().toString());
-            
-            const observer = new MutationObserver((mutations) => {
-                mutations.forEach((mutation) => {
-                    if (mutation.type === 'childList') {
-                        mutation.addedNodes.forEach((node) => {
-                            if (node instanceof HTMLElement) {
-                                const newSubLinks = node.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
-                                newSubLinks.forEach(addNutshellListener);
-                            }
-                        });
-                    }
-                });
-            });
+  function handleLinkClick(event: Event) {
+    const link = event.currentTarget as HTMLAnchorElement;
 
-            observer.observe(link, { childList: true, subtree: true });
-
-            setTimeout(() => observer.disconnect(), 1000);
-        } else if (currentMode === "closed") {
-            handleNutshellInactive(link);
-        }
-    }
-
-    function addNutshellListener(link: HTMLAnchorElement) {
-        if (!link.hasAttribute("listener-added")) {
-            link.addEventListener("click", handleNutshellClick);
-            link.setAttribute("listener-added", "true");
-        }
-    }
-
-    function handleLinkClick(event: Event) {
-        const link = event.currentTarget as HTMLAnchorElement;
-
-        const isExternal = link.target === "_blank";
-        const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
-        
-        window.umami.track(eventName, {
-            page: document.title,
-            text: link.textContent,
-            link: link.href
-        });
-    }
-
-    function addLinkListener(link: HTMLAnchorElement) {
-        if (!link.classList.contains("nutshell-expandable") && !link.hasAttribute("link-listener-added")) {
-            link.addEventListener("click", handleLinkClick);
-            link.setAttribute("link-listener-added", "true");
-        }
-    }
-
-    function addInitialListeners() {
-        const nutshellLinks = document.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
-        nutshellLinks.forEach(addNutshellListener);
-
-        const allLinks = document.querySelectorAll("a") as NodeListOf<HTMLAnchorElement>;
-        allLinks.forEach(addLinkListener);
-    }
-
-    function isInViewport(element: HTMLElement): boolean {
-        const rect = element.getBoundingClientRect();
-        return (
-            rect.top >= 0 &&
-            rect.left >= 0 &&
-            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-        );
-    }
-
-    function handleScroll() {
-        if (!readEventTriggered) {
-            const scrollPosition = window.scrollY + window.innerHeight;
-            const totalHeight = document.documentElement.scrollHeight;
-            
-            if (scrollPosition >= totalHeight / 2) {
-                window.umami.track("read", { page: document.title });
-                readEventTriggered = true;
-                window.removeEventListener("scroll", handleScroll);
-            }
-        }
-        const openNutshells = document.querySelectorAll('.nutshell-expandable[mode="open"]') as NodeListOf<any>;
-        openNutshells.forEach(nutshell => {
-            if (!isInViewport(nutshell)) {
-                handleNutshellInactive(nutshell);
-                nutshell.close()
-            }
-        });
-    }
-
-    addInitialListeners();
-    document.addEventListener("scroll", handleScroll);
-
-    const documentObserver = new MutationObserver((mutations) => {
-        mutations.forEach((mutation) => {
-            if (mutation.type === 'childList') {
-                mutation.addedNodes.forEach((node) => {
-                    if (node instanceof HTMLElement) {
-                        const newNutshellLinks = node.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
-                        newNutshellLinks.forEach(addNutshellListener);
-
-                        const newLinks = node.querySelectorAll("a") as NodeListOf<HTMLAnchorElement>;
-                        newLinks.forEach(addLinkListener);
-                    }
-                });
-            }
-        });
+    const isExternal = link.target === "_blank";
+    const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
+    
+    window.umami.track(eventName, {
+      page: document.title,
+      text: link.textContent,
+      link: link.href
     });
+  }
 
-    documentObserver.observe(document.body, { childList: true, subtree: true });
+  function addLinkListener(link: HTMLAnchorElement) {
+    if (!link.classList.contains("nutshell-expandable") && !link.hasAttribute("link-listener-added")) {
+      link.addEventListener("click", handleLinkClick);
+      link.setAttribute("link-listener-added", "true");
+    }
+  }
+
+  function addInitialListeners() {
+    const nutshellLinks = document.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
+    nutshellLinks.forEach(addNutshellListener);
+
+    const allLinks = document.querySelectorAll("a") as NodeListOf<HTMLAnchorElement>;
+    allLinks.forEach(addLinkListener);
+  }
+
+  const nutshellObserver = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+        console.log(entry)
+      if (!entry.isIntersecting) {
+          const nutshellBubble = entry.target as HTMLElement;
+          const nutshellLink = nutshellBubble.previousElementSibling?.previousSibling as HTMLAnchorElement;
+        if (nutshellLink && nutshellLink.getAttribute("mode") === "open") {
+          handleNutshellInactive(nutshellLink);
+          nutshellLink.click(); 
+        }
+      }
+    });
+  }, {
+    root: null,
+    rootMargin: "0px",
+    threshold: 0
+  });
+
+  function handleScroll() {
+    if (!readEventTriggered) {
+      const scrollPosition = window.scrollY + window.innerHeight;
+      const totalHeight = document.documentElement.scrollHeight;
+      
+      if (scrollPosition >= totalHeight / 2) {
+        window.umami.track("read", { page: document.title });
+        readEventTriggered = true;
+        window.removeEventListener("scroll", handleScroll);
+      }
+    }
+  }
+
+  addInitialListeners();
+  window.addEventListener("scroll", handleScroll);
+
+  const documentObserver = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+      if (mutation.type === 'childList') {
+        mutation.addedNodes.forEach((node) => {
+          if (node instanceof HTMLElement) {
+            const newNutshellLinks = node.querySelectorAll(".nutshell-expandable") as NodeListOf<HTMLAnchorElement>;
+            newNutshellLinks.forEach(addNutshellListener);
+
+            const newLinks = node.querySelectorAll("a") as NodeListOf<HTMLAnchorElement>;
+            newLinks.forEach(addLinkListener);
+          }
+        });
+      }
+    });
+  });
+
+  documentObserver.observe(document.body, { childList: true, subtree: true });
 });
 </script>
 
