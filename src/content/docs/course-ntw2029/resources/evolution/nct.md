@@ -4,6 +4,7 @@ title: Niche construction theory
 date: 2024-09-08
 
 ---
+
 - we think of an animal's environment as including their surrounding plants, landscape, and other animals
 - but, it's important to note that animals change their environment with their behavior, such as eating plants and building nests
 - NCT: animals do not passively live in environments, but also alter them

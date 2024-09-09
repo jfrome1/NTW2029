@@ -14,10 +14,15 @@ See below for details and exceptions.
 ## Details
 
 The main idea of the paragraph should be fully captured by the topic sentence.
+
 In an argumentative essay, each topic sentence states an argument or reason. Across the paper, the topic sentences should include all of the reasons needed to support the essay's thesis statement.
+
 Topic sentences should be at the beginning of each body paragraph unless you have a good reason to place them elsewhere.
+
 Topic sentences are usually just one sentence long, but sometimes two sentences are necessary.
+
 Topic sentences should directly state the main idea of the paragraph.
+
 Scope: the topic sentence must be broad enough to include the full main idea of the paragraph. The topic sentence should not be a claim that is just the first step leading to the main idea.
 
 Topic sentences are usually combined with transitions. They might begin with a transition word or phrase linking the previous paragraph to the current paragraph. Example:
