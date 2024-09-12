@@ -1,5 +1,3 @@
-name: Auto-merge Dependabot updates
-
 on:
   pull_request:
     types:
@@ -10,8 +8,6 @@ on:
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-
-    if: github.actor == 'dependabot[bot]'
 
     steps:
       - name: Checkout code
@@ -31,4 +27,4 @@ jobs:
         with:
           github-token: "${{ secrets.GITHUB_TOKEN }}"
           merge-method: squash
-          commit_message: "Merged by GitHub Actions after successful tests."
+          commit-message: "Merged by GitHub Actions after successful tests."
