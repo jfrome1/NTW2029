@@ -25,7 +25,7 @@ Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 - Leave page headers completely blank/empty. Leave page footers blank except for page numbers.
 - Don't use borders, backgrounds, or anything decorative (necessary figures or tables are fine).
 - Insert a tab at the beginning of each new paragraph.
-- Include in-text citations and a reference list at the end of drafts and final papers. Guidelines are on the [Citations](../course-info/link) page.
+- Include in-text citations and a reference list at the end of drafts and final papers. Guidelines are on the [Citations](/course-info/link) page.
 - Follow American Psychological Association (APA) formatting rules for capitalization [(here)](https://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.HTML) and italics [(here)](https://apastyle.apa.org/style-grammar-guidelines/italics-quotations/italics). Hint: you have to actually click those links and read those pages if you want correct formatting; don't rely on my draft feedback about incorrect formatting.
 - Put a word count at the end of the paper, before the reference list.
 - The [:paper title](#x-temp) should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined
