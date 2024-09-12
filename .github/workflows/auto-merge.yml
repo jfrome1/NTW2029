@@ -16,15 +16,15 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: '20' # Explicitly specifying Node.js 20
 
       - name: Install dependencies
         run: npm ci
 
       - name: Merge Dependabot PR if tests pass
         if: success() && github.event.pull_request.user.login == 'dependabot[bot]'
-        uses: pascalgn/automerge-action@v0.15.6
+        uses: "github-actions/merge-schedule-action@v1.2.4"
         with:
-          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          token: "${{ secrets.GITHUB_TOKEN }}"
           merge-method: squash
           commit-message: "Merged by GitHub Actions after successful tests."
