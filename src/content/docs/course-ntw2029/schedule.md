@@ -146,7 +146,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): Paper 1 draft
+###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1](assignments/p1.md) draft
 
 ## 6.1	- Tue 17 Sep 2024
 
@@ -155,7 +155,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
 	- Read (recommended):
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): Exercise 5 - Paper 1 conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): [Exercise 5 - Paper 1 post-conference notes](assignments/e05-p1-conf-notes.md)
 
 ## 6.2	- Fri 20 Sep 24
 
