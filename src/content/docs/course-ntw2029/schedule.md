@@ -28,7 +28,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](assignments/e02-explain-something)
 
-# :x videos
+### :x videos
 
 Please watch the following. Remember that you can come back to these later in the course for review!
 
@@ -78,7 +78,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](https://writingproject.fas.harvard.edu/files/hwp/files/hwp_brief_guides_elements.pdf)
 
-# :x goldfinch
+### :x goldfinch
 
 - What is the author's attitude towards the arguments he presents? Can you tell if Goldfinch agrees with the arguments or not? How?
 - Each section of the reading contains a different argument challenging EP. Can you summarize each argument in one or two sentences?
@@ -108,7 +108,7 @@ Please watch the following. Remember that you can come back to these later in th
 	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
 	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
 
-# :x pinker
+### :x pinker
 
 - Pinker discusses several topics that are not needed to answer the main question posed by this chapter, even though they are topically related to that question. What is the main question that Pinker aims to answer in this chapter?
 - Is Pinker aiming to explain one phenomenon or many sub-phenomena? What is the basis for your answer?
@@ -121,7 +121,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: outlining, paragraph structure
 	- Read (recommended):
 
-# :x dutton
+### :x dutton
 
 - On p. 139, there is a sentence beginning "It is human intelligence..." that contains the word "art". Which of the two senses of "art" is Dutton using here?
 - How many sections are in this article? Can you summarize the main point of each section?
@@ -182,6 +182,10 @@ Please watch the following. Remember that you can come back to these later in th
 	- Read (recommended):
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/ahnSadMoviesDon2012.pdf), [:discussion questions](#x-ahn)
 	- Handout: [How to read empirical research articles](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/howtoreadempiricalresearcharticles.pdf)
+
+### :x ahn
+
+to be posted
 
 ###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
 
