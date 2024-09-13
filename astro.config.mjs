@@ -59,6 +59,7 @@ export default defineConfig({
             "course-ntw2029/assignments/e02-explain-something",
             "course-ntw2029/assignments/e03-boyd",
             "course-ntw2029/assignments/e04-goldfinch",
+            "course-ntw2029/assignments/e05-p1-conf-notes",
             "course-ntw2029/assignments/p1",
             "course-ntw2029/assignments/p1outline",
             "course-ntw2029/assignments/e10-workload",
