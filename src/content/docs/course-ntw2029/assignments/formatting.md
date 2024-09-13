@@ -19,6 +19,7 @@ Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
 ## Papers
 
+- These guidelines apply to papers and all paper-related assignments.
 - Submit paper assignments as MS Word documents, _not_ a pdf or other file format.
 - See an example properly formatted paper [here](https://canvas.nus.edu.sg/users/90279/files/3681962/download?verifier=zqjoVhp8AE0JuUtO6eFSQwnNykYu07cySVHXNzNQ&download_frd=1).
 - The paper must be double-spaced, left-justified, with numbered pages and standard margins, in 12-point Arial, Helvetica, or Times New Roman font.
@@ -30,7 +31,7 @@ Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 - Put a word count at the end of the paper, before the reference list.
 - The [:paper title](#x-temp) should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined
 - Don't [:skip an extra line](#x-extra-line) between paragraphs.
-- Do not use a cover page. Instead, provide the following information at the top left-hand corner of the first page (not in the header)
+- Do not use a cover page. Instead, provide the following information at the top left-hand corner of the first page of all paper assignments (not in the header):
 
 ```text
 Your Name
