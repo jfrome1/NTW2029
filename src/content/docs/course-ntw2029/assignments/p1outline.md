@@ -26,8 +26,8 @@ Please review exercise guidelines, follow GenAI policy, and submit an updated wo
 
 ## Outline structure
 
-- At the top, state Pinker's main points for the sections and arguments you plan to discuss (not all arguments in the chapter as a whole). Use two sentences maximum.
-- Follow the thesis with numbered/lettered lines in a hierarchical outline form <!-- provide clear image/example here -->. It should have two levels maximum: [:points and subpoints](#x-points).
+- At the top, state Pinker's main points for the sections and arguments you plan to discuss (not all arguments in the chapter as a whole). Use two sentences maximum. These should be separate from the outline, above it, and not numbered.
+- Follow these main points with numbered/lettered lines in a hierarchical outline form <!-- provide clear image/example here -->. It should have two levels maximum: [:points and subpoints](#x-points).
 - At the end, include a correctly formatted reference list with only one source, Pinker, and format the citation for the source correctly.
 - Do not include lines about the paper introduction or conclusion in the outline. The thesis stated above the outline will serve as the introduction to the outline.
 
