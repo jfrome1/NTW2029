@@ -4,6 +4,7 @@ title: Paper 1 outline (optional)
 date: 2024-09-06
 
 ---
+<!-- at bottom  -->
 
 This assignment is optional. If you submit it, you will receive feedback that can guide your writing process. There is no penalty for not submitting it.
 
@@ -26,7 +27,7 @@ Please review exercise guidelines, follow GenAI policy, and submit an updated wo
 ## Outline structure
 
 - At the top, state Pinker's main points for the sections and arguments you plan to discuss (not all arguments in the chapter as a whole). Use two sentences maximum.
-- Follow the thesis with numbered/lettered lines in a hierarchical outline form. It should have two levels maximum: [:points and subpoints](#x-points).
+- Follow the thesis with numbered/lettered lines in a hierarchical outline form <!-- provide clear image/example here -->. It should have two levels maximum: [:points and subpoints](#x-points).
 - At the end, include a correctly formatted reference list with only one source, Pinker, and format the citation for the source correctly.
 - Do not include lines about the paper introduction or conclusion in the outline. The thesis stated above the outline will serve as the introduction to the outline.
 
@@ -80,3 +81,7 @@ Problem: (1) is not a complete sentence by itself. (A) and (B) are not complete 
 
 - Avoid: "Pinker gives several reasons that music is pleasurable." (describes what the source author does in general)
 - Correct: "Pinker argues that music includes sounds similar to those found in the EEA" (states Pinker's actual argument)
+
+<!-- Student outline submissions this time often simply stated the argument Pinker makes in one sentence, without going through the steps or really explaining his claims. The outline is not supposed to offer a complete explanation, but I should make it clear to them that here is a place to work out the steps in the argument to try to identify how his claims work logically and even identify points of analysis or areas where they saw potential limitations or gaps. -->
+
+<!--  Also, there were a number of outlines that did not follow formatting guidelines, assignment guidelines such as "only one complete sentence per point", or GenAI guidelines. Should I tell the students that I won't comment on submissions like this? -->
