@@ -49,7 +49,7 @@ Good class preparation means you come to class with all needed materials, honest
 Preparing for the course has two parts:
 
 1. reading the course website carefully, including the info, policies, all assignments, and resource
-2. setting up the apps and notifications as described on the [technology guidelines](course-info/tech-guidelines) page.
+2. setting up the apps and notifications as described on the [technology guidelines](../course-info/tech-guidelines) page.
 
 # :x individual
 
