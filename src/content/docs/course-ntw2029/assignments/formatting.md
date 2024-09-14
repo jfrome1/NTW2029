@@ -13,7 +13,7 @@ If you did use GenAI, include the link to your chat transcript at the end of the
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
-# :x no links
+### :x no links
 
 ![avoid links](/images/link-to-file.png)
 
@@ -40,11 +40,11 @@ Assignment Name (e.g. Paper 1 draft)
 Assignment due date
 ```
 
-# :x temp
+### :x temp
 
 link to be added
 
-# :x extra line
+### :x extra line
 
 The space between the last line of one paragraph and and the first line of the next should be the same as the space between lines within a paragraph. (Skipping lines between paragraphs can work well for online writing, but not academic essays).
 

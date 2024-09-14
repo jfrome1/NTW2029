@@ -13,11 +13,11 @@ date: 2024-08-16
 - Don't do any outside research for the exercises. The exercises are ways to encourage your thinking, they are not research exercises where you are supposed to get ideas from other people or sources.
 - Don't include introductions or conclusions for the exercises. Get right to the point.
 
-# :x grammar
+### :x grammar
 
 Write grammatically so I know that any writing errors are not due to carelessness. It doesn't work to write the exercises carelessly with the plan to proofread more carefully for the papers. I need to see what your "good" writing looks like before the paper drafts so I know what I need to teach you.
 
-# :x formal
+### :x formal
 
 By "formal style" I don't mean bureaucratic or pretentious; I just mean write it like an essay for class rather than a personal reflection paper, a causal email, or a bunch of notes.
 
