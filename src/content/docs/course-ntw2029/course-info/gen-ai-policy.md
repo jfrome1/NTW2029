@@ -6,7 +6,7 @@ title: GenAI policy
 
 - You are free to use or not use GenAI chatbots in this course in any way as long as you submit links to your chat transcripts
 - There is no penalty for using GenAI chatbots
-- Every assignment in this course must include either 1) a link to a transcript of all relevant GenAI use or 2) a statement that no GenAI was used.
+- Every assignment in this course must include either 1) a link to a transcript of all relevant GenAI use or 2) a statement that no GenAI was used to receive credit.
 
 See the rest of the page for important details.
 
@@ -111,6 +111,8 @@ For each assignment, try to keep all of your GenAI interactions in one chat just
 If you use GenAI, but *don't* submit the full transcript(s) with your assignment, it will be considered a violation of academic honesty with consequent (serious) penalties.
 
 There really is no penalty for using GenAI, so don't risk failing the assignment or the course by forgetting to submit all links.
+
+Every assignment must include either a GenAI link or a statement of non-use to earn credit. If neither are included, the assignment will receive a zero.
 
 # :x grade
 

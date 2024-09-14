@@ -16,10 +16,11 @@ Pick something that you know how to do but that most people in this class won't 
 
 <!-- next time, add something like: don't just say what to do, but explain how to do it if it is something difficult. and don't pick something that is easy to describe but hard to do, like playing an instrument "to play piano, hit the keys in the right order with the right timing and rhythm" -->
 <!-- add requirement to have a title that makes clear what they are going to explain -->
+<!-- previously had link [:think of your reader](#x-reader) but I don't have the heading; need to add if think it's needed -->
 
 Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-scope).
 
-Make sure that you [:think of your reader](#x-reader) while writing your explanation. After reading your explanation, your reader should be able to do the thing you explain (even if at a beginner level). It's not enough if they just know _about_ the task you explain.
+Make sure that you think of your reader while writing your explanation. After reading your explanation, your reader should be able to do the thing you explain (even if at a beginner level). It's not enough if they just know _about_ the task you explain.
 
 What would an average NUSC first-year student know about your topic already? What terms or concepts would they need explained?
 
