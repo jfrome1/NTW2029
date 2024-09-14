@@ -14,7 +14,7 @@ Group B: summarize section 2.7.5 (pp. 68-71)
 
 Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. Citations are not necessary for this exercise.
 
-# :x summary
+### :x summary
 
 <!-- not posted yet -->
 

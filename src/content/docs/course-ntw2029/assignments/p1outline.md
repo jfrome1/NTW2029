@@ -48,11 +48,11 @@ Please review exercise guidelines, follow GenAI policy, and submit an updated wo
  _The above guideline is very important!_ If you don't follow this rule you will end up describing the source as a piece of writing rather than actually summarizing its argument, and that's not the assignment.
 :::
 
-# :x points
+### :x points
 
 ![points and subpoints](/images/outline-points.jpg)
 
-# :x complete
+### :x complete
 
 Correct:
 
@@ -74,7 +74,7 @@ Incorrect:
 
 Problem: (1) is not a complete sentence by itself. (A) and (B) are not complete sentences by themselves. The incorrect format encourages the student to make a list of points without really summarizing them into increasingly broad ideas.
 
-# :x topic
+### :x topic
 
 - Avoid: "Boyd gives several supporting examples." (describes how the source is written)
 - Correct: "Boyd notes that one modern mechanism for punishing cheaters is a police force." (states the example used in the source argument)

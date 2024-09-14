@@ -15,14 +15,14 @@ Please download a blank [workload report](https://canvas.nus.edu.sg/users/90279/
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.
 :::
 
-# :x estimate
+### :x estimate
 
 It is fine if your data is not accurate; just make your best estimates.
 
-# :x hours
+### :x hours
 
 Report your time in hours, using numbers only (use "2" not "2 hrs"), rounding to the nearest half hour (0.5).
 
-# :x writing
+### :x writing
 
 For writing assignments, when you estimate time, _include_ time spent reading Canvas, reading sources, getting feedback on assignments from people, etc.

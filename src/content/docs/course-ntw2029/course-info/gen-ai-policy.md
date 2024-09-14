@@ -83,11 +83,11 @@ I've tried to use GenAI to help with teaching preparation and instruction, but s
 - revise online course content, including on Canvas and my course website
 - revise my written feedback on assignments (I write the initial feedback without GenAI and do all final revisions)
 
-# :x submit all
+### :x submit all
 
 Send the *entire* chat and *all* chats if you have more than one. We don't care if it's 100 pages long.Send it all.
 
-# :x chatbots
+### :x chatbots
 
 This course allows use of GenAI chatbots, meaning tools like ChatGPT that use a chat interface--you enter a text prompt and the AI responds with a text output. Any chat input is allowed. You can copy-and-paste your paper into the chat if you like.
 
@@ -102,11 +102,11 @@ GenAI uses that are _not allowed_ under this course policy include:
 
 These uses will be considered violations of NUS academic honesty policies.
 
-# :x one chat
+### :x one chat
 
 For each assignment, try to keep all of your GenAI interactions in one chat just to make it easier to give me the transcripts. However, if you do end up with multiple chats, you must include all of them.
 
-# :x no submission
+### :x no submission
 
 If you use GenAI, but *don't* submit the full transcript(s) with your assignment, it will be considered a violation of academic honesty with consequent (serious) penalties.
 
@@ -114,33 +114,33 @@ There really is no penalty for using GenAI, so don't risk failing the assignment
 
 Every assignment must include either a GenAI link or a statement of non-use to earn credit. If neither are included, the assignment will receive a zero.
 
-# :x grade
+### :x grade
 
 We likely won't even look at most transcripts during the semester. We will collect them, anonymize them, and analyze them for research purposes after grades are in. Even if we do look at the transcripts, there is no penality for using GenAI in the ways we describe here.
 
-# :x honest
+### :x honest
 
 Please don't edit the chats, or worry that you said something dumb in the chats, or try to trick the system, because that would ruin the dataset and undermine our research. All chats will be anonymized before using them for research.
 
-# :x GenAI tools
+### :x GenAI tools
 
 GenAI doesn't include basic computer-assisted editing like the grammar and spellcheck functions built into word processors.
 
 It includes (but is not limited to) tools such as ChatGPT, Microsoft CoPilot chat, Gemini, Claude, many other tools whose names we don't know, and home-run LLMs .
 
-# :x different tool
+### :x different tool
 
 I recommended one browser and extension combination, but you are welcome to use others if you can figure them out. If you find something that works, please let me know so we can tell other students.
 
-# :x NUS GenAI
+### :x NUS GenAI
 
 Please read NUS guidance on [use of AI tools generally](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-4), [using AI tools for assignments](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-5), and [plagiarism](https://libguides.nus.edu.sg/copyright_essentials_teaching_learning_research/plagiarism). Relevant sections of the NUS Code of Student Conduct are [here](https://www.nus.edu.sg/celc/statements-and-e-resources-on-plagiarism/).
 
-# :x persistent
+### :x persistent
 
 When you use a chatbot, the information isn't necessarily saved in a way that you can share the chat with others. ChatGPT lets you create a link that will persist for at least several days if not weeks. If you want to use a different chatbot, you must confirm that it will let you share a link that will let others see the chat. The link might work on your computer, where the website saves data in your browser, but not on someone else's computer.
 
-# :x details
+### :x details
 
 First, click the `share link` icon:
 
@@ -154,7 +154,7 @@ Finally, click the `copy link` button to create a public link we can see:
 
 ![copy link](/images/chatgpt-copy-link.png)
 
-# :x wrong links
+### :x wrong links
 
 Don't highlight and copy/paste the URL from your browser--it will take you to the chat, but it won't work for your instructor:
 
@@ -164,7 +164,7 @@ You might also see a `copy link` option in ChatGPT, but this is a link to a GPT 
 
 ![don't copy this link](/images/chatgpt-dont-copy-link.png)
 
-# :x any way
+### :x any way
 
 It doesn't matter if:
 
