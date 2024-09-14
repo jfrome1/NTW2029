@@ -7,6 +7,8 @@ import remarkExternalLinks from "remark-external-links";
 import starlightNutshell from "starlight-nutshell";
 import rehypeExternalLinks from "rehype-external-links";
 
+import compress from "astro-compress";
+
 export default defineConfig({
   // site: 'https://jfrome1.github.io/ntw2029/', // GitHub Pages URL config
   // base: '/ntw2029/',
@@ -75,7 +77,7 @@ export default defineConfig({
               items: [
                 "course-ntw2029/resources/evolution/ev-religion",
                 "course-ntw2029/resources/evolution/ev-resources",
-				"course-ntw2029/resources/evolution/nct",
+                "course-ntw2029/resources/evolution/nct",
               ],
             },
             {
@@ -84,7 +86,7 @@ export default defineConfig({
               items: [
                 "course-ntw2029/resources/writing/citations",
                 "course-ntw2029/resources/writing/software",
-				"course-ntw2029/resources/writing/topic-sentences",
+                "course-ntw2029/resources/writing/topic-sentences",
               ],
             },
           ],
@@ -100,6 +102,13 @@ export default defineConfig({
           },
         },
       ],
+    }),
+    compress({
+      HTML: {
+        "html-minifier-terser": {
+          removeComments: true,
+        },
+      },
     }),
   ],
   markdown: {
