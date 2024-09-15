@@ -10,15 +10,15 @@ This assignment is optional. If you submit it, you will receive feedback that ca
 
 ## Assignment purpose
 
-The assignment is designed to help you organize your thoughts for your draft. The assignment asks you to submit an outline, following rules designed to help you process the reading in a way that leads to a good draft. Since Paper 1 is an exposition paper in which you explain a source, the outline you submit for this assignment can be thought of as either an ouline of parts of the source or as an outline of Paper 1.
+The assignment is designed to help you organize your thoughts for your draft. The assignment asks you to submit an outline, following rules designed to help you process the reading in a way that leads to a good draft. Since Paper 1 is an exposition paper in which you explain a source, the outline you submit for this assignment can be thought of as either an outline of parts of the source or as an outline of Paper 1.
 
-## Goals:
+## Goals
 
 - practice paraphrasing and correct attribution
 - practice reading course assignments closely and following all instructions
 - develop an accurate understanding of the source material
 
-## Scope:
+## Scope
 
 The outline should not cover all of Pinker's arguments, only ones that you will discuss in your paper. See the main Paper 1 assignment for the expected scope of the paper.
 
