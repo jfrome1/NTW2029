@@ -1,14 +1,15 @@
 ---
 title: Grading
 ---
+
 ## Final Grade
 
-|		|		|
-|---	|:-:	|
-|Class participation|15%|
-|Exercises|15%|
-|Paper 1|30%|
-|Paper 2|40%|
+|                     |     |
+| ------------------- | :-: |
+| Class participation | 15% |
+| Exercises           | 15% |
+| Paper 1             | 30% |
+| Paper 2             | 40% |
 
 ## Class Participation
 
@@ -24,7 +25,7 @@ Your class participation grade is based on how seriously I think you are engaged
 
 I understand that some students are shy and have trouble speaking in class. Although speaking in class is an important and visible part of class participation, please note that only one of the factors above involves speaking in class, and you can participate in many other ways.
 
-# :x engagement
+### :x engagement
 
 Engagement during class takes two main forms: class discussion and small group activities.
 
@@ -32,7 +33,7 @@ Class discussion includes asking and answering questions during lectures. Active
 
 Small group activities are done in groups with two to four classmates. I do observe your contributions to small group discussions, not just whole-class discussions, and consider those towards participation. My main criterion here is whether you are focused on the activity or start talking about out-of-class topics.
 
-# :x communication
+### :x communication
 
 Good communication means you:
 
@@ -40,18 +41,18 @@ Good communication means you:
 - communicate with me in advance about any issues with attendance or assignment completion
 - take initiative to ask for help with any potential problems
 
-# :x class preparation
+### :x class preparation
 
 Good class preparation means you come to class with all needed materials, honestly engage with the reading, and come to class with questions and/or ideas.
 
-# :x course preparation
+### :x course preparation
 
 Preparing for the course has two parts:
 
 1. reading the course website carefully, including the info, policies, all assignments, and resource
 2. setting up the apps and notifications as described on the [technology guidelines](../course-info/tech-guidelines) page.
 
-# :x individual
+### :x individual
 
 Students come into this class with different backgrounds, and I'll sometimes give you a resource to help you with a particular issue. For example, I might tell you that you are making comma errors and give you a resource to learn how to fix the problem. You actively contribute towards your individual learning if you use that resource and learn how to avoid those errors. If I see the same issues in your Paper 2 as your Paper 1, that suggests that you were not able to participate in your learning as much as you might have wanted to.
 

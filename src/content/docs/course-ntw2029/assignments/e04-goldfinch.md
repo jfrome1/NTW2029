@@ -1,9 +1,8 @@
 ---
-
 title: Exercise 4 - summarize Goldfinch
 date: 2024-08-13
-
 ---
+
 Write a 250 word (max) summary of one section of Goldfinch, A. (2015). _Rethinking evolutionary psychology_. Palgrave Macmillan. Consider the summary guidelines we've discussed in class.
 
 After class 3.1, I will [:post a summary](#x-summary) of the first sections of this reading, both to provide an example and to help you understand the reading. (It's not intended as a perfect model for you to follow). Compare my summary to the original text to see how I expand certain parts (in order to help a reader follow the argument) while also condensing the text (by eliminating quotes and details).
@@ -14,7 +13,7 @@ Group B: summarize section 2.7.5 (pp. 68-71)
 
 Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. Citations are not necessary for this exercise.
 
-# :x summary
+### :x summary
 
 <!-- not posted yet -->
 

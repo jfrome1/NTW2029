@@ -12,7 +12,7 @@ Notifications: set up Canvas notifications so you don't miss anything important.
 
 Canvas discussions hides replies by default. It's important that you see the replies from me and your classmates. Make it a habit to [:expand threads](#x-threads) when you read the discussions (sadly, this can't be set as the default).
 
-# :x threads
+### :x threads
 
 ![expand threads](/images/expand-threads.png)
 
@@ -35,10 +35,10 @@ Please follow these guidelines for emailing me:
 
 - You _must_ have a calendar with your course due dates on it. If you don't currently use one, [:set it up right away](#x-calendar).
 
-# :x calendar
+### :x calendar
 
 Every student I have had who forgot to submit an asssignment was one who didn't use a calendar. Some relied on memory; others had a to-do list. Your life may have worked just fine without a calendar until now. Now you need one. Set up a calendar, put all assignment due dates on it right at the beginning of the semester, check the calendar daily, and if your calendar is electronic, make sure to set up a default one-day advance reminder for assignment due dates.
 
-# :x chat
+### :x chat
 
 Teams has many other functions, but we'll just use it for chat messages.
