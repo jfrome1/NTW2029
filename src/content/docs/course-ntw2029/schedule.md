@@ -190,7 +190,7 @@ to be posted
 
 ###### Due [Sun 06 Oct Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
 
-## 8.1 - Tue 08 Oct 2024
+## 8.1	- Tue 08 Oct 2024
 
 - Writing topic: introductions - framing your argument, creating and refining your thesis
   - Read (recommended):
