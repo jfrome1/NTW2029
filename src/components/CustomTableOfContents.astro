@@ -1,9 +1,11 @@
 ---
-import CustomTableOfContentsList from './CustomTableOfContentsList.astro';
+import CustomTableOfContentsList from "./CustomTableOfContentsList.astro";
 const { labels, toc } = Astro.props;
 
 // Uncomment to remove Overview heading
-const index = toc.items.findIndex((item: { slug: string }) => item.slug === '_top');
+const index = toc.items.findIndex(
+  (item: { slug: string }) => item.slug === "_top"
+);
 if (index !== -1) {
   toc.items.splice(index, 1);
 }
@@ -13,14 +15,17 @@ if (index !== -1) {
 ---
 
 {
-	toc && (
-		<starlight-custom-toc data-min-h={0} data-max-h={1}>
-			<nav aria-labelledby="starlight__on-this-page">
-				<h2 id="starlight__on-this-page">{labels['tableOfContents.onThisPage']}</h2>
-				<CustomTableOfContentsList toc={toc.items} />
-			</nav>
-		</starlight-custom-toc>
-	)
+  toc && (
+    <starlight-toc
+      data-min-h={toc.minHeadingLevel}
+      data-max-h={toc.maxHeadingLevel}
+    >
+      <nav aria-labelledby="starlight__on-this-page">
+        <h2 id="starlight__on-this-page">
+          {labels["tableOfContents.onThisPage"]}
+        </h2>
+        <CustomTableOfContentsList toc={toc.items} />
+      </nav>
+    </starlight-toc>
+  )
 }
-
-<script src="./starlight-toc"></script>

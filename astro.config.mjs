@@ -14,6 +14,10 @@ export default defineConfig({
   // base: '/ntw2029/',
   integrations: [
     starlight({
+      tableOfContents: {
+        minHeadingLevel: 1,
+        maxHeadingLevel: 2,
+      },
       plugins: [
         // starlightLinksValidator(),
         starlightNutshell(),

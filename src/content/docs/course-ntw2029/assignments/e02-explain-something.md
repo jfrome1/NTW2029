@@ -1,8 +1,6 @@
 ---
-
 title: Exercise 2 - Explain how to do something
 date: 2024-08-13
-
 ---
 
 Almost every piece of writing advice I will give you in this course relates to one of two ideas:
@@ -32,7 +30,7 @@ Please make sure that you follow [:course guidelines](#x-guidelines).
 
 Before submitting, you may want to review this submission essentials [:checklist](#x-checklist):
 
-# :x checklist
+### :x checklist
 
 - Pick a task you know well but that most classmates won't
 - Limit the explanation to 300 words or less
@@ -42,7 +40,7 @@ Before submitting, you may want to review this submission essentials [:checklist
 - Follow all formatting and GenAI guidelines
 - Update your workload report
 
-# :x guidelines
+### :x guidelines
 
 The key guidelines to review are:
 
@@ -52,7 +50,7 @@ The key guidelines to review are:
 - due dates and (if needed) extensions
 - workload report
 
-# :x scope
+### :x scope
 
 Some examples:
 
@@ -64,21 +62,21 @@ Some examples:
 
 # Example submission
 
-Throughout this course, note that examples provided are *not* intended as ideal models you should emulate. They are intended to give you a general sense of what I'm looking for to prevent you from going completely off track. All examples will have both strengths and weaknesses.
+Throughout this course, note that examples provided are _not_ intended as ideal models you should emulate. They are intended to give you a general sense of what I'm looking for to prevent you from going completely off track. All examples will have both strengths and weaknesses.
 
 Here is an [:example submission](#x-example) to give you some idea what is expected. If you have time and interest, I've also decided to share with you how I [:used GenAI](#x-genai) to create this example.
 
-# :x example
+### :x example
 
 ### How to Format Webpage Text Using Markdown
 
 Markdown is a computer language widely used for formatting text on the web. Users can write documents in Markdown and software will convert (or "render") them into the universal web language, HTML, that all webpages use. Markdown is much easier to learn than HTML, and it has the advantage that its files are easy for people to read and understand. Markdown files are also are small and can be read on any computer system.
 
-Markdown's advantage over plain text alone is that it provides a way to format text and add web functions to the rendered webpages by adding specific characters before and after words. For example, to create bold text in Markdown, use double asterisks or double underscores around the text you want to emphasize. Typing `**bold text**` or `__bold text__` in a Markdown document will render the webpage text as **bold text**. Italicizing text is similarly straightforward. By enclosing the text in single asterisks or underscores, you can make it italic. For example, writing `*italic text*` or `_italic text_` will display as *italic text*. Strikethrough text, which indicates deletion or irrelevance, can be achieved by enclosing the text in double tildes. For example, `~~strikethrough text~~` will render as ~~strikethrough text~~.
+Markdown's advantage over plain text alone is that it provides a way to format text and add web functions to the rendered webpages by adding specific characters before and after words. For example, to create bold text in Markdown, use double asterisks or double underscores around the text you want to emphasize. Typing `**bold text**` or `__bold text__` in a Markdown document will render the webpage text as **bold text**. Italicizing text is similarly straightforward. By enclosing the text in single asterisks or underscores, you can make it italic. For example, writing `*italic text*` or `_italic text_` will display as _italic text_. Strikethrough text, which indicates deletion or irrelevance, can be achieved by enclosing the text in double tildes. For example, `~~strikethrough text~~` will render as ~~strikethrough text~~.
 
 You can create and edit a Markdown document using any text editor, but to convert the document into an HTML webpage, you will need a Markdown editor. Popular free editors include Obsidian, VS Code, and Zettlr.
 
-# :x genai
+### :x genai
 
 Reading this section is totally optional; I just thought some of you might be interested. I wanted to create an example submission for this assignment to help students understand what I'm looking for. I'll explain the process I went through for two reasons: 1) seeing the changes I made will help you understand even better what I'm looking for, and 2) my process may help you use GenAI more effectively.
 
@@ -105,8 +103,8 @@ GenAI output:
 > One of the primary reasons to use Markdown is its simplicity and readability. Even in its raw form, Markdown text is easy to understand, making it accessible for beginners. Unlike HTML, which requires more complex syntax, Markdown allows users to format text with minimal effort. Additionally, Markdown is platform-independent and supported by various applications, including version control systems like Git, which are crucial for collaborative projects.
 > To transform Markdown text into formatted text, you need software to render it. Rendering is the process of converting Markdown syntax into HTML or another format that can be displayed correctly in a browser or other text display environment. Many text editors and content management systems have built-in Markdown renderers, making it seamless to write and publish Markdown content.
 > To create bold text in Markdown, you use double asterisks or double underscores around the text you want to emphasize. For instance, typing `**bold text**` or `__bold text__` will render the text as **bold text**. This feature is particularly useful for highlighting important information or making headings stand out.
-> Italicizing text is similarly straightforward. By enclosing the text in single asterisks or underscores, you can make it italic. For example, writing `*italic text*` or `_italic text_` will display as *italic text*. Italics are typically used to emphasize a word or phrase subtly or to denote titles of books and other works.
-> Markdown also allows for combining bold and italic formatting by using three asterisks or underscores. For instance, `***bold and italic***` or `___bold and italic___` will produce ***bold and italic*** text. This combined styling is useful when you need to give extra emphasis to a particular piece of information.
+> Italicizing text is similarly straightforward. By enclosing the text in single asterisks or underscores, you can make it italic. For example, writing `*italic text*` or `_italic text_` will display as _italic text_. Italics are typically used to emphasize a word or phrase subtly or to denote titles of books and other works.
+> Markdown also allows for combining bold and italic formatting by using three asterisks or underscores. For instance, `***bold and italic***` or `___bold and italic___` will produce **_bold and italic_** text. This combined styling is useful when you need to give extra emphasis to a particular piece of information.
 > Strikethrough text, which is often used to indicate that something has been deleted or is no longer relevant, can be achieved by enclosing the text in double tildes. For example, `~~strikethrough text~~` will render as ~~strikethrough text~~. This feature helps to visually denote changes or corrections in documents.
 > Understanding how to style text in Markdown is essential for creating clear and visually appealing documents, especially for web content. By mastering these basic formatting techniques, students can enhance the readability and effectiveness of their writing, ensuring that their key points stand out to readers. Markdown's simplicity and efficiency make it a valuable tool for anyone involved in digital writing and publishing.
 

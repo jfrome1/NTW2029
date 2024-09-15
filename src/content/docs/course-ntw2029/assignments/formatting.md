@@ -1,6 +1,7 @@
 ---
 title: Formatting
 ---
+
 ## Exercises
 
 Exercises should be typed directly into the provided text box (unless otherwise indicated).
@@ -13,7 +14,7 @@ If you did use GenAI, include the link to your chat transcript at the end of the
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 
-# :x no links
+### :x no links
 
 ![avoid links](/images/link-to-file.png)
 
@@ -40,11 +41,11 @@ Assignment Name (e.g. Paper 1 draft)
 Assignment due date
 ```
 
-# :x temp
+### :x temp
 
 link to be added
 
-# :x extra line
+### :x extra line
 
 The space between the last line of one paragraph and and the first line of the next should be the same as the space between lines within a paragraph. (Skipping lines between paragraphs can work well for online writing, but not academic essays).
 
@@ -73,6 +74,6 @@ To remove the extra spacing between paragraphs in Microsoft Word:
 - Title: Centered, same font as body text, with no additional formatting
 - Header information: Name, course, paper draft/final, and assignment due date at the top left-hand corner of the first page (not in the header)
 - Paragraph spacing: No extra line between paragraphs
-- MS Word settings: "Don't add space between paragraphs of the same style" option checked (follow provided  instructions to adjust settings)
+- MS Word settings: "Don't add space between paragraphs of the same style" option checked (follow provided instructions to adjust settings)
 
 <!-- # Outline formatting -->

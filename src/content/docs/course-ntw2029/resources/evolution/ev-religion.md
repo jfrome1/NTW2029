@@ -17,7 +17,7 @@ Others think the Earth is billions of years old based on [:scientific evidence](
 If your religious beliefs allow for the idea that the earth is roughly 4.5 billion years old, then evolution and religion are fairly compatible:
 
 - you can say that God created the diversity of life using evolution as a mechanism, and evolution is one of many biological laws of nature that God created when the universe was created, along with laws of physics and chemistry
-- you might argue that evolution and science explain *how* diversity of life is created, and religion explains *why* it was created
+- you might argue that evolution and science explain _how_ diversity of life is created, and religion explains _why_ it was created
 - consider an analogy: astronomers can explain how the planets orbit each other, and we discovered the mechanisms such as gravity that govern planetary orbits relatively recently, but the accepting theory of gravity does not mean that you reject the notion that God created the universe
 
 ## Implications of a young Earth
@@ -35,9 +35,9 @@ If you hold that the earth is less than 10,000 years old, then there is potentia
 - [Acceptance of evolution by religious groups - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_of_evolution_by_religious_groups)
 - [What is a Creationist? Evolution Question #5](https://youtu.be/-pSeCLo3AHE)
 - [Was Charles Darwin an Atheist?](https://publicdomainreview.org/essay/was-charles-darwin-an-atheist)
-	- In class, I said that Darwin was a Christian, which is actually a bit misleading. According to this article, he was born a Christian, but "[a] gradual scepticism towards Christianity and the authenticity of the Bible gradually crept over him during the late 1830s — leaving him not a Christian, but no atheist either; rather a sort of theist. To be a 'theist' in Darwin's day was to believe that a supernatural deity had created nature or the univerise but did not intervene in the course of history."
+  - In class, I said that Darwin was a Christian, which is actually a bit misleading. According to this article, he was born a Christian, but "[a] gradual scepticism towards Christianity and the authenticity of the Bible gradually crept over him during the late 1830s — leaving him not a Christian, but no atheist either; rather a sort of theist. To be a 'theist' in Darwin's day was to believe that a supernatural deity had created nature or the univerise but did not intervene in the course of history."
 
-# :x scientific
+### :x scientific
 
 If you want to know how scientists estimate the age of the earth, a short discussion of evidence is found in this [article](https://biologos.org/common-questions/how-are-the-ages-of-the-earth-and-universe-calculated), or you can take a deeper look with videos such as these:
 
