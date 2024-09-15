@@ -105,8 +105,8 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: quotation, citation
 	- Read (recommended): _TSIS_ 3 "As He Himself Puts It - The Art of Quoting", 42-51
 - Class media: <!--Class media: -->
-	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
-	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
+	- [Human Nature Supernormal Stimuli](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
+	- [Shocking Female Model Body Photoshop Airbrush Transformation Video](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
 
 # :x pinker
 
@@ -190,7 +190,6 @@ to be posted
 ###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
 
 ###### Due [Sun 06 Oct Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
-
 
 ## 8.1	- Tue 08 Oct 2024
 
