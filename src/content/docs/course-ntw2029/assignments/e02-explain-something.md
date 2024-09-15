@@ -32,7 +32,7 @@ Please make sure that you follow [:course guidelines](#x-guidelines).
 
 Before submitting, you may want to review this submission essentials [:checklist](#x-checklist):
 
-### :x checklist
+# :x checklist
 
 - Pick a task you know well but that most classmates won't
 - Limit the explanation to 300 words or less
@@ -42,7 +42,7 @@ Before submitting, you may want to review this submission essentials [:checklist
 - Follow all formatting and GenAI guidelines
 - Update your workload report
 
-### :x guidelines
+# :x guidelines
 
 The key guidelines to review are:
 
@@ -52,7 +52,7 @@ The key guidelines to review are:
 - due dates and (if needed) extensions
 - workload report
 
-### :x scope
+# :x scope
 
 Some examples:
 
@@ -68,9 +68,9 @@ Throughout this course, note that examples provided are *not* intended as ideal 
 
 Here is an [:example submission](#x-example) to give you some idea what is expected. If you have time and interest, I've also decided to share with you how I [:used GenAI](#x-genai) to create this example.
 
-### :x example
+# :x example
 
-**How to Format Webpage Text Using Markdown**
+### How to Format Webpage Text Using Markdown
 
 Markdown is a computer language widely used for formatting text on the web. Users can write documents in Markdown and software will convert (or "render") them into the universal web language, HTML, that all webpages use. Markdown is much easier to learn than HTML, and it has the advantage that its files are easy for people to read and understand. Markdown files are also are small and can be read on any computer system.
 
@@ -78,7 +78,7 @@ Markdown's advantage over plain text alone is that it provides a way to format t
 
 You can create and edit a Markdown document using any text editor, but to convert the document into an HTML webpage, you will need a Markdown editor. Popular free editors include Obsidian, VS Code, and Zettlr.
 
-### :x genai
+# :x genai
 
 Reading this section is totally optional; I just thought some of you might be interested. I wanted to create an example submission for this assignment to help students understand what I'm looking for. I'll explain the process I went through for two reasons: 1) seeing the changes I made will help you understand even better what I'm looking for, and 2) my process may help you use GenAI more effectively.
 
