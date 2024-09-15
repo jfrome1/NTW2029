@@ -85,6 +85,7 @@ export default defineConfig({
               collapsed: true,
               items: [
                 "course-ntw2029/resources/writing/citations",
+                "course-ntw2029/resources/writing/grammar",
                 "course-ntw2029/resources/writing/software",
                 "course-ntw2029/resources/writing/topic-sentences",
               ],

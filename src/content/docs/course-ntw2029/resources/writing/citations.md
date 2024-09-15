@@ -24,7 +24,7 @@ Proper citation is [:ethically important](#x-ethical).
 
 ### :x ethical
 
-Scholars devote their professional lives to generating and disseminating ideas. Usually, they forego more lucrative careers do do so. The primary reward they receive is others publically recognizing their work by citing them. Using someone's ideas without crediting them is essentially stealing their labor. Proper citation takes minimal effort, and is the right thing to do.
+Scholars devote their professional lives to generating and disseminating ideas. Usually, they forego more lucrative careers do do so. The primary reward they receive is others publicly recognizing their ideas by citing them. Using someone's ideas without crediting them is essentially stealing their labor. You should properly cite sources because it takes minimal effort and is the right thing to do.
 
 ## When is citation required?
 
