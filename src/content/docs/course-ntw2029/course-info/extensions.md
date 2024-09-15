@@ -17,6 +17,6 @@ Please do not ask for additional extensions for any of the following reasons:
 
 Of course, if you are having trouble managing your workload, please ask for help. There are many resources available that I can help you find.
 
-### :x submit
+# :x submit
 
 It's important that you include this so we both know you have made a commitment to submitting the assignment by the extension deadline.
