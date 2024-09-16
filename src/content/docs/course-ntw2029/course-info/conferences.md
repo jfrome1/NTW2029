@@ -16,6 +16,7 @@ Please follow these guidelines to avoid distractions during the conference:
 
 To make sure you get full benefit from the conference:
 
+- Come to the conference prepared with specific questions; the conference is a time for you to use me as a resource, whether or not I have specific topics to discuss based on your draft
 - Be prepared to take notes during the conference (if you type faster than you write, split the screen between Zoom and your notes, or use 2 monitors)
 - Review the posted assignment instructions and and your submission before the conference
 - Right after the conference, complete the assigned exercise to email me a brief summary of the conference, including the main points I made and your planned next steps. Do this quickly so you don't forget what we talked about.

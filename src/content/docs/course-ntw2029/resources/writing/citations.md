@@ -168,7 +168,7 @@ APA guidelines on citing book chapters is [here](https://apastyle.apa.org/blog/b
 
 - Papers not using proper format for in-text citations and the reference list will incur a grade penalty.
 - I am happy to look at your citations in person.
-- [:PLEASE do not email me your citations](#x-email) and ask me to check them for you unless you have an unusual situation that is not covered by the guidelines here (in which case it is ok).
+- [:PLEASE do not send me your citations](#x-email) and ask me to check them for you unless you have an unusual situation that is not covered by the guidelines here (in which case it is ok).
 
 :::tip
 It's usually not efficient to format all your in-text citations as you draft your paper. In fact, sometimes interrupting your writing to go look up a specific date or page could distract your focus. I usually put (YYYY) or (p) if I don't have the information handy when drafting and add it in later.
