@@ -59,17 +59,36 @@ export default defineConfig({
           label: "Assignments",
           collapsed: true,
           items: [
-            "course-ntw2029/assignments/ex-guidelines",
-            "course-ntw2029/assignments/formatting",
-            "course-ntw2029/assignments/e01-introductions",
-            "course-ntw2029/assignments/e02-explain-something",
-            "course-ntw2029/assignments/e03-boyd",
-            "course-ntw2029/assignments/e04-goldfinch",
-            "course-ntw2029/assignments/e05-p1-conf-notes",
-            "course-ntw2029/assignments/p1",
-            "course-ntw2029/assignments/p1outline",
-            "course-ntw2029/assignments/e10-workload",
-          ],
+            {
+				label: "General information",
+				collapsed: true,
+				items: [
+					"course-ntw2029/assignments/general/feedback",
+				  "course-ntw2029/assignments/general/ex-guidelines",
+				  "course-ntw2029/assignments/general/formatting",
+				],
+			  },
+			  {
+				label: "Exercises",
+				collapsed: true,
+				items: [
+					"course-ntw2029/assignments/exercises/e01-introductions",
+					"course-ntw2029/assignments/exercises/e02-explain-something",
+					"course-ntw2029/assignments/exercises/e03-boyd",
+					"course-ntw2029/assignments/exercises/e04-goldfinch",
+					"course-ntw2029/assignments/exercises/e05-p1-conf-notes",
+					"course-ntw2029/assignments/exercises/e10-workload",
+				],
+			  },
+			  {
+				label: "Papers",
+				collapsed: true,
+				items: [
+					"course-ntw2029/assignments/papers/p1",
+					"course-ntw2029/assignments/papers/p1outline",
+				],
+			  },
+			],
         },
         {
           label: "Resources",

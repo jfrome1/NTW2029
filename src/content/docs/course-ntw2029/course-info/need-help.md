@@ -5,13 +5,13 @@ date: 2024-08-14
 
 ---
 
-If you are having trouble, ask for help. I am easily accessible outside of class.
+If you have a question, want additional feedback, or are having any issues, ask for help. I am easily accessible outside of class.
 
 ## How can I contact you?
 
 - In person: I am on campus most days. I can often meet students briefly after class, but for longer conversations, contact me to arrange a meeting time.
 - By email: [:Email me questions](../course-info/tech-guidelines#course-email) at any time (although please check this site first for answers to questions about course logistics). I will do my best to respond promptly.
-- By chat: send a message to our class MS Teams chat.
+- By chat: send a message to our class MS Teams chat at any time
 - Avoid: don't use Canvas message or office voicemail, as I don't check them.
 
 ## Should you ask publicly in a group or privately to the instructor?

@@ -28,10 +28,10 @@ By "formal style" I don't mean bureaucratic or pretentious; I just mean write it
 
 - Exercises are always due at 11:59pm. Proper sleep is important for health (both physical and mental) and I do not want you staying up late to finish.
 - You may resubmit exercises until the deadline if needed (for example, if you are reading over your submission and see an embarrassing typo).
-- Your exercises must follow [:formatting guidelines](../assignments/formatting#exercises) to receive credit
+- Your exercises must follow [:formatting guidelines](../formatting#exercises) to receive credit
 
 # Comments
 
 - I read all assignments thoroughly, whether or not I write a lot of comments.
 - I will write comments on your first exercise submitted through Canvas. Let me know if you don't see the comments so we can troubleshoot.
-- I can't always provide substantial written feedback on exercises because it is so time-consuming to produce. You are always welcome to ask for additional feedback by scheduling a meeting with me.
+- You are always welcome to [:ask for additional feedback](../need-help)
