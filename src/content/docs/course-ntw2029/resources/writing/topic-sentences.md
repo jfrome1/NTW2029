@@ -7,7 +7,7 @@ date: 2024-09-06
 
 ## Summary
 
-A topic sentence is the first sentence of each paragraph. It should fully capture the one main idea of the paragraph. A reader who reads only the first sentence of each paragraph in your paper should be able to follow the paper's entire argument.
+A topic sentence is usually the first sentence of each paragraph. It should fully capture the one main idea of the paragraph. A reader who reads only the first sentence of each paragraph in your paper should be able to follow the paper's entire argument.
 
 See below for details and exceptions.
 
