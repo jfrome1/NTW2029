@@ -86,6 +86,7 @@ export default defineConfig({
 				items: [
 					"course-ntw2029/assignments/papers/p1",
 					"course-ntw2029/assignments/papers/p1outline",
+					"course-ntw2029/assignments/papers/p1final",
 				],
 			  },
 			],
