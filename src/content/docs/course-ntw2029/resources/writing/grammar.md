@@ -18,9 +18,15 @@ Academic writing frequently uses abstract nouns, which can be grammatically tric
 - [Grammarly blog: Abstract nouns](https://www.grammarly.com/blog/abstract-nouns/)
 - [Scribbr: Abstract Noun | Definition, Examples & Worksheet](https://www.scribbr.com/nouns-and-pronouns/abstract-noun/)
 
-## "as they" or "as it"
+## "as" for causality
 
-The phrase "as they/it" should be avoided because it is ambiguous. It can mean both "because" and "at the same time as". If you want to describe a cause-effect relationship, use words like "because", "since", or "due to".
+Avoid using the word "as" to indicate cause-effect, e.g. "humans evolved to like fruit, as eating fruit is fitness-enhancing". I suggest avoiding this use because "as" can be ambiguous. "As" can mean both "because" and "at the same time as". Consider " "animals run, as they are in danger". Does this mean "animals run because they are in danger" or "animals run during times they are in danger"?
+
+If you want to describe a cause-effect relationship, use words like "because", [:"since"](#x-since), or "due to".
+
+##### :x since
+
+Technically, "since" can also indicate either cause-effect or something about time, but this ambiguity is rarely a problem.
 
 ## Commas
 

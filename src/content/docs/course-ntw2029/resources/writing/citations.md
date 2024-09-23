@@ -28,7 +28,7 @@ Scholars devote their professional lives to generating and disseminating ideas. 
 
 ## When is citation required?
 
-- In this course, citations are required for all assignments unless stated otherwise.
+- In this course, both in-text citations and a reference list are required _for all assignments_ unless stated otherwise.
 - Provide citations to the original source every time [:you use others' ideas](#x-others-ideas).
 - Most plagiarism is [:unintentional](#x-unintentional); but failure to cite can have serious consequences, including failing the assignment or course.
 - Two exceptions to citation: [:common knowledge](#x-common) and [:information from class](#x-class)
@@ -106,15 +106,26 @@ To locate the correct citation URL for an article, search for the article title 
 
 ### In-text citations
 
-- Parenthetical (in-text) citations should appear in the body of your text whenever you write information that came from a source. In-text citations include authors' last names, the year that the source was published, and the page number where the cited information came from.
+- In-text citations are short pieces of information, put in parentheses, in the main text of academic papers, like this (Frome, 2021, 65).
+- Put in-text citations whenever you write information that came from a source, but not in [:every single sentence](#x-every).
 - For in-text citations, the sentence period/full stop should always go after the last parentheses when the citation is at the end of the sentence.
-- The basic in-text citation format you should use is (Last Name, YEAR, page number), but there are exceptions, so follow additional rules based on these questions:
+- For in-text citations, follow my guidelines rather than APA guidelines.
+- The basic in-text citation format you should use is (authors' last names, year source was published, page numbers [no "p." is needed]), but most in-text citations after the first one should omit some of this information. Change the citations based on these questions:
   - Does the source have [:more than one author](#x-one-author)?
   - Do you cite the source [:more than once](#x-cite-more) in the paper?
   - Did you [:already mention the author or year](#x-already) in the sentence?
   - Are you citing the [:source as a whole](#x-whole) rather than an idea that appears on a particular page?
-- Of course, [:exceptions exist](#x-exceptions).
-- For in-text citations, follow these guidelines rather than APA guidelines.
+- Of course, additional [:exceptions exist](#x-exceptions).
+
+##### :x every
+
+In this course, the main purpose of in-text citation is for me to be able to find the place in your source that you are discussing. Sometimes, students paraphrase or quote sources as saying things that seem unlikely or surprising to me, and I want to check to see if I read the source in the same way.
+
+In-text citations should be included frequently enough that I can easily find the location students are discussing, but not in every sentence, which might interrupt reading flow.
+
+My guidelines are: 1) have at least one in-text citation in each paragraph that uses a source's ideas, and 2) include a new in-text citation if the relevant page changes.
+
+In all honesty, most academic papers do not focus extensively on closely explaining or analyzing just one source in the way that our assignments do, so you won't see so many citations in published sources.
 
 ### :x exceptions
 
