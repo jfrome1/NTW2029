@@ -22,6 +22,8 @@ What the styles mean:
 	- it is not the appropriate tone for academic writing (usually, too informal)
 	- it uses complex/"academic" vocabulary where a regular word would be just as good and easier to understand
 
+<!-- explain how to remove these styles and remove comments before submitting final  -->
+
 ## Approach to feedback
 
 Sometimes students will say, ""You only commented on part of my paper. Will you comment on the rest?" I understand why it may seem strange that I comment on only limited parts of a paper. To understand my reasons, consider two ways of thinking about paper comments:
@@ -34,3 +36,5 @@ In this course, I use approach 2. To be fair to all students, I devote a certain
 I believe I can achieve my goals of helping you improve your writing without marking every instance of every issue in a draft. I don't feel that my role is to help you make your draft so good that it can't be improved, and (to be honest) neither you nor I have enough time to achieve that goal in one semester even if we wanted to. Of course, if you want to continue work on any papers for the course, such as to improve them for submission to an undergraduate journal, I'm happy to continue working with you to improve them.
 
 If you have any specific questions about parts of the paper that I didn't explicitly comment on, just ask. I'm happy to respond to questions over email or messaging as time allows, or to schedule additional meetings during the week. Unfortunately, I cannot comment on emailed sections of papers or drafts.
+
+<!-- add nutshell link about why I can't comment on emailed sections  -->

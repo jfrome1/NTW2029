@@ -12,7 +12,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: origins of evolutionary thought
 - Writing topic: university academic writing
 
-###### Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](assignments/exercises/e01-introductions.md)
+###### Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](assignments/exercises/e01-introductions)
 
 ## 1.2 - Fri 16 Aug 2024
 
@@ -25,7 +25,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
     - _TSIS_ Introduction - "Entering the Conversation", 1-15
     - _TSIS_ 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 
-###### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](assignments/exercises/e02-explain-something.md)
+###### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](assignments/exercises/e02-explain-something)
 
 ### :x videos
 
@@ -68,7 +68,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Class media:
   - West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/westLionMane2005 bw 1-4.pdf)
 
-###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](assignments/exercises/e03-boyd.md)
+###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](assignments/exercises/e03-boyd)
 
 ## 3.1 - Tue 27 Aug 2024
 
@@ -95,7 +95,7 @@ Please watch the following. Remember that you can come back to these later in th
   - _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
   - _Rewriting_ 1, "Coming to Terms" [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/harrisRewritingHowThings2017Chp1-comingtoterms.pdf)
 
-###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](assignments/exercises/e04-goldfinch.md)
+###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](assignments/exercises/e04-goldfinch)
 
 ## 4.1 - Tue 03 Sep 2024
 
@@ -126,7 +126,7 @@ Please watch the following. Remember that you can come back to these later in th
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
 
-###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1outline.md)
+###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1outline)
 
 ## 5.1 - Tue 10 Sep 2024
 
@@ -145,7 +145,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
   - Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1](assignments/papers/p1.md) draft
+###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1](assignments/papers/p1) draft
 
 ## 6.1 - Tue 17 Sep 2024
 
@@ -154,7 +154,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic:
   - Read (recommended):
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): [Exercise 5 - Paper 1 post-conference notes](assignments/exercises/e05-p1-conf-notes.md)
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): [Exercise 5 - Paper 1 post-conference notes](assignments/exercises/e05-p1-conf-notes)
 
 ## 6.2 - Fri 20 Sep 24
 
@@ -165,7 +165,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [Sun 22 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136408?module_item_id=411481): Paper 1 final
 
-###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): Exercise 6 - Paper 1 self-evaluation
+###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): [Exercise 6 - Paper 1 writing reflection](assignments/exercises/e06-writing-reflection)
 
 ## 7.1 - Tue 01 Oct 2024
 
