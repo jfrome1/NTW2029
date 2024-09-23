@@ -43,7 +43,6 @@ import "astro-feelback/styles/feelback.css";
                     showMessage('Please enter your feedback.', 'error');
                 }
                 button.innerText = 'Sending...';
-                console.log(JSON.stringify({ feedback }),)
                 try {
                     const response = await fetch('https://submit-form.com/V16Xo43GN', {
                         method: 'POST',
@@ -51,7 +50,7 @@ import "astro-feelback/styles/feelback.css";
                             'Content-Type': 'application/json',
                             Accept: "application/json",
                         },
-                        body: JSON.stringify({ feedback }),
+                        body: JSON.stringify({ feedback, page: location.pathname }),
                     });
 
                     if (response.ok) {
