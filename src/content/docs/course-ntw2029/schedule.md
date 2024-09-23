@@ -126,7 +126,7 @@ Please watch the following. Remember that you can come back to these later in th
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
 
-###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1outline)
+###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1-outline.md)
 
 ## 5.1 - Tue 10 Sep 2024
 
@@ -170,17 +170,17 @@ Please watch the following. Remember that you can come back to these later in th
 ## 7.1 - Tue 01 Oct 2024
 
 - EP and art topic: EP and the multilevel mind
-  - Read:
+  - Read: none
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
   - Read (recommended):
 
 ## 7.2 - Fri 04 Oct 2024
 
-- EP and art topic: no new EP content after 7.1
-- Writing topic: evaluating empirical research
-  - Read (recommended):
+- EP and art topic: evaluating empirical research
+  - Read:
     - Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/ahnSadMoviesDon2012.pdf), [:discussion questions](#x-ahn)
   - Handout: [How to read empirical research articles](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/howtoreadempiricalresearcharticles.pdf)
+- Writing topic: TBA
 
 ### :x ahn
 
@@ -192,6 +192,7 @@ to be posted
 
 ## 8.1	- Tue 08 Oct 2024
 
+- No new EP readings after 7.1
 - Writing topic: introductions - framing your argument, creating and refining your thesis
   - Read (recommended):
 
