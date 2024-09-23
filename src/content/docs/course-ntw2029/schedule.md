@@ -66,7 +66,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: analyzing arguments, engaging with sources
   - Read (recommended):_COR_, 6, "Engaging Sources," 85-105
 - Class media:
-  - West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/westLionMane2005 bw 1-4.pdf)
+  - West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/westLionMane2005bw1-4.pdf)
 
 ###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](assignments/exercises/e03-boyd)
 
