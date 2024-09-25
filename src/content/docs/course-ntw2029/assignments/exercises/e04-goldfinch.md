@@ -29,7 +29,7 @@ Please review exercise guidelines, follow GenAI policy, and submit an updated wo
 </div>
  -->
 
-Summary of Boyd, first three sections:
+Summary of Goldfinch, first three sections:
 
 - Goldfinch suggests that evolutionary psychology is potentially useful for generating hypotheses to explain organisms' traits. The method is to think of selection pressures as "problems" that can decrease an organism's reproductive fitness and variations in traits as potential "solutions" to those problems that increase reproductive fitness (i.e., allow an organism to reproduce its genes at a higher rate). These problems and solutions can be proposed as testable hypotheses. Goldfinch then describes several objections to this method that many scholars have found to be sufficient reasons to reject evolutionary psychology.
 - 2.7.1 No Stable Problems Objection: Goldfinch asks questions that challenge a certain evolutionary model in which stable environments are said to pose problems for species. Those species solve those problems by evolving traits that better match the stable environments in ways that increase their reproductive fitness. According to Goldfinch, Sterenly challenges this model by arguing that environments actually contain no stable problems. Sterenly argues that species' changing traits also change the environment in which the species evolve. Thus, Sterenly argues, environments contain only dynamic problems, not stable problems as assumed by evolutionary psychology.
