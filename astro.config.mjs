@@ -131,16 +131,6 @@ export default defineConfig({
           ],
         },
       ],
-      head: [
-        {
-          tag: "script",
-          attrs: {
-            src: "https://scripts.simpleanalyticscdn.com/latest.js",
-            defer: true,
-            async: true,
-          },
-        },
-      ],
     }),
     compress({
       HTML: {
