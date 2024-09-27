@@ -23,8 +23,8 @@ jobs:
 
       - name: Merge Dependabot PR if tests pass
         if: success() && github.event.pull_request.user.login == 'dependabot[bot]'
-        uses: "github-actions/merge-schedule-action@v1.2.4"
-        with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
-          merge-method: squash
-          commit-message: "Merged by GitHub Actions after successful tests."
+        uses: pascalgn/automerge-action@v0.15.6
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "Merged by GitHub Actions after successful tests."
