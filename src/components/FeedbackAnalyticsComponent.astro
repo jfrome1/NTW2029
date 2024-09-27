@@ -4,11 +4,11 @@ import "astro-feelback/styles/feelback.css";
 
 <div class="container">
   <form id="feedbackForm">
-    <label for="feedback">Feedback</label>
+    <label for="feedback">Feedback or Questions</label>
     <textarea
       id="feedback"
       name="feedback"
-      placeholder="Send feedback or questions. It's anonymous, so include your name if you want class participation credit."
+      placeholder="This form is anonymous, so include your name if you want class participation credit."
       ></textarea>
     <button id="sendButton" type="button">Send</button>
   </form>
@@ -26,7 +26,7 @@ import "astro-feelback/styles/feelback.css";
         const messageDiv = document.getElementById('message') as HTMLDivElement;
         const button = document.getElementById('sendButton') as HTMLButtonElement;
 
-        if (form && messageDiv && button) { 
+        if (form && messageDiv && button) {
             function showMessage(text: string, type: 'success' | 'error') {
                 messageDiv.textContent = text;
                 messageDiv.className = type + ' show';
@@ -37,7 +37,7 @@ import "astro-feelback/styles/feelback.css";
 
             button.addEventListener('click', async (e) => {
                 e.preventDefault();
-                
+
                 const feedback = (document.getElementById('feedback') as HTMLTextAreaElement).value;
                 if (!feedback) {
                     showMessage('Please enter your feedback.', 'error');
