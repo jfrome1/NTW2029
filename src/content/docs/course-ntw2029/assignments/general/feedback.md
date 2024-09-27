@@ -22,6 +22,8 @@ What the styles mean:
 	- it is not the appropriate tone for academic writing (usually, too informal)
 	- it uses complex/"academic" vocabulary where a regular word would be just as good and easier to understand
 
+<!-- explain how to remove these styles and remove comments before submitting final  -->
+
 ## Approach to feedback
 
 Sometimes students will say, ""You only commented on part of my paper. Will you comment on the rest?" I understand why it may seem strange that I comment on only limited parts of a paper. To understand my reasons, consider two ways of thinking about paper comments:
@@ -34,3 +36,8 @@ In this course, I use approach 2. To be fair to all students, I devote a certain
 I believe I can achieve my goals of helping you improve your writing without marking every instance of every issue in a draft. I don't feel that my role is to help you make your draft so good that it can't be improved, and (to be honest) neither you nor I have enough time to achieve that goal in one semester even if we wanted to. Of course, if you want to continue work on any papers for the course, such as to improve them for submission to an undergraduate journal, I'm happy to continue working with you to improve them.
 
 If you have any specific questions about parts of the paper that I didn't explicitly comment on, just ask. I'm happy to respond to questions over email or messaging as time allows, or to schedule additional meetings during the week. Unfortunately, I cannot comment on emailed sections of papers or drafts.
+
+<!-- add nutshell link about why I can't comment on emailed sections  -->
+<!-- frome email to Mun Hou: Based on your email, I think I didn't communicate the distinction the way I intended. I'm trying to make a distinction between writing where the feedback process is focused on creating an high-quality output (the paper) vs writing where the feedback process is focused on improving writing skills (and the paper is just a means to that end). The former makes sense in a publishing context, where it's important that the entire piece be up to standard, and thus it would be poor practice for an editor to only edit ½ of the piece. And, in most publishing contexts, any piece of writing going through the editing process is good enough at the start that it's realistic to provide feedback on the whole piece.
+
+But in a course, the paper is an artificial construct designed to help students learn skills, so 1) it's not actually important to make sure the whole paper meets a high standard, except in the sense that it affects the student's grade, and 2) the drafts are not strong enough that, in the time limits of the semester, one can realistically make enough comments to get most papers to a version that meets a high standard of writing. -->
