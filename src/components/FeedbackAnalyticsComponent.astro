@@ -12,11 +12,8 @@
 </div>
 
 <script>
-  declare global {
-    interface Window {
-      sa_event: any;
-    }
-  }
+  import { inject, track } from '@vercel/analytics';
+  inject();
 
         const form = document.getElementById('feedbackForm') as HTMLFormElement;
         const messageDiv = document.getElementById('message') as HTMLDivElement;
@@ -74,9 +71,8 @@
 
       const duration = Date.now() - openTime;
 
-      window.sa_event("inactiveNutshell", {
-        page: document.title,
-        text: link.textContent,
+      track("inactiveNutshell", {
+        text:  link.textContent,
         duration: duration,
       });
 
@@ -88,7 +84,7 @@
       const currentMode = link.getAttribute("mode");
 
       if (currentMode === "open") {
-        window.sa_event("openNutshell", {
+        track("openNutshell", {
           page: document.title,
           text: link.textContent,
         });
@@ -145,8 +141,7 @@
       const isExternal = link.target === "_blank";
       const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
 
-      window.sa_event(eventName, {
-        page: document.title,
+      track(eventName, {
         text: link.textContent,
         link: link.href,
       });
@@ -202,7 +197,7 @@
         const totalHeight = document.documentElement.scrollHeight;
 
         if (scrollPosition >= totalHeight / 2) {
-          window.sa_event("read", { page: document.title });
+          track("read", { page: document.title });
           readEventTriggered = true;
           window.removeEventListener("scroll", handleScroll);
         }
