@@ -53,7 +53,7 @@ Here, I expanded the text to explain the notion of "heuristic aspects", which is
 
 ##### :x pages
 
-Here, I combined a number of ideas from across the section, so my in-text citation covers multiple pages.
+Here, I combin	ed a number of ideas from across the section, so my in-text citation covers multiple pages.
 
 ##### :x explanations
 
