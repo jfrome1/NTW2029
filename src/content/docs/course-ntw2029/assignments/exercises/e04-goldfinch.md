@@ -55,7 +55,7 @@ Here, I expanded the text to explain the notion of "heuristic aspects", which is
 
 Here, I combined a number of ideas from across the section, so my in-text citation covers multiple pages.
 
-##### :x explanation
+##### :x explanations
 
 | Original | Frome explanation |
 | --- | --- |
