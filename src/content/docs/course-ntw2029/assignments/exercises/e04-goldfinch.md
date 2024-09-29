@@ -1,19 +1,23 @@
 ---
-title: Exercise 4 - summarize Goldfinch
+title: Exercise 4 - explain Goldfinch
 date: 2024-08-13
 ---
 
-Write a 250 word (max) summary of one section of Goldfinch, A. (2015). _Rethinking evolutionary psychology_. Palgrave Macmillan. Consider the summary guidelines we've discussed in class.
+Write a 250 word (max) explanation of one section of Goldfinch, A. (2015). _Rethinking evolutionary psychology_. Palgrave Macmillan. Consider the  guidelines we've discussed in class.
 
-After class 3.1, I will [:post a summary](#x-summary) of the first sections of this reading, both to provide an example and to help you understand the reading. (It's not intended as a perfect model for you to follow). Compare my summary to the original text to see how I expand certain parts (in order to help a reader follow the argument) while also condensing the text (by eliminating quotes and details).
+<!-- 250 words is not enough, maybe 400-500 next time? -->
 
-Group A: summarize section 2.7.4 (pp. 64-68)
+After class 3.1, I will [:post short explanations](#x-explanations) of the first sections of this reading, both to provide an example and to help you understand the reading. (It's not intended as a perfect model for you to follow). Compare my explanation to the original text to see how I expand certain parts (in order to help a reader follow the argument) while also condensing the text (by eliminating quotes and details).
 
-Group B: summarize section 2.7.5 (pp. 68-71)
+Group A: explain section 2.7.4 (pp. 64-68)
+
+Group B: explain section 2.7.5 (pp. 68-71)
 
 Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. Citations are not necessary for this exercise.
 
-## Example summaries
+## Example explanations
+
+As mentioned earlier, I'm providing the below examples in lieu of individualized comments on your submissions. I'm happy to provide individualized feedback on Exercise 4 upon request.
 
 2.7.4 The Thinness of Evolutionary Psychology Explanation
 
@@ -51,9 +55,9 @@ Here, I expanded the text to explain the notion of "heuristic aspects", which is
 
 Here, I combined a number of ideas from across the section, so my in-text citation covers multiple pages.
 
-##### :x summary
+##### :x explanation
 
-| Original | Frome summary |
+| Original | Frome explanation |
 | --- | --- |
 | Even if considerations of selection do not guarantee massive modularity in any shape, the possibility remains that there might nevertheless be psychological adaptations and that, accordingly, it might be useful to hypothesise between adaptive problems and possible adaptive solutions. But even this has been challenged. The following objections are activated at different points during the methodological process of hypothesising between adaptive problem and adaptive solutions. And, as we will see, they are legitimate and pressing questions—questions that many have taken to have sufficiently destabilised methodological adaptationism in psychology. | Goldfinch suggests that evolutionary psychology is potentially useful for generating hypotheses to explain organisms' traits. The method is to think of selection pressures as "problems" that can decrease an organism's reproductive fitness and variations in traits as potential "solutions" to those problems that increase reproductive fitness (i.e., allow an organism to reproduce its genes at a higher rate). These problems and solutions can be proposed as testable hypotheses. Goldfinch then describes several objections to this method that many scholars have found to be sufficient reasons to reject evolutionary psychology. |
 | 2.7.1 No Stable Problems Objection<br><br>Were adaptive problems sufficiently stable to allow selection to engineer stable solutions? What if the relationship between environments, especially social environments that involve interdependent decision problems, and evolving populations is far more dynamic than evolutionary psychologists realise?<br><br>Sterelny (1995: 372) claims that there are, in fact, 'no stable problems to which natural selection can grind out a solution'. This argument also appears in Sterelny and Griffiths (1999). As you can see, this kind of argument, if successful, would pull the entire rug from underneath evolutionary psychology. The thought is that evolutionary arm races destabilise adaptive problems. And as evolutionary psychology trades on adaptive problems, evolutionary arm races also destabilises evolutionary psychology.<br>An arms race involves feedback: a problem arises, a solution emerges, but the emergence of the solution creates pressure on the original problem, changes it, transforms it, thereby requiring the solution to change, and so on. Sterelny observes that, 'As men evolved to detect ovulation, women evolve to conceal it. As we evolve to detect cheaters and others of uncooperative dispositions, emotion-mimics evolve better and better fakes of a trustworthy and honest face' (1995: 372). So evolutionary psychology methodology seems to trade on an overly simplistic characterisation of evolution, on stable adaptive problems and adaptive problems. How then can that methodology possibly capture this dynamic, this interactive character of evolution?<br><br>Do evolutionary arms races destabilise adaptive problems? I don't believe they do. But I shall leave that issue for the next chapter because it's important to continue building the strongest possible case against methodological adaptationism in psychology. | 2.7.1 No Stable Problems Objection<br><br>Goldfinch asks questions that challenge a certain evolutionary model in which stable environments are said to pose problems for species. Those species solve those problems by evolving traits that better match the stable environments in ways that increase their reproductive fitness. According to Goldfinch, Sterenly challenges this model by arguing that environments actually contain no stable problems. Sterenly argues that species' changing traits also change the environment in which the species evolve. Thus, Sterenly argues, environments contain only dynamic problems, not stable problems as assumed by evolutionary psychology. |
