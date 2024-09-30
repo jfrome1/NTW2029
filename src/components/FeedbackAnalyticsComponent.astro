@@ -43,7 +43,7 @@
                             'Content-Type': 'application/json',
                             Accept: "application/json",
                         },
-                        body: JSON.stringify({ feedback, page: location.pathname }),
+                        body: JSON.stringify({ feedback, page: window.location.pathname }),
                     });
 
                     if (response.ok) {
