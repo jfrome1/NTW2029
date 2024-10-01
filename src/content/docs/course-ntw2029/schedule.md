@@ -104,8 +104,8 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: quotation, citation
   - Read (recommended): _TSIS_ 3 "As He Himself Puts It - The Art of Quoting", 42-51
 - Class media: <!--Class media: -->
-  - [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
-  - [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
+  - [Human Nature Supernormal Stimuli](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
+  - [Shocking Female Model Body Photoshop Airbrush Transformation Video](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
 
 ### :x pinker
 
@@ -174,6 +174,8 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
   - Read (recommended):
 
+###### Due Thu 3 Oct 2024 (link to be posted): Midsemester feedback and class participation survey
+
 ## 7.2 - Fri 04 Oct 2024
 
 - EP and art topic: evaluating empirical research
@@ -184,7 +186,16 @@ Please watch the following. Remember that you can come back to these later in th
 
 ### :x ahn
 
-to be posted
+- This paper aims to contribute to an academic conversation to answer what question(s)?
+- What does this paper think is the "research gap" (the thing that no one has yet explained) that they want to help fill?
+- Is there any stated motivation for why the authors did this study? What do you think was the actual observation, puzzle, or other factor that motivated the authors to do this study?
+- What are the study hypotheses?
+- What justifications are given for these hypotheses (i.e. why do the authors make these predictions)?
+- What did the authors actually do in this study?
+- How well do the methods test the hypotheses?
+- What do the authors conclude from their research?
+- How well-supported are their conclusions?
+- Note: feel free to ignore all statistics in this paper.
 
 ###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
 
@@ -192,7 +203,7 @@ to be posted
 
 ## 8.1	- Tue 08 Oct 2024
 
-- No new EP readings after 7.1
+- No new EP readings after 7.2
 - Writing topic: introductions - framing your argument, creating and refining your thesis
   - Read (recommended):
 
