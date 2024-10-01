@@ -1,6 +1,6 @@
 ---
 import CustomTableOfContentsList from "./CustomTableOfContentsList.astro";
-const { labels, toc } = Astro.props;
+const { toc } = Astro.props;
 
 // Uncomment to remove Overview heading
 const index = toc.items.findIndex(
@@ -22,7 +22,7 @@ if (index !== -1) {
     >
       <nav aria-labelledby="starlight__on-this-page">
         <h2 id="starlight__on-this-page">
-          {labels["tableOfContents.onThisPage"]}
+          {Astro.locals.t("tableOfContents.onThisPage")}
         </h2>
         <CustomTableOfContentsList toc={toc.items} />
       </nav>
