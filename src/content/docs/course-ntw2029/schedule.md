@@ -174,7 +174,6 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
   - Read (recommended):
 
-###### Due Thu 3 Oct 2024 (link to be posted): Midsemester feedback and class participation survey
 
 ## 7.2 - Fri 04 Oct 2024
 
@@ -199,7 +198,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
 
-###### Due [Sun 06 Oct Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
+###### Due Sun 06 Oct Sep 2024: Midsemester feedback (added very soon!) and [Class Participation Survey](https://forms.office.com/r/wa3fbTkHQT)
 
 ## 8.1	- Tue 08 Oct 2024
 
@@ -213,6 +212,8 @@ Please watch the following. Remember that you can come back to these later in th
   - Read (recommended):
 
 ###### Due Sun [13 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136410?module_item_id=411483): Paper 2 academic conversation overview
+
+###### Due [Sun 13 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 - Class participation self-evaluation
 
 ## 9.1 - Tue 15 Oct 2024
 
