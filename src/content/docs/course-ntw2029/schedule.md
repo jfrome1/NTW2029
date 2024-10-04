@@ -198,7 +198,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
 
-###### Due Sun 06 Oct Sep 2024: Midsemester feedback (added very soon!) and [Class Participation Survey](https://forms.office.com/r/wa3fbTkHQT)
+###### Due Sun 06 Oct Sep 2024: [Mid-course feedback](https://canvas.nus.edu.sg/courses/66393/modules/items/431017) and [Class Participation Survey](https://forms.office.com/r/wa3fbTkHQT)
 
 ## 8.1	- Tue 08 Oct 2024
 
