@@ -174,7 +174,6 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
   - Read (recommended):
 
-
 ## 7.2 - Fri 04 Oct 2024
 
 - EP and art topic: evaluating empirical research
