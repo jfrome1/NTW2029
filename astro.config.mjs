@@ -93,7 +93,7 @@ export default defineConfig({
 					"course-ntw2029/assignments/papers/p1-outline",
 					//"course-ntw2029/assignments/papers/p1-draft",
 					"course-ntw2029/assignments/papers/p1-final",
-					"course-ntw2029/assignments/papers/p2-general-proposal",
+					"course-ntw2029/assignments/papers/p2-2-general-proposal",
 					//"course-ntw2029/assignments/papers/p2-academic-conversation",
 					//"course-ntw2029/assignments/papers/p2-brief-source",
 					//"course-ntw2029/assignments/papers/p2-source-summary",
