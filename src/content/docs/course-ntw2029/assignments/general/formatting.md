@@ -8,9 +8,7 @@ Exercises should be typed directly into the provided text box (unless otherwise 
 Include the following information on all exercises (except Exercise 1):
 
 - at the top: the name I call you in class and your section (E1 or E2)
-- at the bottom: a word count and a GenAI no-use statement (if you didn't use GenAI)
-
-If you did use GenAI, include the link to your chat transcript at the end of the exercise as described [here](../../course-info/gen-ai-policy).
+- at the bottom: a word count and either a [GenAI link or no-use statement](/course-ntw2029/course-info/gen-ai-policy)
 
 Please do _not_ paste [:links to documents](#x-no-links) in the text box.
 

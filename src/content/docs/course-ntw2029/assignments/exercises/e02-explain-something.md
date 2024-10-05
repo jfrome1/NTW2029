@@ -3,18 +3,30 @@ title: Exercise 2 - Explain how to do something
 date: 2024-08-13
 ---
 
+## Assignment purpose
+
 Almost every piece of writing advice I will give you in this course relates to one of two ideas:
 
 - academic writing can be thought of as a conversation
 - the writer's job is to make their reader's job as effortless as possible
 
-This assignment relates to the latter idea and will give you practice thinking about your writing from a reader's perspective. You will write an explanation of how to do something. Your imagined reader is a classmate who has no familiarity with in your topic. You will have to explain how to do this thing in 300 words or less, with no pictures or diagrams.
+This assignment relates to the latter idea and will give you practice thinking about your writing from a reader's perspective.
+
+## Instructions
+
+Write an explanation of how to do something. Your imagined reader is a classmate who has no familiarity with in your topic. You will have to explain how to do this thing in 300 words or less, with no pictures or diagrams.
+
+Do not include a typical essay introduction or conclusion for this exercise. Set the context, explain how to do the thing, and end briefly with any useful final information. Please make sure that you follow [:course guidelines](#x-guidelines).
+
+## Guidance
 
 Pick something that you know how to do but that most people in this class won't know how to do. It should be something that you took lessons for, or had to be explicitly taught, or had to teach yourself using a tutorial or instruction manual. Due to the word limit, pick something small within your larger area of expertise. For example, "how to dance" is too broad, but "how to do the dance move called 'flossing'" might work.
 
-<!-- next time, add something like: don't just say what to do, but explain how to do it if it is something difficult. and don't pick something that is easy to describe but hard to do, like playing an instrument "to play piano, hit the keys in the right order with the right timing and rhythm" -->
+<!--next time, add something like: don't just say what to do, but explain how to do it if it is something difficult. and don't pick something that is easy to describe but hard to do, like playing an instrument "to play piano, hit the keys in the right order with the right timing and rhythm" -->
+
 <!-- add requirement to have a title that makes clear what they are going to explain -->
-<!-- previously had link [:think of your reader](#x-reader) but I don't have the heading; need to add if think it's needed -->
+
+<!-- previously had link [:think of your reader](#x-reader) but I don't have the heading; need to add if think it's needed-->
 
 Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-scope).
 
@@ -24,33 +36,32 @@ What would an average NUSC first-year student know about your topic already? Wha
 
 Orient your reader by providing context for your explanation. Why would they want to learn how to do this thing?
 
-Do not include a typical essay introduction or conclusion for this exercise. Set the context, explain how to do the thing, and end briefly with any useful final information.
-
-Please make sure that you follow [:course guidelines](#x-guidelines).
-
-Before submitting, you may want to review this submission essentials [:checklist](#x-checklist):
-
-### :x checklist
+## Checklist
 
 - Pick a task you know well but that most classmates won't
 - Limit the explanation to 300 words or less
 - Do not include pictures or diagrams
 - Provide context for why someone would want to learn the task
 - Avoid a traditional essay introduction and conclusion
-- Follow all formatting and GenAI guidelines
-- Update your workload report
+- Review and follow all [:guidelines](#x-guidelines)
 
-### :x guidelines
+## Example submission
+
+Throughout this course, note that examples provided are _not_ intended as ideal models you should emulate. They are intended to give you a general sense of what I'm looking for to prevent you from going completely off track. All examples will have both strengths and weaknesses.
+
+Here is an [:example submission](#x-example) to give you some idea what is expected. If you have time and interest, I've also decided to share with you how I [:used GenAI](#x-genai) to create this example.
+
+##### :x guidelines
 
 The key guidelines to review are:
 
-- grading criteria for exercises
-- formatting
-- GenAI policy
-- due dates and (if needed) extensions
-- workload report
+- [:exercise grading criteria](/course-ntw2029/course-info/grading/#exercises)
+- [:formatting](/course-ntw2029/assignments/general/formatting/#exercises)
+- [GenAI policy](/course-ntw2029/course-info/gen-ai-policy)
+- assignment due date and (if needed) [:extension policy](/course-ntw2029/course-info/extensions)
+- submitting your [workload report](/course-ntw2029/assignments/exercises/e10-workload)
 
-### :x scope
+##### :x scope
 
 Some examples:
 
@@ -60,13 +71,7 @@ Some examples:
 - how to tune up brakes on a bicycle
 - how to mix colors when painting with watercolor
 
-# Example submission
-
-Throughout this course, note that examples provided are _not_ intended as ideal models you should emulate. They are intended to give you a general sense of what I'm looking for to prevent you from going completely off track. All examples will have both strengths and weaknesses.
-
-Here is an [:example submission](#x-example) to give you some idea what is expected. If you have time and interest, I've also decided to share with you how I [:used GenAI](#x-genai) to create this example.
-
-### :x example
+##### :x example
 
 ### How to Format Webpage Text Using Markdown
 
@@ -76,7 +81,7 @@ Markdown's advantage over plain text alone is that it provides a way to format t
 
 You can create and edit a Markdown document using any text editor, but to convert the document into an HTML webpage, you will need a Markdown editor. Popular free editors include Obsidian, VS Code, and Zettlr.
 
-### :x genai
+##### :x genai
 
 Reading this section is totally optional; I just thought some of you might be interested. I wanted to create an example submission for this assignment to help students understand what I'm looking for. I'll explain the process I went through for two reasons: 1) seeing the changes I made will help you understand even better what I'm looking for, and 2) my process may help you use GenAI more effectively.
 
@@ -109,3 +114,4 @@ GenAI output:
 > Understanding how to style text in Markdown is essential for creating clear and visually appealing documents, especially for web content. By mastering these basic formatting techniques, students can enhance the readability and effectiveness of their writing, ensuring that their key points stand out to readers. Markdown's simplicity and efficiency make it a valuable tool for anyone involved in digital writing and publishing.
 
 This output is an improvement, but it gives too many contextual details, which might confuse my reader. It also seemed long, so I asked for a word count, and it was 467 words! The GAI forgot about the word limit after just a few prompts. At this point, I decided it would be easier to revise the text myself, rather than trying to get the GAI to revise it further, so I heavily revised the above text manually to produce the example I provided above.
+
