@@ -15,7 +15,7 @@ Group B: explain section 2.7.5 (pp. 68-71)
 
 Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. Citations are not necessary for this exercise.
 
-## Example explanations
+## Example explanations <!-- don't post until after class 3.1 -->
 
 As mentioned earlier, I'm providing the below examples in lieu of individualized comments on your submissions. I'm happy to provide individualized feedback on Exercise 4 upon request.
 
@@ -53,7 +53,7 @@ Here, I expanded the text to explain the notion of "heuristic aspects", which is
 
 ##### :x pages
 
-Here, I combin	ed a number of ideas from across the section, so my in-text citation covers multiple pages.
+Here, I combined a number of ideas from across the section, so my in-text citation covers multiple pages.
 
 ##### :x explanations
 
