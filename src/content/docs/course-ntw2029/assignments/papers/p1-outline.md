@@ -83,5 +83,4 @@ Problem: (1) is not a complete sentence by itself. (A) and (B) are not complete 
 - Correct: "Pinker argues that music includes sounds similar to those found in the EEA" (states Pinker's actual argument)
 
 <!-- Student outline submissions this time often simply stated the argument Pinker makes in one sentence, without going through the steps or really explaining his claims. The outline is not supposed to offer a complete explanation, but I should make it clear to them that here is a place to work out the steps in the argument to try to identify how his claims work logically and even identify points of analysis or areas where they saw potential limitations or gaps. -->
-
 <!--  Also, there were a number of outlines that did not follow formatting guidelines, assignment guidelines such as "only one complete sentence per point", or GenAI guidelines. Should I tell the students that I won't comment on submissions like this? -->

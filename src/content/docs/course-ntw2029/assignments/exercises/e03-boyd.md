@@ -3,19 +3,27 @@ title: Exercise 3 - explain Boyd
 date: 2024-08-23
 ---
 
-The goal of this assignment is to give you practice explaining (summarizing and explicating) a text. The reading comes from a popular science book, written by an academic, intended for a general audience. It was on the _New York Times_ bestseller list for many weeks (its popularity doesn't say anything about the quality or weakness of its arguments; I'm just trying to give you context for the intended reader). Your goal is to summarize the main points of the argument in one part of the text (leaving out details not necessary for the reader to understand the argument) and explicate ideas, assumptions, and other elements that are crucial to the argument but are not clearly explained by Boyd.
+## Assignment purpose
 
-You will explain the first four pages (51-55) of Boyd's chapter, "The Evolution of Cooperation" in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. You do not need to read any crossed-out text.
+The goal of this assignment is to give you practice explaining (summarizing and explicating) a complex text.
+
+## Instructions
+
+Explain the first four pages (51-55) of Boyd's chapter, "The Evolution of Cooperation" in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. You do not need to read or explain any crossed-out text. The explanation should not have an introduction or a conclusion. Citations are not necessary for this exercise. Keep your submission under 500 words.
+
+## Guidance
+
+Your goal is to explain the main points of Boyd's argument in the first part of the text for your target audience. Shorten the text by leaving out out details not necessary for the reader to understand the overall argument. Expand the text to explicate ideas, assumptions, and other elements that are crucial to the argument but are not clearly explained by Boyd in a way your audience would understand.
+
+The reading comes from a popular science book, written by an academic, intended for a general audience. It was on the _New York Times_ bestseller list for many weeks (its popularity doesn't say anything about the quality or weakness of its arguments; I'm just trying to give you context for the intended reader).
 
 Don't assume that you should explain each paragraph and present the information in the same order as the original. Think about what is and isn't needed to explain these pages to your reader so they understand Boyd's main points.
 
-Keep your submission under 500 words (but you do not need to make it that long; try to explain the passage in as few words as you can without omitting anything important).
+## Checklist
 
-Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. Citations are not necessary for this exercise.
-
-:::note
-To make sure everyone knows how to submit GenAI links, review the [updated GenAI policy](../../course-info/gen-ai-policy) and submit a chat link on this assignment, even if you don't use GenAI in any significant way
-:::
+- Explain the first four pages of the text to your target audience
+- Limit the explanation to 500 words or less
+- Review and follow all [:guidelines](#x-guidelines)
 
 ## Example Boyd explanation
 
@@ -36,3 +44,13 @@ The answer, Boyd states, is active cooperation, in which individuals help others
 - You can refer to the source with pronouns, but treat each paragraph as a new start and make sure you use the source's name before reverting to the pronoun again.
 
 Suggestion: compare this example to your submission and to the original text!
+
+##### :x guidelines
+
+The key guidelines to review are:
+
+- [:exercise grading criteria](/course-ntw2029/course-info/grading/#exercises)
+- [:formatting](/course-ntw2029/assignments/general/formatting/#exercises)
+- [GenAI policy](/course-ntw2029/course-info/gen-ai-policy)
+- assignment due date and (if needed) [:extension policy](/course-ntw2029/course-info/extensions)
+- submitting your [workload report](/course-ntw2029/assignments/exercises/e10-workload)

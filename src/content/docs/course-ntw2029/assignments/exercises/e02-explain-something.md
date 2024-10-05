@@ -18,6 +18,10 @@ Write an explanation of how to do something. Your imagined reader is a classmate
 
 Do not include a typical essay introduction or conclusion for this exercise. Set the context, explain how to do the thing, and end briefly with any useful final information. Please make sure that you follow [:course guidelines](#x-guidelines).
 
+:::note
+To make sure everyone knows how to submit GenAI links, review the [GenAI policy](../../course-info/gen-ai-policy) and submit a chat link on this assignment, even if you don't use GenAI in any significant way
+:::
+
 ## Guidance
 
 Pick something that you know how to do but that most people in this class won't know how to do. It should be something that you took lessons for, or had to be explicitly taught, or had to teach yourself using a tutorial or instruction manual. Due to the word limit, pick something small within your larger area of expertise. For example, "how to dance" is too broad, but "how to do the dance move called 'flossing'" might work.
@@ -114,4 +118,3 @@ GenAI output:
 > Understanding how to style text in Markdown is essential for creating clear and visually appealing documents, especially for web content. By mastering these basic formatting techniques, students can enhance the readability and effectiveness of their writing, ensuring that their key points stand out to readers. Markdown's simplicity and efficiency make it a valuable tool for anyone involved in digital writing and publishing.
 
 This output is an improvement, but it gives too many contextual details, which might confuse my reader. It also seemed long, so I asked for a word count, and it was 467 words! The GAI forgot about the word limit after just a few prompts. At this point, I decided it would be easier to revise the text myself, rather than trying to get the GAI to revise it further, so I heavily revised the above text manually to produce the example I provided above.
-
