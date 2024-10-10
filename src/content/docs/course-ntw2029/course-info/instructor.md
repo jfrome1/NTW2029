@@ -8,6 +8,7 @@ date: 2024-08-14
 - Office Location: Cinnamon West 02-09 (down the hall from our classroom)
 - Email Address: frome [at] nus.edu.sg
 - You can call me Jonathan, Dr. Frome, Professor Frome, or Prof Frome, or just Prof!
+	- By the way, it's best not to call your university instructors "Mr./Ms." as you might have done before NUS. That's not common in university.
 
 ## Dr. Jonathan Frome's mini intellectual history
 

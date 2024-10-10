@@ -20,7 +20,7 @@ The assignment is designed to help you organize your thoughts for your draft. Th
 
 ## Scope
 
-The outline should not cover all of Pinker's arguments, only ones that you will discuss in your paper. See the main Paper 1 assignment for the expected scope of the paper.
+The outline should not cover all of the arguments in the  source, only the arguments that you intend to discuss in your paper. See the main Paper 1 assignment for the [:expected scope](/course-ntw2029/assignments/papers/p1/#scope) of the paper.
 
 Please review exercise guidelines, follow GenAI policy, and submit an updated workload report. This assignment requires pages numbers only for in-text citations.
 
