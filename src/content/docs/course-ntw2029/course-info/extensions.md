@@ -3,7 +3,7 @@ title: Extension policy
 date: 2024-08-17
 ---
 
-If _you email me in advance_, any assignment, including final papers, may be submitted up to 24 hours late for any reason. Just [:email me](../course-info/tech-guidelines#course-email) and say "I would like a 24 hour extension on [name of assignment]. I will [:submit it by](#x-submit) [extended due date]."
+ _If you email me in advance_, any assignment, including final papers, may be submitted up to 24 hours late for any reason. Just [:email me](/course-ntw2029/course-info/tech-guidelines/#course-email) (don't message me for this purpose) and say "I would like a 24 hour extension on [name of assignment]. I will [:submit it by](#x-submit) [extended due date]."
 
 Due to this policy, no additional extensions will be granted except in serious, documented circumstances.
 
@@ -17,4 +17,4 @@ Of course, if you are having trouble managing your workload, please ask for help
 
 ### :x submit
 
-It's important that you include this so we both know you have made a commitment to submitting the assignment by the extension deadline.
+It's important that you write the new deadline so we both know you have made a commitment to submitting the assignment by that date.

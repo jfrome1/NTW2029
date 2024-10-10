@@ -59,15 +59,7 @@ Students come into this class with different backgrounds, and I'll sometimes giv
 
 ## Exercises
 
-Students will regularly submit short written exercises for class as a way to practice and reflect on writing skills.
-
-Exercises are primarily graded based on the following criteria:
-
-- Demonstrates that the student read the exercise assignment carefully (i.e., all guidelines are followed and all requested elements are included)
-- Submitted by the deadline (or extended deadline if extension is requested)
-- Reflects an honest attempt to do the exercise properly
-
-If any of these three elements are missing, the exercise gets no credit (0 points). If they are all there, you get credit (1 point). If you have done an really extraordinary job on the exercise that stands above your peers, you may get "double credit" (2 points). The final grade for Exercises is calculated based on total points accumulated during the term.
+[:Grading guidelines for exercises](/course-ntw2029/assignments/general/ex-guidelines/#grading) are on the exercise guidelines page.
 
 ## Papers 1 and 2
 

@@ -231,14 +231,14 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: peer review, conclusions
   - Read (recommended): peer drafts
 
-###### Due [Wed 23 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136412?module_item_id=411485): Paper 2 source summary
+###### Due [Wed 23 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136412?module_item_id=411485): Paper 2 source summary outline
 
 ## 10.2 - Fri 25 Oct 2024
 
 - Writing topic: peer review
   - Read (recommended): peer drafts
 
-###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): Paper 2 proposal and draft outline
+###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): Paper 2 proposal and revised source summary outline
 
 ## 11.1 Tue 29 Oct 2024 — no class meeting; individual student conferences
 
@@ -263,14 +263,14 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: peer review
   - Read (recommended): peer drafts
 
-###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): Paper 2 full draft
+###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): Paper 2 full draft and outline
 
 ## 13.1 and 13.2 (12 Nov and 15 Nov) — no class meetings; individual student conferences
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136399?module_item_id=411467): Exercise 9 - Paper 2 draft conference summary
 
-###### Due [Sun, 17 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136416?module_item_id=411490): Paper 2 final
+###### Due [one week after conference](https://canvas.nus.edu.sg/courses/66393/assignments/136416?module_item_id=411490): Paper 2 final
 
-###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/124142?module_item_id=365289): Exercise 10 - Workload report
+###### Due [one day after final paper due date](https://canvas.nus.edu.sg/courses/66393/assignments/124142?module_item_id=365289): Exercise 10 - Workload report
 
-###### Due [Mon, 18 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136400?module_item_id=411469): Exercise 11 - Paper 2 self-evaluation
+###### Due [one day after final paper due date](https://canvas.nus.edu.sg/courses/66393/assignments/136400?module_item_id=411469): Exercise 11 - Paper 2 self-evaluation
