@@ -63,7 +63,7 @@ The most common misconception: you only need to cite when quoting a source. Not 
 ## Do not make the following mistakes:
 
 - Do not trust online and [:software citation tools](#x-tools)
-- Do not copy the citations [:I use](#x-use) on Canvas or handouts
+- Do not copy the citations [:I use](#x-I-use) on Canvas or handouts
 - Do not [:copy and paste text](#x-copy) into your reference list
 
 Also note that you must enter correct information into these tools or the output will have errors.
@@ -72,7 +72,7 @@ Also note that you must enter correct information into these tools or the output
 
 Online citations _cannot be trusted_; they often have bad information or make mistakes. You MUST proofread your citations against the actual rules of your paper's formatting style (in our course, APA), which are provided below. You are responsible for confirming that the citations are correct.
 
-### :x use
+### :x I use
 
 When I provide citations, I often deviate from proper format for course-related reasons, such as specifying a chapter in a book. Proper citations in a paper reference list don't specify book chapters; you just cite the book as a whole. I also sometimes include page numbers to help you estimate reading time, even if they are not needed in a reference list.
 
