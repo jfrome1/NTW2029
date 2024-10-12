@@ -1,12 +1,12 @@
 ---
 
-title: Exercise 5 - Paper 1 post-conference notes
-date: 2024-08-13
+title: Exercise 9 - Paper 2 post-conference notes (draft conference)
+date: 2024-10-12
 
 ---
 Please submit post-conference notes about the most important points you took from our conference and from my feedback on your draft. There is no word count requirement; I'll leave it up to you.
 
-Copy and paste these questions into the Exercise 5 text box on Canvas. Keep the questions and type your answers below each question:
+Copy and paste these questions into the Exercise 9 text box on Canvas. Keep the questions and type your answers below each question:
 
 1. What were the two or three most important points of feedback on your draft?
 2. What other points of feedback were discussed?

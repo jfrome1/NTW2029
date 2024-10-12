@@ -63,11 +63,13 @@ Do not highlight the URL in your browser and copy/paste it into your assignment.
 
 Instructions for ChatGPT:
 
-Note: you cannot share links unless you _create an account_ and _are logged in_ during your chats.
+Note: you cannot share links unless you _create an account_ and _are logged in_ during your chats. Don't use your full real name or any identifying information in your account username (this is important for keeping the chats anonymous in our research).
 
 To share the chat, click the `share link` icon, create a public link, and copy/paste it into your assignment. Here's a [:walkthrough](#x-details) with images.
 
 Don't make the mistake of [:copying the wrong links](#x-wrong-links).
+
+Don't delete the linked chat until course grades have been released at end of term.
 
 ## NUS general GenAI policy
 
