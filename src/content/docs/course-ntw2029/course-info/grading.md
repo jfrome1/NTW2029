@@ -59,7 +59,7 @@ Students come into this class with different backgrounds, and I'll sometimes giv
 
 ## Exercises
 
-[:Grading guidelines for exercises](/course-ntw2029/assignments/general/ex-guidelines/#grading) are on the exercise guidelines page.
+Grading guidelines for exercises are on the [exercise guidelines](/course-ntw2029/assignments/general/ex-guidelines) page.
 
 ## Papers 1 and 2
 
