@@ -41,3 +41,11 @@ If you have any specific questions about parts of the paper that I didn't explic
 <!-- frome email to Mun Hou: Based on your email, I think I didn't communicate the distinction the way I intended. I'm trying to make a distinction between writing where the feedback process is focused on creating an high-quality output (the paper) vs writing where the feedback process is focused on improving writing skills (and the paper is just a means to that end). The former makes sense in a publishing context, where it's important that the entire piece be up to standard, and thus it would be poor practice for an editor to only edit ½ of the piece. And, in most publishing contexts, any piece of writing going through the editing process is good enough at the start that it's realistic to provide feedback on the whole piece.
 
 But in a course, the paper is an artificial construct designed to help students learn skills, so 1) it's not actually important to make sure the whole paper meets a high standard, except in the sense that it affects the student's grade, and 2) the drafts are not strong enough that, in the time limits of the semester, one can realistically make enough comments to get most papers to a version that meets a high standard of writing. -->
+
+<!-- revision:
+
+Many students think that the purpose of feedback is for the instructor to tell the student everything that is "wrong" with the paper. If the student fixes the "mistakes" properly, the paper will get an A. They think of the paper like a test - no mistakes means full marks, so any grade below that is due to an error.
+
+
+
+ -->

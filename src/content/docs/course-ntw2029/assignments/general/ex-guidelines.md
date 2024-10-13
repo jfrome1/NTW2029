@@ -21,7 +21,9 @@ As exercises are primarily for skill-building, grading is primarily based on clo
 ## How to submit
 
 - Exercises should be typed directly into the text box on the Canvas submission page (unless otherwise indicated).
-- Please do _not_ paste [:links to documents](#x-no-links) in the text box.
+- If the exercise asks for a file attachment:
+	- any file name is fine
+	- please do _not_ paste [:links to documents](#x-no-links) in the text box
 - Exercises are always due at 11:59pm. Proper sleep is important for health (both physical and mental) and I do not want you staying up late to finish.
 - You may resubmit exercises until the deadline if needed (for example, if you are reading over your submission and see something you need to change).
 
