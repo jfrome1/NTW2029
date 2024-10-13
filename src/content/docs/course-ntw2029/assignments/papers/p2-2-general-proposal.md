@@ -14,7 +14,8 @@ title: Paper 2 general topic proposal
 
 - don't ask "why is X popular?" (we cannot know without market research)
 - the more modern or specific a genre is, the less likely its existence or features can be explained with EP (although some common responses to it might be explainable with EP)
-- focus on more general and universal phenomena that are true of most people rather than more unusual or limited phenomena that may not lead to any published sources (e.g. the question "why doesn't my mom find horror movies scary?" is an interesting question, but is not one that someone has published research papers about)
+- focus on more general and universal phenomena that are true of most people rather than more unusual or limited phenomena that may not lead to any published sources (e.g. the question "why do some people like headbanging death metal?" is an interesting question, but is unlikely to have an EP explanation)
+- although there is legitimate EP research on pornography, since this course relies heavily on peer review activities, I'll ask you not to choose this topic out of respect for classmates who might be uncomfortable with the topic
 
 ## Finding a topic
 

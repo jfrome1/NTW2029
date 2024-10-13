@@ -112,7 +112,6 @@ You can choose one of these texts as your primary source (no promises from me th
 	- @ Kruger, D. J., Fisher, M., & Jobling, I. (2003). Proper and dark heroes as DADS and CADS. Human Nature, 14(3), 305—317. <https://doi.org/10.1007/s12110-003-1008-y>
 	- @ Cox, A., & Fisher, M. (2009). The Texas billionaire's pregnant bride: An evolutionary interpretation of romance fiction titles. Journal of Social, Evolutionary, and Cultural Psychology, 3(4), 386—401. <https://doi.org/10.1037/h0099308>
 	- @ Grodal, T. (2004). Love and desire in the cinema. Cinema Journal, 43(2), 26—46. <https://www.jstor.org/stable/1225913>
-	- Salmon, C. (2012). The pop culture of sex: An evolutionary window on the worlds of pornography and romance. Review of General Psychology, 16, 152—160. <https://doi.org/10.1037/a0027910>
 - storytelling, cooperation, and social bonding
 	- Smith, D., Schlaepfer, P., Major, K., Dyble, M., Page, A. E., Thompson, J., Chaudhary, N., Salali, G. D., Mace, R., Astete, L., Ngales, M., Vinicius, L., & Migliano, A. B. (2017). Cooperation and the evolution of hunter-gatherer storytelling. Nature Communications, 8(1), Article 1. <https://doi.org/10.1038/s41467-017-02036-8>
 	- Dunbar, R. I. M., Teasdale, B., Thompson, J., Budelmann, F., Duncan, S., van Emde Boas, E., & Maguire, L. (2016). Emotional arousal when watching drama increases pain threshold and social bonding. Royal Society Open Science, 3(9), 160288. <https://doi.org/10.1098/rsos.160288>
