@@ -13,7 +13,7 @@ Please download a blank [workload report](https://raw.githubusercontent.com/jfro
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.
 :::
 
-When you submit your report, please submit it in the original `.docx` format (or in `.doc` or `.rtf` format, not as a `.pdf` or other file type. If you open the report in Pages, make sure to Export the file to `.docx`, as I can't read files saved in Pages.
+When you submit your report, please submit it in the original `.docx` format (or in `.doc` or `.rtf` format), not as a `.pdf` or other file type. If you open the report in Pages, make sure to Export the file to `.docx`, as I can't read files saved in Pages.
 
 ### :x estimate
 
