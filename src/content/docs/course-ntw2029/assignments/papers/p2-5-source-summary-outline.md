@@ -33,7 +33,7 @@ Bring 3 hardcopies of this source to class 10.2.
 
 ## Strategy
 
-Do not focus on being comprehensive (i.e., including every argument in the source or making sure every paragraph is represented in the outline). There might be paragraphs or arguments in the source that are not really relevant to the source thesis, and you should not include these in your outline. Instead, focus on capturing the main points of the argument. To identify those main points and differentiate them from other parts of the source, you should try to understand the argumentative structure of the source. Ask yourself questions such as:
+Do not focus on being comprehensive (i.e., including every argument in the source or making sure every paragraph is represented in the outline). There might be paragraphs or arguments in the source that are not really relevant to the source thesis, and you should not include these in your outline. Instead, focus on capturing the main points of the argument. Since this outline aims to represent the entire source text, it should cover all main arguments, not just the ones you plan to focus on in your paper. To identify those main points and differentiate them from other parts of the source, you should try to understand the argumentative structure of the source. Ask yourself questions such as:
 
 - What is the academic conversation this source is contributing to?
 - What is the main question the source aims to answer?
