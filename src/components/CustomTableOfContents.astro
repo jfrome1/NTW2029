@@ -22,7 +22,7 @@ if (index !== -1) {
     >
       <nav aria-labelledby="starlight__on-this-page">
         <h2 id="starlight__on-this-page">
-          {Astro.locals.t("tableOfContents.onThisPage")}
+          {Astro.locals.t('tableOfContents.onThisPage', 'Default Text')}
         </h2>
         <CustomTableOfContentsList toc={toc.items} />
       </nav>
