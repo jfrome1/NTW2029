@@ -19,7 +19,7 @@ The assignment is broken into many parts to guide you through the process. You c
 
 ##### :x recent
 
-- "recent" means within the last ten years (exceptions can be made, just ask, but at least try to find more recent rather than less)
+- "recent" means within the last ten years (exceptions can be made upon request if there is not a more recent source on the particular issue the source discusses, just check before asking for an exception)
 - academic sources do not include personal webpages, Wikipedia, or most blogs (exceptions exist)
 - academic sources include books and journals published by a university press or an academic press
 - university presses include the university name (e.g. University of Chicago Press or Oxford University Press)
