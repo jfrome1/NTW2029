@@ -31,12 +31,14 @@ To make sure you get full benefit from the conference:
 
 ##### :x check your settings
 
-The likely problem is that your Microsoft account is not set to the Singapore time zone (even if your computer shows the correct time). To check:
+The likely problem is that your Microsoft account and calendar are not set to the Singapore time zone (even if your computer shows the correct time). To check:
 
 1. sign into webmail at https://exchange.nus.edu.sg/
 2. press the settings (1) button (the gear) on the top right of the page
-3. under General(2) → Language and time (3), and confirm that your time zone is UTC+08:00
-4. if the time zone isn't Singapore, click on change(4) and choose the Singapore timezone
-5. if the time zone is Singapore, and the posted booking times seem strange, send me a screenshot of your time zone settings
+3. under General (2) → Language and time (3), confirm that your time zone is UTC+08:00
+	- if the time zone isn't Singapore, click on change (4) and choose the Singapore timezone
+	- if the time zone is Singapore, change it to another time zone, and then change it back
+4. under Calendar → View, check the "Display my calendar in time zone" and look for a "Yes, update" button to sync the calendar with the General time zone setting
 
 ![timezone](/images/timezone.png)
+![yes-update](/images/yes-update.png)
