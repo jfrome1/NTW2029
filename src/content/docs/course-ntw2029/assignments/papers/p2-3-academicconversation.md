@@ -2,11 +2,13 @@
 title: Paper 2 academic conversation overview
 ---
 
-For this assignment, identify an academic conversation relevant to EP and art that is discussed in published academic sources. Identify at least 2 academic sources that are part of this conversation and that you might analyze for Paper 2. At the top of the assignment, provide their [:full citation information](#x-citation) as if in an APA reference list.
+For this assignment, identify an academic conversation relevant to EP and art that is discussed in published academic sources. Identify at least 2 academic sources that are part of this conversation and that you might analyze for Paper 2.
+
+It's best if I can take a glance at your sources before giving you feedback, so at the top of the assignment, provide their [:full citation information](#x-citation) as if in an APA reference list, including a link to the source on the webpage of the journal or press where it was originally published. If the source does not have a URL (many books don't), please link to the source search result link at NUS libraries.
 
 Briefly describe the academic conversation and what your sources have contributed to it. The description can be high-level (meaning you don't need to provide details of their arguments) but you must make clear how the two sources differ in their contributions.
 
-At the end of this description, skip a line and state which of the sources you discuss you prefer to use  as your main focus for Paper 2. I will approve the source (or not) and you will use that source for the next part of the assignment, the Paper 2 source summary outline.
+At the end of this description, skip a line and state which of the sources you discuss you prefer to use  as your main focus for Paper 2. Before you choose, review [:these guidelines](/course-ntw2029/assignments/papers/p2-1-overview/#x-these-guidelines) again. I will approve the source (or not) and you will use that source for the next part of the assignment, the Paper 2 source summary outline.
 
 :::warn
 My approval means that I don't see any obvious problems with using your source, but I won't be able to read all of your sources closely at this point, so I cannot take responsibility for making sure the source will work well for Paper 2. That is your responsibility.

@@ -8,7 +8,7 @@ title: Paper 2
 
 Write a paper that clearly [:explains and analyzes](#x-explains) a [:recent published academic argument](#x-recent) about EP and art to [:your target audience](#x-target).
 
-This paper likely has different goals than [:other final papers](#x-other) you have written in the past.
+This paper likely has different goals than other final papers you have written in the past, so check and follow [:these guidelines](#x-theseguidelines)
 
 The assignment is broken into many parts to guide you through the process. You can do this!
 
@@ -44,10 +44,17 @@ The assignment is broken into many parts to guide you through the process. You c
 
 In this course, your target audience is an NUSC student without expertise in your topic.
 
-##### :x other
+##### :x these guidelines
 
 - Your goal is NOT to answer a research question by synthesizing what other people have said about it. This course demands a more ambitious goal.
 - Your goal is NOT to try to answer a research question by proposing and defending your own theory about EP and art. That is overly ambitious and not realistic given the time limits and introductory nature of this course.
+- Your thesis should NOT combine two or more sources to show how they complement or relate to each other. That approach may reflect interesting insights, but it would not lead to a close analysis of a source argument.
+- Your topic or question should not ask whether X is primarily genetic or primarily cultural. It's very hard to answer that kind of question because it's very hard to measure or compare [:the relative importance of different factors](#x-multifactor) that cause the same thing.
+- Remember that, according to EP, any trait related to a type of art that came into being within the last 500 years cannot be an adaptation because EP holds that traits can't evolve that quickly.
+
+##### :x multifactor
+
+Yes, there are many statistical methods that have been developed to do multifactor analysis, but that's not a type of research approach that we can easily analyze in this course. At minimum, I can't guide you in evaluating that type of statistical work, so it's probably best to avoid sources that rely on those approaches.
 
 ## Assignment purpose
 
