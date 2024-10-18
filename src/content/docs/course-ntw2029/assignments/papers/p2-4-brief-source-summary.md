@@ -6,12 +6,15 @@ title: Paper 2 brief source summary
 
 ## Goal
 
-The goal is to describe how your source fits into its academic conversation in a more detailed way than in the last assignment.
+The goal is finalize a source for Paper 2 and to describe how your source fits into its academic conversation in a more detailed way than in the last assignment.
 
 ## Logistics
 
-- Identify the source you intend to analyze for Paper 2. Provide proper a properly formatted APA citation for your source as the title of this assignment.
-- Write two paragraphs: one describing your source's academic conversation, and one describing your source's contribution
+- Before you begin writing, review [:these guidelines](/course-ntw2029/assignments/papers/p2-1-overview/#x-these-guidelines) again.
+- Identify the source you intend to analyze for Paper 2. Provide proper a properly formatted APA citation for your source as the title of this assignment, including a link to the source on the webpage of the journal or press where it was originally published. If the source does not have a URL (many books don't), please link to the source search result link at NUS libraries.
+- Write two paragraphs:
+	- The first paragraph should describe the academic conversation your source intends to contribute to, including what your source says others have previously contributed to that conversation.
+	- The second paragraph should describe your source's research approach and contribution to that conversation.
 - Cite page numbers in-text when paraphrasing your source in this simple way: (4)
 - The two paragraphs together should be max 600 words.
 
