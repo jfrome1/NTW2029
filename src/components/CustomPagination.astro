@@ -1,9 +1,9 @@
 ---
 import Pagination from "@astrojs/starlight/components/Pagination.astro";
-//import FeedbackComponent from "./FeedbackAnalyticsComponent.astro";
+import Analytics from "./DateAnalyticsComponent.astro";
 ---
 
 <>
-<!-- <FeedbackComponent /> -->
+<Analytics {...Astro.props as any} />
 <Pagination {...Astro.props as any} />
 </>
