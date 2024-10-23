@@ -8,11 +8,18 @@ This website is the primary way I give course information to the class. Please e
 
 ## Canvas
 
-Notifications: set up Canvas notifications so you don't miss anything important. Use [these instructions](https://community.canvaslms.com/t5/Student-Guide/How-do-I-manage-my-Canvas-notification-settings-as-a-student/ta-p/434) so that you are immediately notified for categories "Course Content", "Due Date", "Discussions", and "Announcement".
+Notifications: set up Canvas notifications so you don't miss anything important. Use the linked instructions to set your [default notification](https://community.canvaslms.com/t5/Student-Guide/How-do-I-manage-my-Canvas-notification-settings-as-a-student/ta-p/434) or [notifications just for this course](https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-manage-notifications-for-a-single-course/ta-p/615325).
 
-Canvas discussions hides replies by default. It's important that you see the replies from me and your classmates. Make it a habit to [:expand threads](#x-threads) when you read the discussions (sadly, this can't be set as the default).
+Set notifications to `Daily` or `Immediately` for these categories:
 
-### :x threads
+- Course Content
+- Due Date
+- Discussion posts
+- Announcements
+
+Make it a habit to [:expand threads](#x-threads) when you read the discussions because Canvas hides replies by default (unfortunately, this can't be changed).
+
+##### :x threads
 
 ![expand threads](/images/expand-threads.png)
 

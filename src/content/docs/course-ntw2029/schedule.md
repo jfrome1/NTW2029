@@ -228,8 +228,8 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## 10.1 - Tue 22 Oct 2024
 
-- Writing topic: peer review, conclusions
-  - Read (recommended): peer drafts
+- Writing topic: none; in-class consultations and group work
+  - Read (recommended): none
 
 ###### Due [Wed 23 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136412?module_item_id=411485): [Paper 2 source summary outline](assignments/papers/p2-5-source-summary-outline)
 
@@ -237,6 +237,8 @@ Please watch the following. Remember that you can come back to these later in th
 
 - Writing topic: peer review
   - Read (recommended): peer drafts
+- Please look at [:your section groups](#x--102-groups) and email group members your source outline in time for them to read it before class (in addition to submitting the assignment on Canvas)
+- Also, bring 3 hardcopies of your source outline to class for your group members.
 
 ###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): [Paper 2 proposal and revised source summary outline](assignments/papers/p2-6-proposal-draft-outline)
 
@@ -274,3 +276,43 @@ Please watch the following. Remember that you can come back to these later in th
 ###### Due [one day after final paper due date](https://canvas.nus.edu.sg/courses/66393/assignments/124142?module_item_id=365289): [Exercise 10 - Workload report](assignments/exercises/e10-workload)
 
 ###### Due [one day after final paper due date](https://canvas.nus.edu.sg/courses/66393/assignments/136400?module_item_id=411469): [Exercise 11 - Paper 2 self-evaluation](assignments/exercises/e11-p2-writing-reflection)
+
+##### :x  10.2 groups
+
+E1
+
+- Group 1
+	- Foo Wei Ting Ember
+	- Agarwal Jatin
+	- Loewe Lim Li Tong
+- Group 2
+	- Lee Xuan
+	- Haren Raj
+	- Himani Vinod Vasnani
+- Group 3
+	- Liu Zhiwei
+	- Gabriel Yong Kai Wen
+	- Bren Soh Wan Ying
+- Group 4
+	- Jethro Josh Najos Mahendran
+	- Claire Sze Wei Roberts
+	- Kavtaradze Anna
+
+E2
+
+- Group 1
+	- Wang Zhi
+	- Hannah Hui Ching Hei
+	- Valerie Lim Xuan Yi
+- Group 2
+	- Evan Adhitya Lioe
+	- Foo En Qi
+	- Tham Wee Nee
+- Group 3
+	- Chan Kai-En, Theodore
+	- Low Ling Hui, Hazel
+	- Kho Wei Fong
+- Group 4
+	- Kwok Yee Jie
+	- Zhang Li Kevin
+	- Chang Shyuan Rhui
