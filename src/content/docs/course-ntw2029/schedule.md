@@ -240,7 +240,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Please look at [:your section groups](#x--102-groups) and email group members your source outline in time for them to read it before class (in addition to submitting the assignment on Canvas)
 - Also, bring 3 hardcopies of your source outline to class for your group members.
 
-###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): [Paper 2 proposal and revised source summary outline](assignments/papers/p2-6-proposal-source-outline.md)
+###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): [Paper 2 proposal and revised source summary outline](assignments/papers/p2-6-proposal-source-outline)
 
 ## 11.1 Tue 29 Oct 2024 — no class meeting; individual student conferences
 
