@@ -1,6 +1,6 @@
 ---
 
-title: Paper 2 proposal and draft outline
+title: Paper 2 proposal and revised source summary outline
 date: 2024-10-26
 
 ---
