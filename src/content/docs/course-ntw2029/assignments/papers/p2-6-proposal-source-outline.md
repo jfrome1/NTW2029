@@ -23,7 +23,7 @@ date: 2024-10-26
 2. What are the sources' main theses or conclusions that contribute to this academic conversation? (1-3 main claims only)
 3. Which one of these claims (or contributing sub-claim) do you plan to analyze? Pick a claim that seems (most likely to be) incomplete, ambiguous, problematic, or limited in some way.
 4. Write a 250 word (max) summary of the argument the source uses to support the claim. Make sure the summary clearly connects the claim to the academic conversation. The summary is a narrative presentation of the argument.
-5. In a list or outline form, state brief summaries of the reasons and evidence (if any) supporting the claim, as well as any important assumptions the claim relies on. The list is a way to think of the claim as the conclusion of an argument.
+5. In a list or outline form, state brief summaries of the reasons and evidence (if any) supporting the claim, as well as any important assumptions the claim relies on. The list is a way to think of the claim as the logical conclusion of premises in an argument.
 6. If you can, suggest one or two possible ways you are thinking about evaluating, correcting, or improving the argument.
 7. If you can, suggest why your challenge might be significant to the academic conversation about this topic. Even if you can't do it right now, in your final paper, you will have to explain why your discussion is significant to the academic conversation.
 
