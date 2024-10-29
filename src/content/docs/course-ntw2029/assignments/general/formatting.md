@@ -25,7 +25,7 @@ These guidelines apply to papers and all paper-related assignments.
 - Start the first page with the following information at the top left-hand corner of the first page of all paper assignments (not in the header):
 
 ```text
-Your Name
+Your Full Name
 Prof. Frome - NTW2029
 Assignment Name (e.g. Paper 1 draft)
 Assignment due date
