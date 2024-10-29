@@ -77,4 +77,4 @@ List the most important issues mentioned, up to a maximum of three. Make sure to
 
 ## Submission
 
-Submit all three parts of the assignment on Canvas as one document. Start each part on a new page. Please follow exercise guidelines, include a GenAI link or non-use statement, and submit an updated workload report under Exercise 10.
+Submit all three parts of the assignment on Canvas as one document. Start each part on a new page. Please follow paper guidelines, include a GenAI link or non-use statement, and submit an updated workload report under Exercise 10.
