@@ -244,7 +244,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## 11.1 Tue 29 Oct 2024 — no class meeting; individual student conferences
 
-- sign up for conference times here [link to be posted]
+- sign up for conference times -- check Teams chat for link!
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136398?module_item_id=411466): [Exercise 8 - Paper 2 proposal conference summary](assignments/exercises/e08-p2-proposal-conf-notes)
 
