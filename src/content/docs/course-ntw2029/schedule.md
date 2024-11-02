@@ -237,8 +237,9 @@ Please watch the following. Remember that you can come back to these later in th
 
 - Writing topic: peer review
   - Read (recommended): peer drafts
-- Please look at [:your section groups](#x--102-groups) and email group members your source outline in time for them to read it before class (in addition to submitting the assignment on Canvas)
-- Also, bring 3 hardcopies of your source outline to class for your group members.
+- Please look at [:your section groups](#x--102-groups) and email group members your last assignment in time for them to read it before class (in addition to submitting the assignment on Canvas)
+- Bring 3 hardcopies of your  last assignment to class for your group members
+- Bring your source in either hardcopy or softcopy (devices allowed for this class, but only one device per group at a time, just for the person whose work is being discussed)
 
 ###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): [Paper 2 proposal and revised source summary outline](assignments/papers/p2-6-proposal-source-outline)
 
@@ -257,13 +258,16 @@ Please watch the following. Remember that you can come back to these later in th
 ## 12.1 - Tue 05 Nov 2024
 
 - Writing topic: peer review
-  - Read (recommended): peer drafts
+- Please look at [:your section groups](#x--102-groups) and email group members your last assignment in time for them to read it before class (in addition to submitting the assignment on Canvas)
+- Bring 3 hardcopies of your last assignment to class for your group members
+- Bring your source in either hardcopy or softcopy (devices allowed for this class, but only one device per group at a time, just for the person whose work is being discussed)
 
 ## 12.2 - Fri 8 Nov 2024
 
 - Last in-person class meeting
-- Writing topic: peer review
-  - Read (recommended): peer drafts
+- Please look at [:your section groups](#x--102-groups) and email group members your last assignment in time for them to read it before class (in addition to submitting the assignment on Canvas)
+- Bring 3 hardcopies of your last assignment to class for your group members
+- Bring your source in either hardcopy or softcopy (devices allowed for this class, but only one device per group at a time, just for the person whose work is being discussed)
 
 ###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): [Paper 2 full draft and outline](assignments/papers/p2-8-full-draft-and-outline)
 
