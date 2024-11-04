@@ -34,15 +34,12 @@ function formatCommitDate(dateString: string | null) {
 
 <script>
   import posthog from 'posthog-js'
-
-posthog.init('phc_t4s4Co4gEm9fzWcHpFUF7zWLFIwv2sR9TiXiNnY74fh',
-    {
-        api_host: 'https://us.i.posthog.com',
-        person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
-    }
-)
-  inject();
-
+        posthog.init('phc_t4s4Co4gEm9fzWcHpFUF7zWLFIwv2sR9TiXiNnY74fh',
+            {
+                api_host: 'https://us.i.posthog.com',
+                person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
+            }
+        )
         const form = document.getElementById('feedbackForm') as HTMLFormElement;
         const messageDiv = document.getElementById('message') as HTMLDivElement;
         const button = document.getElementById('sendButton') as HTMLButtonElement;
