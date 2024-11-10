@@ -19,6 +19,7 @@ Write a complete draft and outline of Paper 2 to receive feedback before the fin
 	- the introduction will not have a highlighted topic sentence
 	- max one topic sentence per paragraph
 	- topic sentences are almost always the first or second sentence in the paragraph
+- Feedback questions: on your draft and/or outline, please use the Word "comment" feature to ask me up to 10 questions. I will prioritize answering those questions in my feedback.
 
 ## Guidelines
 
