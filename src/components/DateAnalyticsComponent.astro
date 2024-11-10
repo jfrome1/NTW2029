@@ -33,9 +33,13 @@ function formatCommitDate(dateString: string | null) {
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website via Teams or email for class participation credit.</p>
 
 <script>
-  import { inject, track } from '@vercel/analytics';
-  inject();
-
+  import posthog from 'posthog-js'
+        posthog.init('phc_t4s4Co4gEm9fzWcHpFUF7zWLFIwv2sR9TiXiNnY74fh',
+            {
+                api_host: 'https://us.i.posthog.com',
+                person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
+            }
+        )
         const form = document.getElementById('feedbackForm') as HTMLFormElement;
         const messageDiv = document.getElementById('message') as HTMLDivElement;
         const button = document.getElementById('sendButton') as HTMLButtonElement;
@@ -92,7 +96,7 @@ function formatCommitDate(dateString: string | null) {
 
       const duration = Date.now() - openTime;
 
-      track("inactiveNutshell", {
+      posthog.capture("inactiveNutshell", {
         text:  link.textContent,
         duration: duration,
       });
@@ -105,7 +109,7 @@ function formatCommitDate(dateString: string | null) {
       const currentMode = link.getAttribute("mode");
 
       if (currentMode === "open") {
-        track("openNutshell", {
+        posthog.capture("openNutshell", {
           page: document.title,
           text: link.textContent,
         });
@@ -162,7 +166,7 @@ function formatCommitDate(dateString: string | null) {
       const isExternal = link.target === "_blank";
       const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
 
-      track(eventName, {
+      posthog.capture(eventName, {
         text: link.textContent,
         link: link.href,
       });
@@ -218,7 +222,7 @@ function formatCommitDate(dateString: string | null) {
         const totalHeight = document.documentElement.scrollHeight;
 
         if (scrollPosition >= totalHeight / 2) {
-          track("read", { page: document.title });
+          posthog.capture("read", { page: document.title });
           readEventTriggered = true;
           window.removeEventListener("scroll", handleScroll);
         }
