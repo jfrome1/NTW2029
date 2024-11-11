@@ -3,7 +3,7 @@ title: Conference guidelines
 date: 2024-08-16
 ---
 
-I'll have at least three individual conferences with each student this semester. Conferences are usually conducted in person, but can be held via Zoom at your request (either is fine with me). I [:record conferences](#x-recordconferences) and I'll [:share the recording](#x-sharetherecording) and transcript with you afterwards.
+I'll have at least three individual conferences with each student this semester. Conferences can be in-person (the default) or via Zoom (at your request); either is fine with me. I [:record conferences](#x-recordconferences) and I'll [:share the recording and transcript](#x-sharetherecording) with you afterwards.
 
 ## Bookings
 
@@ -11,7 +11,7 @@ I use Microsoft Bookings to schedule conferences. Check the conference sign-up t
 
 ## In-person conference logistics
 
-In-person conferences are held in my office, Cinnamon West 02-09. When your conference time comes, knock on my door to let me know you've arrived and are ready to begin. Feel free to bring and use devices during the conference.
+Conferences are usually held in-person, in my office, Cinnamon West 02-09. When your conference time comes, knock on my door to let me know you've arrived and are ready to begin. Feel free to bring and use devices during the conference.
 
 Please do not informally switch time slots with other students as I prepare for the conferences based on the schedule. If you want to switch time slots with another student via the Bookings app (canceling and re-booking new slots), that's fine as long as you do it at least one day in advance.
 
@@ -40,7 +40,7 @@ To make sure you get full benefit from the conference:
 
 ##### :x record conferences
 
-I record conferences to see what issues come up for multiple students. I use the conference discussions to improve the class notes and website.
+I check the recordings to see if discuss the same issue with multiple students. If I do, I know to improve the class notes and website information about those issues.
 
 ##### :x  share the recording
 
