@@ -273,7 +273,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ## 13.1 and 13.2 (12 Nov and 15 Nov) — no class meetings; individual student conferences
 
-Schedule a conference [here](https://outlook.office.com/bookwithme/user/9371c9d0413c426cbd410771b9ba84ce@nus.edu.sg/meetingtype/xy2-_c_yN0CmclrewkXDNQ2?bookingcode=f5cbf678-2e09-44aa-a79f-9243438440cc&anonymous&ep=mlink).
+Schedule a conference [here](https://outlook.office.com/bookwithme/user/9371c9d0413c426cbd410771b9ba84ce@nus.edu.sg/meetingtype/xy2-_c_yN0CmclrewkXDNQ2?bookingcode=9553def3-da45-4100-b2e0-9c251b90d0af&anonymous&ep=mlink)
 
 Tue conferences are open ONLY for students who turned their P2 drafts in on Sunday.
 Wed and Thu conferences are open to all. If you cannot make any available slots, email me your course schedule and I'll suggest an alternate time.
