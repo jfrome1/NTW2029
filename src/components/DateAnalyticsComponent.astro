@@ -124,13 +124,162 @@ import posthog from "posthog-js";
     
     function initialize() {
       const user = initializeUser();
-      console.log('Current user:', user);
       initializeTracking(user);
       return user;
     }
     
     // Usage
     const currentUser = initialize();
+
+    window.addEventListener("load", function () {
+    let readEventTriggered = false;
+
+    function handleDetails() {
+      const detailsElements = document.querySelectorAll("details");
+      detailsElements.forEach((details) => {
+        const summary = details.querySelector("summary");
+        if (summary) {
+          summary.addEventListener("click", () => {
+            if (!details.open) {
+              // Record the time the details is opened
+              details.setAttribute("data-open-time", Date.now().toString());
+              posthog.capture("openNutshell", {
+                page: document.title,
+                text: summary.textContent,
+              });
+            } else {
+              // Calculate duration it was open for
+              const openTime = parseInt(details.getAttribute("data-open-time") || "0");
+              const duration = Date.now() - openTime;
+              posthog.capture("closeNutshell", {
+                page: document.title,
+                text: summary.textContent,
+                duration: duration,
+              });
+              details.removeAttribute("data-open-time");
+            }
+          });
+        }
+      });
+    }
+
+    handleDetails();
+
+    const documentDetailObserver = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        mutation.addedNodes.forEach((node) => {
+          if (node instanceof HTMLElement) {
+            const newDetailsElements = node.querySelectorAll("details");
+            newDetailsElements.forEach((details) => {
+              const summary = details.querySelector("summary");
+              if (summary) {
+                summary.addEventListener("click", () => {
+                  if (!details.open) {
+                    details.setAttribute("data-open-time", Date.now().toString());
+                  } else {
+                    const openTime = parseInt(details.getAttribute("data-open-time") || "0");
+                    const duration = Date.now() - openTime;
+                    console.log("Details closed duration:", duration);
+                    details.removeAttribute("data-open-time");
+                  }
+                });
+              }
+            });
+          }
+        });
+      });
+    });
+    documentDetailObserver.observe(document.body, { childList: true, subtree: true });
+
+    // Handle nutshell links
+    function handleNutshellInactive(link: { getAttribute: (arg0: string) => any; textContent: any; removeAttribute: (arg0: string) => void; }) {
+      const openTime = parseInt(link.getAttribute("data-open-time") || "0");
+      if (openTime === 0) return;
+      const duration = Date.now() - openTime;
+      posthog.capture("inactiveNutshell", {
+        text: link.textContent,
+        duration: duration,
+      });
+      link.removeAttribute("data-open-time");
+    }
+
+    function handleNutshellClick(event: { currentTarget: any; }) {
+      const link = event.currentTarget;
+      const currentMode = link.getAttribute("mode");
+      if (currentMode === "open") {
+        posthog.capture("openNutshell", {
+          page: document.title,
+          text: link.textContent,
+        });
+        link.setAttribute("data-open-time", Date.now().toString());
+      } else if (currentMode === "closed") {
+        handleNutshellInactive(link);
+      }
+    }
+
+    function addNutshellListener(link: { hasAttribute: (arg0: string) => any; addEventListener: (arg0: string, arg1: (event: any) => void) => void; setAttribute: (arg0: string, arg1: string) => void; }) {
+      if (!link.hasAttribute("listener-added")) {
+        link.addEventListener("click", handleNutshellClick);
+        link.setAttribute("listener-added", "true");
+      }
+    }
+
+    function addLinkListener(link: { classList: { contains: (arg0: string) => any; }; hasAttribute: (arg0: string) => any; addEventListener: (arg0: string, arg1: (event: any) => void) => void; setAttribute: (arg0: string, arg1: string) => void; }) {
+      if (!link.classList.contains("nutshell-expandable") && !link.hasAttribute("link-listener-added")) {
+        link.addEventListener("click", handleLinkClick);
+        link.setAttribute("link-listener-added", "true");
+      }
+    }
+
+    function handleLinkClick(event: { currentTarget: any; }) {
+      const link = event.currentTarget;
+      const isExternal = link.target === "_blank";
+      const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
+      posthog.capture(eventName, {
+        text: link.textContent,
+        link: link.href,
+      });
+    }
+
+    function addInitialListeners() {
+      const nutshellLinks = document.querySelectorAll(".nutshell-expandable");
+      nutshellLinks.forEach(addNutshellListener);
+      const allLinks = document.querySelectorAll("a");
+      allLinks.forEach(addLinkListener);
+    }
+
+    addInitialListeners();
+
+    window.addEventListener("scroll", handleScroll);
+
+    function handleScroll() {
+      if (!readEventTriggered) {
+        const scrollPosition = window.scrollY + window.innerHeight;
+        const totalHeight = document.documentElement.scrollHeight;
+        if (scrollPosition >= totalHeight / 2) {
+          posthog.capture("read", { page: document.title });
+          readEventTriggered = true;
+          window.removeEventListener("scroll", handleScroll);
+        }
+      }
+    }
+
+    const documentObserver = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.type === "childList") {
+          mutation.addedNodes.forEach((node) => {
+            if (node instanceof HTMLElement) {
+              const newNutshellLinks = node.querySelectorAll(".nutshell-expandable");
+              newNutshellLinks.forEach(addNutshellListener);
+              const newLinks = node.querySelectorAll("a");
+              newLinks.forEach(addLinkListener);
+            }
+          });
+        }
+      });
+    });
+    documentObserver.observe(document.body, { childList: true, subtree: true });
+  });
     </script>
 
 <style>
