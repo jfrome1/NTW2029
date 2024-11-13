@@ -33,228 +33,105 @@ function formatCommitDate(dateString: string | null) {
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website via Teams or email for class participation credit.</p>
 
 <script>
-  import posthog from 'posthog-js'
-        posthog.init('phc_t4s4Co4gEm9fzWcHpFUF7zWLFIwv2sR9TiXiNnY74fh',
-            {
-                api_host: 'https://us.i.posthog.com',
-                person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
-            }
-        )
-        const form = document.getElementById('feedbackForm') as HTMLFormElement;
-        const messageDiv = document.getElementById('message') as HTMLDivElement;
-        const button = document.getElementById('sendButton') as HTMLButtonElement;
+import posthog from "posthog-js";
 
-        if (form && messageDiv && button) {
-            function showMessage(text: string, type: 'success' | 'error') {
-                messageDiv.textContent = text;
-                messageDiv.className = type + ' show';
-                setTimeout(() => {
-                    messageDiv.classList.remove('show');
-                }, 5000);
-            }
-
-            button.addEventListener('click', async (e) => {
-                e.preventDefault();
-
-                const feedback = (document.getElementById('feedback') as HTMLTextAreaElement).value;
-                if (!feedback) {
-                    showMessage('Please enter your feedback.', 'error');
-                }
-                button.innerText = 'Sending...';
-                try {
-                    const response = await fetch('https://submit-form.com/V16Xo43GN', {
-                        method: 'POST',
-                        headers: {
-                            'Content-Type': 'application/json',
-                            Accept: "application/json",
-                        },
-                        body: JSON.stringify({ feedback, page: window.location.pathname }),
-                    });
-
-                    if (response.ok) {
-                        showMessage('Feedback submitted successfully!', 'success');
-                        button.innerText = 'Send';
-                        form.reset();
-                    } else {
-                        button.innerText = 'Send';
-                        throw new Error('Server responded with an error');
-                    }
-                } catch (error) {
-                    console.error('Error:', error);
-                    button.innerText = 'Send';
-                    showMessage('An error occurred. Please try again.', 'error');
-                }
-            });
-        }
-
-  window.addEventListener("load", function () {
-    let readEventTriggered = false;
-
-    function handleNutshellInactive(link: HTMLAnchorElement) {
-      const openTime = parseInt(link.getAttribute("data-open-time") || "0");
-      if (openTime === 0) return;
-
-      const duration = Date.now() - openTime;
-
-      posthog.capture("inactiveNutshell", {
-        text:  link.textContent,
-        duration: duration,
-      });
-
-      link.removeAttribute("data-open-time");
-    }
-
-    function handleNutshellClick(event: Event) {
-      const link = event.currentTarget as HTMLAnchorElement;
-      const currentMode = link.getAttribute("mode");
-
-      if (currentMode === "open") {
-        posthog.capture("openNutshell", {
-          page: document.title,
-          text: link.textContent,
-        });
-
-        link.setAttribute("data-open-time", Date.now().toString());
-
-        const observer = new MutationObserver((mutations) => {
-          mutations.forEach((mutation) => {
-            if (mutation.type === "childList") {
-              mutation.addedNodes.forEach((node) => {
-                if (node instanceof HTMLElement) {
-                  const newSubLinks = node.querySelectorAll(
-                    ".nutshell-expandable"
-                  ) as NodeListOf<HTMLAnchorElement>;
-                  newSubLinks.forEach(addNutshellListener);
-                }
-              });
-            }
-          });
-        });
-
-        observer.observe(link, { childList: true, subtree: true });
-
-        setTimeout(() => observer.disconnect(), 1000);
-
-        // Find and start observing the nutshell-bubble
-        const nutshellBubble = document.querySelector(
-          ".nutshell-bubble"
-        ) as HTMLElement;
-        if (nutshellBubble) {
-          nutshellObserver.observe(nutshellBubble);
-        }
-      } else if (currentMode === "closed") {
-        handleNutshellInactive(link);
-        const nutshellBubble = document.querySelector(
-          ".nutshell-bubble"
-        ) as HTMLElement;
-        if (nutshellBubble) {
-          nutshellObserver.unobserve(nutshellBubble);
-        }
+    const config = {
+      users: [
+        { id: "user1", name: "Max Hedgehog" },
+        { id: "user2", name: "Alice Sparrow" },
+        { id: "user3", name: "Charlie Doe" }
+      ],
+      cookieName: 'userPreference',
+      postHogConfig: {
+        apiKey: 'phc_t4s4Co4gEm9fzWcHpFUF7zWLFIwv2sR9TiXiNnY74fh',
+        apiHost: 'https://us.i.posthog.com',
+        personProfiles: 'identified_only'
+      }
+    };
+    
+    // Cookie handling functions
+    function setCookie(name: string, value: string | number | boolean) {
+      try {
+        const expires = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toUTCString(); // 30 days
+        document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/; SameSite=Strict; Secure`;
+      } catch (error) {
+        console.error('Error setting cookie:', error);
       }
     }
-
-    function addNutshellListener(link: HTMLAnchorElement) {
-      if (!link.hasAttribute("listener-added")) {
-        link.addEventListener("click", handleNutshellClick);
-        link.setAttribute("listener-added", "true");
+    
+    function getCookie(name: string) {
+      try {
+        return document.cookie
+          .split('; ')
+          .find(row => row.startsWith(`${name}=`))
+          ?.split('=')[1];
+      } catch (error) {
+        console.error('Error reading cookie:', error);
+        return null;
       }
     }
-
-    function handleLinkClick(event: Event) {
-      const link = event.currentTarget as HTMLAnchorElement;
-
-      const isExternal = link.target === "_blank";
-      const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
-
-      posthog.capture(eventName, {
-        text: link.textContent,
-        link: link.href,
-      });
+    
+    // User management functions
+    function getRandomUser() {
+      return config.users[Math.floor(Math.random() * config.users.length)];
     }
-
-    function addLinkListener(link: HTMLAnchorElement) {
-      if (
-        !link.classList.contains("nutshell-expandable") &&
-        !link.hasAttribute("link-listener-added")
-      ) {
-        link.addEventListener("click", handleLinkClick);
-        link.setAttribute("link-listener-added", "true");
-      }
-    }
-
-    function addInitialListeners() {
-      const nutshellLinks = document.querySelectorAll(
-        ".nutshell-expandable"
-      ) as NodeListOf<HTMLAnchorElement>;
-      nutshellLinks.forEach(addNutshellListener);
-
-      const allLinks = document.querySelectorAll(
-        "a"
-      ) as NodeListOf<HTMLAnchorElement>;
-      allLinks.forEach(addLinkListener);
-    }
-
-    const nutshellObserver = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          console.log(entry);
-          if (!entry.isIntersecting) {
-            const nutshellBubble = entry.target as HTMLElement;
-            const nutshellLink = nutshellBubble.previousElementSibling
-              ?.previousSibling as HTMLAnchorElement;
-            if (nutshellLink && nutshellLink.getAttribute("mode") === "open") {
-              handleNutshellInactive(nutshellLink);
-              nutshellLink.click();
-            }
+    
+    function initializeUser() {
+      try {
+        const savedUser = getCookie(config.cookieName);
+        if (savedUser) {
+          const parsedUser = JSON.parse(decodeURIComponent(savedUser));
+          if (parsedUser?.id && parsedUser?.name) {
+            return parsedUser;
           }
-        });
-      },
-      {
-        root: null,
-        rootMargin: "0px",
-        threshold: 0,
-      }
-    );
-
-    function handleScroll() {
-      if (!readEventTriggered) {
-        const scrollPosition = window.scrollY + window.innerHeight;
-        const totalHeight = document.documentElement.scrollHeight;
-
-        if (scrollPosition >= totalHeight / 2) {
-          posthog.capture("read", { page: document.title });
-          readEventTriggered = true;
-          window.removeEventListener("scroll", handleScroll);
         }
+        const newUser = getRandomUser();
+        setCookie(config.cookieName, JSON.stringify(newUser));
+        return newUser;
+      } catch (error) {
+        console.error('Error initializing user:', error);
+        return getRandomUser();
       }
     }
-
-    addInitialListeners();
-    window.addEventListener("scroll", handleScroll);
-
-    const documentObserver = new MutationObserver((mutations) => {
-      mutations.forEach((mutation) => {
-        if (mutation.type === "childList") {
-          mutation.addedNodes.forEach((node) => {
-            if (node instanceof HTMLElement) {
-              const newNutshellLinks = node.querySelectorAll(
-                ".nutshell-expandable"
-              ) as NodeListOf<HTMLAnchorElement>;
-              newNutshellLinks.forEach(addNutshellListener);
-
-              const newLinks = node.querySelectorAll(
-                "a"
-              ) as NodeListOf<HTMLAnchorElement>;
-              newLinks.forEach(addLinkListener);
-            }
-          });
+    
+    // Tracking functions
+    // function hasUserConsent() {
+    //   return false; 
+    // }
+    
+    function initializeTracking(user: { id: string | undefined; name: any; }) {
+      try {
+        if (typeof posthog === 'undefined') {
+          throw new Error('PostHog is not loaded');
         }
-      });
-    });
-
-    documentObserver.observe(document.body, { childList: true, subtree: true });
-  });
-</script>
+    
+        posthog.init(config.postHogConfig.apiKey, {
+          api_host: config.postHogConfig.apiHost,
+          persistence: 'memory',
+          person_profiles: 'identified_only',
+        });
+    
+        // if (hasUserConsent()) {
+          posthog.identify(user.id, {
+            name: user.name,
+            timestamp: new Date().toISOString()
+          });
+        //}
+      } catch (error) {
+        console.error('Error initializing tracking:', error);
+      }
+    }
+    
+    function initialize() {
+      const user = initializeUser();
+      console.log('Current user:', user);
+      initializeTracking(user);
+      return user;
+    }
+    
+    // Usage
+    const currentUser = initialize();
+    </script>
 
 <style>
   .container {
