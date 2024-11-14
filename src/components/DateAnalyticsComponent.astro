@@ -147,6 +147,7 @@ import posthog from "posthog-js";
                 page: document.title,
                 text: summary.textContent,
               });
+              console.log(summary.textContent);
             } else {
               // Calculate duration it was open for
               const openTime = parseInt(details.getAttribute("data-open-time") || "0");
@@ -174,12 +175,20 @@ import posthog from "posthog-js";
               const summary = details.querySelector("summary");
               if (summary) {
                 summary.addEventListener("click", () => {
-                  if (!details.open) {
+                      if (!details.open) {
+                        posthog.capture("openQuiz", {
+                    page: document.title,
+                    text: summary.textContent,
+                  });
                     details.setAttribute("data-open-time", Date.now().toString());
                   } else {
                     const openTime = parseInt(details.getAttribute("data-open-time") || "0");
                     const duration = Date.now() - openTime;
-                    console.log("Details closed duration:", duration);
+                          posthog.capture("closeQuiz", {
+                      page: document.title,
+                      text: summary.textContent,
+                      duration: duration,
+                    });
                     details.removeAttribute("data-open-time");
                   }
                 });
