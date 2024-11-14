@@ -134,37 +134,37 @@ import posthog from "posthog-js";
     window.addEventListener("load", function () {
     let readEventTriggered = false;
 
-    function handleDetails() {
-      const detailsElements = document.querySelectorAll("details");
-      detailsElements.forEach((details) => {
-        const summary = details.querySelector("summary");
-        if (summary) {
-          summary.addEventListener("click", () => {
-            if (!details.open) {
-              // Record the time the details is opened
-              details.setAttribute("data-open-time", Date.now().toString());
-              posthog.capture("openQuiz", {
-                page: document.title,
-                text: summary.textContent,
-              });
-              console.log(summary.textContent);
-            } else {
-              // Calculate duration it was open for
-              const openTime = parseInt(details.getAttribute("data-open-time") || "0");
-              const duration = Date.now() - openTime;
-              posthog.capture("closeQuiz", {
-                page: document.title,
-                text: summary.textContent,
-                duration: duration,
-              });
-              details.removeAttribute("data-open-time");
-            }
-          });
-        }
-      });
-    }
+    // function handleDetails() {
+    //   const detailsElements = document.querySelectorAll("details");
+    //   detailsElements.forEach((details) => {
+    //     const summary = details.querySelector("summary");
+    //     if (summary) {
+    //       summary.addEventListener("click", () => {
+    //         if (!details.open) {
+    //           // Record the time the details is opened
+    //           details.setAttribute("data-open-time", Date.now().toString());
+    //           posthog.capture("openQuiz", {
+    //             page: document.title,
+    //             text: summary.textContent,
+    //           });
+    //           console.log(summary.textContent);
+    //         } else {
+    //           // Calculate duration it was open for
+    //           const openTime = parseInt(details.getAttribute("data-open-time") || "0");
+    //           const duration = Date.now() - openTime;
+    //           posthog.capture("closeQuiz", {
+    //             page: document.title,
+    //             text: summary.textContent,
+    //             duration: duration,
+    //           });
+    //           details.removeAttribute("data-open-time");
+    //         }
+    //       });
+    //     }
+    //   });
+    // }
 
-    handleDetails();
+    // handleDetails();
 
     const documentDetailObserver = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
@@ -184,6 +184,7 @@ import posthog from "posthog-js";
                   } else {
                     const openTime = parseInt(details.getAttribute("data-open-time") || "0");
                     const duration = Date.now() - openTime;
+                    console.log("Details closed duration:", duration);
                           posthog.capture("closeQuiz", {
                       page: document.title,
                       text: summary.textContent,
@@ -212,59 +213,133 @@ import posthog from "posthog-js";
       link.removeAttribute("data-open-time");
     }
 
-    function handleNutshellClick(event: { currentTarget: any; }) {
-      const link = event.currentTarget;
+    function handleNutshellClick(event: Event) {
+      const link = event.currentTarget as HTMLAnchorElement;
       const currentMode = link.getAttribute("mode");
+
       if (currentMode === "open") {
         posthog.capture("openNutshell", {
           page: document.title,
           text: link.textContent,
         });
+
         link.setAttribute("data-open-time", Date.now().toString());
+
+        const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+            if (mutation.type === "childList") {
+              mutation.addedNodes.forEach((node) => {
+                if (node instanceof HTMLElement) {
+                  const newSubLinks = node.querySelectorAll(
+                    ".nutshell-expandable"
+                  ) as NodeListOf<HTMLAnchorElement>;
+                  newSubLinks.forEach(addNutshellListener);
+                }
+              });
+            }
+          });
+        });
+
+        observer.observe(link, { childList: true, subtree: true });
+
+        setTimeout(() => observer.disconnect(), 1000);
+
+        // Find and start observing the nutshell-bubble
+        const nutshellBubble = document.querySelector(
+          ".nutshell-bubble"
+        ) as HTMLElement;
+        if (nutshellBubble) {
+          nutshellObserver.observe(nutshellBubble);
+        }
       } else if (currentMode === "closed") {
         handleNutshellInactive(link);
+        const nutshellBubble = document.querySelector(
+          ".nutshell-bubble"
+        ) as HTMLElement;
+        if (nutshellBubble) {
+          nutshellObserver.unobserve(nutshellBubble);
+        }
       }
     }
 
-    function addNutshellListener(link: { hasAttribute: (arg0: string) => any; addEventListener: (arg0: string, arg1: (event: any) => void) => void; setAttribute: (arg0: string, arg1: string) => void; }) {
+    function addNutshellListener(link: HTMLAnchorElement) {
       if (!link.hasAttribute("listener-added")) {
         link.addEventListener("click", handleNutshellClick);
         link.setAttribute("listener-added", "true");
       }
     }
 
-    function addLinkListener(link: { classList: { contains: (arg0: string) => any; }; hasAttribute: (arg0: string) => any; addEventListener: (arg0: string, arg1: (event: any) => void) => void; setAttribute: (arg0: string, arg1: string) => void; }) {
-      if (!link.classList.contains("nutshell-expandable") && !link.hasAttribute("link-listener-added")) {
-        link.addEventListener("click", handleLinkClick);
-        link.setAttribute("link-listener-added", "true");
-      }
-    }
+    function handleLinkClick(event: Event) {
+      const link = event.currentTarget as HTMLAnchorElement;
 
-    function handleLinkClick(event: { currentTarget: any; }) {
-      const link = event.currentTarget;
       const isExternal = link.target === "_blank";
       const eventName = isExternal ? "externalLinkClick" : "internalLinkClick";
+
       posthog.capture(eventName, {
         text: link.textContent,
         link: link.href,
       });
     }
 
+    function addLinkListener(link: HTMLAnchorElement) {
+      if (
+        !link.classList.contains("nutshell-expandable") &&
+        !link.hasAttribute("link-listener-added")
+      ) {
+        link.addEventListener("click", handleLinkClick);
+        link.setAttribute("link-listener-added", "true");
+      }
+    }
+
     function addInitialListeners() {
-      const nutshellLinks = document.querySelectorAll(".nutshell-expandable");
+      const nutshellLinks = document.querySelectorAll(
+        ".nutshell-expandable"
+      ) as NodeListOf<HTMLAnchorElement>;
       nutshellLinks.forEach(addNutshellListener);
-      const allLinks = document.querySelectorAll("a");
+
+      const allLinks = document.querySelectorAll(
+        "a"
+      ) as NodeListOf<HTMLAnchorElement>;
       allLinks.forEach(addLinkListener);
     }
 
-    addInitialListeners();
+    const nutshellObserver = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (!entry.isIntersecting) {
+      const nutshellBubble = entry.target as HTMLElement;
+      const nutshellLink = nutshellBubble.previousElementSibling
+        ?.previousSibling as HTMLAnchorElement;
 
-    window.addEventListener("scroll", handleScroll);
+      if (nutshellLink && nutshellLink.getAttribute("mode") === "open") {
+        // Close all open <details> elements before the click
+        const detailsElements = nutshellBubble.querySelectorAll("details[open]") as unknown as HTMLDetailsElement[];
+        detailsElements.forEach((details) => {
+          const openTime = parseInt(details.getAttribute("data-open-time") || "0");
+          const duration = Date.now() - openTime;
+          posthog.capture("closeQuiz", {
+            page: document.title,
+            text: details.querySelector("summary")?.textContent,
+            duration: duration,
+          });
+        });
+
+        handleNutshellInactive(nutshellLink);
+        nutshellLink.click();
+      }
+    }
+  });
+}, {
+  root: null,
+  rootMargin: "0px",
+  threshold: 0,
+});
+
 
     function handleScroll() {
       if (!readEventTriggered) {
         const scrollPosition = window.scrollY + window.innerHeight;
         const totalHeight = document.documentElement.scrollHeight;
+
         if (scrollPosition >= totalHeight / 2) {
           posthog.capture("read", { page: document.title });
           readEventTriggered = true;
@@ -273,12 +348,15 @@ import posthog from "posthog-js";
       }
     }
 
+    addInitialListeners();
+    window.addEventListener("scroll", handleScroll);
+
     const documentObserver = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
         if (mutation.type === "childList") {
           mutation.addedNodes.forEach((node) => {
             if (node instanceof HTMLElement) {
-              const newNutshellLinks = node.querySelectorAll(".nutshell-expandable");
+              const newNutshellLinks = node.querySelectorAll(".nutshell-expandable") as any;
               newNutshellLinks.forEach(addNutshellListener);
               const newLinks = node.querySelectorAll("a");
               newLinks.forEach(addLinkListener);
