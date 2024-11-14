@@ -143,7 +143,7 @@ import posthog from "posthog-js";
             if (!details.open) {
               // Record the time the details is opened
               details.setAttribute("data-open-time", Date.now().toString());
-              posthog.capture("openNutshell", {
+              posthog.capture("openQuiz", {
                 page: document.title,
                 text: summary.textContent,
               });
@@ -151,7 +151,7 @@ import posthog from "posthog-js";
               // Calculate duration it was open for
               const openTime = parseInt(details.getAttribute("data-open-time") || "0");
               const duration = Date.now() - openTime;
-              posthog.capture("closeNutshell", {
+              posthog.capture("closeQuiz", {
                 page: document.title,
                 text: summary.textContent,
                 duration: duration,
