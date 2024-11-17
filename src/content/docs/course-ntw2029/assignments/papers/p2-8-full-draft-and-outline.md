@@ -1,8 +1,21 @@
----
+ ---
 
 title: Paper 2 full draft and outline
 
 ---
+
+<!-- next time:
+
+- make clear the thesis and main outline points should be directly from the paper, maybe exclude the subpoints?
+- could do just topic sentences but arranged into hierarchy
+- add examples of good outlines
+- maybe 2 parts: topic sentence and purpose of paragraph? but isn't that redundant, wouldn't the purpose just be to convey a claim?
+- need to add something making clear that you don't explain the source and go through the arguments just to do it, but only when needed for the thesis. Can use planning/p2-8 outline problem as an example.
+- put word count limit on outline?
+- want to add video or resource showing how to work back and forth between an outline and document
+- for outline formats, specify limited number of subpoints
+
+-->
 
 ## Assignment purpose
 
