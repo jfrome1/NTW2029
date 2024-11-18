@@ -1,7 +1,5 @@
- ---
-
+---
 title: Paper 2 full draft and outline
-
 ---
 
 <!-- next time:
