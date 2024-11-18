@@ -44,7 +44,7 @@ Avoid using dashes (aka "em-dashes"). They are generally not used in formal writ
 
 Avoid: "Boyd argues that stories can not only help cooperation--they also aid the storyteller."
 
-Better: "Boyd argues that stories can not only help cooperation--they also aid the storyteller."
+Better: "Boyd argues that stories can not only help cooperation; they can also aid the storyteller."
 
 ## Empty phrase
 
@@ -65,7 +65,6 @@ See [that vs which](#that-vs-which).
 ## Subject-pronoun agreement
 
 The subject and the pronoun do not agree in number. Agreement can be trickier if your subject is an [:abstract noun](#abstract-nouns), but this is a basic rule of grammar and must be mastered, as these types of errors (fairly or unfairly) act as a key indicator of overall language fluency. Review the first point in this article: https://owl.purdue.edu/owl/general_writing/grammar/pronouns/index.html
-
 
 ## Subject-verb agreement
 
