@@ -45,7 +45,26 @@ But in a course, the paper is an artificial construct designed to help students 
 <!-- revision:
 
 Many students think that the purpose of feedback is for the instructor to tell the student everything that is "wrong" with the paper. If the student fixes the "mistakes" properly, the paper will get an A. They think of the paper like a test - no mistakes means full marks, so any grade below that is due to an error.
+--->
 
+<!-- from ChatGPT chat:
 
+**How I Give Feedback on Your Work**
+
+Most students think their goal in this class is to earn a high grade. They may recognize the value of learning and find the course interesting, but their focus on the final grade frames all aspects of the class: the paper is written to prove mastery of certain skills, those skills are meant to earn a high grade, and feedback is simply to show what needs to be fixed to get that grade. In this view, good feedback tells you everything to correct and how to do it to make your paper an "A" paper. The focus is on the quality of the paper itself rather than developing your academic skills. While you may not have explicitly thought about the purpose of feedback, I suspect most of you see it this way intuitively.
+
+**My Feedback Approach**
+
+In this course, my focus is on helping you become a stronger writer overall, not just improving your paper to earn a particular grade. I care more about your skills than the final product. My feedback is meant to help you grow as a writer by building on your strengths and addressing recurring challenges.
+
+Since there are countless ways to refine a draft, and time is limited, it's impossible to mark every potential improvement. I choose my comments strategically, focusing on areas that will have the greatest impact on your development rather than marking every single issue.
+
+I do not mark every error because pointing out each mistake can be overwhelming and does not always lead to meaningful learning. Instead, I prioritize feedback that helps you recognize patterns in your writing and learn how to improve those patterns in future drafts. There may be large sections of your paper that I do not comment on, especially if those sections are effective or if the feedback I provide elsewhere can be broadly applied. This selective approach encourages you to think critically about your work and apply feedback independently, promoting long-term growth and self-sufficiency as a writer.
+
+To be fair to all students, I spend a set amount of time on each paper. I read the entire draft and provide audio or video comments highlighting the main strengths and areas for improvement. With any remaining time, I add marginal comments or use text styling to indicate areas for review. My comments are always guided by what I believe will be most beneficial for your growth as a writer. A key part of your learning process is using this guidance to improve other areas of your writing.
+
+Effective feedback is about helping you grow without overwhelming you or aiming for unattainable perfection in one draft. If you have questions about parts of your paper that I didn’t explicitly comment on, please ask. I'm happy to respond to questions over email or schedule meetings during the week as time allows. However, I cannot comment on emailed sections of papers or drafts.
+
+My feedback is here to help you become a more confident, capable writer. Use my comments as a starting point for reflection and improvement, and remember that each draft and revision is a step toward building your skills further.
 
  -->
