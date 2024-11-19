@@ -17,7 +17,7 @@ Copy and paste these questions into the Exercise 11 text box on Canvas. Keep the
 5. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
 6. What was the most difficult part of the writing process and why?
 7. What did you learn from writing this paper that you will apply to future writing assignments?
-8. Do you have any suggestions for improving the Paper 1 process for next time I teach the course?
+8. Do you have any suggestions for improving the Paper 2 process for next time I teach the course?
 
 And the most important question:
 
