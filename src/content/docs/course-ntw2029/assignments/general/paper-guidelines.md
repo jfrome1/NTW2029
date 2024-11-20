@@ -68,6 +68,6 @@ Assignment Name (e.g. Paper 1 draft)
 Assignment due date
 ```
 
-- Include in-text citations throughout the paper assignment unless otherwise indicated. Guidelines are on the [Citations](/course-ntw2029/resources/writing/citations.md) page.
+- Include in-text citations throughout the paper assignment unless otherwise indicated. Guidelines are on the [Citations](/course-ntw2029/resources/writing/citations) page.
 - Below the assignment, but before the reference list, put a word count and a GenAI link or non-use statement.
 - Follow American Psychological Association (APA) formatting rules for capitalization [(here)](https://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.HTML) and italics [(here)](https://apastyle.apa.org/style-grammar-guidelines/italics-quotations/italics). Hint: you have to actually click those links and read those pages if you want correct formatting; don't rely on my draft feedback about incorrect formatting.
