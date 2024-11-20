@@ -89,7 +89,7 @@ There are two parts to citing sources:
 
 ### Reference list: use APA formatting
 
-- Assignments should format [:the reference list only](#x-apa) in accordance with American Psychological Association (APA) [:formatting rules](#x-rules)
+- Assignments should format the reference list in accordance with American Psychological Association (APA) [:formatting rules](#x-rules)
 - Proper reference list formatting includes two elements, and you must check the rules for both:
   - formatting the reference list itself
   - formatting the individual entries on the list (i.e. the full citations)
@@ -283,3 +283,7 @@ _"How often should you include in-text citations in one paragraph when explainin
 _"How to cite ideas from source B that you learned from source A telling you about something source B says?"_
 
 - You must mention both sources in the sentence and cite source A in-text and in the reference list. The sentence might read something like, "According to Badcock, Sterenly argues that...(31)".
+
+<!--
+[Citing works with the same author and date](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/same-year-author)
+ -->
