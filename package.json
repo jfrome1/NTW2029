@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/markdoc": "^0.11.5",
     "@astrojs/starlight": "^0.28.3",
-    "@astrojs/starlight-docsearch": "^0.2.0",
+    "@astrojs/starlight-docsearch": "^0.3.0",
     "@astrojs/vercel": "^7.8.1",
     "@inox-tools/content-utils": "^0.7.3",
     "@lorenzo_lewis/starlight-utils": "^0.2.0",
