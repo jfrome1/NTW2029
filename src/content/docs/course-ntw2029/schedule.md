@@ -1,20 +1,20 @@
 ---
 title: Schedule
-date: 2024-08-13
+date: 2024-12-17
 ---
 
 :::tip
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
 
-## 1.1 - Tue 13 Aug 2024
+## 1.1 - Tue 14 Jan 2025
 
 - EP and art topic: origins of evolutionary thought
 - Writing topic: university academic writing
 
-###### Due: [Thu 15 Aug 2024](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 - introductions](assignments/exercises/e01-introductions)
+###### Due: [Thu 16 Jan 2025](https://canvas.nus.edu.sg/courses/73753/discussion_topics/267803): [Exercise 1 - introductions](assignments/exercises/e01-introductions)
 
-## 1.2 - Fri 16 Aug 2024
+## 1.2 - Fri 17 Jan 2025
 
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
   - Read: watch [:assigned videos](#x-videos)
@@ -25,7 +25,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
     - _TSIS_ Introduction - "Entering the Conversation", 1-15
     - _TSIS_ 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 
-###### Due [Sun 18 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 - explain something](assignments/exercises/e02-explain-something)
+###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152152?module_item_id=450275): [Exercise 2 - explain something](assignments/exercises/e02-explain-something)
 
 ### :x videos
 
@@ -41,7 +41,7 @@ Please watch the following. Remember that you can come back to these later in th
 - [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4) (3 min)
 - [What Is The Gene's Eye View of Evolution?](https://youtu.be/KqdlBOoZsXo) (13 min)
 
-## 2.1 - Tue 20 Aug 2024
+## 2.1 - Tue 21 Jan 2025
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
   - Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/dowloads/badcockEEA-11-13.pdf)
@@ -54,7 +54,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due anytime (optional, ungraded): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41918?module_item_id=365296)
 
-## 2.2 - Fri 23 Aug 2024
+## 2.2 - Fri 24 Jan 2025
 
 - EP and art topic: social cooperation & free-riders
   - Read:
@@ -68,9 +68,9 @@ Please watch the following. Remember that you can come back to these later in th
 - Class media:
   - West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/westLionMane2005bw1-4.pdf)
 
-###### Due [Sun 25 Aug 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](assignments/exercises/e03-boyd)
+###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 - explain Boyd reading intro](assignments/exercises/e03-boyd)
 
-## 3.1 - Tue 27 Aug 2024
+## 3.1 - Tue 28 Jan 2025
 
 - EP and art topic: criticisms of EP
   - Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-71.pdf), [:discussion questions](#x-goldfinch)
@@ -85,7 +85,7 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41919?module_item_id=365301)
 
-## 3.2 - Fri 30 Aug 2024
+## 3.2 - Fri 31 Jan 2025
 
 - EP and art topic: scientific research and EP research
   - Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/goldfinchRethinkingEvolutionaryPsychology2015 198-201.pdf)
@@ -95,9 +95,9 @@ Please watch the following. Remember that you can come back to these later in th
   - _Rewriting_ refers to: Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
   - _Rewriting_ 1, "Coming to Terms" [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/harrisRewritingHowThings2017Chp1-comingtoterms.pdf)
 
-###### Due [Sun 01 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](assignments/exercises/e04-goldfinch)
+###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): [Exercise 4 - explain Goldfinch section](assignments/exercises/e04-goldfinch)
 
-## 4.1 - Tue 03 Sep 2024
+## 4.1 - Tue 04 Feb 2025
 
 - EP and art topic: EP and art: art as by-product
   - Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/pinkerHowMindWorks1999-521-543 chp 8.pdf), [:discussion questions](#x-pinker)
@@ -113,7 +113,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Is Pinker aiming to explain one phenomenon or many sub-phenomena? What is the basis for your answer?
 - How are the sections on individual art forms related to Pinker's main question and to each other?
 
-## 4.2 - Fri 06 Sep 2024
+## 4.2 - Fri 07 Feb 2025
 
 - EP and art topic: EP and art: art and sexual selection
   - Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/duttonArtHumanSelfdomestication2009.pdf), [:discussion questions](#x-dutton)
@@ -126,9 +126,9 @@ Please watch the following. Remember that you can come back to these later in th
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
 
-###### Due [Sun 08 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1-outline)
+###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1-outline)
 
-## 5.1 - Tue 10 Sep 2024
+## 5.1 - Tue 11 Feb 2025
 
 - EP and art topic: EP and art: art and natural selection via cooperation
   - Read:
@@ -138,16 +138,16 @@ Please watch the following. Remember that you can come back to these later in th
     - _COR_ 17, "Revising Style: Telling Your Story Clearly"
     - Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/weplerRevisingEfficientlyEffectively2011.pdf)
 
-## 5.2 - Fri 13 Sep 2024
+## 5.2 - Fri 14 Feb 2025
 
 - EP and art topic: cooperation and storytelling, and catch-up class
   - Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/austinUsefulFictionsEvolution2010-81-99.pdf)
 - Writing topic: introductions - orienting your reader, using examples effectively
   - Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due [Sun 15 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1](assignments/papers/p1) draft
+###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1](assignments/papers/p1) draft
 
-## 6.1 - Tue 17 Sep 2024
+## 6.1 - Tue 18 Feb 2025
 
 - EP and art topic: no class meeting, student conferences
   - Read:
@@ -156,25 +156,25 @@ Please watch the following. Remember that you can come back to these later in th
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): [Exercise 5 - Paper 1 post-conference notes](assignments/exercises/e05-p1-conf-notes)
 
-## 6.2 - Fri 20 Sep 24
+## 6.2 - Fri 21 Feb 2025
 
 - EP and art topic: no class meeting, student conferences
   - Read:
 - Writing topic:
   - Read (recommended):
 
-###### Due [Sun 22 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136408?module_item_id=411481): Paper 1 final
+###### Due [Sat 22 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136408?module_item_id=411481): Paper 1 final
 
-###### Due [Mon 23 Sep 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): [Exercise 6 - Paper 1 writing reflection](assignments/exercises/e06-p1-writing-reflection)
+###### Due [Sun 24 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): [Exercise 6 - Paper 1 writing reflection](assignments/exercises/e06-p1-writing-reflection)
 
-## 7.1 - Tue 01 Oct 2024
+## 7.1 - Tue 25 Feb 2025
 
 - EP and art topic: EP and the multilevel mind
   - Read: none
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
   - Read (recommended):
 
-## 7.2 - Fri 04 Oct 2024
+## 7.2 - Fri 28 Feb 2025
 
 - EP and art topic: evaluating empirical research
   - Read:
@@ -195,45 +195,45 @@ Please watch the following. Remember that you can come back to these later in th
 - How well-supported are their conclusions?
 - Note: feel free to ignore all statistics in this paper.
 
-###### Due [Sun 06 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): [Paper 2 general topic proposal](assignments/papers/p2-2-general-proposal)
+###### Due [Sat 01 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): [Paper 2 general topic proposal](assignments/papers/p2-2-general-proposal)
 
-###### Due Sun 06 Oct Sep 2024: [Mid-course feedback](https://canvas.nus.edu.sg/courses/66393/modules/items/431017) and [Class Participation Survey](https://forms.office.com/r/wa3fbTkHQT)
+###### Due Sat 01 Mar 2025: [Mid-course feedback](https://canvas.nus.edu.sg/courses/66393/modules/items/431017) and [Class Participation Survey](https://forms.office.com/r/wa3fbTkHQT)
 
-## 8.1	- Tue 08 Oct 2024
+## 8.1	- Tue 04 Mar 2025
 
 - No new EP readings after 7.2
 - Writing topic: introductions - framing your argument, creating and refining your thesis
   - Read (recommended):
 
-## 8.2 - Fri 11 Oct 2024
+## 8.2 - Fri 07 Mar 2025
 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
   - Read (recommended):
 
-###### Due Sun [13 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136410?module_item_id=411483): [Paper 2 academic conversation overview](assignments/exercises/e07-class-participation)
+###### Due Sat [08 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136410?module_item_id=411483): [Paper 2 academic conversation overview](assignments/exercises/e07-class-participation)
 
-###### Due [Sun 13 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): [Exercise 7 - Class participation self-evaluation](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465)
+###### Due [Sat 08 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): [Exercise 7 - Class participation self-evaluation](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465)
 
-## 9.1 - Tue 15 Oct 2024
+## 9.1 - Tue 11 Mar 2025
 
 - Writing topic: writing with outlines and drafts, writing concisely
   - Read (recommended):
 
-## 9.2 - Fri 18 Oct 2024
+## 9.2 - Fri 14 Mar 2025
 
 - Writing topic: counterarguments and objections
   - Read (recommended):
 
-###### Due [Sun 20 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136411?module_item_id=411484): [Paper 2 brief source summary and context](assignments/papers/p2-4-brief-source-summary)
+###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136411?module_item_id=411484): [Paper 2 brief source summary and context](assignments/papers/p2-4-brief-source-summary)
 
-## 10.1 - Tue 22 Oct 2024
+## 10.1 - Tue 18 Mar 2025
 
 - Writing topic: none; in-class consultations and group work
   - Read (recommended): none
 
-###### Due [Wed 23 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136412?module_item_id=411485): [Paper 2 source summary outline](assignments/papers/p2-5-source-summary-outline)
+###### Due [Wed 19 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136412?module_item_id=411485): [Paper 2 source summary outline](assignments/papers/p2-5-source-summary-outline)
 
-## 10.2 - Fri 25 Oct 2024
+## 10.2 - Fri 21 Mar 2025
 
 - Writing topic: peer review
   - Read (recommended): peer drafts
@@ -241,37 +241,37 @@ Please watch the following. Remember that you can come back to these later in th
 - Bring 3 hardcopies of your  last assignment to class for your group members
 - Bring your source in either hardcopy or softcopy (devices allowed for this class, but only one device per group at a time, just for the person whose work is being discussed)
 
-###### Due [Sun 27 Oct 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): [Paper 2 proposal and revised source summary outline](assignments/papers/p2-6-proposal-source-outline)
+###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): [Paper 2 proposal and revised source summary outline](assignments/papers/p2-6-proposal-source-outline)
 
-## 11.1 Tue 29 Oct 2024 — no class meeting; individual student conferences
+## 11.1 Tue 25 Mar 2025 — no class meeting; individual student conferences
 
 - sign up for conference times -- check Teams chat for link!
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136398?module_item_id=411466): [Exercise 8 - Paper 2 proposal conference summary](assignments/exercises/e08-p2-proposal-conf-notes)
 
-## 11.2 - Fri 01 Nov 24
+## 11.2 - Fri 28 Mar 2025
 
 - no class meeting, Well-Being Day
 
-###### Due [Sun 03 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136414?module_item_id=411487): [Paper 2 intro and full outline](assignments/papers/p2-7-intro-full-outline)
+###### Due [Sat 29 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136414?module_item_id=411487): [Paper 2 intro and full outline](assignments/papers/p2-7-intro-full-outline)
 
-## 12.1 - Tue 05 Nov 2024
+## 12.1 - Tue 01 Apr 2025
 
 - Writing topic: peer review
 - Please look at [:your section groups](#x--102-groups) and email group members your last assignment in time for them to read it before class (in addition to submitting the assignment on Canvas)
 - Bring 3 hardcopies of your last assignment to class for your group members
 - Bring your source in either hardcopy or softcopy (devices allowed for this class, but only one device per group at a time, just for the person whose work is being discussed)
 
-## 12.2 - Fri 8 Nov 2024
+## 12.2 - Fri 04 Apr 2025
 
 - Last in-person class meeting
 - Please look at [:your section groups](#x--102-groups) and email group members your last assignment in time for them to read it before class (in addition to submitting the assignment on Canvas)
 - Bring 3 hardcopies of your last assignment to class for your group members
 - Bring your source in either hardcopy or softcopy (devices allowed for this class, but only one device per group at a time, just for the person whose work is being discussed)
 
-###### Due [Sun 10 Nov 2024](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): [Paper 2 full draft and outline](assignments/papers/p2-8-full-draft-and-outline)
+###### Due [Sat 05 Apr 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): [Paper 2 full draft and outline](assignments/papers/p2-8-full-draft-and-outline)
 
-## 13.1 and 13.2 (12 Nov and 15 Nov) — no class meetings; individual student conferences
+## 13.1 and 13.2 (08 Apr and 11 Apr) — no class meetings; individual student conferences
 
 Schedule a conference [here](https://outlook.office.com/bookwithme/user/9371c9d0413c426cbd410771b9ba84ce@nus.edu.sg/meetingtype/xy2-_c_yN0CmclrewkXDNQ2?bookingcode=9553def3-da45-4100-b2e0-9c251b90d0af&anonymous&ep=mlink)
 
