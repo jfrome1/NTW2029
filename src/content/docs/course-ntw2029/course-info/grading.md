@@ -16,14 +16,8 @@ title: Grading
 Your class participation grade is based on how seriously I think you are engaged with the class. As a class, we will develop a rubric to set reasonable expectations about class participation based on the following factors:
 
 - timely attendance
-- [:engagement during class](#x-engagement)
-- engagement and [:communication](#x-communication) outside of class
-- [:preparation for class meetings](#x-class-preparation)
-- [:preparation for course](#x-course-preparation)
-- active contribution towards [:your individual learning](#x-individual)
-- providing course feedback
 
-I understand that some students are shy and have trouble speaking in class. Although speaking in class is an important and visible part of class participation, please note that only one of the factors above involves speaking in class, and you can participate in many other ways.
+- [:engagement during class](#x-engagement)
 
 ### :x engagement
 
@@ -33,17 +27,25 @@ Class discussion includes asking and answering questions during lectures. Active
 
 Small group activities are done in groups with two to four classmates. I do observe your contributions to small group discussions, not just whole-class discussions, and consider those towards participation. My main criterion here is whether you are focused on the activity or start talking about out-of-class topics.
 
+- engagement and [:communication](#x-communication) outside of class
+
 ### :x communication
 
 Good communication means you:
 
 - promptly respond to emails, messages, and discussion threads
+
 - communicate with me in advance about any issues with attendance or assignment completion
+
 - take initiative to ask for help with any potential problems
+
+- [:preparation for class meetings](#x-class-preparation)
 
 ### :x class preparation
 
 Good class preparation means you come to class with all needed materials, honestly engage with the reading, and come to class with questions and/or ideas.
+
+- [:preparation for course](#x-course-preparation)
 
 ### :x course preparation
 
@@ -53,9 +55,15 @@ Preparing for the course has two parts:
 
 2. setting up the apps and notifications as described on the [technology guidelines](../course-info/tech-guidelines) page.
 
+- active contribution towards [:your individual learning](#x-individual)
+
 ### :x individual
 
 Students come into this class with different backgrounds, and I'll sometimes give you a resource to help you with a particular issue. For example, I might tell you that you are making comma errors and give you a resource to learn how to fix the problem. You actively contribute towards your individual learning if you use that resource and learn how to avoid those errors. If I see the same issues in your Paper 2 as your Paper 1, that suggests that you were not able to participate in your learning as much as you might have wanted to.
+
+- providing course feedback
+
+I understand that some students are shy and have trouble speaking in class. Although speaking in class is an important and visible part of class participation, please note that only one of the factors above involves speaking in class, and you can participate in many other ways.
 
 ## Exercises
 
