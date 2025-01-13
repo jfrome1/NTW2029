@@ -3,6 +3,8 @@ title: Schedule
 date: 2024-12-17
 ---
 
+[test](/hidden/syllabustest)
+
 :::tip
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
@@ -145,7 +147,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
   - Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1](assignments/papers/p1) draft
+###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1 draft](assignments/papers/p1-draft)
 
 ## 6.1 - Tue 18 Feb 2025
 
@@ -291,37 +293,13 @@ Wed and Thu conferences are open to all. If you cannot make any available slots,
 E1
 
 - Group 1
-	- Foo Wei Ting Ember
-	- Agarwal Jatin
-	- Loewe Lim Li Tong
 - Group 2
-	- Lee Xuan
-	- Haren Raj
-	- Himani Vinod Vasnani
 - Group 3
-	- Liu Zhiwei
-	- Gabriel Yong Kai Wen
-	- Bren Soh Wan Ying
 - Group 4
-	- Jethro Josh Najos Mahendran
-	- Claire Sze Wei Roberts
-	- Kavtaradze Anna
 
 E2
 
 - Group 1
-	- Wang Zhi
-	- Hannah Hui Ching Hei
-	- Valerie Lim Xuan Yi
 - Group 2
-	- Evan Adhitya Lioe
-	- Foo En Qi
-	- Tham Wee Nee
 - Group 3
-	- Chan Kai-En, Theodore
-	- Low Ling Hui, Hazel
-	- Kho Wei Fong
 - Group 4
-	- Kwok Yee Jie
-	- Zhang Li Kevin
-	- Chang Shyuan Rhui

@@ -5,28 +5,62 @@ date: 2024-09-20
 
 ---
 
-I provide feedback in different ways based on the assignment My goal is to give you as much guidance as I can within my available time and resources You are always welcome to ask for clarification and/or more feedback
+I provide feedback in different ways based on the assignment. My goal is to give you as much guidance as I can within my available time and resources. You are always welcome to ask for clarification and/or more feedback.
+
+My feedback on assignments can come in several forms: an audio recording, written comments posted on Canvas, or comments on the assignment itself. For any of these, you may be surprised to find that the comments don't cover the whole assignment equally. I might not discuss every section of your paper, or the specific draft comments might seem to stop partway through. Sometimes students will say, "You only commented on part of my paper. Will you comment on the rest?"
+
+I understand that it may seem strange that I don't comment on all parts of an assignment equally, so I'll explain why.
+
+### What's the purpose of feedback?
+
+Often, students' primary goal in their classes is to earn a high grade. They may recognize the value of learning and find the course interesting, but their focus on the final grade frames they way they view all aspects of the class:  assignments are written to earn a high grade, a good assignment is one that tells you exactly what you need to do to earn that grade, and good instructor feedback tells you everything to correct and how to do it to make your paper an "A" paper. On this view, the purpose of feedback is to help you produce an error-free paper, and an instructor who doesn't comment on all parts of the paper is not doing their job. While you may not have explicitly thought about the purpose of feedback, I suspect most of you see it this way intuitively.
+
+In contrast, my goal in this course is to help you improve your writing as much as possible. I'd be happier giving you feedback without grades, and I grade assignments only because I'm required to. Given my outlook, there are many reasons I don't mark all parts of a paper equally:
+
+- It undermines the course objective of helping you build writing skills. If I make detailed comments on your entire assignment, you will rely on me to find problems and tell you about them rather than learning to do it yourself. It saddens me when I get a revised paper and see that the student corrected all of the errors I marked on their paper and ignored a host of similar errors that I didn't mark. The revision may seem better to them in some shallow sense, but they are showing me that they haven't learned how to write better.
+- Detailed comments on an entire draft are usually pointless, since most drafts need to be heavily revised. Comprehensive comments means correcting grammar mistakes on sentences that won't even appear in the final paper.
+- Too many comments and suggestions can be overwhelming and can destroy your confidence as a writer. Expectations are now higher and you may be surprised to get so many suggestions for improvement. You'll also find it's not easy to figure out how to improve your writing in the ways requested. The amount of revision involved in writing an academic paper at this level can be surprising. Too many instructor comments can also cause you to ignore the many good qualities your assignment may have.
+- It's impossible to mark every way a draft can be improved. Trying to do so would take 3 hours per assignment, and the goal of a "perfect paper" would still not be achieved because the revised version will still have dozens of ways that it can be improved.
+
+### How I give feedback
+
+When giving feedback, my focus is on helping you become a stronger writer overall, not just improving your paper to earn a particular grade. My feedback is meant to help you recognize recurring strengths and weaknesses in your writing. Detailed comments are intended to be examples of these strengths and weaknesses, and I expect you to read the comments, learn something new, and practice applying your new knowledge to the rest of your paper.
+
+If I explain that one of your topic sentences has a certain problem, first check whether you understand my comment well enough to apply it to other situations. If you don't, ask me for clarification. If you do, you should take the initiative to check your other topic sentences for the same problem. Practice applying your new knowledge so you actually improve your writing, not just one assignment.
+
+Since I am an instructor rather than a copyeditor, my comments are examples to teach writing skills rather than corrections to make your paper free of errors. This selective approach encourages you to think critically about your work, helping you become a self-sufficient writer.
+
+Since there are countless ways to refine a draft, and time is limited, it's impossible to mark every potential improvement I choose my comments strategically, focusing on areas that will have the greatest impact on your development rather than marking every single issue
+
+### The nuts and bolts of feedback
+
+If you're interested, here are the logistics for giving feedback. To be fair to all students, I (try to) spend a set amount of time on each paper. I read the entire draft first, making some initial notes as I go. I then provide overall comments (either recorded or written) highlighting the main strengths and areas for improvement. With any remaining time, I add marginal comments or use text styling to indicate areas for review, and I return the marked assignment to you.
+
+I am currently experimenting with feedback rubrics and checklists as ways of giving additional feedback in a time-efficient manner. These are used for feedback, not grading.
+
+If you have any specific questions about parts of the paper that I didn't explicitly comment on, just ask. I'm happy to respond to questions over email or messaging as time allows, or to schedule additional meetings during the week. Unfortunately, I cannot comment on emailed sections of papers or drafts.
+
+I believe I can achieve my goals of helping you improve your writing without marking every instance of every issue in a draft. I don't feel that my role is to help you make your draft so good that it can't be improved, and (to be honest) neither you nor I have enough time to achieve that goal in one semester even if we wanted to. Of course, if you want to continue work on any papers for the course, such as to improve them for submission to an undergraduate journal, I'm happy to continue working with you to improve them.
 
 ## Feedback through text styles
 
-When you submit paper assignments, I use text styles to provide feedback My hope is that marking some text quickly will be enough for you to figure out the errors on your own, and then I can spend more time giving you written comments in other areas
+When you submit paper assignments, I use text styles to provide feedback My hope is that marking some text quickly will be enough for you to figure out the errors on your own, and then I can spend more time giving you comments on higher-level issues.
 
-What the styles mean:
+What the text styles mean:
 
 - green highlighting indicates either:
-	- a grammar error (ask me if the error is not obvious to you)
+	- a grammar error (ask me if the error is not obvious to you), or
 	- an citation error (either content or formatting, ask me if you can't figure it out AFTER reading the citations page carefully)
 - light green text means that, although I can probably guess what you meant, these words are misleading or technically incorrect in some way
-- bolded text should be reworded because
-	- it has a meaning or connotation that doesn't fit the context,
-	- it is not the appropriate tone for academic writing (usually, too informal)
+- bolded text should be reworded because:
+	- it has a meaning or connotation that doesn't fit the context, or
+	- it is not the appropriate tone for academic writing (usually, too informal), or
 	- it uses complex/"academic" vocabulary where a regular word would be just as good and easier to understand
 
 ## Removing my feedback for revision
 
 Although you will want to keep a copy of my feedback, you also need a clean copy of your document that you can revise and resubmit Here's how to:
 
-<!-- no toc -->
 - [:remove comments](#x-remove-comments)
 - [:remove highlighting](#x-remove-highlighting)
 - [:remove colored text](#x-remove-colored-text)
@@ -59,48 +93,3 @@ Save your revised document under a new file name to ensure you have a clean vers
 
 - Press **Ctrl+A** (Windows) / **Command+A** (Mac) to select the entire document
 - While the text is still selected, press **Ctrl+B** (Windows) / **Command+B** (Mac) to toggle bold text off
-
-## Approach to feedback
-
-Sometimes students will say, ""You only commented on part of my paper Will you comment on the rest?" I understand why it may seem strange that I comment on only limited parts of a paper To understand my reasons, consider two ways of thinking about paper comments:
-
-- Approach 1: what matters is the quality of the submitted paper, as that determines the student's grade The student submits a draft The teacher marks the draft so the student knows what's wrong with the paper The student revises the paper and submits a final draft The final draft starts with full marks and the grade is reduced every time the teacher notices a problem If no major problems remain by the final draft, the paper gets an A
-- Approach 2: what matters is improving the student's writing skills, and writing papers is a way to build those skills The student submits a draft The teacher marks the draft so the student can learn ways they can improve their writing skills, both by avoiding errors and by building on strengths The comments point out concrete examples of writing issues and suggest ways to deal with those issues Since there are countless ways to improve a paper, the teacher must selectively choose what to comment on There is no expectation that the teacher will comment on the entire paper, since there is no way to mark every way a draft can be improved (at least, no way that takes less than 3 hours per draft) In terms of comments, the difference between a good and weak draft is not the number of comments, but the type or focus of the comments Part of the learning process involves the student taking the teacher's guidance and figuring out how to use it to improve their writing even when the teacher does not point out exactly where and when to change things
-
-In this course, I use approach 2 To be fair to all students, I devote a certain amount of time to each paper I read the whole paper and record audio or video comments on the main strengths and weaknesses in the draft With my remaining time, I make marginal comments or style text to indicate areas for the student to review As I do this, I make on-the-fly decisions about what to comment on and how to phrase my feedback based on the student, the paper, and my other comments so far
-
-I believe I can achieve my goals of helping you improve your writing without marking every instance of every issue in a draft I don't feel that my role is to help you make your draft so good that it can't be improved, and (to be honest) neither you nor I have enough time to achieve that goal in one semester even if we wanted to Of course, if you want to continue work on any papers for the course, such as to improve them for submission to an undergraduate journal, I'm happy to continue working with you to improve them
-
-If you have any specific questions about parts of the paper that I didn't explicitly comment on, just ask I'm happy to respond to questions over email or messaging as time allows, or to schedule additional meetings during the week Unfortunately, I cannot comment on emailed sections of papers or drafts
-
-<!-- add nutshell link about why I can't comment on emailed sections  -->
-<!-- frome email to Mun Hou: Based on your email, I think I didn't communicate the distinction the way I intended I'm trying to make a distinction between writing where the feedback process is focused on creating an high-quality output (the paper) vs writing where the feedback process is focused on improving writing skills (and the paper is just a means to that end) The former makes sense in a publishing context, where it's important that the entire piece be up to standard, and thus it would be poor practice for an editor to only edit ½ of the piece And, in most publishing contexts, any piece of writing going through the editing process is good enough at the start that it's realistic to provide feedback on the whole piece
-
-But in a course, the paper is an artificial construct designed to help students learn skills, so 1) it's not actually important to make sure the whole paper meets a high standard, except in the sense that it affects the student's grade, and 2) the drafts are not strong enough that, in the time limits of the semester, one can realistically make enough comments to get most papers to a version that meets a high standard of writing -->
-
-<!-- revision:
-
-Many students think that the purpose of feedback is for the instructor to tell the student everything that is "wrong" with the paper If the student fixes the "mistakes" properly, the paper will get an A They think of the paper like a test - no mistakes means full marks, so any grade below that is due to an error
---->
-
-<!-- from ChatGPT chat:
-
-**How I Give Feedback on Your Work**
-
-Most students think their goal in this class is to earn a high grade They may recognize the value of learning and find the course interesting, but their focus on the final grade frames all aspects of the class: the paper is written to prove mastery of certain skills, those skills are meant to earn a high grade, and feedback is simply to show what needs to be fixed to get that grade In this view, good feedback tells you everything to correct and how to do it to make your paper an "A" paper The focus is on the quality of the paper itself rather than developing your academic skills While you may not have explicitly thought about the purpose of feedback, I suspect most of you see it this way intuitively
-
-**My Feedback Approach**
-
-In this course, my focus is on helping you become a stronger writer overall, not just improving your paper to earn a particular grade I care more about your skills than the final product My feedback is meant to help you grow as a writer by building on your strengths and addressing recurring challenges
-
-Since there are countless ways to refine a draft, and time is limited, it's impossible to mark every potential improvement I choose my comments strategically, focusing on areas that will have the greatest impact on your development rather than marking every single issue
-
-I do not mark every error because pointing out each mistake can be overwhelming and does not always lead to meaningful learning Instead, I prioritize feedback that helps you recognize patterns in your writing and learn how to improve those patterns in future drafts There may be large sections of your paper that I do not comment on, especially if those sections are effective or if the feedback I provide elsewhere can be broadly applied This selective approach encourages you to think critically about your work and apply feedback independently, promoting long-term growth and self-sufficiency as a writer
-
-To be fair to all students, I spend a set amount of time on each paper I read the entire draft and provide audio or video comments highlighting the main strengths and areas for improvement With any remaining time, I add marginal comments or use text styling to indicate areas for review My comments are always guided by what I believe will be most beneficial for your growth as a writer A key part of your learning process is using this guidance to improve other areas of your writing
-
-Effective feedback is about helping you grow without overwhelming you or aiming for unattainable perfection in one draft If you have questions about parts of your paper that I didn’t explicitly comment on, please ask I'm happy to respond to questions over email or schedule meetings during the week as time allows However, I cannot comment on emailed sections of papers or drafts
-
-My feedback is here to help you become a more confident, capable writer Use my comments as a starting point for reflection and improvement, and remember that each draft and revision is a step toward building your skills further
-
- -->

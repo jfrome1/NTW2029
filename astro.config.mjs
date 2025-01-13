@@ -63,9 +63,9 @@ export default defineConfig({
               collapsed: true,
               items: [
                 "course-ntw2029/assignments/general/feedback",
-                "course-ntw2029/assignments/general/ex-guidelines",
+                "course-ntw2029/assignments/general/exercise-guidelines",
                 "course-ntw2029/assignments/general/paper-guidelines",
-                "course-ntw2029/assignments/general/formatting",
+                "course-ntw2029/assignments/general/outline-guidelines",
               ],
             },
             {

@@ -30,7 +30,7 @@ date: 2024-09-08
 - Evolution: additional resources for understanding evolution and evolutionary psychology
 - Writing: additional resources for improving your writing skills
 
-Please use the feedback forms on every page to let me know:
+Please use email or Teams to let me know:
 
 - anything I can add to the website that you would find helpful
 - any typos or mistakes
