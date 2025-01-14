@@ -25,7 +25,7 @@ Don't assume that you should explain each paragraph and present the information 
 - Limit the explanation to 500 words or less
 - Review and follow all [:guidelines](#x-guidelines)
 
-## Example Boyd explanation
+<!-- ## Example Boyd explanation
 
 In this text, Boyd argues that cooperation in social animals, including humans, can be explained through evolutionary theory. He begins by asking why, even as rebellious teenagers, we accept cooperation as an obviously good idea. He states that before the 1960s, those studying evolution assumed that cooperation could easily evolve because groups benefit from cooperative individuals. In the mid-1960s, however, William Hamilton and George Williams challenged this assumption. They argued that if an individual in a group behaves altruistically while another does not, the selfish individual is more likely than the cooperator to survive and pass on its genes, making in difficult for cooperation to become a widespread trait in a population.
 
@@ -45,7 +45,8 @@ The answer, Boyd states, is active cooperation, in which individuals help others
 
 Suggestion: compare this example to your submission and to the original text!
 
-##### :x guidelines
+ -->
+ ##### :x guidelines
 
 The key guidelines to review are:
 
