@@ -123,17 +123,31 @@ export default defineConfig({
               label: "Writing",
               collapsed: true,
               items: [
-                "course-ntw2029/resources/writing/citations",
-                "course-ntw2029/resources/writing/grammar",
-                "course-ntw2029/resources/writing/software",
-                "course-ntw2029/resources/writing/topic-sentences",
-                "course-ntw2029/resources/writing/analysis-questions",
-              ],
-            },
-          ],
-        },
-      ],
-    }),
+				{
+					label: "Online resources",
+					collapsed: true,
+					items: [
+						"course-ntw2029/resources/writing/online/nusc",
+					]
+				},
+				{
+					label: "Topics",
+					collapsed: true,
+					items: [
+						"course-ntw2029/resources/writing/topics/citations",
+						"course-ntw2029/resources/writing/topics/grammar",
+						"course-ntw2029/resources/writing/topics/software",
+						"course-ntw2029/resources/writing/topics/topic-sentences",
+						"course-ntw2029/resources/writing/topics/analysis-questions",
+						],
+				  },
+				 ],
+				},
+        	  ],
+        	},
+      	],
+    },
+),
     compress({
       HTML: {
         "html-minifier-terser": {
