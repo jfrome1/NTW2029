@@ -39,7 +39,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 2.1 Tue 21 Jan 2025
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
-	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](downloads/badcockEEA-11-13.pdf)
+	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
 - Writing topic: critical thinking
 	- Read before class (recommended):
 		- TSIS 1 "They Say Starting with What Others Are Saying", 19-29
