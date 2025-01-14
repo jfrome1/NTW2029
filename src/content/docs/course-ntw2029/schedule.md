@@ -16,7 +16,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 <!----Class media:
 	- [A Darwinian theory of beauty | Denis Dutton ](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min) -->
 
-###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 introductions](exercises/e01-introductions/)
+###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 introductions](/course-ntw2029/assignments/exercises/e01-introductions)
 
 ## 1.2 Fri 17 Jan 2025
 
@@ -34,7 +34,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
 	- [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM) -->
 
-###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 explain something](exercises/e02-explain-something/)
+###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2 explain something](/course-ntw2029/assignments/exercises/e02-explain-something/)
 
 ## 2.1 Tue 21 Jan 2025
 
@@ -72,7 +72,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- (optional) [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk) (the whole talk the first clip is from)
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](https://canvas.nus.edu.sg/users/90279/files/3681677/download?verifier=VePnp5Fwb3QwXRGfevo40g7hWSoEANz1u0SPBo8H&download_frd=1) -->
 
-###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 explain Boyd reading intro](exercises/e03-boyd/)
+###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3 explain Boyd reading intro](/course-ntw2029/assignments/exercises/e03-boyd/)
 
 ## 3.1 Tue 28 Jan 2025
 
