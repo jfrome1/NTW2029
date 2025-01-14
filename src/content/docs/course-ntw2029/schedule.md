@@ -60,7 +60,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- watch [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
 		- watch [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
 		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. Note: read just until page 60—we'll discuss the rest in another class.
-		- [download](downloads/boydOriginStoriesEvolution2009-51-66.pdf), [:Boyd discussion questions](#x-boyd-discussion-questions)
+		- [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf), [:Boyd discussion questions](#x-boyd-discussion-questions)
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
