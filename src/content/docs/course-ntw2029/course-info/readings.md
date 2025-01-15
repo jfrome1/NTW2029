@@ -7,7 +7,7 @@ date: 2024-08-14
 
 ## Reading guidelines
 
-- Readings are listed on the day they will be discussed in class. They are not assignments for the following class meeting. Do the readings by the day they are listed.
+- On the schedule page, readings are listed for the day they will be discussed in class. For example, you should read Badcock 11-13 before class 2.1, and we will discuss it in that class.
 - Please obtain access to the following books on writing, which are sometimes assigned as recommended reading:
 	- _They Say / I Say_ (or TSIS) is Graff, Gerald, and Cathy Birkenstein. _"They Say / I Say": The Moves That Matter in Academic Writing_. 3rd ed. New York: W. W. Norton & Company, 2014.
 	- _The Craft of Research_ (or COR) is Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research_. 4th ed. Chicago, IL: University of Chicago Press, 2016.
