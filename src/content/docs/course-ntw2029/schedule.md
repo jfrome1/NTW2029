@@ -13,8 +13,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class: none
 - Writing topic: academic writing as a conversation
 	- Read before class (recommended): none
-<!----Class media:
-	- [A Darwinian theory of beauty | Denis Dutton ](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min) -->
+- Class media:
+	- [A Darwinian theory of beauty | Denis Dutton ](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
 ###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1 introductions](/course-ntw2029/assignments/exercises/e01-introductions)
 
