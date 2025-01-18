@@ -159,7 +159,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
 	- Read before class (recommended): none
 
-## 7.2 Sun 07 Mar 2025
+## 7.2 Fri  07 Mar 2025
 
 - EP and art topic: no assigned EP content after this class
 - Writing topic: evaluating empirical research
@@ -168,7 +168,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Handout: [How to read empirical research articles](https://canvas.nus.edu.sg/users/90279/files/4648479/download?verifier=NZhve25mgG6QKrqClAEf6O5TvxE6YZsnyOKtTrXL&download_frd=1)
 	Mid-semester course evaluation (due Sat 8 Mar 2025) [3 part open-ended form on Canvas]
 
-###### Due [Sun 8 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 Class participation self-evaluation
+###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7 Class participation self-evaluation
 
 ###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136410?module_item_id=411483): Paper 2 academic conversation overview (optional)
 
@@ -182,7 +182,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due [Sun 14 Mar 2025](https://canvas.nus.edu.sg/courses/66393/FIXLINK): Paper 2 source conversation and context
+###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/66393/FIXLINK): Paper 2 source conversation and context
 
 ## 9.1 Tue 18 Mar 2025
 
