@@ -28,27 +28,12 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - ["Why Science is Not 'Just a Theory'"](http://youtu.be/1uzsuCFUQ68)
 - [Why You Should Never Say "It's Just A Theory"](https://www.youtube.com/watch?v=h0H-amOti_o)
 
-## How are new species created?
-
-- [COSMOS - Evolution](https://www.youtube.com/watch?v=gZpsVSVRsZk)
-	- _This is a poetic animated description of how species repeatedly branched off from earlier species, eventually leading to humans._
-- [Speciation: Of Ligers & Men](https://www.youtube.com/watch?v=2oKlKmrbLoU)
-- [Evolution of dogs explained by Neil deGrasse Tyson - Excerpt from _Cosmos A space time Odyssey_](https://www.youtube.com/watch?v=aQHBmY6LbiA)
-	- _Speciation of dogs from wolves based, in part, on human intervention_
-
 ## When was the first chicken/dog/bird/human?
 
 - [There Was No First Human](https://www.youtube.com/watch?v=xdWLhXi24Mo)
 	- _This discussion of the first human helps explain the concept of speciation and species more broadly_
 - [Which Came First - The Chicken or the Egg?](https://www.youtube.com/watch?v=1a8pI65emDE)
 	- "It has perplexed humanity from as early as the Ancient Greeks. So which came first, the chicken or the egg? We take a crack at this curious conundrum."
-
-## Natural selection
-
-- [Natural selection - Wikipedia](https://en.wikipedia.org/wiki/Natural_selection)
-- [Heredity](https://www.youtube.com/watch?v=CBezq1fFUEA)
-- [Natural Selection](https://www.youtube.com/watch?v=aTftyFboC_M)
-- [What is Impossible in Evolution?](https://www.youtube.com/watch?v=YkS1U5lfSRw)
 
 ## Explainers: DNA, genes, chromosomes, alleles
 
@@ -74,29 +59,6 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [DNA Evidence That Humans & Chimps Share A Common Ancestor: Endogenous Retroviruses](https://www.youtube.com/watch?v=oXfDF5Ew3Gc) (13 min)
 	- _This fairly technical video provides compelling evidence that humans and chimps share a common ancestor._
 
-## How do mutations create new traits?
-
-- [Part 1: How Does New Genetic Information Evolve? Point Mutations](https://www.youtube.com/watch?v=DlhpvcgK_28)
-- [Part 2: How Does New Genetic Information Evolve? Gene Duplications](https://www.youtube.com/watch?v=G4VINRUe_o4)
-
-## Sexual selection
-
-- [Mechanisms of Natural Selection Part 1: Types of Sexual Selection](https://www.youtube.com/watch?v=Qh9lCV8-TcY)
-- ['Flaunting It'--Sexual Selection and the Art of Courtship](http://youtu.be/g3B8hS80k6A)
-	- _This one is a bit challenging to process but it has many important ideas in it._
-- [Sexual Selection vs Natural Selection](https://youtu.be/SAt0Z9KJkqY) (3 min)
-- [Darwin Day Special! What is Sexual Selection?](https://youtu.be/184dRcLClQ0)
-- Useful wikipedia pages:
-	- [Sexual selection - Wikipedia](https://en.wikipedia.org/wiki/Sexual_selection)
-	- [Mate choice - Wikipedia](https://en.wikipedia.org/wiki/Mate_choice)
-	- [Intrasexual competition - Wikipedia](https://en.wikipedia.org/wiki/Intrasexual_competition)
-	- [Female intrasexual competition - Wikipedia](https://en.wikipedia.org/wiki/Female_intrasexual_competition)
-
-## Sexual selection examples
-
-- [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
-- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
-
 ## Imperfect "design"
 
 - [Evolution FAILS in the Human Body](https://www.youtube.com/watch?v=bmf1znpMjbI&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=32)
@@ -108,15 +70,12 @@ Please use the right sidebar or search bar to quickly find relevant resources. I
 - [What Is A Dinosaur And What Isn't a Dinosaur?](https://www.youtube.com/watch?v=5_8h_Pwy15s)
 - [The Dinosaur On Your Dinner Table](https://www.youtube.com/watch?v=gQJHuG1Byj0&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=48)
 
-## Altruism, Symbiosis, and Cooperation
+## Symbiosis and Cooperation
 
 - [What is Symbiosis?](https://www.youtube.com/watch?v=eChtyqSqUIs)
-- [Richard Dawkins on Altruism and The Selfish Gene](https://www.youtube.com/watch?v=n8C-ntwUpzM)
-- [Simulating the Evolution of Sacrificing for Family](https://www.youtube.com/watch?v=iLX_r_WPrIw)
 - Cooperation _between_ species (not among members of a species): [How Does Cooperation Evolve?](https://www.youtube.com/watch?v=1tz6WE4ALUs)
 - The flip side of cooperation: [Mechanisms of Natural Selection Part 2: Conflict, Spite, and Reciprocity](https://www.youtube.com/watch?v=nOfj9LxA7QY)
 - [How Does Cooperation Evolve?](https://www.youtube.com/watch?v=1tz6WE4ALUs&t=15s)
-- [Altruism](https://www.youtube.com/watch?v=jKtOXvA14X4)
 
 ## Nature/nurture
 
