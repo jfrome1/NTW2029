@@ -35,13 +35,12 @@ As exercises are for skill-building, not assessment, grading is based on closely
 - is submitted by the deadline (or, if an [extension is requested](/course-ntw2029/course-info/extensions), by the extended deadline) as described below
 - includes all elements of the specific assignment (which requires reading the assignment carefully)
 
-Each exercise is given points:
+Each exercise is given a category and points:
 
-- if your submission follows all of the above guidelines, it gets credit (1 point),
-- if your submission does not follow all guidelines, it gets no credit (0 points)
-- if your submission is top-quality work that stands well above the other submissions, you may get "double credit" (2 points)
-
-The exercises portion of the final grade is calculated based on total points accumulated during the term.
+- Complete: your submission follows all of the above guidelines (1 point)
+- Incomplete: your submission does not follow all guidelines (0 points)
+- Complete, late: your submission is incomplete but is revised to meet all guidelines _and_ is resubmitted within one day of receiving the grade (0.5 points)
+- Complete, bonus: your submission is top-quality work that stands well above the other submissions (2 points)
 
 ## Feedback
 
