@@ -34,8 +34,6 @@ If you hold that the earth is less than 10,000 years old, then there is potentia
 - As mentioned in class, Biologos is a website by Christian organization that supports evolutionary theory. If you are interested in this, you might start with their article on [Evolutionary Creationism](https://biologos.org/common-questions/how-is-biologos-different-from-evolutionism-intelligent-design-and-creationism/) and explore more of the site from there.
 - [Acceptance of evolution by religious groups - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_of_evolution_by_religious_groups)
 - [What is a Creationist? Evolution Question #5](https://youtu.be/-pSeCLo3AHE)
-- [Was Charles Darwin an Atheist?](https://publicdomainreview.org/essay/was-charles-darwin-an-atheist)
-  - In class, I said that Darwin was a Christian, which is actually a bit misleading. According to this article, he was born a Christian, but "[a] gradual scepticism towards Christianity and the authenticity of the Bible gradually crept over him during the late 1830s — leaving him not a Christian, but no atheist either; rather a sort of theist. To be a 'theist' in Darwin's day was to believe that a supernatural deity had created nature or the universe but did not intervene in the course of history."
 
 ### :x scientific
 
