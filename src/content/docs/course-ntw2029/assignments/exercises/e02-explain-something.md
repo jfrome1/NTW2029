@@ -73,15 +73,11 @@ Here is an [:example submission](#x-example) to give you some idea what is expec
 
 Some examples:
 
-	how to teach a dog to roll over
-
-	how to make a stir fry with bok choy and mushrooms
-
-	how to calibrate a home 3D printer
-
-	how to tune up brakes on a bicycle
-
-	how to mix colors when painting with watercolor
+- how to teach a dog to roll over
+- how to make a stir fry with bok choy and mushrooms
+- how to calibrate a home 3D printer
+- how to tune up brakes on a bicycle
+- how to mix colors when painting with watercolor
 
 ##### :x example
 
