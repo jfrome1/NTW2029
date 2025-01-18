@@ -113,18 +113,18 @@ export default defineConfig({
             {
               label: "Evolution",
               collapsed: true,
-              items: [
+			  autogenerate: { directory: "course-ntw2029/resources/evolution" },
+/*               items: [
                 "course-ntw2029/resources/evolution/ev-religion",
                 "course-ntw2029/resources/evolution/ev-resources",
                 "course-ntw2029/resources/evolution/nct",
 				"course-ntw2029/resources/evolution/origins-of-ev-thought",
               ],
-            },
+ */            },
             {
               label: "Writing",
               collapsed: true,
-			    // Autogenerate a group of links for the 'constellations' directory.
-      autogenerate: { directory: "course-ntw2029/resources/writing" },
+		      autogenerate: { directory: "course-ntw2029/resources/writing" },
 /*               items: [
 				{
 					label: "Online resources",
