@@ -81,7 +81,7 @@ Some examples:
 
 ##### :x example
 
-### How to Format Webpage Text Using Markdown
+**How to Format Webpage Text Using Markdown**
 
 Markdown is a computer language widely used for formatting text on the web. Users can write documents in Markdown and software will convert (or "render") them into the universal web language, HTML, that all webpages use. Markdown is much easier to learn than HTML, and it has the advantage that its files are easy for people to read and understand. Markdown files are also are small and can be read on any computer system.
 
