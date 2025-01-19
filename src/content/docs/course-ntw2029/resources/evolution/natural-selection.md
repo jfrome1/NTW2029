@@ -26,7 +26,8 @@ date: 2025-01-18
 		1. organisms (members of a species) vary in their traits
 		2. not all members of a species reproduce due to selection pressure (such as limited food)
 		3. those who reproduce pass their traits to their children, the next generation, by passing on their genes, including genes responsible for their particular variety of traits
-	- powerpoint explanation: [berries.ppt](downloads/evolution berries example-02.ppt.pptx)
+	- powerpoint explanation:
+		- [berries.pptx](/downloads/evolution-berries.pptx)
 	- note that all traits must be adaptations, byproducts, or vestigial/disappearing
 		- adaptations: traits that increase reproductive fitness
 			- adaptations are not traits that are useful in every situation, but increase fitness *on average, across the population*
