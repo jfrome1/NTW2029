@@ -23,7 +23,7 @@ Don't assume that you should explain each paragraph and present the information 
 
 - Explain the first four pages of the text to your target audience
 - Limit the explanation to 500 words or less
-- Review and follow all [:guidelines](#x-guidelines)
+- Review and follow all [guidelines](/course-ntw2029/assignments/general/exercise-guidelines)
 
 <!-- ## Example Boyd explanation
 
@@ -46,12 +46,3 @@ The answer, Boyd states, is active cooperation, in which individuals help others
 Suggestion: compare this example to your submission and to the original text!
 
  -->
- ##### :x guidelines
-
-The key guidelines to review are:
-
-- [:exercise grading criteria](/course-ntw2029/course-info/grading/#exercises)
-- [:formatting](/course-ntw2029/assignments/general/formatting/#exercises)
-- [GenAI policy](/course-ntw2029/course-info/gen-ai-policy)
-- assignment due date and (if needed) [:extension policy](/course-ntw2029/course-info/extensions)
-- submitting your [workload report](/course-ntw2029/assignments/exercises/e10-workload)
