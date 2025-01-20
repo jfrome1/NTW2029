@@ -7,6 +7,12 @@ date: 2024-09-20
 
 I provide feedback in different ways based on the assignment. My goal is to give you as much guidance as I can within my available time and resources. You are always welcome to ask for clarification and/or more feedback.
 
+### Grades/marks vs. feedback
+
+For exercises and paper assignments, which receive points rather than letter grades, I first check if the submissions are complete/incomplete and post points. Later, I add and post feedback (comments). Be sure to check your assignments again for feedback when you receive notifications.
+
+### Types of feedback
+
 My feedback on assignments can come in several forms: an audio recording, written comments posted on Canvas, or comments on the assignment itself. For any of these, you may be surprised to find that the comments don't cover the whole assignment equally. I might not discuss every section of your paper, or the specific draft comments might seem to stop partway through. Sometimes students will say, "You only commented on part of my paper. Will you comment on the rest?"
 
 I understand that it may seem strange that I don't comment on all parts of an assignment equally, so I'll explain why.
@@ -34,7 +40,7 @@ Since there are countless ways to refine a draft, and time is limited, it's impo
 
 ### The nuts and bolts of feedback
 
-If you're interested, here are the logistics for giving feedback. To be fair to all students, I (try to) spend a set amount of time on each paper. I read the entire draft first, making some initial notes as I go. I then provide overall comments (either recorded or written) highlighting the main strengths and areas for improvement. With any remaining time, I add marginal comments or use text styling to indicate areas for review, and I return the marked assignment to you.
+If you're interested, here are the logistics for giving feedback on papers and paper assignments. I first quickly go through all submissions to check for completeness/incompleteness. In terms of feedback, to be fair to all students, I (try to) spend a set amount of time on each paper. I read the entire draft first, making some initial notes as I go. I then provide overall comments (either recorded or written) highlighting the main strengths and areas for improvement. With any remaining time, I add marginal comments or use text styling to indicate areas for review, and I return the marked assignment to you.
 
 I am currently experimenting with feedback rubrics and checklists as ways of giving additional feedback in a time-efficient manner. These are used for feedback, not grading.
 
