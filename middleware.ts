@@ -1,11 +1,11 @@
 import { rewrite } from "@vercel/edge";
 
 export const config = {
-  matcher: ['/((?!api).*)'],
+  matcher: ["/((?!api).*)", "/"],
 };
 
 export default async function middleware(request: Request) {
-  const COOKIE_NAME = "loggedInUser";
+  const COOKIE_NAME = "authUser";
   const cookies = request.headers.get("cookie");
 
   const getCookie = (cookieName: string, cookieHeader: string | null) => {

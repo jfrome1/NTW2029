@@ -1,17 +1,10 @@
 export const config = {
-  runtime: "edge", // this is optional.
+  runtime: "edge",
 };
 
 export async function POST(req: Request) {
   const { username, password } = await req.json();
-
-  // const users = [
-  //   { id: 1, username: "user1", password: "pass1" },
-  //   { id: 2, username: "user2", password: "pass2" },
-  //   { id: 3, username: "admin", password: "adminpass" },
-  // ];
-  const users = JSON.parse(import.meta.env.USERS);
-  console.log(users);
+  const users = JSON.parse(process.env.USERS as string);
   const user = users.find(
     (u: { username: string; password: string }) =>
       u.username === username && u.password === password
@@ -29,10 +22,10 @@ export async function POST(req: Request) {
       }
     );
 
-    response.headers.set(
-      "Set-Cookie",
-      `authUser=valid-user; Path=/; HttpOnly; SameSite=Strict; Secure; Max-Age=${180 * 24 * 60 * 60}`
-    );
+    // response.headers.set(
+    //   "Set-Cookie",
+    //   `authUser=${encodeURIComponent(JSON.stringify({ username: user.username, id: user.id }))}; Path=/; HttpOnly; SameSite=Strict; Secure; Max-Age=${180 * 24 * 60 * 60}`
+    // );
 
     return response;
   } else {
