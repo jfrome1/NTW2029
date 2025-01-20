@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Login with Cookies</title>
+  <title>NTW2029 Login</title>
 </head>
 <body>
   <h1>Welcome to the Login Page</h1>
@@ -11,14 +11,13 @@
 
   <script>
     const config = {
-      cookieName: 'loggedInUser',
+      cookieName: 'authUser',
       loginEndpoint: '/api/auth' 
     };
 
     function setCookie(name: string, value:string) {
       try {
-        const expires = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toUTCString(); // 30 days
-        document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/; SameSite=Strict; Secure`;
+        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Strict; Secure`;
       } catch (error) {
         console.error('Error setting cookie:', error);
       }
@@ -57,7 +56,7 @@
             console.log(data.user)
             setCookie(config.cookieName, JSON.stringify({ id: data.user.id, username: data.user.name }));
             alert(`Welcome, ${username}! You are now logged in.`);
-            window.location.reload(); // Reload to check login status
+            window.location.reload(); 
           } else {
             alert('Invalid username or password. Please try again.');
           }
