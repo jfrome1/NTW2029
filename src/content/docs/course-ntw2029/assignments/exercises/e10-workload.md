@@ -7,7 +7,7 @@ Instructors are told that this course should require an average of 10 hours of w
 
 For this assignment, keep a record of the amount of time you spend on this class and [submit an workload report](https://canvas.nus.edu.sg/courses/66393/assignments/124142) as indicated on the schedule.
 
-Please download a blank workload report (will link here once it's revised) <!-- [workload report](/downloads/2410-NTW2029workload.docx), --> save it, and [:log your time](#x-estimate) [:in hours](#x-hours). Include both [:writing](#x-writing) assignments and "preparation", which includes everything else you do for the course outside of class.
+Please download a blank [workload report](/downloads/2420-NTW2029workload.docx), save it, and [:log your time](#x-estimate) [:in hours](#x-hours). Include both [:writing](#x-writing) assignments and "preparation", which includes everything else you do for the course outside of class.
 ``
 :::note
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.

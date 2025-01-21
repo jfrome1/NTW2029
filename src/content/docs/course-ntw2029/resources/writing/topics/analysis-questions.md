@@ -1,6 +1,6 @@
 ---
 
-title: Analysis Questions
+title: Analysis questions
 date: 2024-10-20
 
 ---
