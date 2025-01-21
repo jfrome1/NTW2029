@@ -65,7 +65,7 @@ Instructions for ChatGPT:
 
 Note: you cannot share links unless you _create an account_ and _are logged in_ during your chats. Don't use your full real name or any identifying information in your account username (this is important for keeping the chats anonymous in our research).
 
-To share the chat, click the `share link` icon, create a public link, and copy/paste it into your assignment. Here's a [:walkthrough](#x-details) with images.
+To share the chat, click the `share link` icon, create a public link, and copy/paste it into your assignment. Here's a [:walkthrough](#x-walkthrough) with images.
 
 Don't make the mistake of [:copying the wrong links](#x-wrong-links).
 
@@ -142,7 +142,7 @@ Please read NUS guidance on [use of AI tools generally](https://libguides.nus.ed
 
 When you use a chatbot, the information isn't necessarily saved in a way that you can share the chat with others. ChatGPT lets you create a link that will persist for at least several days if not weeks. If you want to use a different chatbot, you must confirm that it will let you share a link that will let others see the chat. The link might work on your computer, where the website saves data in your browser, but not on someone else's computer.
 
-### :x details
+### :x walkthrough
 
 First, click the `share link` icon:
 
