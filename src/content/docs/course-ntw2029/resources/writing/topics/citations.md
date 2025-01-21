@@ -165,7 +165,7 @@ If you are citing a source as a whole, rather than a specific idea in the source
 
 ### :x reference
 
-APA has a LOT of guidelines about formatting papers that you should not follow in this course, including in-text citation, running headers, and title page. For those elements, follow the course guidelines about [:formatting](../assignments/formatting). Follow APA guidelines only for the reference list.
+APA has a LOT of guidelines about formatting papers that you should not follow in this course, including in-text citation, running headers, and title page. For those elements, follow the course guidelines about [:formatting](../../assignments/formatting). Follow APA guidelines only for the reference list.
 
 ### :x rules
 
@@ -286,4 +286,31 @@ _"How to cite ideas from source B that you learned from source A telling you abo
 
 <!--
 [Citing works with the same author and date](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/same-year-author)
+ -->
+
+ <!--
+
+ MC quiz for citations: allow more than one answer, must get all correct to get credit
+
+reference list citations:
+
+- reference list item correct
+- capitalization error
+- italics error
+- period/full stop error
+- URL error
+- missing information
+
+in-text citation:
+
+- in-text citation correct
+- author name needed but missing
+- author name not needed but included
+- year needed but missing
+- year not needed but included
+- page number needed but missing
+- page number not needed but included
+
+also T/F on principles of citation
+
  -->

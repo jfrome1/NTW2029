@@ -16,6 +16,7 @@ async function getLatestCommit(slug: string) {
 		}
 
 		return data[0].commit.author.date; 
+
 	} catch (error) {
 		console.error('Error fetching data:', error);
 		return null;
@@ -24,14 +25,14 @@ async function getLatestCommit(slug: string) {
 
 function formatCommitDate(dateString: string | null) {
 	if (!dateString) return "Unknown";
-	
+
 	const commitDate = new Date(dateString);
 	const currentDate = new Date();
 	const diffTime = Math.abs(currentDate.getTime() - commitDate.getTime());
 	const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-	
-	if (diffDays > 30) {
-		return "Older than one month";
+
+	if (diffDays > 7) {
+		return "over a week ago";
 	} else {
 		return commitDate.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric' });
 	}
@@ -51,7 +52,6 @@ import posthog from "posthog-js";
         personProfiles: 'identified_only'
       }
     };
-    
     function getCookie(name: string) {
       try {
         return document.cookie
@@ -63,7 +63,6 @@ import posthog from "posthog-js";
         return null;
       }
     }
-    
     function initializeUser() {
       try {
         const savedUser = getCookie(config.cookieName);
@@ -77,19 +76,18 @@ import posthog from "posthog-js";
         console.error('Error initializing user:', error);
       }
     }
-    
+
     function initializeTracking(user: { id: string | undefined; username: any; }) {
       try {
         if (typeof posthog === 'undefined') {
           throw new Error('PostHog is not loaded');
         }
-    
+
         posthog.init(config.postHogConfig.apiKey, {
           api_host: config.postHogConfig.apiHost,
           persistence: 'memory',
           person_profiles: 'identified_only',
         });
-    
           posthog.identify(user.id, {
             name: user.username,
             timestamp: new Date().toISOString()
@@ -98,13 +96,13 @@ import posthog from "posthog-js";
         console.error('Error initializing tracking:', error);
       }
     }
-    
+
     function initialize() {
       const user = initializeUser();
       initializeTracking(user);
       return user;
     }
-    
+
     // Usage
     const currentUser = initialize();
 

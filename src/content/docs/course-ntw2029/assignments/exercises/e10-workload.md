@@ -1,19 +1,19 @@
 ---
 title: Exercise 10 - Workload report
-date: 2024-08-13
+date: 2025-01-15
 ---
 
 Instructors are told that this course should require an average of 10 hours of work per week, and I want to make sure I am within that guideline. I need your help to make sure I'm meeting this goal.
 
-For this assignment, keep a record of the amount of time you spend on this class and [submit an updated workload report](https://canvas.nus.edu.sg/courses/66393/assignments/124142) weekly. I'll move the assignment deadline back a week as each week passes.
+For this assignment, keep a record of the amount of time you spend on this class and [submit an workload report](https://canvas.nus.edu.sg/courses/66393/assignments/124142) as indicated on the schedule.
 
-Please download a blank [workload report](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/2410-NTW2029workload.docx), save it, and [:log your time](#x-estimate) [:in hours](#x-hours). Include both [:writing](#x-writing) assignments and "preparation", which includes everything else you do for the course outside of class.
+Please download a blank workload report (will link here once it's revised) <!-- [workload report](/downloads/2410-NTW2029workload.docx), --> save it, and [:log your time](#x-estimate) [:in hours](#x-hours). Include both [:writing](#x-writing) assignments and "preparation", which includes everything else you do for the course outside of class.
 ``
 :::note
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.
 :::
 
-When you submit your report, please submit it in the original `.docx` format (or in `.doc` or `.rtf` format), not as a `.pdf` or other file type. If you open the report in Pages, make sure to Export the file to `.docx`, as I can't read files saved in Pages.
+When you submit your report, please submit it in the original `.docx` format, not as a `.doc`, `.pdf` or other file type. If you open the report in Pages, make sure to Export the file to `.docx`, as I can't read files saved in the default format in Pages.
 
 ### :x estimate
 
