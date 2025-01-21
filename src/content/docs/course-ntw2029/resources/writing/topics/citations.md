@@ -8,7 +8,6 @@ Proper citations are essential for [:an author's credibility](#x-credibility).
 
 Citations are important for [:helping your readers](#x-help).
 
-Proper citation is [:ethically important](#x-ethical).
 
 ### :x credibility
 
@@ -91,8 +90,8 @@ There are two parts to citing sources:
 
 - Assignments should format the reference list in accordance with American Psychological Association (APA) [:formatting rules](#x-rules)
 - Proper reference list formatting includes two elements, and you must check the rules for both:
-  - formatting the reference list itself
-  - formatting the individual entries on the list (i.e. the full citations)
+	- formatting the reference list itself
+	- formatting the individual entries on the list (i.e. the full citations)
 
 :::caution
 For URLs, you MUST locate and use [:the official publisher's URL](#x-url) or DOI link for the source. You cannot simply copy and paste the URL for the webpage where you found the source.
