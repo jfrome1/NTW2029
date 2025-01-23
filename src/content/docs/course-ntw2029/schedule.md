@@ -16,7 +16,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261e): [Exercise 1--introductions](exercises/e01-introductions/)
+###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/73753/discussion_topics): [Exercise 1 - introductions](exercises/e01-introductions/)
 
 ## 1.2 Fri 17 Jan 2025
 
@@ -30,11 +30,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 - Class reading: read all webpages on this website under _Course information_
-<!--Class media:
-	- [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
-	- [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM) -->
 
-###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/134404?module_item_id=405052): [Exercise 2--explain something](exercises/e02-explain-something/)
+###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152152): [Exercise 2 - explain something](exercises/e02-explain-something/)
 
 ## 2.1 Tue 21 Jan 2025
 
@@ -50,7 +47,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
 	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min) -->
 
-###### Due anytime (optional, ungraded): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51611?module_item_id=450276)
+###### Due anytime (optional, ungraded): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51611)
 
 ## 2.2 Fri 24 Jan 2025
 
@@ -72,9 +69,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- (optional) [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk) (the whole talk the first clip is from)
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](downloads/westLionMane2005bw1-4.pdf) -->
 
-###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136162?module_item_id=411461): [Exercise 3--explain Boyd reading intro](exercises/e03-boyd/)
+###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152153): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
 
-## 3.1 Tue 28 Jan 2025
+## 3.1 Tue 28 Jan 2025 (eve of CNY)
 
 - EP and art topic: criticisms of EP
 	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-71.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
@@ -82,7 +79,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](downloads/harveyBriefGuideElements2009-bw.pdf)
 <!--Class media: -->
 
-###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51609?module_item_id=450278)
+###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51609)
 
 ## 3.2 Fri 31 Jan 2025
 
@@ -95,7 +92,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 <!--Class media:
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
 
-###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136395?module_item_id=411463): Exercise--4 explain Goldfinch section
+###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152154): Exercise--4 explain Goldfinch section
+###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152150): Exercise 11 - workload report, January
+
 
 ## 4.1 Tue 04 Feb 2025
 
@@ -116,7 +115,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): Paper 1 proposal (optional)
+###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152163): Paper 1 proposal (optional)
 
 ## 5.1 Tue 11 Feb 2025
 
@@ -139,17 +138,19 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 <!--Class media: -->
 
-###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): Paper 1 draft
+###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152161): Paper 1 draft
 
 ## 6.1 and 6.2 (18 and 21 Feb 2025) no class meetings, student conferences
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136394?module_item_id=411462): Exercise 5--Paper 1 conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152155): Exercise 5 - Paper 1 conference summary
 
-###### Due [four days after conference](https://canvas.nus.edu.sg/courses/66393/assignments/136408?module_item_id=411481): Paper 1 final
+###### Due [four days after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152162): Paper 1 final
 
-###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/66393/assignments/136396?module_item_id=411464): Exercise 6--Paper 1 writing reflection
+###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152156): Exercise 6 - Paper 1 writing reflection
+###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/167189): Exercise 11 - workload report, February
 
-###### Due [three days after Paper 1 final](https://canvas.nus.edu.sg/courses/66393/assignments/136409?module_item_id=411482): Paper 2 general topic proposal
+
+###### Due [three days after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152168): Paper 2 general topic proposal
 
 ## 7.1 Tue 04 Mar 2025
 
@@ -167,9 +168,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Handout: [How to read empirical research articles](howtoreadempiricalresearcharticles.pdf)
 	Mid-semester course evaluation (due Sat 8 Mar 2025) [3 part open-ended form on Canvas]
 
-###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136397?module_item_id=411465): Exercise 7--Class participation self-evaluation
+###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152157): Exercise 7 - Class participation reflection
 
-###### Due [Sat 8 Mar  2025](https://canvas.nus.edu.sg/courses/66393/assignments/136410?module_item_id=411483): Paper 2 academic conversation overview (optional)
+###### Due [Sat 8 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 academic conversation overview (optional)
 
 ## 8.1 Tue 11 Mar 2025
 
@@ -181,7 +182,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/66393/FIXLINK): Paper 2 source conversation and context
+###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152165): Paper 2 source conversation and context
 
 ## 9.1 Tue 18 Mar 2025
 
@@ -193,7 +194,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due [Sat 22 Mar  2025](https://canvas.nus.edu.sg/courses/66393/assignments/136411?module_item_id=411484): Paper 2 source summary (optional)
+###### Due [Sat 22 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary (optional)
 
 ## 10.1 Tue 25 Mar 2025
 
@@ -205,15 +206,16 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/66393/assignments/136413?module_item_id=411486): Paper 2 proposal and source summary outline
+###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152170): Paper 2 proposal and source summary outline
+###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/167188): Exercise 11 - workload report, March
 
 ## 11.1 Tue 1 Apr 2025 — no class meeting; individual student conferences
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136398?module_item_id=411466): Exercise 8--Paper 2 proposal conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152158): Exercise 8 - Paper 2 proposal conference summary
 
 ## 11.2 Fri 4 Apr 24 (no class, Well-Being Day)
 
-###### Due [Sat 5 Apr  2025](https://canvas.nus.edu.sg/courses/66393/assignments/136414?module_item_id=411487): Paper 2 intro and (optional) draft outline
+###### Due [Sat 5 Apr  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152169): Paper 2 intro and (optional) draft outline
 
 ## 12.1 Tue 8 Apr 2025
 
@@ -226,17 +228,17 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due [Sat 12 Apr  2025](https://canvas.nus.edu.sg/courses/66393/assignments/136415?module_item_id=411488): Paper 2 full draft and outline
+###### Due [Sat 12 Apr  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152167): Paper 2 full draft and outline
 
 ## 13.1 and 13.2 (15 and 18 Apr) — no class meetings; individual student conferences
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/66393/assignments/136399?module_item_id=411467): Exercise 9--Paper 2 draft conference summary
+###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152159): Exercise 9 - Paper 2 draft conference summary
 
-###### Due [one week after conference](https://canvas.nus.edu.sg/courses/66393/assignments/136416?module_item_id=411490): Paper 2 final
+###### Due [one week after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152166): Paper 2 final
 
-###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/66393/assignments/136400?module_item_id=411469): Exercise 10--Paper 2 writing reflection
+###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/73753/assignments/152151): Exercise 10 - Paper 2 writing reflection
 
-###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/66393/assignments/124142?module_item_id=365289): Exercise 11--Workload report
+###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/73753/assignments/167187): Exercise 11 - workload report, final
 
 ##### :x assigned videos
 

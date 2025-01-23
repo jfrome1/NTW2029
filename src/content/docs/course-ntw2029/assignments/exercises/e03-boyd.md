@@ -19,6 +19,10 @@ The reading comes from a popular science book, written by an academic, intended 
 
 Don't assume that you should explain each paragraph and present the information in the same order as the original. Think about what is and isn't needed to explain these pages to your reader so they understand Boyd's main points.
 
+## Feedback
+
+For this exercise, you will receive indirect feedback when we discuss Boyd's arguments. I will also provide an example explanation on this page that you can compare to your submission. Individualized comments are not planned.
+
 ## Checklist
 
 - Explain the first four pages of the text to your target audience
