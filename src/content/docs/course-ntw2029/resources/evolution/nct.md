@@ -1,6 +1,6 @@
 ---
 
-title: Niche construction theory
+title: Niche construction theory (2.1)
 date: 2024-09-08
 
 ---
@@ -22,6 +22,8 @@ date: 2024-09-08
 	- realize that technology, broadly understood, is needed to keep us alive in the vast majority of the world; our ability to live almost anywhere reflects ways we construct niches in different environments
 - other resources
 	- what's an ecological niche?
-		- [Ecological Niche ](https://www.youtube.com/watch?v=N4vUa5FmtcY)
-	- short excerpt on NCT from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner’s guide_. Oneworld.
+		- [Ecological Niche ](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
+	- short excerpt on NCT from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld.
 		- [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
+
+I don't have any good videos about NCT. If you find any, please send them to me!

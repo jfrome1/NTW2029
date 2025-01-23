@@ -13,6 +13,8 @@ Please download a blank [workload report](/downloads/2420-NTW2029workload.docx),
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.
 :::
 
+Record your time every week, and submit the report every month as indicated on the schedule.
+
 When you submit your report, please submit it in the original `.docx` format, not as a `.doc`, `.pdf` or other file type. If you open the report in Pages, make sure to Export the file to `.docx`, as I can't read files saved in the default format in Pages.
 
 ### :x estimate
@@ -26,3 +28,4 @@ Report your time in hours, using numbers only (use "2" not "2 hrs"), rounding to
 ### :x writing
 
 For writing assignments, when you estimate time, _include_ time spent reading Canvas, reading sources, getting feedback on assignments from people, etc.
+
