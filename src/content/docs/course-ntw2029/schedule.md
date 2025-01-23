@@ -50,7 +50,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
 	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min) -->
 
-###### Due anytime (optional, ungraded): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41918?module_item_id=365296)
+###### Due anytime (optional, ungraded): [Evolution basics quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51611?module_item_id=450276)
 
 ## 2.2 Fri 24 Jan 2025
 
@@ -82,7 +82,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](downloads/harveyBriefGuideElements2009-bw.pdf)
 <!--Class media: -->
 
-###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/66393/quizzes/41919?module_item_id=365301)
+###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51609?module_item_id=450278)
 
 ## 3.2 Fri 31 Jan 2025
 
