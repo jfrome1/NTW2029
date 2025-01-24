@@ -9,7 +9,7 @@ The goal of this assignment is to give you practice explaining (summarizing and 
 
 ## Instructions
 
-Explain the first four pages (51-55) of Boyd's chapter, "The Evolution of Cooperation" in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. You do not need to read or explain any crossed-out text. The explanation should not have an introduction or a conclusion. Citations are not necessary for this exercise. Keep your submission under 500 words.
+Explain the first four pages (51-55) of Boyd's chapter, "The Evolution of Cooperation" in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. You do not need to read or explain any crossed-out text. Make sure to properly attribute Boyd's ideas to Boyd. The explanation should not have an introduction or a conclusion. Citations are not necessary for this exercise. Keep your submission under 500 words.
 
 ## Guidance
 
@@ -26,6 +26,7 @@ For this exercise, you will receive indirect feedback when we discuss Boyd's arg
 ## Checklist
 
 - Explain the first four pages of the text to your target audience
+- Properly attribute all ideas to their source (citation is not needed for this exercise)
 - Limit the explanation to 500 words or less
 - Review and follow all [guidelines](/course-ntw2029/assignments/general/exercise-guidelines)
 

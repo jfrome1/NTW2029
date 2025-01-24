@@ -16,7 +16,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/73753/discussion_topics): [Exercise 1 - introductions](exercises/e01-introductions/)
+###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/73753/discussion_topics): [Exercise 1 - introductions](/course-ntw2029/assignments/exercises/e01-introductions/)
 
 ## 1.2 Fri 17 Jan 2025
 
@@ -31,7 +31,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 - Class reading: read all webpages on this website under _Course information_
 
-###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152152): [Exercise 2 - explain something](exercises/e02-explain-something/)
+###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152152): [Exercise 2 - explain something](/course-ntw2029/assignments/exercises/e02-explain-something/)
 
 ## 2.1 Tue 21 Jan 2025
 
@@ -69,7 +69,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- (optional) [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk) (the whole talk the first clip is from)
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](downloads/westLionMane2005bw1-4.pdf) -->
 
-###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152153): [Exercise 3 - explain Boyd reading intro](exercises/e03-boyd/)
+###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152153): [Exercise 3 - explain Boyd reading intro](/course-ntw2029/assignments/exercises/e03-boyd)
 
 ## 3.1 Tue 28 Jan 2025 (eve of CNY)
 
@@ -99,7 +99,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 4.1 Tue 04 Feb 2025
 
 - EP and art topic: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](downloads/pinkerHowMindWorks1999-521-543 chp 8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543 chp 8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
 <!--Class media:
