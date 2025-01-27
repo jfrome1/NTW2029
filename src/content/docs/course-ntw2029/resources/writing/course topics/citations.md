@@ -1,5 +1,9 @@
 ---
 title: Citations
+date: 2025-01-27
+sidebar:
+  hidden: true
+
 ---
 
 ## Purpose of citation

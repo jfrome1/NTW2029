@@ -39,7 +39,7 @@ Each exercise is given a category and points:
 
 - Complete: your submission follows all of the above guidelines (1 point)
 - Incomplete: your submission does not follow all guidelines (0 points)
-- Complete, late: your submission is incomplete but is revised to meet all guidelines _and_ is resubmitted within one day of receiving the grade (0.5 points)
+- Complete, late: your submission is incomplete but is revised to meet all guidelines _and_ is resubmitted within 24 hours of receiving the "incomplete" grade (0.5 points)
 - Complete, bonus: your submission is top-quality work that stands well above the other submissions (2 points)
 
 ## Feedback

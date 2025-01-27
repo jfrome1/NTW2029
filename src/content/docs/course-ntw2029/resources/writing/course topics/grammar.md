@@ -1,11 +1,11 @@
 ---
 
-title: Grammar
+title: Grammar for NTW2029
 date: 2024-09-15
 
 ---
 
-This page provides grammar information and resources I can quickly point you to when providing video feedback.
+This page provides grammar information and resources I can quickly point you to when providing video feedback. It's also a guide to the grammar issues that are the most important in the course.
 
 Some of the linked resources are full of pop-up ads. You may want to get [uBlock Origin](https://ublockorigin.com/) to avoid those.
 
@@ -20,19 +20,21 @@ Academic writing frequently uses abstract nouns, which can be grammatically tric
 
 ## "as" for causality
 
-Avoid using the word "as" to indicate cause-effect, e.g. "humans evolved to like fruit, as eating fruit is fitness-enhancing". I suggest avoiding this use because "as" can be ambiguous. "As" can mean both "because" and "at the same time as". Consider " "animals run, as they are in danger". Does this mean "animals run because they are in danger" or "animals run during times they are in danger"?
+Avoid using the word "as" to indicate cause-effect, e.g. "humans evolved to like fruit as eating fruit is fitness-enhancing". I suggest avoiding this use because "as" can be ambiguous. "As" can mean both "because" and "at the same time as". Consider " "animals run as they are in danger". Does this mean "animals run because they are in danger" or "animals run during times they are in danger"?
 
 If you want to describe a cause-effect relationship, use words like "because", [:"since"](#x-since), or "due to".
-
-##### :x since
-
-Technically, "since" can also indicate either cause-effect or something about time, but this ambiguity is rarely a problem.
 
 ## Commas
 
 Review basic comma rules here: https://owl.purdue.edu/owl/general_writing/punctuation/commas/extended_rules_for_commas.html
 
-Compound predicate: it's usually better to avoid a comma in a sentence with a compound predicate. See the explanation here: https://blog.apastyle.org/apastyle/2013/09/comma-usage-and-compound-predicates.html and this article for a more in-depth discussion: https://cmosshoptalk.com/2021/01/19/commas-between-compound-predicates/
+Don't use a comma to indicate where you would pause if reading a sentence out loud. That's not what commas are for; they have other functions.
+
+There's no shame in misusing commas because no one ever taught you how to use them. You now have linked resources, and if you want to use commas properly, you can invest the time to learn the rules.
+
+**Commas and compound predicates**
+
+It's usually better to avoid a comma in a sentence with a compound predicate. See the explanation here: https://blog.apastyle.org/apastyle/2013/09/comma-usage-and-compound-predicates.html and this article for a more in-depth discussion: https://cmosshoptalk.com/2021/01/19/commas-between-compound-predicates/
 
 Avoid: "Pinker states that art is a byproduct, and argues that those who think is art is an adaptation are wrong."
 
@@ -40,7 +42,7 @@ Better: "Pinker states that art is a byproduct and argues that those who think i
 
 ## Dashes
 
-Avoid using dashes (aka "em-dashes"). They are generally not used in formal writing, are rarely needed, and can create confusion if not used carefully.
+Avoid using dashes (aka "em-dashes") in academic writing. Although they are fine in notes and informal writing, they are generally not used in formal writing, are rarely needed, and can create confusion if not used carefully.
 
 Avoid: "Boyd argues that stories can not only help cooperation--they also aid the storyteller."
 
@@ -77,3 +79,7 @@ Review the rules for using the words "that" vs "which" here: https://owl.purdue.
 ## Unclear referent
 
 This pronoun's referent (what it refers to or points at) is unclear. Be particularly careful not to use "this" or "it" to refer to an idea in a preceding sentence. Forcing yourself to specify exactly what in the preceding sentence is acting as the subject of the current sentence makes your meaning clearer to yourself and the reader. I recommend that students search for "this" and "it" in their drafts to avoid this problem.
+
+##### :x since
+
+Technically, "since" can also indicate either cause-effect or something about time, but this ambiguity is rarely a problem.
