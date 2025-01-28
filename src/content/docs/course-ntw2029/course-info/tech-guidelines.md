@@ -4,7 +4,9 @@ title: Technology guidelines
 
 ## NTW2029 website
 
-This website is the primary way I give course information to the class. Please email me if there is something to improve: confusing language, a broken link, a typo, etc.
+This website is the primary way I give course information to the class. I've added password protection so I can use data analytics to see which resources students access and which are rarely used. The website takes a lot of time to create and maintain, and I'd prefer to spend the time on things students actually find useful.
+
+Please email me if there is anything I can improve on the site: confusing language, a broken link, a typo, etc. You will get class participation credit for this feedback.
 
 ## Canvas
 
@@ -27,7 +29,7 @@ Make it a habit to [:expand threads](#x-threads) when you read the discussions b
 
 For out-of-class communication, we will use [:the chat function](#x-chat) in [Microsoft Teams](https://ntouch.nus.edu.sg/dwp/app/#/knowledge/KBA00015405/rkm). Please download the Teams app for your phone and make sure notifications are on.
 
-NUS creates Teams groups for every course section. You must request to be added, which you should do ASAP.
+<!-- NUS creates Teams groups for every course section. You must request to be added, which you should do ASAP. -->
 
 ## Course email
 
