@@ -1,11 +1,13 @@
 ---
-title: Exercise 4 - explain Goldfinch
+title: Exercise 4 - explain Goldfinch (optional)
 date: 2024-08-13
 ---
 
 ## Assignment purpose
 
 This assignment is the step in learning to explain (summarize and explicate) a complex text. This text is more complex than the last, and the challenge is less about deciding what parts of the text to include and more about understanding the argument well enough to explain it.
+
+This assignment is optional. You can request an extension. If you complete it, you will receive feedback and points. If not, this assignment's points will be excluded when calculating your grade.
 
 ### Goals
 
