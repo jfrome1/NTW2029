@@ -27,5 +27,5 @@ date: 2025-01-27
 			- do not stop short when connecting the ideas together—take it all the way to show the relationship to the topic sentence and/or thesis
 		- illustrate abstract claims with concrete examples (real or imagined)
 			- make abstract claim
-			- illustrate with concrete examples (if claim's meaning and potentially application would not be obvious to a generalist reader)
+			- illustrate with a concrete example (if claim's meaning and potentially application would not be obvious to a generalist reader)
 			- explain how the example demonstrates the claim (always!)
