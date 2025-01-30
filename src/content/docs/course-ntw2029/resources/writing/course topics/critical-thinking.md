@@ -2,8 +2,6 @@
 
 title: Critical thinking (2.1/2.2)
 date: 2025-01-29
-sidebar:
-  hidden: true
 
 ---
 

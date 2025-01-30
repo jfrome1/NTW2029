@@ -41,7 +41,7 @@ For this exercise, after the submission deadline, I'll post an example explanati
 - Properly attribute all ideas (citation is not needed for this exercise)
 - Review and follow all [exercise guidelines](/course-ntw2029/assignments/general/exercise-guidelines)
 
-## Example explanations of 2.7.1 to 2.7.3 (DON'T POST UNTIL AFTER CLASS 3.1)
+## Example explanations of 2.7.1 to 2.7.3
 
 Read these [example explanations](/downloads/goldfinch62-71-JFexplanation.pdf) I've provided for you. Go back and forth, comparing the original to my explanation, to see what ideas I chose to include, exclude, or expand.
 
