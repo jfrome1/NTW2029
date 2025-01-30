@@ -2,8 +2,6 @@
 
 title: Analyzing arguments (2.2)
 date: 2025-01-29
-sidebar:
-  hidden: true
 
 ---
 
