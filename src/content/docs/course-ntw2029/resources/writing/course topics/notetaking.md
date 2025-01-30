@@ -9,7 +9,6 @@ sidebar:
 
 
 - read the article/chapter/section front to back without taking notes to figure out the overall main point
-
 - if there are sections, copy the section headings and subheadings, retain the hierarchy, to help organize your notes
 - summarize each section in 1-2 sentences, or if the section is too long to do that, summarize one or more paragraphs at a time in 1-2 sentences
 - try really hard to summarize in a way that:
