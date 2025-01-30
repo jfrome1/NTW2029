@@ -91,7 +91,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 <!--Class media:
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
 
-###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152154): Exercise--4 explain Goldfinch section
+###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152154): Exercise--4 explain Goldfinch section (optional)
 >
 ###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152150): Exercise 11 - workload report, January
 
