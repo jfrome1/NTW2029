@@ -92,7 +92,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
 
 ###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152154): Exercise--4 explain Goldfinch section
-
+>
 ###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152150): Exercise 11 - workload report, January
 
 ## 4.1 Tue 04 Feb 2025
@@ -142,13 +142,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 6.1 and 6.2 (18 and 21 Feb 2025) no class meetings, student conferences
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152155): Exercise 5 - Paper 1 conference summary
-
+>
 ###### Due [four days after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152162): Paper 1 final
-
+>
 ###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152156): Exercise 6 - Paper 1 writing reflection
-
+>
 ###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/167189): Exercise 11 - workload report, February
-
+>
 ###### Due [three days after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152168): Paper 2 general topic proposal
 
 ## 7.1 Tue 04 Mar 2025
@@ -168,7 +168,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	Mid-semester course evaluation (due Sat 8 Mar 2025) [3 part open-ended form on Canvas]
 
 ###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152157): Exercise 7 - Class participation reflection
-
+>
 ###### Due [Sat 8 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 academic conversation overview (optional)
 
 ## 8.1 Tue 11 Mar 2025
@@ -206,7 +206,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): peer drafts
 
 ###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152170): Paper 2 proposal and source summary outline
-
+>
 ###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/167188): Exercise 11 - workload report, March
 
 ## 11.1 Tue 1 Apr 2025 — no class meeting; individual student conferences
