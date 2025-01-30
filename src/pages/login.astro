@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to the NTW2029 login page</title>
+</head>
+<body>
+  <h1>Welcome to the NTW2029 login page</h1>
+  <button id="loginButton">Login</button>
+
+  <script>
+    const config = {
+      cookieName: 'authUser',
+      loginEndpoint: '/api/auth' 
+    };
+
+    function setCookie(name: string, value:string) {
+      try {
+        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Strict; Secure`;
+      } catch (error) {
+        console.error('Error setting cookie:', error);
+      }
+    }
+
+    function getCookie(name: string) {
+      try {
+        return document.cookie
+          .split('; ')
+          .find(row => row.startsWith(`${name}=`))
+          ?.split('=')[1];
+      } catch (error) {
+        console.error('Error reading cookie:', error);
+        return null;
+      }
+    }
+
+    function login() {
+      try {
+        const username = prompt('Enter your username:');
+        const password = prompt('Enter your password:');
+
+        if (!username || !password) {
+          alert('Username and password are required.');
+          return;
+        }
+
+        fetch(config.loginEndpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ username, password })
+        })
+        .then(response => response.json())
+        .then(data => {
+          if (data.success) {
+            console.log(data.user)
+            setCookie(config.cookieName, JSON.stringify({ id: data.user.id, username: data.user.name }));
+            alert(`Welcome, ${username}! You are now logged in.`);
+            window.location.reload(); 
+          } else {
+            alert('Invalid username or password. Please try again.');
+          }
+        })
+        .catch(error => {
+          console.error('Error during login:', error);
+          alert('An error occurred. Please try again later.');
+        });
+
+      } catch (error) {
+        console.error('Error during login:', error);
+        alert('An error occurred. Please try again later.');
+      }
+    }
+
+    function checkLoggedInUser() {
+      const savedUser = getCookie(config.cookieName);
+      if (savedUser) {
+        try {
+          const parsedUser = JSON.parse(decodeURIComponent(savedUser));
+          if (parsedUser?.id && parsedUser?.username) {
+            alert(`Welcome back, ${parsedUser.username}!`);
+            return true;
+          }
+        } catch (error) {
+          console.error('Error parsing user cookie:', error);
+        }
+      }
+      return false;
+    }
+
+    const loginButton = document.getElementById('loginButton');
+    if (loginButton) {
+      loginButton.addEventListener('click', login);
+
+      if (checkLoggedInUser()) {
+        loginButton.textContent = 'Logout';
+        loginButton.addEventListener('click', () => {
+          setCookie(config.cookieName, ''); // Clear cookie
+          alert('You have been logged out.');
+          loginButton.textContent = 'Login';
+          window.location.reload(); // Reload to check login status
+        });
+      }
+    }
+  </script>
+</body>
+</html>
