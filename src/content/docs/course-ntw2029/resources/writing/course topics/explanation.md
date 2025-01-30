@@ -2,8 +2,6 @@
 
 title: Explanation (2.1/3.2)
 date: 2025-01-27
-sidebar:
-  hidden: true
 
 ---
 
@@ -21,3 +19,13 @@ sidebar:
 		- your generalist reader won't have the knowledge to understand these implicit parts
 		- you also want to make it as easy as possible for your reader, so do the work for them by making the implicit parts explicit and connecting the parts of the argument for them
 		- doing these things for the reader will take more words than used in the original source
+- specific strategies for clear explanations
+	- define terms the reader may not know
+		- break down complex ideas and explain them to the reader in parts
+		- put information in the right order so it is easy for the reader to connect each phrase and sentence to the ones next to it
+		- make implicit connections explicit
+			- do not stop short when connecting the ideas together—take it all the way to show the relationship to the topic sentence and/or thesis
+		- illustrate abstract claims with concrete examples (real or imagined)
+			- make abstract claim
+			- illustrate with concrete examples (if claim's meaning and potentially application would not be obvious to a generalist reader)
+			- explain how the example demonstrates the claim (always!)

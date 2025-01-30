@@ -48,7 +48,7 @@ Avoid: "Boyd argues that stories can not only help cooperation--they also aid th
 
 Better: "Boyd argues that stories can not only help cooperation; they can also aid the storyteller."
 
-## Empty phrase
+## Empty phrases
 
 Try to avoid phrases that add little content to the paper,  such as "in his writing", "we should also note that", and "is it important to mention". Removing empty phrases makes the paper much more engaging and powerful.
 
