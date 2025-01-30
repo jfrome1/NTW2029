@@ -77,15 +77,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-71.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](downloads/harveyBriefGuideElements2009-bw.pdf)
-<!--Class media: -->
 
 ###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51609)
 
 ## 3.2 Fri 31 Jan 2025
 
 - EP and art topic: scientific research and EP research
-	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015 198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion questions).-->
-	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015 114-122.pdf)
+	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion questions).-->
+	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-114-122.pdf)
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
 		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017.
@@ -93,13 +92,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
 
 ###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152154): Exercise--4 explain Goldfinch section
-###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152150): Exercise 11 - workload report, January
 
+###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152150): Exercise 11 - workload report, January
 
 ## 4.1 Tue 04 Feb 2025
 
 - EP and art topic: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543 chp 8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](downloads/pinkerHowMindWorks1999-521-543-chp8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
 <!--Class media:
@@ -147,8 +146,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due [four days after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152162): Paper 1 final
 
 ###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152156): Exercise 6 - Paper 1 writing reflection
-###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/167189): Exercise 11 - workload report, February
 
+###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/167189): Exercise 11 - workload report, February
 
 ###### Due [three days after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152168): Paper 2 general topic proposal
 
@@ -207,6 +206,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): peer drafts
 
 ###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152170): Paper 2 proposal and source summary outline
+
 ###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/167188): Exercise 11 - workload report, March
 
 ## 11.1 Tue 1 Apr 2025 — no class meeting; individual student conferences
@@ -233,16 +233,18 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 13.1 and 13.2 (15 and 18 Apr) — no class meetings; individual student conferences
 
 ###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152159): Exercise 9 - Paper 2 draft conference summary
-
+>
 ###### Due [one week after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152166): Paper 2 final
-
+>
 ###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/73753/assignments/152151): Exercise 10 - Paper 2 writing reflection
-
+>
 ###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/73753/assignments/167187): Exercise 11 - workload report, final
-
+>
 ##### :x assigned videos
 
-##### x boyd discussion questions:
+[fix]
+
+##### :x boyd discussion questions:
 
 - What is the overall structure of the chapter's opening argument?
 - What are the different types of cooperation Boyd describes?

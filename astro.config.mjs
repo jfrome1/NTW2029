@@ -75,7 +75,7 @@ export default defineConfig({
                 "course-ntw2029/assignments/exercises/e01-introductions",
                 "course-ntw2029/assignments/exercises/e02-explain-something",
                 "course-ntw2029/assignments/exercises/e03-boyd",
-//                "course-ntw2029/assignments/exercises/e04-goldfinch",
+                "course-ntw2029/assignments/exercises/e04-goldfinch",
 //                "course-ntw2029/assignments/exercises/e05-p1-conf-notes",
 //                "course-ntw2029/assignments/exercises/e06-p1-writing-reflection",
 //                "course-ntw2029/assignments/exercises/e07-class-participation",
