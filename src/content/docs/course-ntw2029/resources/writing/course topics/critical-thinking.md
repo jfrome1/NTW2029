@@ -1,0 +1,68 @@
+---
+
+title: Critical thinking (2.1/2.2)
+date: 2025-01-29
+sidebar:
+  hidden: true
+
+---
+
+- my definition of critical thinking and reading
+	- critical thinking is a style of thinking that improves your ability to determine truth from falsity by asking questions
+		- not saying you can be totally sure something is true or false, just improve the likelihood that you will
+		- also helps you know when the correct answer is "we don't know" or "we can't know"
+	- critical reading is simply practicing critical thinking about what you are reading (assume going forward that "critical thinking" includes applying it to your reading)
+- critical thinking requires the right attitude and a skill set of useful techniques
+- what is a critical thinking attitude?
+	- combines open-minded, skeptical questioning (is that really true? how do you know?) with belief that reason and evidence guide us towards truth, even if we can never be 100% sure about any particular claim
+	- critical thinkers embrace these mental habits:
+		- willingness to reconsider your own beliefs as well as the claims of others
+		- trust that reliable reasoning and evidence is the most likely indicator of truth
+		- recognition that a person's authority, knowledge, or credentials are _NOT_ the best indication of whether their claims are true (although they are not totally irrelevant in evaluating their claims)
+- critical thinking is not something you can or want to do all of the time
+	- it takes time and mental effort to critically examine claims, and you can't live a normal life if you question everything people say all of the time
+	- critical thinking is most essential in domains where truth is determined by objective evidence and you care about knowing whether claims are true
+	- critical thinking may not be appropriate for some domains
+		- entertainment: goal is not truth, but enjoyment
+		- religion: truth is often tied to faith or personal testimony, rather than saying things are true only if proven with objective evidence
+		- situations where there is no reason to doubt something: information on maps, menus, business cards
+	- this course focuses on critical thinking for academic writing, so here you should usually read sources in a way that constantly tests the strength of the arguments being made; when you start writing the major papers, read your own drafts critically as well
+- critical thinking techniques
+	- critical thinking technique one
+		- ask "how do you know that?"
+		- there are better and worse ways of knowing something or reasons for believing something
+		- find out what process someone used to reach a conclusion so you can evaluate whether that process is reliable
+		- reliable doesn't mean "always right", but better chance of being right
+	- critical thinking technique two
+		- think of potential counterexamples to claims
+		- e.g. "natural things are healthier than artificial things"
+			- counterexamples?
+		- e.g. "you should always treat others as you want to be treated"
+			- counterexamples?
+		- it takes practice to be good at coming up with counter-examples
+- critical thinking technique three
+	- technique three: find out what would convince someone that their belief is wrong
+		- applies to both yourself and others
+	- imagine that someone tells you they know something for sure
+		- ask: can they imagine any possible evidence that would make them change their mind? Not likely evidence, but can they imagine learning anything that would cause them to question or reject their belief?
+		- if they can, ask if is it possible to actually get the type of evidence they would need to change their mind?
+		- this question creates a space for the possibility of doubt
+		- imagine: Jack says his football shoes are lucky. You ask him why, he tells you about the games he's played with them and won.
+		- Jill says "if you played with your lucky shoes, but lost a football game, would that convince you that your shoes are not lucky?" She is checking if he is open to revising his claim based on evidence.
+		- how might Jack respond?
+			- if he says "yes", then he can be convinced
+			- but he might say "no, my lucky shoes prevented us from losing even bigger"; in that case, his belief that his shoes are lucky may be
+	- asking this question identifies claims that are unfalsifiable (cannot be shown to be false)
+	- unfalsifiable claims are bad in research
+		- most research explanations aim to help us make predictions about the future; we have a theory, gather information and see if the new data confirms or disconfirms the theory
+		- this is true of humanities as well as science
+			- literary interpretations predicts that others will agree with this interpretation
+			- historical accounts predict that evidence discovered in the future will match this account
+		- but, if a claim cannot be shown to be false, then it can't make predictions, because any outcome will be seen as confirming the theory
+- critical reading
+	- critical reading takes more time and focus than regular reading
+		- if you are closely analyzing a source, expect to re-read it many times to really understand it
+	- take notes on
+		- what the text says (summary of key points)
+		- what the text does (e.g. introduction a new point, an objection, …)
+		- your own questions and responses
