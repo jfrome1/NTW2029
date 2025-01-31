@@ -1,5 +1,5 @@
 ---
-title: Exercise 10 - Workload report
+title: Exercise 11 - Workload report
 date: 2025-01-15
 ---
 
@@ -13,7 +13,7 @@ Please download a blank [workload report](/downloads/2420-NTW2029workload.docx),
 The amount of time you spend on this course will not affect your grade in any way, including your participation grade. I am just collecting data.
 :::
 
-Record your time every week, and submit the report every month as indicated on the schedule.
+Record your time every week, and submit the report as indicated on the schedule. For this one exercise, just upload a file attachment. You don't need to put anything in the text box.
 
 When you submit your report, please submit it in the original `.docx` format, not as a `.doc`, `.pdf` or other file type. If you open the report in Pages, make sure to Export the file to `.docx`, as I can't read files saved in the default format in Pages.
 
