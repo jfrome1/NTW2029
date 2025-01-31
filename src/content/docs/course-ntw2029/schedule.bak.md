@@ -127,7 +127,7 @@ Please watch the following. Remember that you can come back to these later in th
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
 
-###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1-outline)
+###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136405?module_item_id=411473): [Paper 1 outline (optional)](assignments/papers/p1-2-source-outline.md)
 
 ## 5.1 - Tue 11 Feb 2025
 
@@ -146,7 +146,7 @@ Please watch the following. Remember that you can come back to these later in th
 - Writing topic: introductions - orienting your reader, using examples effectively
   - Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 
-###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1 draft](assignments/papers/p1-draft)
+###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/66393/assignments/136406?module_item_id=411480): [Paper 1 draft](assignments/papers/p1-3-draft.md)
 
 ## 6.1 - Tue 18 Feb 2025
 
