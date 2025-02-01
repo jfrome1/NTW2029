@@ -24,4 +24,3 @@ Here, a pronoun has several potential referents and the reader can't tell which 
 > Puzzlingly, despite horror films evoking strong negative emotions, humans still take pleasure in horror experiences and they remain extremely popular, even in mainstream media.
 
 With some mental effort, the reader can tell from context that the "they" in "they remain" refers to horror films, but grammatically, "they" could also refer to negative emotions, humans, or experiences.
-

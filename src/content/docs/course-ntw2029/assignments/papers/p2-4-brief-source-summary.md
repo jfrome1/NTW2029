@@ -1,6 +1,9 @@
 ---
-
 title: Paper 2 brief source summary
+date: 2025-02-01
+sidebar:
+  hidden: true
+publishDate: 2025-02-01
 
 ---
 

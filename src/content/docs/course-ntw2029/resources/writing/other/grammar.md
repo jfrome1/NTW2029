@@ -1,11 +1,11 @@
 ---
 
-title: Grammar for NTW2029
+title: Grammar and style for NTW2029
 date: 2024-09-15
 
 ---
 
-This page provides grammar information and resources I can quickly point you to when providing video feedback. It's also a guide to the grammar issues that are the most important in the course.
+This page provides grammar and style information that I can quickly refer to when providing feedback. It's also a guide to the grammar issues that are the most important in the course.
 
 Some of the linked resources are full of pop-up ads. You may want to get [uBlock Origin](https://ublockorigin.com/) to avoid those.
 
@@ -18,7 +18,7 @@ Academic writing frequently uses abstract nouns, which can be grammatically tric
 - [Grammarly blog: Abstract nouns](https://www.grammarly.com/blog/abstract-nouns/)
 - [Scribbr: Abstract Noun | Definition, Examples & Worksheet](https://www.scribbr.com/nouns-and-pronouns/abstract-noun/)
 
-## "as" for causality
+## "As" for causality
 
 Avoid using the word "as" to indicate cause-effect, e.g. "humans evolved to like fruit as eating fruit is fitness-enhancing". I suggest avoiding this use because "as" can be ambiguous. "As" can mean both "because" and "at the same time as". Consider " "animals run as they are in danger". Does this mean "animals run because they are in danger" or "animals run during times they are in danger"?
 
@@ -78,7 +78,7 @@ Review the rules for using the words "that" vs "which" here: https://owl.purdue.
 
 ## Unclear referent
 
-This pronoun's referent (what it refers to or points at) is unclear. Be particularly careful not to use "this" or "it" to refer to an idea in a preceding sentence. Forcing yourself to specify exactly what in the preceding sentence is acting as the subject of the current sentence makes your meaning clearer to yourself and the reader. I recommend that students search for "this" and "it" in their drafts to avoid this problem.
+See [Unclear referents and ambiguous pronouns](/course-ntw2029/resources/writing/Other/unclear-referent)
 
 ##### :x since
 

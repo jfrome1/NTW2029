@@ -2,6 +2,9 @@
 
 title: Paper 1 final
 date: 2024-12-26
+sidebar:
+  hidden: true
+publishDate: 2025-02-01
 
 ---
 

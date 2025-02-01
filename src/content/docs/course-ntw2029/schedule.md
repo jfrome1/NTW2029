@@ -36,7 +36,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 2.1 Tue 21 Jan 2025
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
-	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](downloads/badcockEEA-11-13.pdf)
+	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
 - Writing topic: critical thinking
 	- Read before class (recommended):
 		- TSIS 1 "They Say Starting with What Others Are Saying", 19-29
@@ -56,38 +56,32 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- play [The Evolution of Trust](https://ncase.me/trust/) (around 30 min)
 		- watch [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
 		- watch [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
-		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. Note: read just until page 60—we'll discuss the rest in another class.
-		- [download](downloads/boydOriginStoriesEvolution2009-51-66.pdf),  [:Boyd discussion questions](#x-boyd-discussion-questions)
+		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. Note: read just until page 60—we'll discuss the rest in another class. [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf),  [:Boyd discussion questions](#x-boyd-discussion-questions)
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-<!--Class media:
-	- [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg) (6 min)
-	- [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
-	- [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
-	- (optional) [What The Prisoner's Dilemma Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
-	- (optional) [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk) (the whole talk the first clip is from)
-	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](downloads/westLionMane2005bw1-4.pdf) -->
+- class handout:
+	-  West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
 
 ###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152153): [Exercise 3 - explain Boyd reading intro](/course-ntw2029/assignments/exercises/e03-boyd)
 
 ## 3.1 Tue 28 Jan 2025 (eve of CNY)
 
 - EP and art topic: criticisms of EP
-	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-71.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
+	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-71.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
 - Writing topic: close reading, keyterms, notetaking
-	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](downloads/harveyBriefGuideElements2009-bw.pdf)
+	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](/downloads/harveyBriefGuideElements2009-bw.pdf)
 
 ###### Due anytime: (optional, ungraded) [Evolution intermediate quiz](https://canvas.nus.edu.sg/courses/73753/quizzes/51609)
 
 ## 3.2 Fri 31 Jan 2025
 
 - EP and art topic: scientific research and EP research
-	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion questions).-->
-	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](downloads/goldfinchRethinkingEvolutionaryPsychology2015-114-122.pdf)
+	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion questions).-->
+	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-114-122.pdf)
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
-		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017. [download](downloads/harrisComingtoTerms.pdf)
+		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017. [download](/downloads/harrisComingtoTerms.pdf)
 <!--Class media:
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
 
@@ -98,7 +92,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 4.1 Tue 04 Feb 2025
 
 - EP and art topic: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](downloads/pinkerHowMindWorks1999-521-543-chp8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
 <!--Class media:
@@ -109,7 +103,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: art and sexual selection
 	- Read before class:
-		- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](downloads/duttonArtHumanSelfdomestication2009.pdf), [:Dutton discussion questions](#x-dutton-discussion-questions)
+		- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](/downloads/duttonArtHumanSelfdomestication2009.pdf), [:Dutton discussion questions](#x-dutton-discussion-questions)
 - Writing topic: outlining, paragraph structure
 	- Read before class (recommended): none
 <!--Class media: -->
@@ -120,18 +114,18 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: art and natural selection via cooperation
 	- Read before class:
-		- "The Evolution of Cooperation", in Boyd, Brian, _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. 51-66 (reread, with focus on 55-66) [download](downloads/boydOriginStoriesEvolution2009-51-66.pdf)
+		- "The Evolution of Cooperation", in Boyd, Brian, _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. 51-66 (reread, with focus on 55-66) [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf)
 - Writing topic: revision, structuring sentences clearly, qualifying claims
 	- Read before class (recommended):
 		- _COR_ 17, "Revising Style: Telling Your Story Clearly"
-		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](downloads/weplerRevisingEfficientlyEffectively2011.pdf)
+		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](/downloads/weplerRevisingEfficientlyEffectively2011.pdf)
 <!--Class media: -->
 
 ## 5.2 Fri 14 Feb 2025
 
 - EP and art topic: cooperation and storytelling, and catch-up class
 	- Read before class:
-		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!--  [:Austin discussion questions](#x-austin-discussion-questions) -->
+		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](/downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!--  [:Austin discussion questions](#x-austin-discussion-questions) -->
 		- review Boyd and Dutton, bring to class
 - Writing topic: introductions orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
@@ -163,7 +157,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: no assigned EP content after this class
 - Writing topic: evaluating empirical research
 	- Read before class (recommended):
-		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](downloads/ahnSadMoviesDon2012.pdf),<!-- [:Ahn discussion questions](#x-ahn-discussion-questions)-->
+		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf),<!-- [:Ahn discussion questions](#x-ahn-discussion-questions)-->
 		- Handout: [How to read empirical research articles](howtoreadempiricalresearcharticles.pdf)
 	Mid-semester course evaluation (due Sat 8 Mar 2025) [3 part open-ended form on Canvas]
 
@@ -242,7 +236,15 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 ##### :x assigned videos
 
-[fix]
+- [What is Evolution?](https://youtu.be/GhHOjC4oxh8) (9 min)
+- [Survival Of The Fittest — What does it REALLY mean?](https://youtu.be/nUSTpO7-igw) (8 min)
+- [How Evolution works](https://www.youtube.com/watch?v=hOfRN0KihOU) (12 min)
+- [What is the Evidence for Evolution?](https://youtu.be/lIEoO5KdPvg) (12 min)
+- [Does the Theory of Evolution Really Matter?](https://youtu.be/hqepQGOYKZ0) (10 min)
+- [What is Natural Selection?](https://youtu.be/0SCjhI86grU) (10 min)
+- [Natural Selection & Sexual Selection: An Illustrated Introduction](https://www.youtube.com/watch?v=RxHdzw7E0wU) (9 min)
+- [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4) (3 min)
+- [What Is The Gene's Eye View of Evolution?](https://youtu.be/KqdlBOoZsXo) (13 min)
 
 ##### :x boyd discussion questions:
 

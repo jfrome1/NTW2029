@@ -1,5 +1,9 @@
 ---
 title: Paper 2 academic conversation overview
+date: 2025-02-01
+sidebar:
+  hidden: true
+publishDate: 2025-02-01
 ---
 
 For this assignment, identify an academic conversation relevant to EP and art that is discussed in published academic sources. Identify at least 2 academic sources that are part of this conversation and that you might analyze for Paper 2.
