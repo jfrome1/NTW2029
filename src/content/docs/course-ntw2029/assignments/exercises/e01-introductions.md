@@ -6,7 +6,7 @@ date: 2025-01-13
 
 ---
 
-I've introduced myself to you on the "Meet your instructor" page. Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "[Introductions](https://canvas.nus.edu.sg/courses/66393/discussion_topics/211261)" (NOT on this page). The discussion thread will be set so you can only read the other responses once you have posted yours. Please read and follow the [Exercise Guidelines](/course-ntw2029/assignments/general/exercise-guidelines).
+I've introduced myself to you on the "Meet your instructor" page. Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "[Introductions](https://canvas.nus.edu.sg/courses/73753/discussion_topics/267803)" (NOT on this page). The discussion thread will be set so you can only read the other responses once you have posted yours. Please read and follow the [Exercise Guidelines](/course-ntw2029/assignments/general/exercise-guidelines).
 
 The goal of this assignment is to help me and your classmates get to know you in ways that will improve our class.
 
