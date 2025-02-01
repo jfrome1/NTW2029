@@ -1,5 +1,9 @@
 ---
 title: Paper 1 draft
+date: 2025-02-01
+sidebar:
+  hidden: true
+publishDate: 2025-02-01
 ---
 
 Please start by reading this entire assignment without clicking on the links. Then, click on links as needed to get additional details and guidance on the assignment.

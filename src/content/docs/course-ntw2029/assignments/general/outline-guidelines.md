@@ -1,11 +1,21 @@
 ---
 
 title: Outline guidelines
-date: 2024-10-06
+date: 2025-02-01
+sidebar:
+  hidden: true
+
+---
 
 ---
 
 To be posted.
+
+
+
+[test](/course-ntw2029/assignments/general/paper-guidelines#formatting-requirements)
+
+
 
 <!-- ## Outlines
 

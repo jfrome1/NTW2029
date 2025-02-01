@@ -2,7 +2,8 @@
 
 title: Exercise 6 - Paper 1 writing reflection
 date: 2024-08-13
-
+sidebar:
+  hidden: true
 ---
 The purpose of this exercise is to encourage you to critically reflect on how you approached Paper 1 and what you learned from the writing process.
 

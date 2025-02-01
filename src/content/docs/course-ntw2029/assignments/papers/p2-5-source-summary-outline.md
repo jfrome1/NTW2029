@@ -1,6 +1,10 @@
 ---
 
 title: Paper 2 source summary outline
+date: 2025-02-01
+sidebar:
+  hidden: true
+publishDate: 2025-02-01
 
 ---
 

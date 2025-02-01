@@ -2,7 +2,8 @@
 
 title: Exercise 7 - Class participation self-evaluation
 date: 2024-10-12
-
+sidebar:
+  hidden: true
 ---
 
 The purpose of this exercise is twofold. First, it will allow you to reflect on your class participation in this course. Second, it will help me better understand how Singapore students think about class participation.

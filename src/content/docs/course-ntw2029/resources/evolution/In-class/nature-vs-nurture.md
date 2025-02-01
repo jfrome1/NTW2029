@@ -16,8 +16,9 @@ date: 2025-01-26
 - but most bodily and behavioral traits are determined by the interaction of many genes and the environment rather than by genes alone
 	- e.g. ancient dry seeds sprout when planted in soil
 	- e.g. height is determined mostly by genes, but also by environment (e.g., malnutrition)
+		- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50)
 	- vision might seem wholly genetic, but raising an animal in darkness usually causes blindness
-- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) (2 min)
+- [* How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) (2 min)
 - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) - DNA is not a "blueprint" (14 min)
 - good to recognize that traits are not cause by just nature or just nurture, but shouldn't stop the conversation there
 	- we should not stop the discussion at the idea that both nature/genetics and nurture/environment are important

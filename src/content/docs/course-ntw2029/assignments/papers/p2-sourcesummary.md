@@ -1,8 +1,12 @@
 ---
-title: Paper 2
----
 
-## Paper 2 source summary (due Thu)
+title: Paper 2 source summary
+date: 2025-02-01
+sidebar:
+  hidden: true
+publishDate: 2025-02-01
+
+---
 
 For this assignment, do your best to provide a summary of your main source in outline form, following the detailed instructions below.f your source has sections or other internal structure, I suggest you use that structure as a starting point for your summary. Try to limit your summary to 1 printed page (single-spaced) to make sure you are not going into too much detail. Submit this assignment as an attached file.
 

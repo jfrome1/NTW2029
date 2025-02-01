@@ -24,7 +24,7 @@ date: 2025-01-18
 		- [Sexual Selection vs Natural Selection](https://youtu.be/SAt0Z9KJkqY) (3 min)
 		- [Darwin Day Special! What is Sexual Selection?](https://youtu.be/184dRcLClQ0)
 	- "Show me examples of sexual selection traits"
-		- [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
+		- [* Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
 		- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
-		- [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
-		- [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
+		- [* World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
+		- [* Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)

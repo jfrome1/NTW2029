@@ -2,7 +2,8 @@
 
 title: Exercise 9 - Paper 2 post-conference notes (draft conference)
 date: 2024-10-12
-
+sidebar:
+  hidden: true
 ---
 Please submit post-conference notes about the most important points you took from our conference and from my feedback on your draft. There is no word count requirement; I'll leave it up to you.
 
