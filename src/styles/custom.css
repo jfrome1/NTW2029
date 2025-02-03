@@ -81,37 +81,6 @@ main ul {
 	list-style-type: disc;
 }
 
-.expressive-code {
-	white-space: pre;
-	line-height: 1;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 3em;
-	background-color: #f8f8f8;
-	/* Optional: background color for the code block */
-	padding: 10px;
-	/* Optional: padding for the code block */
-	border: 1px solid #ddd;
-	/* Optional: border around the code block */
-	border-radius: 5px;
-	/* Optional: rounded corners for the border */
-}
-
-pre,
-code {
-	white-space: pre;
-	line-height: 1 !important;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 3em;
-	background-color: #f8f8f8;
-	/* Optional: background color for the code block */
-	padding: 10px;
-	/* Optional: padding for the code block */
-	border: 1px solid #ddd;
-	/* Optional: border around the code block */
-	border-radius: 5px;
-	/* Optional: rounded corners for the border */
-}
-
 .table-container {
 	overflow-x: auto;
 	white-space: nowrap;

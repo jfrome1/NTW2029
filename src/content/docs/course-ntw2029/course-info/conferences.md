@@ -42,7 +42,7 @@ To make sure you get full benefit from the conference:
 
 I check the recordings to see if discuss the same issue with multiple students. If I do, I know to improve the class notes and website information about those issues.
 
-##### :x  share the recording
+##### :x share the recording
 
 I share the recording by forwarding students the Zoom email notification. IMPORTANT: do not click the "View Details" button, as only the host can see those details. You want to click the sharable link, which will take you to the recording and transcript.
 

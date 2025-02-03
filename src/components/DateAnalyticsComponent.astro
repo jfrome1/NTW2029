@@ -24,6 +24,7 @@ async function getLatestCommit(slug: string) {
 }
 
 function formatCommitDate(dateString: string | null) {
+  console.log(dateString)
 	if (!dateString) return "Unknown";
 
 	const commitDate = new Date(dateString);
@@ -38,7 +39,7 @@ function formatCommitDate(dateString: string | null) {
 	}
 }
 ---
-<div>Last updated: {formatCommitDate(await getLatestCommit(Astro.props.entry.id))}</div>
+<div>Last updated: {import.meta.env.PROD ? formatCommitDate(await getLatestCommit(Astro.props.entry.id)) : "Will be added in production"}</div>
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website via Teams or email for class participation credit.</p>
 
 <script>
@@ -108,38 +109,6 @@ import posthog from "posthog-js";
 
     window.addEventListener("load", function () {
     let readEventTriggered = false;
-
-    // function handleDetails() {
-    //   const detailsElements = document.querySelectorAll("details");
-    //   detailsElements.forEach((details) => {
-    //     const summary = details.querySelector("summary");
-    //     if (summary) {
-    //       summary.addEventListener("click", () => {
-    //         if (!details.open) {
-    //           // Record the time the details is opened
-    //           details.setAttribute("data-open-time", Date.now().toString());
-    //           posthog.capture("openQuiz", {
-    //             page: document.title,
-    //             text: summary.textContent,
-    //           });
-    //           console.log(summary.textContent);
-    //         } else {
-    //           // Calculate duration it was open for
-    //           const openTime = parseInt(details.getAttribute("data-open-time") || "0");
-    //           const duration = Date.now() - openTime;
-    //           posthog.capture("closeQuiz", {
-    //             page: document.title,
-    //             text: summary.textContent,
-    //             duration: duration,
-    //           });
-    //           details.removeAttribute("data-open-time");
-    //         }
-    //       });
-    //     }
-    //   });
-    // }
-
-    // handleDetails();
 
     const documentDetailObserver = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
