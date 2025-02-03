@@ -130,10 +130,6 @@ GenAI doesn't include basic computer-assisted editing like the grammar and spell
 
 It includes (but is not limited to) tools such as ChatGPT, Microsoft CoPilot chat, Gemini, Claude, many other tools whose names we don't know, and home-run LLMs .
 
-### :x different tool
-
-I recommended one browser and extension combination, but you are welcome to use others if you can figure them out. If you find something that works, please let me know so we can tell other students.
-
 ### :x NUS GenAI
 
 Please read NUS guidance on [use of AI tools generally](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-4), [using AI tools for assignments](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-5), and [plagiarism](https://libguides.nus.edu.sg/copyright_essentials_teaching_learning_research/plagiarism). Relevant sections of the NUS Code of Student Conduct are [here](https://www.nus.edu.sg/celc/statements-and-e-resources-on-plagiarism/).
