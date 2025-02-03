@@ -133,7 +133,7 @@ A better version would require a restructuring these points so main point 1 summ
 	- Correct: "Boyd states that one modern mechanism for punishing cheaters is a police force (42)."
 		- better: provides the specifc example Boyd uses
 - example 3 (for a source outline):
-	- Avoid: "The authors of this study assume that musicality is universal in human vocal communication."
+	- Avoid: "The authors of this study seem to assume that musicality is universal in human vocal communication."
 		- problem: a source outline should describe what the source says, not infer what it doesn't say
 	- Correct: "The authors of this study say that a child with musicality would be able to succeed in any culture."
 		- better: conveys the actual claim stated (you can discuss the implicit meaning of the claim in you paper, but not in a source outline)
