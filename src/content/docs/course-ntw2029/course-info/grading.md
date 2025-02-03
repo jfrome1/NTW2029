@@ -65,7 +65,7 @@ Good class preparation means you come to class with all needed materials, honest
 Preparing for the course includes:
 
 - reading the course website carefully, including the info, policies, all assignments, and resource
-- setting up the apps and notifications as described on the [technology guidelines](../course-info/tech-guidelines) page.
+- setting up the apps and notifications as described on the [technology guidelines](/course-ntw2029/course-info/tech-guidelines) page.
 
 ##### :x individual
 

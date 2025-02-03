@@ -32,7 +32,7 @@ Following the exercise guidelines, do not include a typical essay introduction o
 
 For this exercise, start with a title that makes clear what you will explain.
 
-To make sure everyone knows how to submit GenAI links, review the [GenAI policy](../../course-info/gen-ai-policy) and submit a chat link on this assignment, even if you don't use GenAI in any significant way
+To make sure everyone knows how to submit GenAI links, review the [GenAI policy](/course-ntw2029/course-info/gen-ai-policy) and submit a chat link on this assignment, even if you don't use GenAI in any significant way
 
 ## Guidance
 

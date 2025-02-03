@@ -158,7 +158,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: evaluating empirical research
 	- Read before class (recommended):
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf),<!-- [:Ahn discussion questions](#x-ahn-discussion-questions)-->
-		- Handout: [How to read empirical research articles](howtoreadempiricalresearcharticles.pdf)
+		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 	Mid-semester course evaluation (due Sat 8 Mar 2025) [3 part open-ended form on Canvas]
 
 ###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152157): Exercise 7 - Class participation reflection

@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-// import starlightLinksValidator from "starlight-links-validator";
+import starlightLinksValidator from "starlight-links-validator";
 //import starlightUtils from "@lorenzo_lewis/starlight-utils";
 // import markdoc from '@astrojs/markdoc';
 import starlightNutshell from "starlight-nutshell";
@@ -18,7 +18,11 @@ export default defineConfig({
         maxHeadingLevel: 2,
       },
       plugins: [
-        // starlightLinksValidator(),
+        starlightLinksValidator({
+			errorOnFallbackPages: false,
+			errorOnInconsistentLocale: false,
+			errorOnInvalidHashes: false,
+		}),
         starlightNutshell(),
         // starlightUtils({
         //   multiSidebar: {
@@ -42,7 +46,7 @@ export default defineConfig({
           label: "Course information",
           collapsed: true,
           items: [
-            "course-ntw2029/course-info/start-here",
+            "course-ntw2029/course-info/read-this-first",
             "course-ntw2029/course-info/instructor",
             "course-ntw2029/course-info/need-help",
             "course-ntw2029/course-info/readings",

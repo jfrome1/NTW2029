@@ -59,7 +59,7 @@ Below are common questions asked by people who have been encouraged to be skepti
 
 ## Are evolution and religion compatible?
 
-See [Evolution and Religion](/course-ntw2029/resources/evolution/Other/ev-religion.md).
+See [Evolution and Religion](/course-ntw2029/resources/evolution/other/ev-religion).
 
 ## If evolution is random, how can species be so perfectly designed?
 
