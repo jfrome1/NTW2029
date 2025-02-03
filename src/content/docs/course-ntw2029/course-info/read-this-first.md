@@ -5,13 +5,6 @@ date: 2024-09-08
 
 ---
 
-[:test](#:x-anchor)
-
-#### :x anchor
-
-testing nutshell
-
-
 ## Here's what the website pages are about:
 
 ### Course information
