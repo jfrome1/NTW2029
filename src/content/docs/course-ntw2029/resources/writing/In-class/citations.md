@@ -168,7 +168,7 @@ If you are citing a source as a whole, rather than a specific idea in the source
 
 ### :x reference
 
-APA has a LOT of guidelines about formatting papers that you should not follow in this course, including in-text citation, running headers, and title page. For those elements, follow the course guidelines about [:formatting](../../assignments/formatting). Follow APA guidelines only for the reference list.
+APA has a LOT of guidelines about formatting papers that you should not follow in this course, including in-text citation, running headers, and title page. For those elements, follow the course guidelines about formatting. Follow APA guidelines only for the reference list.
 
 ### :x rules
 
