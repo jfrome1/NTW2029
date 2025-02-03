@@ -1,8 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
-//import starlightUtils from "@lorenzo_lewis/starlight-utils";
-// import markdoc from '@astrojs/markdoc';
 import starlightNutshell from "starlight-nutshell";
 import rehypeExternalLinks from "rehype-external-links";
 
@@ -24,11 +22,6 @@ export default defineConfig({
 			errorOnInvalidHashes: false,
 		}),
         starlightNutshell(),
-        // starlightUtils({
-        //   multiSidebar: {
-        //     switcherStyle: "dropdown",
-        //   },
-        // }),
       ],
       title: "NTW2029 - Home",
       components: {
