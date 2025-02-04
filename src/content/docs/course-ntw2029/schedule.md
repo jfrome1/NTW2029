@@ -108,7 +108,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152163): Paper 1 proposal (optional)
+###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152163): Paper 1 source outline (optional)
 
 ## 5.1 Tue 11 Feb 2025
 
