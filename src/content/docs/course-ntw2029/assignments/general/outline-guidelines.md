@@ -60,11 +60,11 @@ Although these guidelines may seem restrictive, they are designed to make sure y
 
 ### Subpoints support points
 
-This guideline sounds straightforward, but it is hard to apply without practice:
+The following guideline sounds straightforward, but it is hard to apply without practice:
 
 - All subpoints must logically support their main points.
 
-Look at any main point. Ask: if any of its subpoints are false, could the main point still be true? If the answer is yes, then the subpoint isn't actually supporting the main point. (We will discuss this in class as well.)
+When writing your outline, look at any main point. Ask: if any of its subpoints are false, could the main point still be true? If the answer is yes, then the subpoint isn't actually supporting the main point. (We will discuss this in class as well.)
 
 ##### :x main points and subpoints
 
