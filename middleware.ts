@@ -22,13 +22,10 @@ export default async function middleware(request: Request) {
   };
 
   const userCookie = getCookie(COOKIE_NAME, cookies);
-
-  console.log("User cookie:", userCookie); 
-
   if (userCookie) {
     try {
       const user = JSON.parse(decodeURIComponent(userCookie));
-      console.log("Parsed user:", user); 
+      console.log("User Seen:", user); 
       if (user.id) {
         return next();
       } else {
