@@ -1,16 +1,13 @@
-import { NextResponse } from "next/server";
+import { next, rewrite } from "@vercel/edge";
 
 export const config = {
-  matcher: ["/((?!api|login).*)"],
+  matcher: ["/((?!api).*)", "/"],
 };
 
 export default async function middleware(request: Request) {
-  const url = new URL(request.url);
-  const pathname = url.pathname;
-
-  // Allow access to login page without checks
+  const { pathname } = new URL(request.url);
   if (pathname === "/login") {
-    return NextResponse.next();
+    return next(); 
   }
 
   const COOKIE_NAME = "authUser";
@@ -26,20 +23,21 @@ export default async function middleware(request: Request) {
 
   const userCookie = getCookie(COOKIE_NAME, cookies);
 
+  console.log("User cookie:", userCookie); 
+
   if (userCookie) {
     try {
       const user = JSON.parse(decodeURIComponent(userCookie));
+      console.log("Parsed user:", user); 
       if (user.id) {
-        return NextResponse.next();
+        return next();
+      } else {
+        return rewrite(new URL("/login", request.url));
       }
-      // Redirect to login if user ID is missing
-      return NextResponse.redirect(new URL("/login", request.url));
     } catch (error) {
-      console.error("Error parsing cookie:", error);
-      return NextResponse.redirect(new URL("/login", request.url));
+      return rewrite(new URL("/login", request.url));
     }
   } else {
-    // Redirect to login if no auth cookie
-    return NextResponse.redirect(new URL("/login", request.url));
+    return rewrite(new URL("/login", request.url));
   }
 }
