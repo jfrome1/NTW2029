@@ -77,7 +77,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 3.2 Fri 31 Jan 2025
 
 - EP and art topic: scientific research and EP research
-	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion questions).-->
+	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion-questions).-->
 	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-114-122.pdf)
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
