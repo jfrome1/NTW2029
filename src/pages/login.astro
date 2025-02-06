@@ -6,14 +6,10 @@
   <title>NTW2029 login page</title>
 </head>
 <body>
-  <div class="bg-white dark:bg-black dark:text-white p-8 rounded-lg shadow-lg text-center max-w-md w-full">
-    <h1 class="text-2xl font-bold text-gray-800 mb-6">Welcome to the NTW2029 login page</h1>
-    <button id="loginButton" class="w-full bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition duration-300">
-      Login
-    </button>
-    <button id="goToSiteButton" class="hidden w-full bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600 transition duration-300 mt-4">
-      Go to the site
-    </button>
+  <div class="container">
+    <h1>Welcome to the NTW2029 login page</h1>
+    <button id="loginButton">Login</button>
+    <button id="goToSiteButton" class="hidden">Go to the site →</button>
 
   <script>
     const config = {
@@ -131,11 +127,11 @@
 </body>
 </html>
 
+
 <style>
-  /* Light mode (default) */
   body {
-    background-color: #f3f4f6;
-    color: #111827;
+    background-color: #f3f4f6; /* Light gray background */
+    color: #111827; /* Dark gray text */
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -146,7 +142,7 @@
   }
 
   .container {
-    background-color: #ffffff;
+    background-color: #ffffff; /* White container */
     padding: 2rem;
     border-radius: 0.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -154,6 +150,9 @@
     max-width: 400px;
     width: 100%;
     transition: background-color 0.3s, box-shadow 0.3s;
+  }
+  .hidden {
+    display: none;
   }
 
   h1 {
@@ -163,83 +162,62 @@
   }
 
   button {
-    background-color: #3b82f6;
-    color: #ffffff;
-    border: none;
     padding: 0.75rem 1.5rem;
     border-radius: 0.375rem;
     cursor: pointer;
     font-size: 1rem;
     width: 100%;
     transition: background-color 0.3s;
+    border: none; /* Remove default button border */
   }
 
-  button:hover {
-    background-color: #2563eb;
+  #loginButton {
+    background-color: #3b82f6; /* Blue login button */
+    color: #ffffff;
   }
+
+  #loginButton:hover {
+    background-color: #2563eb; /* Darker blue on hover */
+  }
+
+  #goToSiteButton {
+    margin-top: 10px;
+    background-color: #6d28d9; /* Purple "Go to site" button */
+    color: #ffffff;
+  }
+
+  #goToSiteButton:hover {
+    background-color: #551a8b; /* Darker purple on hover */
+  }
+
 
   /* Dark mode */
   @media (prefers-color-scheme: dark) {
     body {
-      background-color: #1f2937;
-      color: #f3f4f6;
+      background-color: #1f2937; /* Dark background */
+      color: #f3f4f6; /* Light text */
     }
 
     .container {
-      background-color: #374151;
+      background-color: #374151; /* Darker container */
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     }
 
-    button {
-      background-color: #4f46e5;
+    #loginButton {
+      background-color: #4f46e5; /* Lighter purple login button */
     }
 
-    button:hover {
-      background-color: #4338ca;
+    #loginButton:hover {
+      background-color: #4338ca; /* Darker purple on hover */
     }
-  }
 
-  /* Manual dark mode toggle */
-  .dark body {
-    background-color: #1f2937;
-    color: #f3f4f6;
-  }
+    #goToSiteButton {
+      margin-top: 10px;
+      background-color: #8f48cd; /* Slightly different purple for "Go to site" */
+    }
 
-  .dark .container {
-    background-color: #374151;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-  }
-
-  .dark button {
-    background-color: #4f46e5;
-  }
-
-  .dark button:hover {
-    background-color: #4338ca;
-  }
-
-  .theme-toggle {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
-    background-color: #3b82f6;
-    color: #ffffff;
-    border: none;
-    padding: 0.5rem 1rem;
-    border-radius: 0.375rem;
-    cursor: pointer;
-    font-size: 0.875rem;
-  }
-
-  .theme-toggle:hover {
-    background-color: #2563eb;
-  }
-
-  .dark .theme-toggle {
-    background-color: #4f46e5;
-  }
-
-  .dark .theme-toggle:hover {
-    background-color: #4338ca;
+    #goToSiteButton:hover {
+      background-color: #6b1aa5; /* Darker purple on hover */
+    }
   }
 </style>
