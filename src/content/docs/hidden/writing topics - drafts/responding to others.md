@@ -1,0 +1,8 @@
+- recommended reading: TSIS 4 & 5
+- make clear up front whether you agree, disagree, or both
+- if disagreeing, give reasons/argument/evidence
+- if agreeing, make clear what specifically you are agreeing with (it's usually not everything the source claims)
+- if agreeing with a difference, explain the difference(s) and why they are worth discussing
+- e.g., additional arguments or lines of evidence that support the source's claims
+- e.g., implications of the source's claims that are not obvious in the original source
+- use the TSIS chp 5 templates to distinguish what you say from your summary of the source
