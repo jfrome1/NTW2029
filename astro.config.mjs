@@ -82,12 +82,12 @@ export default defineConfig({
                                 {
                                     label: "In-class",
 									collapsed: true,
-                                    autogenerate: { directory: "course-ntw2029/resources/evolution/In-class" },
+                                    autogenerate: { directory: "course-ntw2029/resources/evolution/in-class" },
                                 },
                                 {
                                     label: "Other",
 									collapsed: true,
-                                    autogenerate: { directory: "course-ntw2029/resources/evolution/Other" },
+                                    autogenerate: { directory: "course-ntw2029/resources/evolution/other" },
                                 },
                             ],
                         },
@@ -98,12 +98,12 @@ export default defineConfig({
                                 {
                                     label: "In-class",
 									collapsed: true,
-                                    autogenerate: { directory: "course-ntw2029/resources/writing/In-class" },
+                                    autogenerate: { directory: "course-ntw2029/resources/writing/in-class" },
                                 },
                                 {
                                     label: "Other",
 									collapsed: true,
-                                    autogenerate: { directory: "course-ntw2029/resources/writing/Other" },
+                                    autogenerate: { directory: "course-ntw2029/resources/writing/other" },
                                 },
                             ],
                         },
