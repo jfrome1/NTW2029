@@ -59,7 +59,7 @@ Read these [example explanations](/downloads/goldfinch62-71-JFexplanation.pdf) I
 >
 > 2.7.5 [:The Mystery of Discovery](#x-section)
 >
-> According to Goldfinch, many philosophers dismiss EP based on legitimate concerns that its theories allow multiple, competing hypotheses to be suggested for any given adaptation. Thus, these critics say, EP's ability to explain known [:phenomena](#x-phenomena) is worthless. Further, Goldfinch states, EP can propose many different possible solutions to a given adaptive problem, we cannot rely on its predictive abilities to discover anything new (68-69).
+> According to Goldfinch, many philosophers dismiss EP based on legitimate concerns that its theories allow multiple, competing hypotheses to be suggested for any given adaptation. Thus, these critics say, EP's ability to explain known [:phenomena](#x-phenomena) is worthless. Further, Goldfinch states, since EP can propose many different possible solutions to a given adaptive problem, we cannot rely on its predictive abilities to discover anything new (68-69).
 >
 > Goldfinch argues that these limitations cause many philosophers to ignore EP's [:"heuristic aspects"](#x-heuristic), a phrase that refers to EP's capacity to suggest hypotheses that would only be developed in light of evolutionary theories. EP often defends its usefulness by arguing that EP-inspired hypotheses have led to discovery of new phenomena. For example, EP defenders say that Cosmides and Tooby (1992) used EP theories to hypothesize that a specialized mechanism for detecting cheaters would be a useful adaptation for species that would benefit from cooperation, and experiments using the Wason Selection Task confirmed this hypothesis in humans [:(69-71)](#x-pages).
 >
