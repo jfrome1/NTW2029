@@ -1,0 +1,25 @@
+- recommended reading
+	- _CoR_ 6.1, 6.6, 6.7
+- read the article/chapter/section front to back without taking notes to figure out the overall main point  
+	- e.g. Badcock: discuss potential problems with EP  
+- if there are sections, copy the section headings and subheadings, retain the hierarchy, to help organize your notes  
+- summarize each section in 1-2 sentences, or if the section is too long to do that, summarize one or more paragraphs at a time in 1-2 sentences  
+- try really hard to summarize in a way that:  
+	- is as short as possible, to force yourself to focus on the main idea 
+	- is written explicitly enough and with enough context that your "future self" in weeks or months will be able to re-read the summary and fully understand it (so e.g. avoid pronouns because it a month you might not know what "this" means in the note "this contradicts the thesis")  
+	- does not use the exact language of the text, to force yourself to make sure you understand the idea rather than just copying the words without understanding  
+	- do not let yourself use the exact phrasing of the text in your notes except in a few circumstances  
+- if there is a phrase that you need to include to capture the meaning of the text, but the meaning of the phrase is ambiguous, then you can quote it (as little as possible) and perhaps guess as to possible meanings  
+- if there is a phrase that you might want to discuss or challenge in your notes or paper, and the exact wording is important, you can include the phrase in quotes  
+	- e.g. Badcock says that there is no credible scientific explanation that is "completely convincing" or "universally accepted", which seems like a too-high standard to me, so I want to have those exact phrases quoted in my notes  
+- if you cannot think of a way to reword an important phrase that you want to include and do understand, and you are getting stuck spending more than 2 minutes trying to think of a new wording, then give up and quote it in your notes, but use quotation marks to avoid unintentional plagarism  
+- Badcock e.g. - the reading has 4 main sections, with the last 2 being closely related  
+- The Swiss army knife model of the mind  
+	- some EPs propose a Swiss army knife model of the brain, where each module evolves as a new structure for a specific discrete function, but Darwin suggests that new traits will be created by altering and repurposing existing traits  
+- The triune brain  
+	- EPs reject MacLean's 3-part brain theory, but it can be consistent with EP on a swords-to-ploughshares model  
+- The benefits/costs of human brain evolution  
+	- EP can't really explain why the human brain is so large, and they often ignore the costs of a large brain, which falls disproportionately on the mother  
+- write questions in your notes that you might follow up on later  
+	- Badcock (23) "Although the belief that the brain is a general purpose learning device has been discredited, there is much evidence for plasticity in the brain's internal organization and development."
+	- JF - In other words, he is saying: if you think the brain isn't a general purpose device, you might also think that it has no plasticity (ability to change), but that is wrong. But, do EPs that hold the Swiss army knife model of the brain actually deny plasticity? And, is there any reason they would need to?  

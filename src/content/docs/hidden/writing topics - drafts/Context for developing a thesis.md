@@ -1,0 +1,6 @@
+Context for developing a thesis
+
+What if my source seems to be saying something that is obviously true?
+- Authors in academia sometimes exaggerate how many people disagree with their thesis, how wrong others are about something, or how extreme others' positions about something are in order to make it seem as if the author's own argument is more significant. It wouldn't seem as significant if the author is just providing another example or argument supporting an approach that everyone else already agrees with. So it might be worth looking to see if they cite any sources when claiming that so many people disagree with them, and if they do, maybe look up those sources to see what they actually say.
+- For hard questions and difficult concepts, things are rarely black and white. e.g. our emotional or moral reactions to fiction vs. real-life are not going to be totally different nor totally the same. Is a source trying to make it seem as if it has to be entirely one or the other, when it might actually be a mix or something else entirely? That's a logical fallacy called a "false dichotomy". Even if you basically agree with your source, if they take a very strong position like this, your paper can analyze when their generally true claim might not actually be true.
+-
