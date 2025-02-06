@@ -1,11 +1,5 @@
-import { readFile } from "fs";
-
-const filePath = process.argv[2];
-
-if (!filePath) {
-  console.error("No file path provided.");
-  process.exit(1);
-}
+import { readFile, readdirSync, statSync } from "fs";
+import { join } from "path";
 
 const normalize = (text) => {
   return text
@@ -27,116 +21,132 @@ function checkHeaderMatch(headerText, anchorText) {
   return `x-${normalizedHeader}` === anchorText;
 }
 
-readFile(filePath, "utf8", (err, data) => {
-  if (err) {
-    console.error(`Error reading file: ${err.message}`);
-    process.exit(1);
-  }
+const linkRegex = /\[:([^\]]+)]\(#x-([^)]+)\)/g;
+const headingRegex = /^#{1,6} :x ([^\n]+)/g;
 
-  const lines = data.split("\n");
+function checkNutshellLinks(filePath) {
+  readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error(`Error reading file: ${err.message}`);
+      return;
+    }
 
-  const linkRegex = /\[:([^\]]+)]\(#x-([^)]+)\)/g; // Matches [:text](#x-id)
-  const headingRegex = /^#{1,6} :x ([^\n]+)/g; // Matches # :x, ## :x, ..., ###### :x
+    const lines = data.split("\n");
+    let links = new Map();
+    let headings = new Map();
+    let linkHeadings = new Map();
+    const missingLinks = [];
+    const missingHeadings = [];
+    const missingLinkHeadings = [];
 
-  let links = new Map();
-  let headings = new Map();
-  let linkHeadings = new Map();
+    lines.forEach((line, index) => {
+      let match;
 
-  lines.forEach((line, index) => {
-    let match;
+      while ((match = linkRegex.exec(line)) !== null) {
+        const regex = /\[\s*(.*?)\s*\]\(\s*#(.*?)\s*\)/;
+        const linkHeading = match[0].match(regex);
 
-    while ((match = linkRegex.exec(line)) !== null) {
-      const regex = /\[\s*(.*?)\s*\]\(\s*#(.*?)\s*\)/;
-      const linkHeading = match[0].match(regex);
-
-      const linkId = normalize(match[2]);
-      const linkTitle = match[1].trim();
-      if (match) {
-        const check = checkHeaderMatch(linkHeading[1], linkHeading[2]);
-        if (!check) {
-          linkHeadings.set(linkId, {
-            title: match[0],
-            line: index + 1,
-          });
+        const linkId = normalize(match[2]);
+        const linkTitle = match[1].trim();
+        if (match) {
+          const check = checkHeaderMatch(linkHeading[1], linkHeading[2]);
+          if (!check) {
+            linkHeadings.set(linkId, {
+              title: match[0],
+              line: index + 1,
+            });
+          }
+        }
+        if (!links.has(linkId)) {
+          links.set(linkId, { title: linkTitle, line: index + 1 });
         }
       }
-      if (!links.has(linkId)) {
-        links.set(linkId, { title: linkTitle, line: index + 1 });
+
+      while ((match = headingRegex.exec(line)) !== null) {
+        const headingText = match[1].trim();
+        const headingId = normalize(headingText);
+        if (!headings.has(headingId)) {
+          headings.set(headingId, { title: headingText, line: index + 1 });
+        }
       }
-    }
-
-    while ((match = headingRegex.exec(line)) !== null) {
-      const headingText = match[1].trim();
-      const headingId = normalize(headingText);
-      if (!headings.has(headingId)) {
-        headings.set(headingId, { title: headingText, line: index + 1 });
+    });
+    links.forEach((link, key) => {
+      if (!headings.has(key)) {
+        missingHeadings.push(
+          `❌ Missing heading for link '${link.title}' (Line ${link.line})`
+        );
       }
-    }
-  });
-
-  let missingLinks = [];
-  let missingHeadings = [];
-  let missingLinkHeadings = [];
-
-  links.forEach((link, key) => {
-    if (!headings.has(key)) {
-      missingHeadings.push(
-        `❌ Missing heading for link '${link.title}' (Line ${link.line})`
+    });
+    linkHeadings.forEach((link, key) => {
+      missingLinkHeadings.push(
+        `❌ Mismatch in link and heading '${link.title}' (Line ${link.line})`
       );
+    });
+
+    headings.forEach((heading, key) => {
+      if (!links.has(key)) {
+        missingLinks.push(
+          `❌ Missing link for heading '${heading.title}' (Line ${heading.line})`
+        );
+      }
+    });
+
+    console.log(`Checking: ${filePath}`);
+    if (
+      missingLinks.length === 0 &&
+      missingHeadings.length === 0 &&
+      missingLinkHeadings.length === 0
+    ) {
+      console.log("✅ All Nutshell links have matching headings!");
+    } else {
+      console.log("\n=== MISMATCHES ===");
+      missingLinkHeadings.forEach((msg) => console.log(msg));
+
+      console.log("\n=== MISSING HEADINGS ===");
+      missingHeadings.forEach((msg) => console.log(msg));
+
+      console.log("\n=== MISSING LINKS ===");
+      missingLinks.forEach((msg) => console.log(msg));
     }
+    console.log("====================\n");
   });
-  linkHeadings.forEach((link, key) => {
-    missingLinkHeadings.push(
-      `❌ Mismatch in link and heading '${link.title}' (Line ${link.line})`
-    );
-  });
+}
 
-  headings.forEach((heading, key) => {
-    if (!links.has(key)) {
-      missingLinks.push(
-        `❌ Missing link for heading '${heading.title}' (Line ${heading.line})`
-      );
-    }
-  });
+function processDirectory(directoryPath) {
+  try {
+    const files = readdirSync(directoryPath);
 
-  if (
-    missingLinks.length === 0 &&
-    missingHeadings.length === 0 &&
-    missingLinkHeadings.length === 0
-  ) {
-    console.log("✅ All Nutshell links have matching headings!");
-  } else {
-    console.log("\n=== MISMATCHES ===");
-    missingLinkHeadings.forEach((msg) => console.log(msg));
+    files.forEach((file) => {
+      const filePath = join(directoryPath, file);
+      const stats = statSync(filePath);
 
-    console.log("\n=== MISSING HEADINGS ===");
-    missingHeadings.forEach((msg) => console.log(msg));
-
-    console.log("\n=== MISSING LINKS ===");
-    missingLinks.forEach((msg) => console.log(msg));
+      if (stats.isDirectory()) {
+        processDirectory(filePath); // Recursively process subdirectories
+      } else if (file.endsWith(".md")) {
+        // Process only Markdown files (adjust as needed)
+        checkNutshellLinks(filePath);
+      }
+    });
+  } catch (err) {
+    console.error(`Error reading directory: ${err.message}`);
   }
-});
+}
 
-// Add this to ctrl-shift-p open user tasks
-// {
-//   "version": "2.0.0",
-//   "tasks": [
-//     {
-//       "label": "Check Nutshell Links in active file",
-//       "type": "shell",
-//       "command": "node",
-//       "args": [
-//         "${workspaceFolder}/checkNutshellLinks.js",
-//         "${file}"
-//       ],
-//       "options": {
-//         "cwd": "${workspaceFolder}"
-//       },
-//       "problemMatcher": [],
-//       "group": {
-//         "kind": "build",
-//         "isDefault": true
-//       }
-//     }
-//   ]
-// }
+const targetPath = process.argv[2];
+console.log(targetPath);
+
+if (!targetPath) {
+  console.error("No directory or file path provided.");
+  process.exit(1);
+}
+
+const stats = statSync(targetPath);
+
+if (stats.isDirectory()) {
+  processDirectory(targetPath);
+} else if (targetPath.endsWith(".md")) {
+  checkNutshellLinks(targetPath);
+} else {
+  console.error("Provided path is not a directory or markdown file.");
+  process.exit(1);
+}
