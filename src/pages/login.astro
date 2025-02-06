@@ -11,6 +11,9 @@
     <button id="loginButton" class="w-full bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition duration-300">
       Login
     </button>
+    <button id="goToSiteButton" class="hidden w-full bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600 transition duration-300 mt-4">
+      Go to the site
+    </button>
 
   <script>
     const config = {
@@ -90,6 +93,7 @@
           const parsedUser = JSON.parse(decodeURIComponent(savedUser));
           if (parsedUser?.id && parsedUser?.username) {
             alert(`Welcome back, ${parsedUser.username}!`);
+            showSiteButton()
             return true;
           }
         } catch (error) {
@@ -97,6 +101,16 @@
         }
       }
       return false;
+    }
+
+    function showSiteButton() {
+      const goToSiteButton = document.getElementById('goToSiteButton');
+      if (goToSiteButton) {
+        goToSiteButton.classList.remove('hidden');
+        goToSiteButton.addEventListener('click', () => {
+          window.location.href = "/"; 
+        });
+      }
     }
 
     const loginButton = document.getElementById('loginButton');
