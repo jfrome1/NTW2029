@@ -14,6 +14,19 @@ const normalize = (text) => {
     .trim();
 };
 
+function checkHeaderMatch(headerText, anchorText) {
+  const normalizeHeader = (text) => {
+    return text
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, "")
+      .trim()
+      .replace(/\s+/g, "-");
+  };
+
+  const normalizedHeader = normalizeHeader(headerText);
+  return `x-${normalizedHeader}` === anchorText;
+}
+
 readFile(filePath, "utf8", (err, data) => {
   if (err) {
     console.error(`Error reading file: ${err.message}`);
@@ -27,13 +40,26 @@ readFile(filePath, "utf8", (err, data) => {
 
   let links = new Map();
   let headings = new Map();
+  let linkHeadings = new Map();
 
   lines.forEach((line, index) => {
     let match;
 
     while ((match = linkRegex.exec(line)) !== null) {
+      const regex = /\[\s*(.*?)\s*\]\(\s*#(.*?)\s*\)/;
+      const linkHeading = match[0].match(regex);
+
       const linkId = normalize(match[2]);
       const linkTitle = match[1].trim();
+      if (match) {
+        const check = checkHeaderMatch(linkHeading[1], linkHeading[2]);
+        if (!check) {
+          linkHeadings.set(linkId, {
+            title: match[0],
+            line: index + 1,
+          });
+        }
+      }
       if (!links.has(linkId)) {
         links.set(linkId, { title: linkTitle, line: index + 1 });
       }
@@ -41,7 +67,7 @@ readFile(filePath, "utf8", (err, data) => {
 
     while ((match = headingRegex.exec(line)) !== null) {
       const headingText = match[1].trim();
-      const headingId = normalize(headingText); 
+      const headingId = normalize(headingText);
       if (!headings.has(headingId)) {
         headings.set(headingId, { title: headingText, line: index + 1 });
       }
@@ -50,6 +76,7 @@ readFile(filePath, "utf8", (err, data) => {
 
   let missingLinks = [];
   let missingHeadings = [];
+  let missingLinkHeadings = [];
 
   links.forEach((link, key) => {
     if (!headings.has(key)) {
@@ -57,6 +84,11 @@ readFile(filePath, "utf8", (err, data) => {
         `❌ Missing heading for link '${link.title}' (Line ${link.line})`
       );
     }
+  });
+  linkHeadings.forEach((link, key) => {
+    missingLinkHeadings.push(
+      `❌ Mismatch in link and heading '${link.title}' (Line ${link.line})`
+    );
   });
 
   headings.forEach((heading, key) => {
@@ -67,9 +99,16 @@ readFile(filePath, "utf8", (err, data) => {
     }
   });
 
-  if (missingLinks.length === 0 && missingHeadings.length === 0) {
+  if (
+    missingLinks.length === 0 &&
+    missingHeadings.length === 0 &&
+    missingLinkHeadings.length === 0
+  ) {
     console.log("✅ All Nutshell links have matching headings!");
   } else {
+    console.log("\n=== MISMATCHES ===");
+    missingLinkHeadings.forEach((msg) => console.log(msg));
+
     console.log("\n=== MISSING HEADINGS ===");
     missingHeadings.forEach((msg) => console.log(msg));
 
