@@ -103,7 +103,7 @@ export default defineConfig({
                                 {
                                     label: "Other",
 									collapsed: true,
-                                    autogenerate: { directory: "course-ntw2029/resources/writing/other" },
+                                    autogenerate: { directory: "course-ntw2029/resources/writing/other" }
                                 },
                             ],
                         },
