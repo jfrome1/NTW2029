@@ -25,5 +25,5 @@ date: 2024-09-15
 	- Darwin showed how a non-thinking process could produce something that seemed to require design (will be explained in videos for 1.2)
 - "tree of life"
 	- some who accepted the basic concept of evolution thought that God created a wide variety of species, and these species evolved over time, but did not think that all present species had evolved from a very limited number of past species
-	- Darwin's new ideaw as that all modern species branched off from smaller numbers of earlier species
+	- Darwin's new idea was that all modern species branched off from smaller numbers of earlier species
 		- e.g., one species of finch became four species of finch because the four populations were separated and evolved in different ways
