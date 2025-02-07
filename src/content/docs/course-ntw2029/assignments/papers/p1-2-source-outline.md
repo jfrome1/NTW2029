@@ -2,8 +2,7 @@
 
 title: Paper 1 outline (optional)
 date: 2024-09-06
-sidebar:
-  hidden: true
+
 ---
 <!-- at bottom  -->
 
