@@ -5,8 +5,6 @@ date: 2025-02-01
 
 ---
 
-
-
 ## Overview
 
 Students will submit outlines as part of the writing process. The outline is optional for Paper 1 and required for Paper 2.
@@ -15,7 +13,7 @@ There are two types of outlines: source outlines (which outline part of a source
 
 ## How to submit
 
-Outlines are paper-related assignments, and should follow [the same submission guidelines](/course-ntw2029/assignments/general/paper-guidelines#how-to-submit).
+Outlines are paper-related assignments, and should follow the paper submission guidelines on [how to submit](/course-ntw2029/assignments/general/paper-guidelines#how-to-submit).
 
 ## Requirements
 
@@ -45,7 +43,7 @@ Although these guidelines may seem restrictive, they are designed to make sure y
 - Each point in the outline will paraphrase part of the overall argument (your paper's or a source's).
 - Each point in the outline should contain EXACTLY one complete sentence, not two or more sentences. Do not use more than one sentence per point in any circumstance.
 - Each point [:should be a COMPLETE sentence](#x-should-be-a-complete-sentence) with a clear subject and verb, ending in a period—not a phrase or sentence fragment.
-- Each point [:should be a STATEMENT](#x-should-be-a-STATEMENT)—not a question.
+- Each point [:should be a STATEMENT](#x-should-be-a-statement)—not a question.
 - For a source outline, your points should NOT describe things the source does; they [:should concisely state your source's claims](#x-should-concisely-state-your-sources-claims).
 	- This guideline is very important for source outlines! If you don't follow this rule you will likely end up describing the source as a piece of writing rather than actually summarizing its argument.
 - For a paper outline, your points should NOT describe generally what your paper will do; they [:should concisely state the specific claims](#x-should-concisely-state-the-specific-claims) that your paper will make/support.
@@ -55,8 +53,8 @@ Although these guidelines may seem restrictive, they are designed to make sure y
 - Do not include source quotations. Use paraphrases only.
 - Use simplified in-text citations with the page numbers for each point at the end of that point. e.g. (22-23)
 - Attribute all ideas to their correct source, even though it may feel redundant.
-	- correct: "Boyd says that cooperation evolved..."
 	- avoid:  "Cooperation evolved..."
+	- correct: "Boyd says that cooperation evolved..."
 
 ### Subpoints support points
 
@@ -72,11 +70,11 @@ When writing your outline, look at any main point. Ask: if any of its subpoints 
 
 ##### :x should be a COMPLETE sentence
 
-- [:example 1](#x-complete-sentence-1) (web examples use bullet points, I can't figure out how to label them)
-- [:example 2](#x-complete-sentence-2)
-- [:example 3](#x-complete-sentence-3)
+- [:complete sentence example 1:](#x-complete-sentence-example-1) (web examples use bullet points, I can't figure out how to label them)
+- [:complete sentence example 2:](#x-complete-sentence-example-2)
+- [:complete sentence example 3:](#x-complete-sentence-example-3)
 
-##### :x complete sentence 1
+##### :x complete sentence example 1
 
 Avoid:
 
@@ -94,7 +92,7 @@ Better:
 
 - better: these points are complete sentences
 
-##### :x complete sentence 2
+##### :x complete sentence example 2
 
 Avoid:
 
@@ -104,9 +102,9 @@ Avoid:
 
 - problem: none of these points are complete sentences by themselves
 
-A better version would require a restructuring these points so main point 1 summarized the most important parts of the two subpoints.
+An even better version would require a restructuring these points so main point 1 summarized the most important parts of the two subpoints.
 
-##### :x complete sentence 3
+##### :x complete sentence example 3
 
 - Avoid: "This is an example of mate selection."
 	- problem: "This" isn't a clear subject. What is an example of mate selection? Identify the subject clearly.
@@ -115,7 +113,7 @@ A better version would require a restructuring these points so main point 1 summ
 - Even better: "Mate selection occurs, for example, when female bowerbirds choose to mate with the males that build the most decorated mating nests."
 	- even better: a different subject makes the sentence flow more smoothly
 
-##### :x should be a STATEMENT
+##### :x should be a statement
 
 - avoid: "What does survival have to do with sexual selection?" [not a statement]
 - better: "Survival is not the primary driver of sexual selection."

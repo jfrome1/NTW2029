@@ -36,7 +36,7 @@ To make sure everyone knows how to submit GenAI links, review the [GenAI policy]
 
 ## Guidance
 
-Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-scope).
+Please pick something based on your own knowledge and skills and of an [:appropriately narrow scope](#x-appropriately narrow scope).
 
 Pick something that you know how to do but that most people in this class won't know how to do. It should be something that you took lessons for, or had to be explicitly taught, or had to teach yourself using a tutorial or instruction manual. Due to the word limit, pick something small within your larger area of expertise. For example, "how to dance" is too broad, but "how to do the dance move called 'flossing'" might work.
 
@@ -67,7 +67,7 @@ For this assignment, feedback will mention places (if any) where you may have as
 
 Throughout this course, note that examples provided are _not_ intended as ideal models you should emulate. They are intended to give you a general sense of what I'm looking for to prevent you from going completely off track. All examples will have both strengths and weaknesses.
 
-Here is an [:example submission](#x-example) to give you some idea what is expected. I've also decided to share with you how I [:used GenAI](#x-genai) to create this example, but it's totally optional--read only if you have the time and interest.
+Here is an [:example submission](#x-example-submission) to give you some idea what is expected. I've also decided to share with you [:how I used GenAI](#x-how-I-used-genai) to create this example, but it's totally optional--read only if you have the time and interest.
 
 ##### :x scope
 
@@ -79,7 +79,7 @@ Some examples:
 - how to tune up brakes on a bicycle
 - how to mix colors when painting with watercolor
 
-##### :x example
+##### :x example submission
 
 **How to Format Webpage Text Using Markdown**
 
@@ -89,7 +89,7 @@ Markdown's advantage over plain text alone is that it provides a way to format t
 
 You can create and edit a Markdown document using any text editor, but to convert the document into an HTML webpage, you will need a Markdown editor. Popular free editors include Obsidian, VS Code, and Zettlr.
 
-##### :x genai
+##### :x how I used genai
 
 Reading this section is totally optional; I just thought some of you might be interested. I wanted to create an example submission for this assignment to help students understand what I'm looking for. I'll explain the process I went through for two reasons: 1) seeing the changes I made will help you understand even better what I'm looking for, and 2) my process may help you use GenAI more effectively.
 
