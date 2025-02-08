@@ -241,7 +241,7 @@ Some criticisms could be leveled at almost any published work, so they don't rea
 - "some readers would not be convinced by the source argument"
 - "the source [:ignores other factors](#x-ignores-other-factors) that might also partially explain this phenomenon"
 - "the source [:doesn't define the term](#x-doesnt-define-the-term) the term [insert term here]"
-- "the source [:doesn't provide evidence](#x-doesn't-provide-evidence) for claim X"
+- "the source [:doesn't provide evidence](#x-doesnt-provide-evidence) for claim X"
 - "the source says X but X is [:not true 100% of the time](#x-not-true-100-percent-of-the-time)"
 - "the source uses the word [insert term here] but [:uses it in the wrong way](#x-uses-it-in-the-wrong-way)"
 
@@ -268,3 +268,7 @@ Don't get me wrong; it is potentially useful to discuss counterexamples if they 
 ##### :x uses it in the wrong way
 
 Paper 1 assumes that the source is not completely self-explanatory and clear. The principle of charity suggests that we should aim to steelman the source argument to focus on whether its most persuasive version is true.
+
+##### :x original alternate answer
+
+In your analysis, it's fine to suggest small improvements to parts of the source argument, but don't propose a wholly new theory that acts as an alternative to the source's argument.

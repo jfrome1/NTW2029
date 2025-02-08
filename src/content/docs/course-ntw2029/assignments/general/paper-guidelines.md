@@ -49,7 +49,7 @@ You can easily mess up assignment formatting even with this template (e.g. by co
 - The paper title should be centered, separated from the first line of the essay by one line/space, in the same font as the paper body, and not bolded or underlined
 - Add page numbers in the footer, but leave page footers blank otherwise.
 - The body of the paper must be double-spaced, left-justified, with the first line of each paragraph indented,  without an extra space between paragraphs. Use [:these MS Word settings](#x-these-MS-Word-settings).
-- The reference list must start on a new page, be double-spaced, left-justified, with a hanging indent for the first line of each reference item, [:without an extra space between paragraphs](#x-extra-line). Use these [:reference formatting settings](#x-reference-formatting-settings) (these are different than the ones above; the custom style for references lists reflects them).
+- The reference list must start on a new page, be double-spaced, left-justified, with a hanging indent for the first line of each reference item, [:without extra space between paragraphs](#x-without-extra-space-between-paragraphs). Use these [:reference formatting settings](#x-reference-formatting-settings) (these are different than the ones above; the custom style for references lists reflects them).
 
 ##### :x do not paste links to documents
 
@@ -59,7 +59,7 @@ You can easily mess up assignment formatting even with this template (e.g. by co
 
 I don't want you staying up late to finish coursework. Proper sleep is important for physical and mental health as well as for learning and productivity. Prioritize it.
 
-##### :x resubmit exercises
+##### :x resubmit papers
 
 You may resubmit exercises an unlimited number of times until the deadline. You don't need to email me to explain anything. I will look at the last submission only.
 
@@ -67,11 +67,11 @@ You may resubmit exercises an unlimited number of times until the deadline. You 
 
 ![show comments](/images/show-comments.jpg)
 
-##### :x these MS Word settings
+##### :x these ms word settings
 
 ![formatting settings](/images/formatting-settings.jpg)
 
-##### :x without an extra space between paragraphs
+##### :x without extra space between paragraphs
 
 The space between the last line of one paragraph and and the first line of the next should be the same as the space between lines within a paragraph. Online essays commonly skip lines between paragraphs because it is harder to add tab indents to webpages than in word processors. Extra blank lines can help readability online, but it is not the correct style for academic essays. Follow the settings shown on this page to avoid them.
 

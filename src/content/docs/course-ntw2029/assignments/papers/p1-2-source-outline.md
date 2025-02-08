@@ -1,16 +1,15 @@
 ---
 
-title: Paper 1 outline (optional)
+title: Paper 1 source outline (optional)
 date: 2024-09-06
 
 ---
-<!-- at bottom  -->
 
 This assignment is optional. If you submit it, you will receive feedback that can guide your writing process. There is no penalty for not submitting it.
 
 ## Assignment purpose
 
-The assignment is designed to help you organize your thoughts for your draft. The assignment asks you to submit an outline, following rules designed to help you process the reading in a way that leads to a good draft. Since Paper 1 is an exposition paper in which you explain a source, the outline you submit for this assignment can be thought of as either an outline of parts of the source or as an outline of Paper 1.
+The assignment is designed to help you organize your thoughts for your draft. The assignment asks you to submit an outline, following rules designed to help you process the reading in a way that leads to a good draft.
 
 ## Goals
 
@@ -48,6 +47,15 @@ Please review exercise guidelines, follow GenAI policy, and submit an updated wo
  _The above guideline is very important!_ If you don't follow this rule you will end up describing the source as a piece of writing rather than actually summarizing its argument, and that's not the assignment.
 :::
 
+## Checklist
+
+- outline does not cover the whole chapter, but is limited to:
+	- Pinker's general argument about why we enjoy art
+	- the one or two specific arguments about a specific art form that you choose to explain and analyze
+- at top, instead of a title, submission has a thesis statement that covers the general and specific arguments of the outline
+- follows all [outline guidelines](/course-ntw2029/assignments/general/outline-guidelines)
+- includes GenAI link or non-use statement
+
 ### :x points
 
 ![points and subpoints](/images/outline-points.jpg)
@@ -81,6 +89,3 @@ Problem: (1) is not a complete sentence by itself. (A) and (B) are not complete 
 
 - Avoid: "Pinker gives several reasons that music is pleasurable." (describes what the source author does in general)
 - Correct: "Pinker argues that music includes sounds similar to those found in the EEA" (states Pinker's actual argument)
-
-<!-- Student outline submissions this time often simply stated the argument Pinker makes in one sentence, without going through the steps or really explaining his claims. The outline is not supposed to offer a complete explanation, but I should make it clear to them that here is a place to work out the steps in the argument to try to identify how his claims work logically and even identify points of analysis or areas where they saw potential limitations or gaps. -->
-<!--  Also, there were a number of outlines that did not follow formatting guidelines, assignment guidelines such as "only one complete sentence per point", or GenAI guidelines. Should I tell the students that I won't comment on submissions like this? -->
