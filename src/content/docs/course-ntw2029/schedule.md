@@ -25,7 +25,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read: watch [:assigned videos](#x-assigned-videos)
 - Writing topics: academic writing as a conversation
 	- Read before class (recommended):
-		- TSIS refers to: Graff, Gerald, and Cathy Birkenstein. _“They Say / I Say”: The Moves That Matter in Academic Writing_. 3rd ed. New York: W. W. Norton & Company, 2014.
+		- TSIS refers to: Graff, Gerald, and Cathy Birkenstein. _"They Say / I Say": The Moves That Matter in Academic Writing_. 3rd ed. New York: W. W. Norton & Company, 2014.
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
@@ -56,12 +56,12 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- play [The Evolution of Trust](https://ncase.me/trust/) (around 30 min)
 		- watch [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
 		- watch [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
-		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. Note: read just until page 60—we'll discuss the rest in another class. [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf),  [:Boyd discussion questions](#x-boyd-discussion-questions)
+		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. Note: read just until page 60—we'll discuss the rest in another class. [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf), [:Boyd discussion questions](#x-boyd-discussion-questions)
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
 - class handout:
-	-  West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
+	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
 
 ###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152153): [Exercise 3 - explain Boyd reading intro](/course-ntw2029/assignments/exercises/e03-boyd)
 
@@ -125,7 +125,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: cooperation and storytelling, and catch-up class
 	- Read before class:
-		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](/downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!--  [:Austin discussion questions](#x-austin-discussion-questions) -->
+		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](/downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!-- [:Austin discussion questions](#x-austin-discussion-questions) -->
 		- review Boyd and Dutton, bring to class
 - Writing topic: introductions orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
@@ -163,7 +163,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152157): Exercise 7 - Class participation reflection
 >
-###### Due [Sat 8 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 academic conversation overview (optional)
+###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 academic conversation overview (optional)
 
 ## 8.1 Tue 11 Mar 2025
 
@@ -187,7 +187,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due [Sat 22 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary (optional)
+###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary (optional)
 
 ## 10.1 Tue 25 Mar 2025
 
@@ -199,9 +199,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152170): Paper 2 proposal and source summary outline
+###### Due [Sat 29 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152170): Paper 2 proposal and source summary outline
 >
-###### Due [Sat 29 Mar  2025](https://canvas.nus.edu.sg/courses/73753/assignments/167188): Exercise 11 - workload report, March
+###### Due [Sat 29 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/167188): Exercise 11 - workload report, March
 
 ## 11.1 Tue 1 Apr 2025 — no class meeting; individual student conferences
 
@@ -209,7 +209,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 11.2 Fri 4 Apr 24 (no class, Well-Being Day)
 
-###### Due [Sat 5 Apr  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152169): Paper 2 intro and (optional) draft outline
+###### Due [Sat 5 Apr 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152169): Paper 2 intro and (optional) draft outline
 
 ## 12.1 Tue 8 Apr 2025
 
@@ -222,7 +222,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due [Sat 12 Apr  2025](https://canvas.nus.edu.sg/courses/73753/assignments/152167): Paper 2 full draft and outline
+###### Due [Sat 12 Apr 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152167): Paper 2 full draft and outline
 
 ## 13.1 and 13.2 (15 and 18 Apr) — no class meetings; individual student conferences
 

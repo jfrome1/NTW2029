@@ -2,12 +2,14 @@
 
 title: Exercise 8 - Paper 2 post-conference notes (proposal conference)
 date: 2024-10-12
-sidebar:
-  hidden: true
----
-Please submit post-conference notes about the most important points you took from our conference and from my feedback on your proposal. There is no word count requirement; I'll leave it up to you.
 
-Copy and paste these questions into the Exercise 8 text box on Canvas. Keep the questions and type your answers below each question:
+---
+
+The purpose of this assignment is to help you consolidate your thoughts about the proposal feedback so you can better plan your draft.
+
+After our conference, consider our discussion and my feedback on your draft.
+
+Copy and paste the following questions into the Exercise 8 text box on Canvas. Don't delete the questions--keep them and type answers below each question:
 
 1. What were the two or three most important points of feedback on your proposal?
 2. What other points of feedback were discussed?
@@ -15,4 +17,4 @@ Copy and paste these questions into the Exercise 8 text box on Canvas. Keep the 
 4. Are there any next steps that you don't currently know how to make progress on? What will you do to figure them out?
 5. (optional) Do you any other comments or feedback for me?
 
-After this conference, you can still email or message me short questions that I can quickly answer. You can also request an in-person meeting or Zoom call and I'll do my best to accommodate you. But I am not able to provide feedback on emailed drafts or paper sections before the final is due.
+Please review and follow all [exercise guidelines](/course-ntw2029/assignments/general/exercise-guidelines).

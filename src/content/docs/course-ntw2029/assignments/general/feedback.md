@@ -65,7 +65,7 @@ What the text styles mean:
 
 ## Removing my feedback for revision
 
-Although you will want to keep a copy of my feedback, you also need a clean copy of your document that you can revise and resubmit Here's how to:
+Although you will want to keep a copy of my feedback, you also need a clean copy of your document that you can revise and resubmit. Here's how to:
 
 - [:remove comments](#x-remove-comments)
 - [:remove highlighting](#x-remove-highlighting)
