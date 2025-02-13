@@ -43,7 +43,7 @@ function formatCommitDate(dateString: string | null) {
 	}
 }
 ---
-<div>Last updated: {!import.meta.env.PROD ? formatCommitDate(await getLatestCommit(Astro.props.entry.id)) : "Will be added in production"}</div>
+<div>Last updated: {import.meta.env.PROD ? formatCommitDate(await getLatestCommit(Astro.props.entry.id)) : "Will be added in production"}</div>
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website via Teams or email for class participation credit.</p>
 
 <script>
