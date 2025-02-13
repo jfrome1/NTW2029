@@ -2,10 +2,15 @@
 async function getLatestCommit(slug: string) {
 	try {
 		const response = await fetch(
-			"https://api.github.com/repos/jfrome1/ntw2029/commits?path=src/content/docs/" + slug
-		);
+			"https://api.github.com/repos/jfrome1/ntw2029/commits?path=src/content/docs/" + slug,
+      {
+        headers: {
+          Authorization: `Bearer ${import.meta.env.TOKEN}`, // Use template literal and environment variable
+        },
+      }
+    );
 		if (!response.ok) {
-			throw new Error('Network response was not ok');
+			throw new Error('Api to github failed.');
 		}
 
 		const data = await response.json();
@@ -24,7 +29,6 @@ async function getLatestCommit(slug: string) {
 }
 
 function formatCommitDate(dateString: string | null) {
-  console.log(dateString)
 	if (!dateString) return "Unknown";
 
 	const commitDate = new Date(dateString);
@@ -39,7 +43,7 @@ function formatCommitDate(dateString: string | null) {
 	}
 }
 ---
-<div>Last updated: {import.meta.env.PROD ? formatCommitDate(await getLatestCommit(Astro.props.entry.id)) : "Will be added in production"}</div>
+<div>Last updated: {!import.meta.env.PROD ? formatCommitDate(await getLatestCommit(Astro.props.entry.id)) : "Will be added in production"}</div>
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website via Teams or email for class participation credit.</p>
 
 <script>
