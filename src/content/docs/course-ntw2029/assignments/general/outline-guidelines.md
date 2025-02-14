@@ -29,7 +29,7 @@ Before reading the requirements, look at this [properly formatted example outlin
 
 ### Formatting
 
-Format your outline to match the example linked above. I recommend using the example as a template for your submissions, replacing the content with your own, and using the custom styles I created.
+Format your outline to match the example linked above. I recommend using the example as a template for your submissions, replacing the content with your own, and using the custom styles I created. Remove my comments before submitting.
 
 You can easily mess up formatting even with this template (e.g. by copying and pasting text from web pages) so be sure to follow these requirements:
 
