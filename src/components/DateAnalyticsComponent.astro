@@ -29,18 +29,23 @@ async function getLatestCommit(slug: string) {
 }
 
 function formatCommitDate(dateString: string | null) {
-	if (!dateString) return "Unknown";
+  if (!dateString) return "Unknown";
 
-	const commitDate = new Date(dateString);
-	const currentDate = new Date();
-	const diffTime = Math.abs(currentDate.getTime() - commitDate.getTime());
-	const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+  const commitDate = new Date(dateString);
+  const currentDate = new Date();
+  const diffTime = Math.abs(currentDate.getTime() - commitDate.getTime());
+  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
 
-	if (diffDays > 7) {
-		return "over a week ago";
-	} else {
-		return commitDate.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric' });
-	}
+  if (diffDays > 7) {
+    return "over a week ago";
+  } else {
+    const year = commitDate.getFullYear();
+    const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    const monthAbbreviation = monthNames[commitDate.getMonth()];
+    const day = String(commitDate.getDate()).padStart(2, '0');
+    return `${year} ${monthAbbreviation} ${day}`;
+  }
 }
 ---
 <div>Last updated: {formatCommitDate(await getLatestCommit(Astro.props.entry.id))}</div>
