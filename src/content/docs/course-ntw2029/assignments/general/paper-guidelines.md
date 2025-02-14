@@ -40,7 +40,7 @@ Date submitted
 
 Academic paper formatting is very detail-oriented. You are responsible for making sure paper assignments are properly formatted according to the rules below. If they aren't formatted properly, I'll mark them "incomplete" and you'll have to resubmit them (with penalties for lateness if it's past the deadline).
 
-However, I have made formatting very easy for you by providing a [properly formatted paper template](/downloads/ntw2029-paper.docx) with comments explaining the format (be sure to [:show them](#x-show-them)). You can even use this template for your submissions, replacing the content with your own, and using the custom styles I created.
+However, I have made formatting very easy for you by providing a [properly formatted paper template](/downloads/ntw2029-paper.docx) with comments explaining the format (be sure to [:show them](#x-show-them)). You can even use this template for your submissions, replacing the content with your own, and using the custom styles I created. Remove my comments before submitting.
 
 You can easily mess up assignment formatting even with this template (e.g. by copying and pasting text from web pages) so be sure to follow these requirements:
 
