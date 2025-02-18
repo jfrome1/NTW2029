@@ -9,7 +9,7 @@ Please start by reading this entire assignment without clicking on the links. Th
 
 ## Overview
 
-Write an [:expository paper](#x-expository-paper) to explain [:one or more arguments](#x-one-or-more-arguments) from Pinker's chapter, "The Meaning of Life", in 1500 words or less.
+Write an [:expository paper](#x-expository-paper) to explain [:one or more arguments](#x-one-or-more-arguments) from Pinker's chapter, "The Meaning of Life", in 1250-1750 words.
 
 ## Assignment purpose
 
