@@ -14,10 +14,12 @@ Copy and paste the following questions into the Exercise 6 text box on Canvas. D
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
 3. What major changes did you make on your draft after our conference?
-4. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
-5. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
-6. In general, what was the biggest challenge in writing this paper?
-7. What did you learn from writing this paper that you will apply to future writing assignments?
-8. Do you have any suggestions for improving the Paper 1 process for next time I teach the course?
+4. Did you use the Paper 1 feedback form (with a table and checklists)? If yes, how did you do so and how helpful was it?
+5. Did you use ChatGPT? If yes, how did you do so and how helpful was it?
+6. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
+7. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
+8. In general, what was the biggest challenge in writing this paper?
+9. What did you learn from writing this paper that you will apply to future writing assignments?
+10. Do you have any suggestions for improving the Paper 1 process for next time I teach the course?
 
 Please review and follow all [exercise guidelines](/course-ntw2029/assignments/general/exercise-guidelines).
