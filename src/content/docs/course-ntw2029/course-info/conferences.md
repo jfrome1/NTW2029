@@ -1,6 +1,6 @@
 ---
 title: Conference guidelines
-date: 2024-08-16
+date: 2024-02-20
 ---
 
 I'll have at least three individual conferences with each student this semester. Conferences can be in-person (the default) or via Zoom (at your request); either is fine with me. I [:record conferences](#x-recordconferences) and I'll [:share the recording and transcript](#x-sharetherecording) with you afterwards.
@@ -36,7 +36,7 @@ To make sure you get full benefit from the conference:
 
 ## Follow-up
 
-- The day of the conference, complete the assigned exercise to email me a summary of the conference, including the main points we discussed and your planned next steps.
+- The day of the conference, complete the assigned exercise to submit post-conference notes.
 
 ##### :x record conferences
 
