@@ -1,7 +1,7 @@
 ---
 
 title: Paper 1 overview
-date: 2025-01-31
+date: 2025-02-20
 
 ---
 
@@ -161,9 +161,9 @@ Strategies you should use include:
 - start by assuming that Pinker's arguments make sense and identify the claims he uses to build his arguments
 - In this paper, you will analyze specific arguments made by the source. Don't make the mistake of thinking about the source's argument as a general topic or a main idea. Think about the argument in terms of specific claims that are being made, and specific reasons and evidence that are put forth to support these claims.
 - see if you can "help" Pinker make his case more persuasively, trying to "steelman" the argument, but make sure that you:
-- keep your summary accurate and don't misrepresent Pinker in trying to explicate his argument
-- make very clear to the reader which arguments are yours and which are Pinker's
-- illustrate Pinker's abstract claims with original concrete examples
+	- keep your summary accurate and don't misrepresent Pinker in trying to explicate his argument
+	- make very clear to the reader which arguments are yours and which are Pinker's
+	- illustrate Pinker's abstract claims with original concrete examples
 
 ##### :x may use these strategies
 
