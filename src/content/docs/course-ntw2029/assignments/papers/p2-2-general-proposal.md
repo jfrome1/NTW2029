@@ -29,6 +29,8 @@ Write your answers in full sentences (where appropriate) rather than bullet poin
 5. Do you currently have any questions about EP and art that you have been thinking about outside of class? (it's fine if you haven't)
 6. (optional) List any questions or ideas about EP and art that you have been thinking about as possible Paper 2 topics.
 
+Please include a GenAI link or non-use statement.
+
 You are not committing to anything with your answers. I just want to get an idea of your thinking so I can help you find a source that will interest you.
 
 ## Guidelines
