@@ -280,4 +280,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ##### :x ahn discussion questions
 
-- [forthcoming]
+- This paper aims to contribute to an academic conversation that aims to answer what question(s)?
+- What does this paper think is the "research gap" (the thing that no one has yet explained) that they want to help fill?
+- Is there any stated motivation for why the authors did this study? What do you think was the actual observation, puzzle, or other factor that motivated the authors to do this study?
+- What are the study's hypotheses?
+- What justifications are given for these hypotheses (i.e. why do the authors make these predictions)?
+- What did the authors actually do in this study?
+- How well do the methods test the hypotheses?
+- What do the authors conclude from their research?
+- How well-supported are their conclusions?
+
+Note: feel free to ignore all statistics in this paper.
