@@ -12,10 +12,10 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/markdoc": "^0.12.9",
-    "@astrojs/starlight": "^0.31.1",
-    "@astrojs/starlight-docsearch": "^0.5.0",
+    "@astrojs/starlight": "^0.32.1",
+    "@astrojs/starlight-docsearch": "^0.6.0",
     "@vercel/edge": "^1.2.1",
-    "astro": "^5.2.5",
+    "astro": "^5.3.1",
     "astro-compress": "^2.3.6",
     "posthog-js": "^1.215.1",
     "rehype-external-links": "^3.0.0",
