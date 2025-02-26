@@ -1,13 +1,13 @@
 ---
 import CustomTableOfContentsList from "./CustomTableOfContentsList.astro";
-const { toc } = Astro.props;
+const { toc } = Astro.locals.starlightRoute
 
 // Uncomment to remove Overview heading
-const index = toc.items.findIndex(
+const index = toc!.items.findIndex(
   (item: { slug: string }) => item.slug === "_top"
 );
 if (index !== -1) {
-  toc.items.splice(index, 1);
+  toc!.items.splice(index, 1);
 }
 
 // Uncomment to change Overview heading and comment above
