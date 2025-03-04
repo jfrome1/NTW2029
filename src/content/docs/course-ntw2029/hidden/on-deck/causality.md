@@ -4,6 +4,7 @@ title: Causality
 date: 2025-02-20
 sidebar:
   hidden: true
+pagefind: false
 
 ---
 

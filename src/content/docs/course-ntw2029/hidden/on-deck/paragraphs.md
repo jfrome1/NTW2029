@@ -3,7 +3,7 @@
 title: Paragraphs
 date: 2025-02-06
 publishDate: 2025-02-08
-
+pagefind: false
 ---
 
 - In this course, paragraphs should (almost always) begin with a topic sentence that fully captures the main idea of the paragraph.
