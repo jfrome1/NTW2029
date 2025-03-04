@@ -1,14 +1,11 @@
 ---
 
-title: Paper 2 source summary outline
+title: Paper 2 source summary and (optional) source summary outline
 date: 2025-02-01
 sidebar:
   hidden: true
-
-
+pagefind: false
 ---
-
-Note: in addition to submitting here, email your outline to your group members Thu night, early enough that they have time to read it before class. (Groups will be listed here or on the Canvas submission page for this assignment.)
 
 ## Assignment purpose
 
@@ -24,7 +21,6 @@ Put the citation for your source at the top as your title. Under it, state the s
 
 Try to limit your summary to one printed page, single-spaced,  to make sure you are not going into too much detail (this is impossible for some longer papers).
 
-Bring 3 hardcopies of this source to class 10.2.
 
 ## Guidelines
 
