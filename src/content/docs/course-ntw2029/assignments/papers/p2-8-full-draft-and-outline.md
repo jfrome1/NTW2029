@@ -3,7 +3,7 @@ title: Paper 2 full draft and outline
 date: 2025-02-01
 sidebar:
   hidden: true
-publishDate: 2025-02-01
+
 ---
 
 <!-- next time:
