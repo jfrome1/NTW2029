@@ -1,11 +1,10 @@
 ---
 
 title: Paper 2 proposal and revised source summary outline
-date: 2024-10-26
+date: 2025-03-04
 sidebar:
   hidden: true
-
-
+pagefind: false
 ---
 
 ## Assignment purpose
