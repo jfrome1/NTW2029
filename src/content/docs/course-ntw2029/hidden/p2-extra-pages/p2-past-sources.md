@@ -1,6 +1,7 @@
 ---
 title: Paper 2 past sources
 date: 2025-03-03
+pagefind: false
 ---
 
 Former students have written about the following sources. You can use these sources to help you find other sources that you can analyze for Paper 2. Don't use any of these articles as your main source for Paper 2, but it's ok to use them as supplementary sources. It's ok to use a chapter from one of these the books as your main source for Paper 2, as it's less likely you will analyze the same arguments,
