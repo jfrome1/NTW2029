@@ -163,7 +163,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152157): Exercise 7 - Class participation reflection
 >
-###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 academic conversation overview (optional)
+###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 source proposal and (optional) academic conversation overview
 
 ## 8.1 Tue 11 Mar 2025
 
@@ -187,10 +187,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary (optional)
+###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary and (optional) source summary outline
 
 ## 10.1 Tue 25 Mar 2025
 
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 - Writing topic: peer review, conclusions
 	- Read before class (recommended): peer drafts
 

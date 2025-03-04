@@ -47,18 +47,20 @@ There are two parts to citing sources:
 - Are you [:citing the source as a whole](#x-citing-the-source-as-a-whole) rather than an idea that appears on a particular page?
 - Of course, additional [:exceptions exist](#x-exceptions-exist).
 
-### Reference list: use APA formatting
+### Reference list
 
-- Assignments should format the reference list in accordance with American Psychological Association (APA) [:formatting rules](#x-formatting-rules)
-- Proper reference list formatting includes two elements, and you must check the rules for both:
+Proper reference list formatting includes two elements, and you must check the rules for both:
+
 - formatting the reference list itself
 - formatting the individual entries on the list (i.e. the full citations)
 
-:::caution
+#### Use APA formatting
+
+Assignments should format the reference list in accordance with American Psychological Association (APA) [:formatting rules](#x-formatting-rules)
+
+#### Citation URLs
 
 For URLs, you MUST locate and use the [DOI or DOI link](https://www.doi.org/the-identifier/what-is-a-doi/) for the source. You cannot simply copy and paste the URL for the webpage where you found the source. If there is no DOI, use [:the official publisher's URL](#x-the-official-publishers-url)
-
-:::
 
 ## Citations and grading
 

@@ -4,7 +4,11 @@ date: 2025-03-03
 pagefind: false
 ---
 
-Former students have written about the following sources. You can use these sources to help you find other sources that you can analyze for Paper 2. Don't use any of these articles as your main source for Paper 2, but it's ok to use them as supplementary sources. It's ok to use a chapter from one of these the books as your main source for Paper 2, as it's less likely you will analyze the same arguments,
+Former students have analyzed the following sources, so don't use them as your main source for Paper 2. One exception: since Paper 2 sources include book chapters, but not books, it's ok to use a chapter from one of these the books as your main source for Paper 2, as it's less likely you will choose the same chapter.
+
+You can use the following sources as supplementary sources and to help you find a main source.
+
+(Note: this list isn't in APA format, which is hard to do on the web)
 
 Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, _24_(1), 9-18. <https://doi.org/10.1027/1864-1105/a000058>
 
