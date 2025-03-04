@@ -2,7 +2,7 @@
 
 title: Genetics terminology
 date: 2025-02-01
-publishDate: 2025-02-01
+
 
 ---
 
