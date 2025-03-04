@@ -1,41 +1,43 @@
 ---
 
 title: Paper 2 overview
-date: 2025-02-01
-sidebar:
-  hidden: true
-
+date: 2025-03-04
 
 ---
 
 ## Overview
 
-Write a paper that clearly [:explains and analyzes](#x-explains-and-analyzes) a [:recent published academic argument](#x-recent-published-academic-argument) about EP and art to [:your target audience](#x-your-target-audience).
+Write a paper that clearly [:explains and analyzes](#x-explains-and-analyzes) a [:recent,  published academic argument](#x-recent-published-academic-argument) about EP and art to [:your target audience](#x-your-target-audience).
 
 This paper likely has different goals than other final papers you have written in the past, so check and follow [:these guidelines](#x-these-guidelines)
 
-The assignment is broken into many parts to guide you through the process. You can do this!
+The assignment is broken into many parts to guide you through the process. You may feel uncertain, but you can do this!
 
 ## Assignment purpose
 
-Paper 2 will allow you to build writing skills to achieve the learning goals of the course.
+Paper 2 will allow you to build and demonstrate the writing skills taught in this course.
 
 ## Logistics
 
 - Paper length: 2250-2750 words, excluding reference list
-- Your specific paper topic and main source must be approved and finalized before the Paper 2 brief source summary due week 9
-- Your paper must use at least four academic sources
-- These include one primary source (the focus of your analysis) and three or more supporting sources
-- With approval, you may also compare two primary sources and use two or more supporting sources
+- Your specific paper topic and main source must be approved and finalized before the Paper 2 source summary due week 9
+	- Your main source can be an article or a book chapter; don't choose a whole book as your main source
+	- My source approval means that I don't see any obvious problems with using your source, but I won't be able to read all of your sources closely at this point, so I cannot take responsibility for making sure the source will work well for Paper 2. That is your responsibility.
+- Your paper must use at least four academic sources, including one main source (the focus of your analysis) and three or more supporting sources
+	- With approval (and only with approval), you also have the option of comparing two primary sources and using two or more supporting sources
+- You may not choose [any sources chosen by current or previous students](/course-ntw2029/hidden/p2-extra-pages/p2-past-sources) as your main source (but they can be supplementary sources)
+- These will include one main source (the focus of your analysis) and three or more supporting sources
+- With approval (and only with approval), you also have the option of comparing two primary sources and using two or more supporting sources
 - You must submit all parts of the assignment to get credit for the paper
-- Late submission of any part may affect your grade up to 1/3 letter grade per day late
+- Late submission of any part may lead to a grade penalty.
 
-## Paper 2 process
+<!-- ## Paper 2 process
 
 Pre-drafting
 
 - Paper 2 general topic proposal (due Sat 8 Mar 2025): suggest some topics of interest related to EP and art
-- Paper 2 academic conversation overview (due Sat 8 Mar 2025, optional): choose a topic and describe a few relevant sources
+- Paper 2 source proposal and (optional) academic conversation overview
+(due Sat 8 Mar 2025): propose a main source
 - Paper 2 brief source summary and context (due Sat 15 Mar 2025): after finalizing your main source, briefly summarize your source's contribution to an academic conversation
 - Paper 2 source summary outline (due Sat 22 Mar 2025, optional): create a brief outline of the source to help you understand its argument and structure
 - Paper 2 proposal and revised source summary outline (due Sat 29 Mar 2025): I'll provide questions to help you figure out how to approach your source analysis; you submit answers to those questions as your Paper 2 proposal and attach a revised source summary outline
@@ -44,21 +46,21 @@ Drafting
 
 - Paper 2 introduction and full outline (due Sat 5 Apr 2025): write a draft introduction to Paper 2, including a proposed thesis, and a full draft outline of Paper 2
 - Paper 2 full draft (due Sat 12 Apr 2025): write a full draft that does these things:
-- contextualize the source argument within a larger academic conversation
-- explain the source argument
-- analyze the source argument
-- explain the implications of your analysis
-- (optional) correct the argument
+	- contextualize the source argument within a larger academic conversation
+	- explain the source argument
+	- analyze the source argument
+	- explain the implications of your analysis
+	- (optional) improve or correct the argument
 
 Revision
 
 - Paper 2 final paper (due one week after your conference):
-- refine the paper thesis, structure, examples, and analysis
-- refine the transitions and sentence-level writing
-- proofread, polish, check citations and formatting
+	- refine the paper thesis, structure, examples, and analysis
+	- refine the transitions and sentence-level writing
+	- proofread, polish, check citations and formatting
 
-Detailed guidance for each of these steps will be provided in future assignments
-
+Detailed guidance for each of these steps will be provided in class and in future assignments
+ -->
 ##### :x explains and analyzes
 
 - explain the sources attempted contribution to an ongoing academic conversation
