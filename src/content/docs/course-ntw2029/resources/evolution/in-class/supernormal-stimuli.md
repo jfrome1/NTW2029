@@ -2,7 +2,7 @@
 
 title: Supernormal stimuli (4.1)
 date: 2025-02-06
-publishDate: 2025-02-08
+
 
 ---
 

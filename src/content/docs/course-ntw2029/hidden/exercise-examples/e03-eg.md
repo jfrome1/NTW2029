@@ -2,7 +2,6 @@
 
 title: Exercise 3 example
 date: 2025-02-08
-publishDate: 2025-02-08
 pagefind: false
 ---
 
