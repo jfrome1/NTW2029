@@ -16,16 +16,16 @@
   <rect x="170" y="125" width="220" height="75" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
   <text x="180" y="145" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold" fill="#3c3f59">Topic Proposal</text>
   <text x="180" y="165" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">Paper 2 general topic proposal</text>
-  <text x="180" y="185" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">"Three days after Paper 1 final"</text>
+  <!-- Removed final line of text in quotes -->
 
-  <!-- Keep Source Proposal as requested -->
+  <!-- Keep Source Proposal as requested, but with text changes -->
   <circle cx="150" cy="250" r="15" fill="#5046e4" />
-  <text x="150" y="255" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="bold">W7-8</text>
+  <text x="150" y="255" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="bold">7-8</text>
 
   <rect x="170" y="225" width="220" height="80" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
   <text x="180" y="245" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold" fill="#3c3f59">Source Proposal</text>
-  <text x="180" y="265" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">Source Proposal</text>
-  <text x="180" y="285" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">(Look for your Paper 2 source!)</text>
+  <text x="180" y="265" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">email proposed source for approval</text>
+  <!-- Changed text as requested -->
 
   <!-- Week 8: Brief Source Summary -->
   <circle cx="150" cy="350" r="15" fill="#5046e4" />
@@ -36,12 +36,12 @@
   <text x="180" y="365" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">Paper 2 brief source summary</text>
   <text x="180" y="385" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">and context (15 Mar)</text>
 
-  <!-- Week 9: Source Summary and Outline -->
+  <!-- Week 9: Source Summary and Outline - CHANGED TO JUST SOURCE SUMMARY -->
   <circle cx="150" cy="445" r="15" fill="#5046e4" />
   <text x="150" y="450" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="bold">W9</text>
 
   <rect x="170" y="420" width="220" height="75" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
-  <text x="180" y="440" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold" fill="#3c3f59">Source Summary and Outline</text>
+  <text x="180" y="440" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold" fill="#3c3f59">Source Summary</text>
   <text x="180" y="460" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">Paper 2 source summary and</text>
   <text x="180" y="480" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">(optional) outline (22 Mar)</text>
 
@@ -99,15 +99,17 @@
   <text x="180" y="1030" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">Paper 2 final</text>
   <text x="180" y="1050" text-anchor="start" font-family="Arial" font-size="12" fill="#6e7192">(one week after conference)</text>
 
-  <!-- Phase labels - moved to right side with matching blue -->
-  <rect x="400" y="125" width="40" height="390" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
-  <text x="420" y="320" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 320)">UNDERSTANDING SOURCE</text>
+  <!-- Phase labels - moved to right side with matching blue - FIXED ALIGNMENT -->
+  <rect x="400" y="125" width="40" height="375" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
+  <text x="420" y="312" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 312)">UNDERSTANDING SOURCE</text>
 
-  <rect x="400" y="590" width="40" height="170" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
-  <text x="420" y="675" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 675)">PLANNING</text>
+  <!-- PLANNING label now just covers Paper Proposal and Proposal Conference -->
+  <rect x="400" y="515" width="40" height="175" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
+  <text x="420" y="602" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 602)">PLANNING</text>
 
-  <rect x="400" y="780" width="40" height="170" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
-  <text x="420" y="865" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 865)">DRAFTING</text>
+  <!-- DRAFTING label now includes Intro and Full Outline -->
+  <rect x="400" y="705" width="40" height="270" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
+  <text x="420" y="840" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 840)">DRAFTING</text>
 
   <rect x="400" y="990" width="40" height="75" rx="5" ry="5" fill="#5046e4" fill-opacity="0.1" stroke="#5046e4" />
   <text x="420" y="1027" text-anchor="middle" font-family="Arial" font-size="16" fill="#5046e4" font-weight="bold" transform="rotate(90, 420, 1027)">REVISE</text>
