@@ -38,7 +38,7 @@ Your source must:
 
 - Be recent (published within the last 10 years)
 - Be published in an academic journal or by an academic press
-- Make an argumentative claim (not just a literature review)
+- Make an argumentative claim (not just a [literature review](/course-ntw2029/resources/writing/in-class/literature-reviews))
 - Answer Contribute to a conversation about evolutionary psychology and art
 
 To verify your source is appropriate:
