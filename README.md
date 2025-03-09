@@ -80,6 +80,30 @@ Hello
 Hello
 [Download File](/downloads/formattedpaper.docx)
 
+## Using the Mermaid Component
+How to use the `Mermaid` component within an Astro project to render Mermaid diagrams. This can only be used in *mdx* files
+
+**Importing the Component:**
+
+To use the `Mermaid` component, you must first import it into your MDX page. Below the front matter (second ---) in the body
+
+````mdx
+---
+import Mermaid from "../../components/Mermaid.astro";
+
+<Mermaid title="Does it work?">
+
+```mermaid
+
+flowchart LR
+
+    Start --> Stop
+
+```
+
+</Mermaid>
+````
+
 ## To Test the links;
 
 `npm run build` to build the site into the `dist` folder
