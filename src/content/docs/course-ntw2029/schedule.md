@@ -173,6 +173,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 
 ###### Due Sat 15 Mar 2025: Elicit.com research report (optional)
+>
 ###### Due Sat 15 Mar 2025: Paper 2 brief source summary and context
 
 ## 9.1 Tue 18 Mar 2025
