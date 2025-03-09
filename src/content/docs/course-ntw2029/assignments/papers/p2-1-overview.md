@@ -33,18 +33,16 @@ Paper 2 will allow you to build and demonstrate the writing skills taught in thi
 
 <!-- ## Paper 2 process
 
-Pre-drafting
+Selecting and understanding your source
 
-- Paper 2 general topic proposal (due Sat 8 Mar 2025): suggest some topics of interest related to EP and art
-- Paper 2 source proposal and (optional) academic conversation overview
-(due Sat 8 Mar 2025): propose a main source
-- Paper 2 brief source summary and context (due Sat 15 Mar 2025): after finalizing your main source, briefly summarize your source's contribution to an academic conversation
-- Paper 2 source summary outline (due Sat 22 Mar 2025, optional): create a brief outline of the source to help you understand its argument and structure
+- Paper 2 general topic proposal (due Sat 28 Feb 2025): suggest some topics of interest related to EP and art
+- Paper 2 brief source summary and context (due Sat 15 Mar 2025): briefly summarize your source's contribution to an academic conversation
+- Paper 2 source summary and (optional) source summary outline (due Sat 22 Mar 2025): summarize the source argument, optionally in outline form
 - Paper 2 proposal and revised source summary outline (due Sat 29 Mar 2025): I'll provide questions to help you figure out how to approach your source analysis; you submit answers to those questions as your Paper 2 proposal and attach a revised source summary outline
 
 Drafting
 
-- Paper 2 introduction and full outline (due Sat 5 Apr 2025): write a draft introduction to Paper 2, including a proposed thesis, and a full draft outline of Paper 2
+- Paper 2 introduction and full outline (due Sat 5 Apr 2025): write a draft introduction to Paper 2, including a proposed thesis, and a draft outline of all of Paper 2
 - Paper 2 full draft (due Sat 12 Apr 2025): write a full draft that does these things:
 	- contextualize the source argument within a larger academic conversation
 	- explain the source argument
@@ -61,6 +59,7 @@ Revision
 
 Detailed guidance for each of these steps will be provided in class and in future assignments
  -->
+
 ##### :x explains and analyzes
 
 - explain the sources attempted contribution to an ongoing academic conversation

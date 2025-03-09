@@ -157,13 +157,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: no assigned EP content after this class
 - Writing topic: evaluating empirical research
 	- Read before class (recommended):
-		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf),<!-- [:Ahn discussion questions](#x-ahn-discussion-questions)-->
+		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
-	Mid-semester course evaluation (due Sat 8 Mar 2025) [3 part open-ended form on Canvas]
 
-###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152157): Exercise 7 - Class participation reflection
->
-###### Due [Sat 8 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152164): Paper 2 source proposal and (optional) academic conversation overview
+###### Nothing due; look for your Paper 2 source!
 
 ## 8.1 Tue 11 Mar 2025
 
@@ -175,7 +172,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152165): Paper 2 source conversation and context
+###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152165): Paper 2 brief source summary and context
 
 ## 9.1 Tue 18 Mar 2025
 
@@ -187,7 +184,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary and (optional) source summary outline
+###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary and (optional) outline
 
 ## 10.1 Tue 25 Mar 2025
 

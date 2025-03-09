@@ -1,35 +1,81 @@
 ---
-title: Paper 2 brief source summary
-date: 2025-02-01
-sidebar:
-  hidden: true
-
-
+title: Paper 2 brief source summary and context
+date: 2025-03-07
 ---
 
-## Goal
+## Assignment Purpose
 
-The goal is finalize a source for Paper 2 and to describe how your source fits into its academic conversation in a more detailed way than in the last assignment.
+The goal is to describe how your Paper 2 source fits into its academic conversation.
 
-## Logistics
+## Assignment Requirements
 
-- Before you begin writing, review [:these guidelines](/course-ntw2029/assignments/papers/p2-1-overview/#x-these-guidelines) again.
-- Identify the source you intend to analyze for Paper 2. Provide proper a properly formatted APA citation for your source as the title of this assignment, including a link to the source on the webpage of the journal or press where it was originally published. If the source does not have a URL (many books don't), please link to the source search result link at NUS libraries.
-- Write two paragraphs:
-	- The first paragraph should describe the academic conversation your source intends to contribute to, including what your source says others have previously contributed to that conversation.
-	- The second paragraph should describe your source's research approach and contribution to that conversation.
-- Cite page numbers in-text when paraphrasing your source in this simple way: (4)
-- The two paragraphs together should be max 600 words.
+For this assignment:
 
-## Guidelines
+1. Propose an [:appropriate source](#x-verify-source-is-appropriate) to analyze for Paper 2.
+2. Title your submission with the source citation in proper APA format, including a proper link that lets me easily locate the source.
+3. Write two paragraphs (max 600 words total):
+   - First paragraph: Describe the :[academic conversation your source contributes to](#x-identify-academic-conversation)
+   - Second paragraph: Explain your source's research approach and the [:specific contribution](#x-describe-contribution) they claim to make
+4. Cite page numbers for any paraphrased content from your source in this simple format: (4)
+5. Follow paper assignment guidelines, including work count and a GenAI chat link or non-use statement.
 
-- You have been thinking about a topic to write about. Remember that the topic is just a way to help you find a primary source to analyze for paper 2. Choose your main source before beginning this assignment.
-	- IMPORTANT: it is easy to make a mistake by choosing a source that is just a literature review, because sometimes a literature review source will not clearly state that it is a literature review. Don't choose a literature review as your Paper 2 main source as it is nearly impossible to write a strong analytic paper about a literature review. Look at the Paper 2 topic proposal for information on how to tell if your paper is a literature review.
-- Your source aims to add to an academic conversation. You can't properly analyze your source without understanding that conversation. Using your source, describe that academic conversation. Here are some questions for you to consider while writing your description:
-	- What is the phenomenon that the conversation aims to understand or explain?
-	- What is the knowledge gap or puzzling aspect of that phenomenon?
-	- What have others said about this phenomenon?
-	- Why is your source not satisfied with current knowledge or other explanations of the phenomena?
-- These questions are to help you think; you don't need to answer each of these questions separately.
-- You also don't need to do outside research to answer these questions; rely on your source, and make inferences if necessary (but be clear when you are doing so).
-- After describing the academic conversation, in a separate paragraph, explain your source's attempted contribution to that conversation. What argumentative thesis does the source propose and defend? How does the source think their thesis adds to the academic conversation? You should be able to get this information from just the source abstract (if any), introduction, and conclusion.
+Although ideally the source you propose will be approved, if needed, you can still change the source (with approval). You must have an approved source before the next assignment, Paper 2 source summary and (optional) source summary outline (due 22 Mar 2025)
+
+### Pre-assignment approval
+
+To increase your chances of finding a good source, for this one assignment, you are allowed to email me your proposed source in advance to ask for approval, with these guidelines:
+
+- you can only email one source at a time
+- you must put NTW2029 in the subject line of your email
+- you must include full source citation information including a DOI link or equivalent
+- you must complete this assignment whether or not I approve a source for you over email
+
+In planning your work, assume that it will take me 1 business day (excluding weekends) to reply.
+
+##### :x verify source is appropriate
+
+Your source must:
+
+- Be recent (published within the last 10 years)
+- Be published in an academic journal or by an academic press
+- Make an argumentative claim (not just a literature review)
+- Answer Contribute to a conversation about evolutionary psychology and art
+
+To verify your source is appropriate:
+
+- Check the introduction to confirm it makes a specific argument
+- Look for literature review sections to identify the academic conversation
+- Make sure the source proposes and defends a thesis rather than just summarizing existing research
+
+Literature reviews typically:
+
+- Have words like "review," "survey," or "overview" in the title
+- Discuss many different theories without strongly advocating for one
+- Come from handbooks or companions (e.g., "The Oxford Handbook of...")
+- Aim to provide a broad overview rather than advance a specific argument
+
+##### :x identify academic conversation
+
+Your source aims to add to an academic conversation. Using your source, describe that conversation.
+
+Here are some questions to consider while writing your description (you don't need to answer each of these questions separately):
+
+- What is the phenomenon that the conversation aims to understand or explain?
+- What is the knowledge gap or puzzling aspect of that phenomenon?
+- What have others said about this phenomenon?
+- Why is your source not satisfied with current knowledge or other explanations of the phenomena?
+
+You don't need to do outside research to answer these questions; rely on your source, and make inferences if necessary (but be clear when you are doing so).
+
+Looking at your source's introduction and literature review sections can help you identify how it positions itself within an academic conversation.
+
+##### :x describe contribution
+
+After describing the academic conversation in your first paragraph, explain your source's attempted contribution to that conversation in a separate paragraph.
+
+Focus on:
+
+- What argumentative thesis does the source propose and defend?
+- How does the source think their thesis adds to the academic conversation?
+
+You should be able to get this information from just the source abstract (if any), introduction, and conclusion.
