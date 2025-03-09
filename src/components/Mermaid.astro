@@ -1,0 +1,52 @@
+---
+export interface Props {
+  title?: string;
+}
+const { title = "" } = Astro.props;
+---
+
+<figure class="expandable-diagram">
+    <figcaption>{title}</figcaption>
+  
+    <div class="diagram-content">Loading diagram...</div>
+  
+    <details>
+      <summary>Source</summary>
+      <slot />
+    </details>
+  </figure>
+
+  <script>
+    import mermaid from "mermaid";
+    mermaid.initialize({ startOnLoad: false });
+    
+    function extractAndCleanMermaidCode() {
+      const mermaidElements = document.querySelectorAll("figure.expandable-diagram");
+      mermaidElements.forEach((element) => {
+        const codeElement = element.querySelector(
+          'pre[data-language="mermaid"] code'
+        );
+        if (!codeElement) return;
+    
+        const codeLines = codeElement.querySelectorAll(".ec-line .code");
+        let cleanedCode = Array.from(codeLines)
+          .map((line) => line.textContent?.trim())
+          .join("\n");
+    
+        cleanedCode = cleanedCode.trim();
+    
+        const newPreElement = document.createElement("pre");
+        newPreElement.className = "mermaid not-prose";
+        newPreElement.textContent = cleanedCode;
+    
+        const diagramContentContainer = element.querySelector(".diagram-content") as Node;
+    
+        diagramContentContainer.replaceChild(newPreElement, diagramContentContainer.firstChild as ChildNode);
+      });
+    }
+    
+    document.addEventListener("DOMContentLoaded", async () => {
+      extractAndCleanMermaidCode();
+      mermaid.initialize({startOnLoad: true});
+    });
+    </script>
