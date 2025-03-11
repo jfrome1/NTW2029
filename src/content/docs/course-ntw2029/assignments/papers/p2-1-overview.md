@@ -25,7 +25,7 @@ Paper 2 will allow you to build and demonstrate the writing skills taught in thi
 	- My source approval means that I don't see any obvious problems with using your source, but I won't be able to read all of your sources closely at this point, so I cannot take responsibility for making sure the source will work well for Paper 2. That is your responsibility.
 - Your paper must use at least four academic sources, including one main source (the focus of your analysis) and three or more supporting sources
 	- With approval (and only with approval), you also have the option of comparing two primary sources and using two or more supporting sources
-- You may not choose [any sources chosen by current or previous students](/course-ntw2029/assignments/papers/p2-02-sources.md) as your main source (but they can be supplementary sources)
+- You may not choose [any sources chosen by current or previous students](/course-ntw2029/assignments/papers/p2-02-sources) as your main source (but they can be supplementary sources)
 - These will include one main source (the focus of your analysis) and three or more supporting sources
 - With approval (and only with approval), you also have the option of comparing two primary sources and using two or more supporting sources
 - You must submit all parts of the assignment to get credit for the paper
