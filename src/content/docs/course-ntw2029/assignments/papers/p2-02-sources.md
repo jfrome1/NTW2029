@@ -10,9 +10,9 @@ I'll list approved Paper 2 sources for this semester here to help you avoid pick
 
 - Dyer, A., & Fisher, M. L. (2025). Female mate preference in romantic cinema: A study of Hallmark Channel originals. _Evolutionary Behavioral Sciences_, 19(1), 62–75. https://doi.org/10.1037/ebs0000366 (Alisha)
 - Evers, D., & Deng, N. (2016). Acknowledgement and the paradox of tragedy. Philosophical studies, 173, 337-350 https://doi.org/10.1007/s11098-015-0495-0 (Jelena)
+- Kislinger, L., & Kotrschal, K. (2021). Hunters and Gatherers of Pictures: Why Photography Has Become a Human Universal. _Frontiers in Psychology_, 12. https://doi.org/10.3389/fpsyg.2021.654474 (Yik Don)
 - McDonald, M.M., James, R.M. & Roberto, D.P. True Crime Consumption as Defensive Vigilance: Psychological Mechanisms of a Rape Avoidance System. Archives of Sexual Behaviour 50, 2085-2108 (2021). https://doi.org/10.1007/s10508-021-01990-1 (Claire)
 - Singh, M. (2021). The Sympathetic Plot, Its Psychological Origins, and Implications for the Evolution of Fiction. Emotion Review, 13(3), 183-198. https://doi.org/10.1177/17540739211022824 (Jun Wei)
-- Kislinger, L., & Kotrschal, K. (2021). Hunters and Gatherers of Pictures: Why Photography Has Become a Human Universal. _Frontiers in Psychology_, 12. https://doi.org/10.3389/fpsyg.2021.654474 (Yik Don)
 
 ## Elicit.com Research Reports
 
