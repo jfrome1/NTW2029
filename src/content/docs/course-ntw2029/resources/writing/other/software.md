@@ -1,7 +1,7 @@
 ---
 
 title: Software for academic writing
-date: 2024-09-01
+date: 2025-03-12
 
 ---
 
@@ -10,10 +10,10 @@ Writing software offerings are changing rapidly. If you have any information to 
 ## Finding sources
 
 - [Google Scholar](https://scholar.google.com/) is free and can find connections between sources, but has less functionality than other websites and requires more work. I still use it frequently, however.
+- [Elicit](https://elicit.com) has a free account option.
 - Others I have not had a chance to try yet include:
 	- [Using Citations to Explore Academic Literature | Inciteful.xyz](https://inciteful.xyz/)
 	- [ResearchRabbit](https://www.researchrabbit.ai/)
-	- [9 Innovative Literature Mapping Tools Every Researcher Needs to Know](https://researcherssite.com/9-innovative-literature-mapping-tools-every-researcher-needs-to-know/) lists others as well
 
 ## Managing sources
 
@@ -21,7 +21,7 @@ Reference managers are applications that work with your word processor to help y
 
 I recommend the free, open source, cross-platform [Zotero](https://www.zotero.org/). It works as well or better than for-profit programs like Endnote or Mendeley.
 
-Instructions for configuring and getting started with Zotero are [here](https://libguides.nus.edu.sg/c.php?g=145733&p=955213)
+Instructions for configuring and getting started with Zotero are [here](https://libguides.nus.edu.sg/referencemanagement/zotero)
 
 ## Notetaking
 
