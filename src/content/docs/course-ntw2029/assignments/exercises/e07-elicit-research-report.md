@@ -80,4 +80,4 @@ Don't try to save time by using this checklist as a substitute for reading the a
 
 ## Reports
 
-- [Evolutionary Insights on Tragedy](/downloads/elicit/Evolutionary-Insights-on-Tragedy.pdf)
+The Elicit reports are posted on [Paper 2 Sources](/course-ntw2029/assignments/papers/p2-02-sources).
