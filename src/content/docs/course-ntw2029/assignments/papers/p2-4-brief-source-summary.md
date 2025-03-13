@@ -1,6 +1,9 @@
 ---
 title: Paper 2 brief source summary and context
 date: 2025-03-07
+sidebar:
+  hidden: true
+pagefind: false
 ---
 
 ## Assignment Purpose
