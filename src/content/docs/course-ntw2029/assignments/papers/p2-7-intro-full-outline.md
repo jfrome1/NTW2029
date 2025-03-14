@@ -1,12 +1,14 @@
 ---
-title: Paper 2 intro and full outline
+title: Paper 2 partial draft and full outline
 date: 2025-02-01
-sidebar:
-  hidden: true
-
 ---
 
-## Assignment purpose
+Details to come, but in short, you will:
+
+- write a draft of the first part your paper, including the introduction and the first body paragraphs that explain your source argument to the reader
+- write a full outline of your paper
+
+<!-- ## Assignment purpose
 
 This assignment is intended to help you make progress on writing Paper 2 in ways that will let you get the most out of peer feedback during week 12. You will draft the beginning of Paper 2, write an outline for the entirety of Paper 2, and summarize the most important writing feedback you got on Paper 1 (although you won't share this last part with your classmates).
 
@@ -81,4 +83,4 @@ List the most important issues mentioned, up to a maximum of three. Make sure to
 
 ## Submission
 
-Submit all three parts of the assignment on Canvas as one document. Start each part on a new page. Please follow paper guidelines, include a GenAI link or non-use statement, and submit an updated workload report under Exercise 10.
+Submit all three parts of the assignment on Canvas as one document. Start each part on a new page. Please follow paper guidelines, include a GenAI link or non-use statement, and submit an updated workload report under Exercise 10. -->

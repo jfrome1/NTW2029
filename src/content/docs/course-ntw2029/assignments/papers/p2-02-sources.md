@@ -7,7 +7,7 @@ date: 2025-03-03
 
 I'll list approved Paper 2 sources for this semester here to help you avoid picking the same source as someone else.
 
-- Burch, R. L., & Widman, D. R. (2023). Comic book bodies are supernormal stimuli: Comparison of DC, Marvel, and actual humans. _Evolutionary Behavioral Sciences_, 17(3), 245-258. https://doi.org/10.1037/ebs0000280
+- Burch, R. L., & Widman, D. R. (2023). Comic book bodies are supernormal stimuli: Comparison of DC, Marvel, and actual humans. _Evolutionary Behavioral Sciences_, 17(3), 245-258. https://doi.org/10.1037/ebs0000280 (Kitt)
 - Dyer, A., & Fisher, M. L. (2025). Female mate preference in romantic cinema: A study of Hallmark Channel originals. _Evolutionary Behavioral Sciences_, 19(1), 62-75. https://doi.org/10.1037/ebs0000366 (Alisha)
 - Evers, D., & Deng, N. (2016). Acknowledgement and the paradox of tragedy. _Philosophical studies_, 173, 337-350 https://doi.org/10.1007/s11098-015-0495-0 (Jelena)
 - Kislinger, L., & Kotrschal, K. (2021). Hunters and Gatherers of Pictures: Why Photography Has Become a Human Universal. _Frontiers in Psychology_, 12. https://doi.org/10.3389/fpsyg.2021.654474 (Yik Don)

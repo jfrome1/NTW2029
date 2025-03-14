@@ -1,10 +1,12 @@
 ---
 title: Paper 2 full draft and outline
 date: 2025-02-01
-sidebar:
-  hidden: true
-
 ---
+
+Details to come, but in short, you will:
+
+- submit a full draft of your paper
+- submit a full outline of your paper
 
 <!-- next time:
 
@@ -17,7 +19,7 @@ sidebar:
 - want to add video or resource showing how to work back and forth between an outline and document
 - for outline formats, specify limited number of subpoints
 
--->
+
 
 ## Assignment purpose
 
@@ -67,4 +69,4 @@ Write a complete draft and outline of Paper 2 to receive feedback before the fin
 - Submit both parts of this assignment on Canvas as one document. The outline should come after the reference list and should start on a new page.
 - Please follow paper guidelines, include a GenAI link or non-use statement, and submit an updated workload report under Exercise 10.
 
-After this conference, you can email me short questions that I can quickly answer. You can also request an in-person meeting and I'll do my best to accommodate you. Unfortunately, I am not able to provide feedback on emailed drafts or paper sections outside of submitted assignments.
+After this conference, you can email me short questions that I can quickly answer. You can also request an in-person meeting and I'll do my best to accommodate you. Unfortunately, I am not able to provide feedback on emailed drafts or paper sections outside of submitted assignments. -->
