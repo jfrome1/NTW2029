@@ -1,11 +1,6 @@
 ---
-
 title: Paper 2 final
 date: 2025-02-01
-sidebar:
-  hidden: true
-
-
 ---
 
 Please submit your final paper. Be proud of your hard work!
