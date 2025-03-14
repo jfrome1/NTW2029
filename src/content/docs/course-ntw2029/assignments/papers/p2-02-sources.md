@@ -8,12 +8,15 @@ date: 2025-03-03
 I'll list approved Paper 2 sources for this semester here to help you avoid picking the same source as someone else.
 
 - Burch, R. L., & Widman, D. R. (2023). Comic book bodies are supernormal stimuli: Comparison of DC, Marvel, and actual humans. _Evolutionary Behavioral Sciences_, 17(3), 245-258. https://doi.org/10.1037/ebs0000280 (Kitt)
+- Carroll, Joseph. "Minds and Meaning in Fictional Narratives: An Evolutionary Perspective." Review of General Psychology 22, no. 2 (June 2018): 135-46. https://doi.org/10.1037/gpr0000104. (Kyna)
+- Dubourg, Edgar, Valentin Thouzeau, and Nicolas Baumard. "The Psychological Origins of Science Fiction." _Poetics_102 (February 1, 2024): 101862. https://doi.org/10.1016/j.poetic.2024.101862. (Dayne)
+- Dubourg, Edgar, Valentin Thouzeau, Charles de Dampierre, Andrei Mogoutov, and Nicolas Baumard. "Exploratory Preferences Explain the Human Fascination for Imaginary Worlds in Fictional Stories." _Scientific Reports_ 13, no. 1 (May 28, 2023): 8657. https://doi.org/10.1038/s41598-023-35151-2. (Dickson)
 - Dyer, A., & Fisher, M. L. (2025). Female mate preference in romantic cinema: A study of Hallmark Channel originals. _Evolutionary Behavioral Sciences_, 19(1), 62-75. https://doi.org/10.1037/ebs0000366 (Alisha)
 - Evers, D., & Deng, N. (2016). Acknowledgement and the paradox of tragedy. _Philosophical studies_, 173, 337-350 https://doi.org/10.1007/s11098-015-0495-0 (Jelena)
 - Kislinger, L., & Kotrschal, K. (2021). Hunters and Gatherers of Pictures: Why Photography Has Become a Human Universal. _Frontiers in Psychology_, 12. https://doi.org/10.3389/fpsyg.2021.654474 (Yik Don)
 - McDonald, M.M., James, R.M. & Roberto, D.P. True Crime Consumption as Defensive Vigilance: Psychological Mechanisms of a Rape Avoidance System. _Archives of Sexual Behaviour_ 50, 2085-2108 (2021). https://doi.org/10.1007/s10508-021-01990-1 (Claire)
 - Singh, M. (2021). The Sympathetic Plot, Its Psychological Origins, and Implications for the Evolution of Fiction. _Emotion Review_, 13(3), 183-198. https://doi.org/10.1177/17540739211022824 (Jun Wei)
-- Tal-Or, N., & Hershman-Shitrit, M. (2015). Self-Disclosure and the Liking of Participants in Reality TV: Self-Disclosure in Reality TV. Human Communication Research, 41(2), 245–267. https://doi.org/10.1111/hcre.12047 (Jia-Hui)
+- Tal-Or, N., & Hershman-Shitrit, M. (2015). Self-Disclosure and the Liking of Participants in Reality TV: Self-Disclosure in Reality TV. Human Communication Research, 41(2), 245-267. https://doi.org/10.1111/hcre.12047 (Jia-Hui)
 - Trevor, C., & Frühholz, S. (2024). Music as an Evolved Tool for Socio-Affective Fiction. _Emotion Review_, 16(3), 180-194. https://doi.org/10.1177/17540739241259562 (Jodie)
 
 ## Elicit.com Research Reports
