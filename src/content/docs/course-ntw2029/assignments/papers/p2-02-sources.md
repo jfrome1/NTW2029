@@ -3,7 +3,7 @@ title: Paper 2 sources
 date: 2025-03-03
 ---
 
-## Current semester
+## Current semester1
 
 I'll list approved Paper 2 sources for this semester here to help you avoid picking the same source as someone else.
 
@@ -15,9 +15,11 @@ I'll list approved Paper 2 sources for this semester here to help you avoid pick
 - Evers, D., & Deng, N. (2016). Acknowledgement and the paradox of tragedy. _Philosophical studies_, 173, 337-350 https://doi.org/10.1007/s11098-015-0495-0 (Jelena)
 - Kislinger, L., & Kotrschal, K. (2021). Hunters and Gatherers of Pictures: Why Photography Has Become a Human Universal. _Frontiers in Psychology_, 12. https://doi.org/10.3389/fpsyg.2021.654474 (Yik Don)
 - McDonald, M.M., James, R.M. & Roberto, D.P. True Crime Consumption as Defensive Vigilance: Psychological Mechanisms of a Rape Avoidance System. _Archives of Sexual Behaviour_ 50, 2085-2108 (2021). https://doi.org/10.1007/s10508-021-01990-1 (Claire)
+- Menninghaus, Winfried, Valentin Wagner, Julian Hanich, Eugen Wassiliwizky, Thomas Jacobsen, and Stefan Koelsch. "The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception." _Behavioral and Brain Sciences_ 40 (ed 2017). https://doi.org/10.1017/S0140525X17000309. (Gwyneth)
 - Singh, M. (2021). The Sympathetic Plot, Its Psychological Origins, and Implications for the Evolution of Fiction. _Emotion Review_, 13(3), 183-198. https://doi.org/10.1177/17540739211022824 (Jun Wei)
 - Tal-Or, N., & Hershman-Shitrit, M. (2015). Self-Disclosure and the Liking of Participants in Reality TV: Self-Disclosure in Reality TV. Human Communication Research, 41(2), 245-267. https://doi.org/10.1111/hcre.12047 (Jia-Hui)
 - Trevor, C., & Frühholz, S. (2024). Music as an Evolved Tool for Socio-Affective Fiction. _Emotion Review_, 16(3), 180-194. https://doi.org/10.1177/17540739241259562 (Jodie)
+
 
 ## Elicit.com Research Reports
 
