@@ -10,22 +10,6 @@ pagefind: false
 
 ### Approved sources
 
-- Burch, R. L., & Widman, D. R. (2023). Comic book bodies are supernormal stimuli: Comparison of DC, Marvel, and actual humans. _Evolutionary Behavioral Sciences_, 17(3), 245-258. https://doi.org/10.1037/ebs0000280 (Kitt)
-- Carroll, Joseph. "Minds and Meaning in Fictional Narratives: An Evolutionary Perspective." Review of General Psychology 22, no. 2 (June 2018): 135-46. https://doi.org/10.1037/gpr0000104. (Kyna)
-- Dubourg, Edgar, Valentin Thouzeau, and Nicolas Baumard. "The Psychological Origins of Science Fiction." _Poetics_102 (February 1, 2024): 101862. https://doi.org/10.1016/j.poetic.2024.101862. (Dayne)
-- Dubourg, Edgar, Valentin Thouzeau, Charles de Dampierre, Andrei Mogoutov, and Nicolas Baumard. "Exploratory Preferences Explain the Human Fascination for Imaginary Worlds in Fictional Stories." _Scientific Reports_ 13, no. 1 (May 28, 2023): 8657. https://doi.org/10.1038/s41598-023-35151-2. (Dickson)
-- Dunbar, Robin I. M. "The Origins and Function of Musical Performance." _Frontiers in Psychology_ 14 (November 10, 2023). https://doi.org/10.3389/fpsyg.2023.1257390. (Ruben)
-- Dyer, A., & Fisher, M. L. (2025). Female mate preference in romantic cinema: A study of Hallmark Channel originals. _Evolutionary Behavioral Sciences_, 19(1), 62-75. https://doi.org/10.1037/ebs0000366 (Alisha)
-- Evers, D., & Deng, N. (2016). Acknowledgement and the paradox of tragedy. _Philosophical studies_, 173, 337-350 https://doi.org/10.1007/s11098-015-0495-0 (Jelena)
-- Hick, Darren Hudson, and Craig Derksen. "The Problem of Tragedy and the Protective Frame." _Emotion Review_ 9, no. 2 (April 1, 2017): 140-45. https://doi.org/10.1177/1754073916639660. (Li Ren)
-- Kislinger, L., & Kotrschal, K. (2021). Hunters and Gatherers of Pictures: Why Photography Has Become a Human Universal. _Frontiers in Psychology_, 12. https://doi.org/10.3389/fpsyg.2021.654474 (Yik Don)
-- McDonald, M.M., James, R.M. & Roberto, D.P. True Crime Consumption as Defensive Vigilance: Psychological Mechanisms of a Rape Avoidance System. _Archives of Sexual Behaviour_ 50, 2085-2108 (2021). https://doi.org/10.1007/s10508-021-01990-1 (Claire)
-- Menninghaus, Winfried, Valentin Wagner, Julian Hanich, Eugen Wassiliwizky, Thomas Jacobsen, and Stefan Koelsch. "The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception." _Behavioral and Brain Sciences_ 40 (ed 2017). https://doi.org/10.1017/S0140525X17000309. (Gwyneth)
-- Rodway, Paul, Julie Kirkham, Astrid Schepman, Jordana Lambert, and Anastasia Locke. "The Development of Shared Liking of Representational but Not Abstract Art in Primary School Children and Their Justifications for Liking." _Frontiers in Human Neuroscience_ 10 (February 5, 2016). https://doi.org/10.3389/fnhum.2016.00021. (Klara)
-- Singh, M. (2021). The Sympathetic Plot, Its Psychological Origins, and Implications for the Evolution of Fiction. _Emotion Review_, 13(3), 183-198. https://doi.org/10.1177/17540739211022824 (Jun Wei)
-- Tal-Or, N., & Hershman-Shitrit, M. (2015). Self-Disclosure and the Liking of Participants in Reality TV: Self-Disclosure in Reality TV. Human Communication Research, 41(2), 245-267. https://doi.org/10.1111/hcre.12047 (Jia-Hui)
-- Trevor, C., & Frühholz, S. (2024). Music as an Evolved Tool for Socio-Affective Fiction. _Emotion Review_, 16(3), 180-194. https://doi.org/10.1177/17540739241259562 (Jodie)
-- Ferguson, Christopher J. "The Modern Hunter-Gatherer Hunts Aliens and Gathers Power-Ups: The Evolutionary Appeal of Violent Video Games and How They Can Be Beneficial." In _Evolutionary Psychology and Information Systems Research_, edited by Ned Kock, 329-42. Boston, MA: Springer US, 2010. https://doi.org/10.1007/978-1-4419-6139-6_15. (Hannah)
 
 ### Rejected sources
 
@@ -53,6 +37,9 @@ Sources described below as "theoretical framework" are rejected because, while t
 	- too old, which is especially problematic for neurology research (which changes quickly)
 - Snowdon, C. T., Zimmermann, E., & Altenmüller, E. (2015). Chapter 2—Music evolution and neuroscience. In E. Altenmüller, S. Finger, & F. Boller (Eds.), _Progress in Brain Research_ (Vol. 217, pp. 17-34). Elsevier. https://doi.org/10.1016/bs.pbr.2014.11.019
 	- literature review
+- Hannay, P., McLeish, T., & Schofield, J. (n.d.). On the origins of dance. _World Archaeology_, 0(0), 1–10. https://doi.org/10.1080/00438243.2024.2370803
+	- synthesis
+
 
 ### Elicit.com research reports
 
@@ -100,6 +87,8 @@ The reports are pdfs. The sources are `.bib` files, which can be imported into a
 - [Fiction's Influence Ep Theories Explored--sources](/downloads/elicit/fiction_s_influence__ep_theories_explored--sources.bib)
 - [Music And Animal Emotion Mimicry--report](/downloads/elicit/music_and_animal_emotion_mimicry--report.pdf)
 - [Music And Animal Emotion Mimicry--sources](/downloads/elicit/music_and_animal_emotion_mimicry--sources.bib)
+- [The Allure of Moral Ambiguity - Report](/downloads/elicit/the_allure_of_moral_ambiguity--report.pdf)
+- [The Allure of Moral Ambiguity - Sources](/downloads/elicit/the_allure_of_moral_ambiguity--sources.bib)
 - [Universal Storytelling Through Ep Theories--report](/downloads/elicit/universal_storytelling_through_ep_theories--report.pdf)
 - [Universal Storytelling Through Ep Theories--sources](/downloads/elicit/universal_storytelling_through_ep_theories--sources.bib)
 
