@@ -23,6 +23,7 @@ date: 2025-03-03
 - Tal-Or, N., & Hershman-Shitrit, M. (2015). Self-Disclosure and the Liking of Participants in Reality TV: Self-Disclosure in Reality TV. Human Communication Research, 41(2), 245-267. https://doi.org/10.1111/hcre.12047 (Jia-Hui)
 - Trevor, C., & Frühholz, S. (2024). Music as an Evolved Tool for Socio-Affective Fiction. _Emotion Review_, 16(3), 180-194. https://doi.org/10.1177/17540739241259562 (Jodie)
 - Ferguson, Christopher J. "The Modern Hunter-Gatherer Hunts Aliens and Gathers Power-Ups: The Evolutionary Appeal of Violent Video Games and How They Can Be Beneficial." In _Evolutionary Psychology and Information Systems Research_, edited by Ned Kock, 329-42. Boston, MA: Springer US, 2010. https://doi.org/10.1007/978-1-4419-6139-6_15. (Hannah)
+- McAndrew, F. T. (2020). The Psychology, Geography, and Architecture of Horror: How Places Creep Us Out. _Evolutionary Studies in Imaginative Culture_, 4(2), 47-62. https://doi.org/10.26613/esic.4.2.189 (Fu Xuan)
 
 ## Elicit.com Research Reports
 
@@ -70,6 +71,8 @@ The reports are pdfs. The sources are `.bib` files, which can be imported into a
 - [Fiction's Influence Ep Theories Explored--sources](/downloads/elicit/fiction_s_influence__ep_theories_explored--sources.bib)
 - [Music And Animal Emotion Mimicry--report](/downloads/elicit/music_and_animal_emotion_mimicry--report.pdf)
 - [Music And Animal Emotion Mimicry--sources](/downloads/elicit/music_and_animal_emotion_mimicry--sources.bib)
+- [The Allure of Moral Ambiguity - Report](/downloads/elicit/the_allure_of_moral_ambiguity--report.pdf)
+- [The Allure of Moral Ambiguity - Sources](/downloads/elicit/the_allure_of_moral_ambiguity--sources.bib)
 - [Universal Storytelling Through Ep Theories--report](/downloads/elicit/universal_storytelling_through_ep_theories--report.pdf)
 - [Universal Storytelling Through Ep Theories--sources](/downloads/elicit/universal_storytelling_through_ep_theories--sources.bib)
 
