@@ -55,7 +55,7 @@ When you submit paper assignments, I use text styles to provide feedback My hope
 What the text styles mean:
 
 - green highlighting indicates either:
-	- a grammar error (ask me if the error is not obvious to you), or
+	- a grammar or writing issue (ask me if the issue is not obvious to you), or
 	- an citation error (either content or formatting, ask me if you can't figure it out AFTER reading the citations page carefully)
 - light green text means that, although I can probably guess what you meant, these words are misleading or technically incorrect in some way
 - bolded text should be reworded because:
