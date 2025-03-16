@@ -1,6 +1,9 @@
 ---
 title: Paper 2 sources
 date: 2025-03-03
+sidebar:
+  hidden: true
+pagefind: false
 ---
 
 ## Current semester
@@ -24,7 +27,34 @@ date: 2025-03-03
 - Trevor, C., & Frühholz, S. (2024). Music as an Evolved Tool for Socio-Affective Fiction. _Emotion Review_, 16(3), 180-194. https://doi.org/10.1177/17540739241259562 (Jodie)
 - Ferguson, Christopher J. "The Modern Hunter-Gatherer Hunts Aliens and Gathers Power-Ups: The Evolutionary Appeal of Violent Video Games and How They Can Be Beneficial." In _Evolutionary Psychology and Information Systems Research_, edited by Ned Kock, 329-42. Boston, MA: Springer US, 2010. https://doi.org/10.1007/978-1-4419-6139-6_15. (Hannah)
 
-## Elicit.com Research Reports
+### Rejected sources
+
+Sources described below as "theoretical framework" are rejected because, while they present a theoretical framework (a set of categories someone can use to describe a phenomenon) supported by existing research, they don't use reasons or evidence to defend that framework in comparison to others. In other words, they don't provide an argument to defend their theory, meaning there is nothing to analyze. Similar reasoning applies to sources described as "synthesis" - they combine existing research rather than defending a particular thesis
+
+- Bamford, J. S., Vigl, J., Hämäläinen, M., & Saarikallio, S. H. (2024). Love songs and serenades: A theoretical review of music and romantic relationships. _Frontiers in Psychology_, _15_. https://doi.org/10.3389/fpsyg.2024.1302548
+	- theoretical framework
+- Carroll, J. (2018). Minds and Meaning in Fictional Narratives: An Evolutionary Perspective. _Review of General Psychology_, _22_(2), 135-146. https://doi.org/10.1037/gpr0000104
+	- analyzes individual works of art rather than defending a generalizable thesis
+- Carroll, J. (2019). Death in Literature. In T. K. Shackelford & V. Zeigler-Hill (Eds.), _Evolutionary Perspectives on Death_ (pp. 137-159). Springer International Publishing. https://doi.org/10.1007/978-3-030-25466-7_7
+	- literature review
+- Clasen, M. (2018). Evolutionary study of horror literature. In K. Corstorphine & L. R. Kremmel (Eds.), _The Palgrave handbook to horror literature_ (pp. 355-363). Palgrave Macmillan. https://doi.org/10.1007/978-3-319-97406-4_27
+	- handbook chapter (i.e. literature review)
+- Davis, A. C., & Arnocky, S. (2022). An Evolutionary Perspective on Appearance Enhancement Behavior. _Archives of Sexual Behavior_, _51_(1), 3-37. https://doi.org/10.1007/s10508-020-01745-4
+	- synthesis
+- Dubourg, E., Thouzeau, V., Beuchot, T., Bonard, C., Boyer, P., Chevallier, C., Clasen, M., Boon-Falleur, M., Fiorio, G., Fitouchi, L., Fisher, M., Gantman, A. P., Grant, A., Hye-Knudsen, M., Wylie, J., Katiyar, T., Kjeldgaard-Christiansen, J., Mercier, M., Mercier, H., … Baumard, N. (2024). _The Cognitive Foundations of Fictional Stories_. OSF. https://doi.org/10.31219/osf.io/me6bz
+	- preprint; paper hasn't been peer-reviewed or published
+- Grodal, T. (2017). How film genres are a product of biology, evolution and culture—An embodied approach. _Palgrave Communications_, _3_, 17079. https://doi.org/10.1057/palcomms.2017.79
+	- synthesis
+- Hick, D. H., & Derksen, C. (2017). The Problem of Tragedy and the Protective Frame. _Emotion Review_, _9_(2), 140-145. https://doi.org/10.1177/1754073916639660
+	- short article offers a "sketch" of a theory but admits it offers no defense of the theory or comparison with other theories; no defense of the thesis means no argument to analyze
+- Nettle, D. (2005). The Wheel of Fire and the Mating Game: Explaining the Origins of Tragedy and Comedy. _Journal of Cultural and Evolutionary Psychology_, _3_(1), 39-56. https://doi.org/10.1556/jcep.3.2005.1.3
+	- too old; analyzes individual works of art rather than defending a generalizable thesis
+- Perlovsky, L. (2010). Musical emotions: Functions, origins, evolution. _Physics of Life Reviews_, _7_(1), 2-27. https://doi.org/10.1016/j.plrev.2009.11.001
+	- too old, which is especially problematic for neurology research (which changes quickly)
+- Snowdon, C. T., Zimmermann, E., & Altenmüller, E. (2015). Chapter 2—Music evolution and neuroscience. In E. Altenmüller, S. Finger, & F. Boller (Eds.), _Progress in Brain Research_ (Vol. 217, pp. 17-34). Elsevier. https://doi.org/10.1016/bs.pbr.2014.11.019
+	- literature review
+
+### Elicit.com research reports
 
 The reports are pdfs. The sources are `.bib` files, which can be imported into a reference manager such as Zotero. Links for Zotero are on the [writing software](/course-ntw2029/resources/writing/other/software) page.
 
