@@ -19,6 +19,10 @@ I'll list approved Paper 2 sources for this semester here to help you avoid pick
 - Singh, M. (2021). The Sympathetic Plot, Its Psychological Origins, and Implications for the Evolution of Fiction. _Emotion Review_, 13(3), 183-198. https://doi.org/10.1177/17540739211022824 (Jun Wei)
 - Tal-Or, N., & Hershman-Shitrit, M. (2015). Self-Disclosure and the Liking of Participants in Reality TV: Self-Disclosure in Reality TV. Human Communication Research, 41(2), 245-267. https://doi.org/10.1111/hcre.12047 (Jia-Hui)
 - Trevor, C., & Frühholz, S. (2024). Music as an Evolved Tool for Socio-Affective Fiction. _Emotion Review_, 16(3), 180-194. https://doi.org/10.1177/17540739241259562 (Jodie)
+- Dunbar, Robin I. M. “The Origins and Function of Musical Performance.” _Frontiers in Psychology_ 14 (November 10, 2023). https://doi.org/10.3389/fpsyg.2023.1257390. (Ruben)
+- Hick, Darren Hudson, and Craig Derksen. “The Problem of Tragedy and the Protective Frame.” _Emotion Review_ 9, no. 2 (April 1, 2017): 140–45. https://doi.org/10.1177/1754073916639660. (Li Ren)
+- Rodway, Paul, Julie Kirkham, Astrid Schepman, Jordana Lambert, and Anastasia Locke. “The Development of Shared Liking of Representational but Not Abstract Art in Primary School Children and Their Justifications for Liking.” _Frontiers in Human Neuroscience_ 10 (February 5, 2016). https://doi.org/10.3389/fnhum.2016.00021. (Klara)
+
 
 
 ## Elicit.com Research Reports
