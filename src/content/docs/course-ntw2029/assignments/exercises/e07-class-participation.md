@@ -2,6 +2,8 @@
 
 title: Exercise 7 - Class participation self-evaluation
 date: 2024-10-12
+sidebar:
+  hidden: true
 
 ---
 

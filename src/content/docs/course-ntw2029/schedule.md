@@ -16,7 +16,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due: [Wed 15 Jan 2025](https://canvas.nus.edu.sg/courses/73753/discussion_topics): [Exercise 1 - introductions](/course-ntw2029/assignments/exercises/e01-introductions/)
+###### Due: Wed 15 Jan 2025: Exercise 1 - introductions
 
 ## 1.2 Fri 17 Jan 2025
 
@@ -31,7 +31,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
 - Class reading: read all webpages on this website under _Course information_
 
-###### Due [Sat 18 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152152): [Exercise 2 - explain something](/course-ntw2029/assignments/exercises/e02-explain-something/)
+###### Due Sat 18 Jan 2025: Exercise 2 - explain something
 
 ## 2.1 Tue 21 Jan 2025
 
@@ -63,7 +63,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - class handout:
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
 
-###### Due [Sat 25 Jan 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152153): [Exercise 3 - explain Boyd reading intro](/course-ntw2029/assignments/exercises/e03-boyd)
+###### Due Sat 25 Jan 2025: Exercise 3 - explain Boyd reading intro
 
 ## 3.1 Tue 28 Jan 2025 (eve of CNY)
 
@@ -85,9 +85,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 <!--Class media:
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
 
-###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152154): [Exercise--4 explain Goldfinch section (optional)](/course-ntw2029/assignments/exercises/e04-goldfinch)
+###### Due Sat 01 Feb 2025: Exercise--4 explain Goldfinch section (optional)
 >
-###### Due [Sat 01 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152150): [Exercise 11 - workload report, January](/course-ntw2029/assignments/exercises/e11-workload)
+###### Due Sat 01 Feb 2025: Exercise 11 - workload report, January
 
 ## 4.1 Tue 04 Feb 2025
 
@@ -108,7 +108,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due [Sat 08 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152163): Paper 1 source outline (optional)
+###### Due Sat 08 Feb 2025: Paper 1 source outline (optional)
 
 ## 5.1 Tue 11 Feb 2025
 
@@ -131,19 +131,19 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 <!--Class media: -->
 
-###### Due [Sat 15 Feb 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152161): Paper 1 draft
+###### Due Sat 15 Feb 2025: Paper 1 draft
 
 ## 6.1 and 6.2 (18 and 21 Feb 2025) no class meetings, student conferences
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152155): Exercise 5 - Paper 1 conference summary
+###### Due day of conference: Exercise 5 - Paper 1 conference summary
 >
-###### Due [four days after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152162): Paper 1 final
+###### Due four days after conference: Paper 1 final
 >
-###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152156): Exercise 6 - Paper 1 writing reflection
+###### Due one day after Paper 1 final: Exercise 6 - Paper 1 writing reflection
 >
-###### Due [one day after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/167189): Exercise 11 - workload report, February
+###### Due one day after Paper 1 final: Exercise 11 - workload report, February
 >
-###### Due [three days after Paper 1 final](https://canvas.nus.edu.sg/courses/73753/assignments/152168): Paper 2 general topic proposal
+###### Due three days after Paper 1 final: Paper 2 general topic proposal
 
 ## 7.1 Tue 04 Mar 2025
 
@@ -160,7 +160,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 
-###### Nothing due; look for your Paper 2 source!
+###### Nothing due Sat 08 Mar 2025; look for your Paper 2 source!
 
 ## 8.1 Tue 11 Mar 2025
 
@@ -172,7 +172,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due [Sat 15 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152165): Paper 2 brief source summary and context
+###### Due Sat 15 Mar 2025: Elicit.com research report (optional)
+>
+###### Due Sat 15 Mar 2025: Paper 2 brief source summary and context
 
 ## 9.1 Tue 18 Mar 2025
 
@@ -184,7 +186,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due [Sat 22 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152171): Paper 2 source summary and (optional) outline
+###### Due Sat 22 Mar 2025: Paper 2 source summary and (optional) outline
 
 ## 10.1 Tue 25 Mar 2025
 
@@ -197,17 +199,17 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due [Sat 29 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152170): Paper 2 proposal and source summary outline
+###### Due Sat 29 Mar 2025: Paper 2 proposal and source summary outline
 >
-###### Due [Sat 29 Mar 2025](https://canvas.nus.edu.sg/courses/73753/assignments/167188): Exercise 11 - workload report, March
+###### Due Sat 29 Mar 2025: Exercise 11 - workload report, March
 
 ## 11.1 Tue 1 Apr 2025 — no class meeting; individual student conferences
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152158): Exercise 8 - Paper 2 proposal conference summary
+###### Due day of conference: Exercise 8 - Paper 2 proposal conference summary
 
 ## 11.2 Fri 4 Apr 24 (no class, Well-Being Day)
 
-###### Due [Sat 5 Apr 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152169): Paper 2 intro and (optional) draft outline
+###### Due Sat 5 Apr 2025: Paper 2 intro and (optional) draft outline
 
 ## 12.1 Tue 8 Apr 2025
 
@@ -220,17 +222,17 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due [Sat 12 Apr 2025](https://canvas.nus.edu.sg/courses/73753/assignments/152167): Paper 2 full draft and outline
+###### Due Sat 12 Apr 2025: Paper 2 full draft and outline
 
 ## 13.1 and 13.2 (15 and 18 Apr) — no class meetings; individual student conferences
 
-###### Due [day of conference](https://canvas.nus.edu.sg/courses/73753/assignments/152159): Exercise 9 - Paper 2 draft conference summary
+###### Due day of conference: Exercise 9 - Paper 2 draft conference summary
 >
-###### Due [one week after conference](https://canvas.nus.edu.sg/courses/73753/assignments/152166): Paper 2 final
+###### Due one week after conference: Paper 2 final
 >
-###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/73753/assignments/152151): Exercise 10 - Paper 2 writing reflection
+###### Due one day after Paper 2 final: Exercise 10 - Paper 2 writing reflection
 >
-###### Due [one day after Paper 2 final](https://canvas.nus.edu.sg/courses/73753/assignments/167187): Exercise 11 - workload report, final
+###### Due one day after Paper 2 final: Exercise 11 - workload report, final
 >
 ##### :x assigned videos
 
