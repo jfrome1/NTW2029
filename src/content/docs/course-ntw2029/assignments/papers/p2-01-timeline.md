@@ -2,7 +2,6 @@
 title: Paper 2 timeline
 date: 2025-02-01
 ---
-eo
 The following timeline shows the key steps in completing your Paper 2 assignment:
 
 ![Paper 2 Timeline](/images/p2-timeline.svg)
