@@ -190,14 +190,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 10.1 Tue 25 Mar 2025
 
+- [:Peer review groups](#x-peer-review-groups)
 - NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
-- Writing topic: peer review, conclusions
-	- Read before class (recommended): peer drafts
-
-## 10.2 Fri 28 Mar 2025
-
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
+
+## 10.2 Fri 28 Mar 2025 (no class, Hari Raya Puasa)
+
+- I encourage you to meet with your group sometime after Tue to get feedback on your source summary outline
 
 ###### Due Sat 29 Mar 2025: Paper 2 proposal and source summary outline
 >
@@ -278,6 +278,46 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - [forthcoming]
 
+##### :x peer review groups
+
+E1 (2:00 pm)
+
+- Group 1
+	- Javier
+	- Klara
+	- Kai Xuan
+- Group 2
+	- Gwyneth
+	- Jelena
+	- Kyna
+- Group 3
+	- Zhi Shuen
+	- Jia-Hui
+	- Melissa
+- Group 4
+	- Fu Xuan
+	- Claire
+	- Li Ren
+
+E2 (4:00 pm)
+
+- Group 1
+	- Yik Don
+	- Hon Rui
+	- Jodie
+- Group 2
+	- Jun Wei
+	- Hannah
+	- Ruben
+- Group 3
+	- Wei Xian
+	- Alisha
+	- Kitt
+- Group 4
+	- Tanisha
+	- Dickson
+	- Dayne
+
 ##### :x ahn discussion questions
 
 - This paper aims to contribute to an academic conversation that aims to answer what question(s)?
@@ -291,3 +331,4 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - How well-supported are their conclusions?
 
 Note: feel free to ignore all statistics in this paper.
+
