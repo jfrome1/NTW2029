@@ -1,6 +1,6 @@
 ---
 title: Paper 2 proposal and revised source summary outline
-date: 2025-03-04
+date: 2025-03-26
 ---
 
 ## Assignment
@@ -22,7 +22,7 @@ You will submit a comprehensive proposal that answers specific questions about y
 
 ### Part 1: Proposal
 
-Prepare your proposal by answering the following questions in full sentences using a clear, formal style. Copy and paste these questions into the Canvas assignment text box so I can see the questions above your answers (you can delete any example answers I give).
+Prepare your proposal by answering the following questions in full sentences using a clear, formal style. Copy and paste these questions into a document so I can see the questions above your answers (you can delete any example answers I give).
 
 1. What is the academic conversation to which the source aims to contribute? Make sure to identify the phenomenon the conversation aims to explain and consider what your source says "they say". Be specific rather than general.
       - Example (too general): "The source aims to contribute to the academic discussion about how music evolved in humans."
@@ -31,7 +31,7 @@ Prepare your proposal by answering the following questions in full sentences usi
 3. Which one of these claims (or contributing sub-claim) do you plan to analyze? Pick a claim that seems (most likely to be) incomplete, ambiguous, problematic, or limited in some way.
 4. Write a 250 word (max) summary of the argument the source uses to support the claim. Make sure the summary clearly connects the claim to the academic conversation. The summary is a narrative presentation of the argument.
 5. In a list or outline form, state brief summaries of the reasons and evidence (if any) supporting the claim, as well as any important assumptions the claim relies on. The list is a way to think of the claim as the logical conclusion of premises in an argument.
-      - Note: parts d and e are intentionally redundant; I'm asking you to convey the argument in two different ways because it can be helpful to think about things from different angles.
+      - Note: 4 and 5 are intentionally redundant; I'm asking you to convey the argument in two different ways because it can be helpful to think about things from different angles.
 6. If you can, suggest one or two possible ways you are thinking about evaluating, correcting, or improving the argument.
 7. If you can, suggest why your challenge might be significant to the academic conversation about this topic. Even if you can't do it right now, in your final paper, you will have to explain why your discussion is significant to the academic conversation.
 
