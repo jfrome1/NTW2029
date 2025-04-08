@@ -195,7 +195,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-## 10.2 Fri 28 Mar 2025 (no class, Hari Raya Puasa)
+## 10.2 Fri 28 Mar 2025 (no class, Hari Raya Puasa and Well-Being day)
 
 - I encourage you to meet with your group sometime after Tue to get feedback on your source summary outline
 
@@ -203,11 +203,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 ###### Due Sat 29 Mar 2025: Exercise 11 - workload report, March
 
-## 11.1 Tue 1 Apr 2025 — no class meeting; individual student conferences
+## 11.1 Tue 1 Apr 2025 (no class; individual student conferences)
 
 ###### Due day of conference: Exercise 8 - Paper 2 proposal conference summary
 
-## 11.2 Fri 4 Apr 24 (no class, Well-Being Day)
+## 11.2 Fri 4 Apr 24 (no class; individual student conferences)
 
 ###### Due Sat 5 Apr 2025: Paper 2 intro and (optional) draft outline
 
