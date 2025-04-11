@@ -3,7 +3,7 @@
 title: Quotations
 date: 2025-03-22
 sidebar:
-  hidden: true
+ hidden: true
 pagefind: false
 
 ---
@@ -75,3 +75,10 @@ Good example of using quotes:
 > Boyd claims that humans evolved to have an innate sense of fairness that inclines us to punish cheaters. In describing this inclination, Boyd argues that "our emotions...alert us to register unfairness" and "motivate us to punish it" (61). His point is that if people register the situation or outcome to be unfair, they may become angry and upset, which then drives them to act on those emotions.
 >
 > Pinker claims that the human mind "registers the attainment of increments of fitness by giving us a sensation of pleasure" (524), implying that the ability to experience pleasure evolved as a reinforcement mechanism to encourage humans to reliably repeat fitness-enhancing behaviors.
+
+Poor use of quotes:
+
+- "In the same way we find ourselves needing food and water for survival, without art, we feel incomplete as humans; we would not be the same if we did not "tell stories and recite poetry", "laugh, joke, and tease", "sing and dance", and "decorate surfaces" (521)."
+	- don't need to quote this, the word choice isn't important here
+- "Many have tried to uncover the reason we enjoy art, to no avail, as "millions of pages of scholarship" have been unable to find a satisfactory answer (521). "
+	- don't need to quote this, the word choice isn't important here
