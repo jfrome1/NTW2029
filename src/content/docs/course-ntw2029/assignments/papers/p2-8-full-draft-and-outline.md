@@ -3,11 +3,11 @@ title: Paper 2 full draft and outline
 date: 2025-02-01
 ---
 
-Submit a full draft of your paper, including reference list, and a full outline of your paper. Start the full outline of your paper on a new page.
+Submit a full draft of your paper (including reference list) and a full outline of your paper. Start the full outline of your paper on a new page. Submit everything as one document.
 
 Highlight the thesis and topic sentences in the draft, but don't highlight anything in the outline.
 
-In the outline, the thesis should be copied verbatim from your paper. The main points in the outline should be copied verbatim from your topic sentences (the subpoints can be paraphrases). This approach will help you check whether your paper's topic sentences capture your argument.
+In the outline, the thesis should be copied verbatim from your paper. The main points in the outline should be copied verbatim from your topic sentences (the subpoints can be paraphrases). This approach will help you check whether your paper's topic sentences capture your argument. If your outline doesn't make sense by itself, revise your topic sentences.
 
 Note: I will focus on your outline when writing my feedback, as the argument is the most important aspect of your paper.
 
