@@ -20,7 +20,7 @@ Copy and paste the following questions into the Exercise 10 text box on Canvas. 
 7. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
 8. In general, what was the biggest challenge in writing this paper?
 9. What did you learn from writing this paper that you will apply to future writing assignments?
-10. Do you have any suggestions for improving the Paper 1 process for next time I teach the course?
+10. Do you have any suggestions for improving the Paper 2 process for next time I teach the course?
 
 And the most important question:
 
