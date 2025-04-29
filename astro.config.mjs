@@ -12,6 +12,9 @@ export default defineConfig({
         minHeadingLevel: 1,
         maxHeadingLevel: 2,
       },
+      markdown: {
+        headingLinks: false,
+      },
       plugins: [
         starlightLinksValidator({
           errorOnFallbackPages: false,
