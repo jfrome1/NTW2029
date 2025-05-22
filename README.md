@@ -58,8 +58,9 @@ For this e.g. file structure:
 └── images/
 └── headshot.jpg
 
-## These will work for all pages as absolute links
-
+## These will work for all pages as absolute links 
+**(note: shown here as display examples, not functional links)"
+**
 - page link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy)
 - heading link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy/#nus-general-genai-policy)
 - image link (from public folder): ![Another File](/images/add-another-file.png)
