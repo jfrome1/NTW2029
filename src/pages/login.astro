@@ -19,7 +19,7 @@
 
     function setCookie(name: string, value:string) {
       try {
-        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Strict; Secure`;
+        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Lax; Secure`;
       } catch (error) {
         console.error('Error setting cookie:', error);
       }
@@ -39,7 +39,7 @@
 
     function deleteCookie(name:string) {
       try {
-        document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Strict; Secure`;
+        document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Lax; Secure`;
       } catch (error) {
         console.error('Error deleting cookie:', error);
       }
