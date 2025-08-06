@@ -7,11 +7,16 @@ export const config = {
 export default async function middleware(request: Request) {
   const { pathname } = new URL(request.url);
   if (pathname === "/login") {
-    return next(); 
+    return next();
   }
 
   const COOKIE_NAME = "authUser";
   const cookies = request.headers.get("cookie");
+
+  const userAgent = request.headers.get("user-agent") || "";
+  const isBrave = userAgent.includes("Brave");
+
+  console.log("User Agent:", userAgent);
 
   const getCookie = (cookieName: string, cookieHeader: string | null) => {
     if (!cookieHeader) return null;
@@ -25,7 +30,6 @@ export default async function middleware(request: Request) {
   if (userCookie) {
     try {
       const user = JSON.parse(decodeURIComponent(userCookie));
-      console.log("User Seen:", user); 
       if (user.id) {
         return next();
       } else {
