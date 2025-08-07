@@ -13,11 +13,6 @@ export default async function middleware(request: Request) {
   const COOKIE_NAME = "authUser";
   const cookies = request.headers.get("cookie");
 
-  const userAgent = request.headers.get("user-agent") || "";
-  const isBrave = userAgent.includes("Brave");
-
-  console.log("User Agent:", userAgent);
-
   const getCookie = (cookieName: string, cookieHeader: string | null) => {
     if (!cookieHeader) return null;
     const cookie = cookieHeader
