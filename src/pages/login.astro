@@ -12,6 +12,9 @@
     <button id="goToSiteButton" class="hidden">Go to the site →</button>
 
   <script>
+      const isBrave = "brave" in navigator;
+      if (!isBrave) {
+    
     const config = {
       cookieName: 'authUser',
       loginEndpoint: '/api/auth' 
@@ -123,6 +126,14 @@
         });
       }
     }
+  } else {
+    const loginButton = document.getElementById('loginButton');
+    if (loginButton) {
+      loginButton.style.opacity = '0.5';
+      loginButton.style.cursor = 'not-allowed';
+      loginButton.textContent = 'Login (Chrome, Safari, Firefox only)';
+    }
+  }
   </script>
 </body>
 </html>
