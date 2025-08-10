@@ -12,6 +12,9 @@
     <button id="goToSiteButton" class="hidden">Go to the site →</button>
 
   <script>
+      const isBrave = "brave" in navigator;
+      if (!isBrave) {
+    
     const config = {
       cookieName: 'authUser',
       loginEndpoint: '/api/auth' 
@@ -19,7 +22,7 @@
 
     function setCookie(name: string, value:string) {
       try {
-        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Strict; Secure`;
+        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Lax; Secure`;
       } catch (error) {
         console.error('Error setting cookie:', error);
       }
@@ -39,7 +42,7 @@
 
     function deleteCookie(name:string) {
       try {
-        document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Strict; Secure`;
+        document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Lax; Secure`;
       } catch (error) {
         console.error('Error deleting cookie:', error);
       }
@@ -47,7 +50,7 @@
 
     function login() {
       try {
-        const username = prompt('Enter your username:');
+        const username = prompt('Enter your username (case sensitive use uppercase):');
         const password = prompt('Enter your password:');
 
         if (!username || !password) {
@@ -123,6 +126,14 @@
         });
       }
     }
+  } else {
+    const loginButton = document.getElementById('loginButton');
+    if (loginButton) {
+      loginButton.style.opacity = '0.5';
+      loginButton.style.cursor = 'not-allowed';
+      loginButton.textContent = 'Login (Chrome, Safari, Firefox only)';
+    }
+  }
   </script>
 </body>
 </html>

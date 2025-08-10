@@ -7,7 +7,7 @@ export const config = {
 export default async function middleware(request: Request) {
   const { pathname } = new URL(request.url);
   if (pathname === "/login") {
-    return next(); 
+    return next();
   }
 
   const COOKIE_NAME = "authUser";
@@ -25,7 +25,6 @@ export default async function middleware(request: Request) {
   if (userCookie) {
     try {
       const user = JSON.parse(decodeURIComponent(userCookie));
-      console.log("User Seen:", user); 
       if (user.id) {
         return next();
       } else {
