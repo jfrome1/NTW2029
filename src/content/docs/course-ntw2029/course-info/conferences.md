@@ -1,6 +1,5 @@
 ---
 title: Conference guidelines
-date: 2024-02-20
 ---
 
 I'll have at least three individual conferences with each student this semester. Conferences can be in-person (the default) or via Zoom (at your request); either is fine with me. I [:record conferences](#x-recordconferences) and I'll [:share the recording and transcript](#x-sharetherecording) with you afterwards.
@@ -9,15 +8,9 @@ I'll have at least three individual conferences with each student this semester.
 
 I use Microsoft Bookings to schedule conferences. Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 
-## In-person conference logistics
+## Conference logistics
 
-Conferences are usually held in-person, in my office, Cinnamon West 02-09. When your conference time comes, knock on my door to let me know you've arrived and are ready to begin. Feel free to bring and use devices during the conference.
-
-Please do not informally switch time slots with other students as I prepare for the conferences based on the schedule. If you want to switch time slots with another student via the Bookings app (canceling and re-booking new slots), that's fine as long as you do it at least one day in advance.
-
-## Zoom conference logistics
-
-If you prefer a Zoom conference, let me know after you've booked a time slot and at least one day in advance of the conference. Zoom conferences are at this link: <https://nus-sg.zoom.us/my/jonathanfrome> or Meeting ID: 250 394 5161. If you have difficulties joining the Zoom, email or message me to let me know what's going on.
+After repeatedly getting sick from in-person conferences, I've switched to Zoom conferences. Meet at this link: <https://nus-sg.zoom.us/my/jonathanfrome> or Meeting ID: 250 394 5161. If you have difficulties joining the Zoom, email or message me to let me know what's going on.
 
 Please follow these guidelines to avoid distractions during Zoom conferences:
 
@@ -46,7 +39,7 @@ I check the recordings to see if discuss the same issue with multiple students. 
 
 I share the recording by forwarding students the Zoom email notification. IMPORTANT: do not click the "View Details" button, as only the host can see those details. You want to click the sharable link, which will take you to the recording and transcript.
 
-Zoom also adds AI summaries and comments to these recordings. Please do not rely on them; I haven't found them to be very accurate.
+Zoom also adds AI summaries and comments to these recordings. Do not rely on them; I haven't found them to be very accurate.
 
 ![zoom-share-recording](/images/zoom_share_recording.png)
 
