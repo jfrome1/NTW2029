@@ -4,41 +4,40 @@ title: Technology guidelines
 
 ## NTW2029 website
 
-This website is the primary way I give course information to the class. I've added password protection so I can use data analytics to see which resources students access and which are rarely used. The website takes a lot of time to create and maintain, and I'd prefer to spend the time on things students actually find useful.
-
-Please email me if there is anything I can improve on the site: confusing language, a broken link, a typo, etc. You will get class participation credit for this feedback.
+The website https://ntw-2029.vercel.app/ is the primary way I give course information to the class. I've added password protection so I can find out and focus on improving the resources that students use most. Please email me if there is anything I can improve on the site (you will get class participation credit for this feedback).
 
 ## Canvas
+
+Canvas is only for:
+
+- submitting assignments
+- discussion posts
+- me providing feedback to you
+
+You will notice that all assignments are set to "does not count towards the final grade". That's to prevent confusion, because the Canvas gradebook isn't set up to track your grades -- I do that on my own computer.
 
 Notifications: set up Canvas notifications so you don't miss anything important. Use the linked instructions to set your [default notification](https://community.canvaslms.com/t5/Student-Guide/How-do-I-manage-my-Canvas-notification-settings-as-a-student/ta-p/434) or [notifications just for this course](https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-manage-notifications-for-a-single-course/ta-p/615325).
 
 Set notifications to `Daily` or `Immediately` for these categories:
 
-- Course Content
 - Due Date
 - Discussion posts
 - Announcements
 
-Make it a habit to [:expand threads](#x-threads) when you read the discussions because Canvas hides replies by default (unfortunately, this can't be changed).
+You are welcome to get notified for "Course Content" but I frequently revise the site so you will get _lots_ of notifications if you do.
 
-##### :x threads
+## Telegram
 
-![expand threads](/images/expand-threads.png)
+For out-of-class chat, we will use Telegram. I'll post the group link here when it's set up.
 
-## Microsoft Teams
+## Email
 
-For out-of-class communication, we will use [:the chat function](#x-chat) in [Microsoft Teams](https://ntouch.nus.edu.sg/dwp/app/#/knowledge/KBA00015405/rkm). Please download the Teams app for your phone and make sure notifications are on.
-
-<!-- NUS creates Teams groups for every course section. You must request to be added, which you should do ASAP. -->
-
-## Course email
-
-Please follow these guidelines for emailing me:
+Follow these guidelines for emailing me:
 
 - Subject line: Put the course code (e.g. NTW2029) in the subject line of EVERY email you send me so it will be filtered into the correct class email folder.
 - Name: Use the name I call you in class in addition to your formal name so I know who you are right away.
-- Tone: If you are writing about a way you might not meet course expectations, don't send it as an FYI (e.g. "Prof, I'm leaving class an hour early tomorrow because I have an important football game"). That can come across as rude or entitled in a small class like ours because it might affect me or others. Instead, please ask me for permission and gauge my response. Even if you are going to do it regardless of the consequences, this approach is more respectful.
-- Follow-up: I aim to respond to all emails within one business day.If you haven't heard from me, or if the matter is time-sensitive, feel free to email me again to remind me. I won't be annoyed. Sometimes an email just gets buried in my inbox.
+- Tone: Be respectful. Don't send an email like you would message a friend, e.g. "Hey, I'm gonna be late, sry" is not ok. You don't have to be formal, but if you have a class conflict, ask permission to miss rather than just announcing it.
+- Follow-up: I aim to respond to all emails within one business day.If you haven't heard from me, it's totally fine to email me again to remind me. I won't be annoyed. Sometimes an email just gets buried in my inbox.
 
 ## Digital calendar
 
@@ -47,7 +46,3 @@ Please follow these guidelines for emailing me:
 ### :x calendar
 
 Every student I have had who forgot to submit an asssignment was one who didn't use a calendar. Some relied on memory; others had a to-do list. Your life may have worked just fine without a calendar until now. Now you need one. Set up a calendar, put all assignment due dates on it right at the beginning of the semester, check the calendar daily, and if your calendar is electronic, make sure to set up a default one-day advance reminder for assignment due dates.
-
-### :x chat
-
-Teams has many other functions, but we'll just use it for chat messages.
