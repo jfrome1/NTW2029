@@ -2,7 +2,7 @@
 title: Extension policy
 ---
 
-Any assignment, including final papers, may be submitted up to 12 hours late for any reason (i.e. by noon the following day). No apologies or explanation are necessary! You don't need to email me.
+Any assignment, including final papers, may be submitted up to 12 hours late for any reason (i.e. by noon the following day). Don't bother to email me - no apologies or explanation are necessary!
 
 Due to this policy, no additional extensions will be granted except in serious, documented circumstances.
 

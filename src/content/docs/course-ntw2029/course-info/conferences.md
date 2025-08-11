@@ -2,15 +2,13 @@
 title: Conference guidelines
 ---
 
-I'll have at least three individual conferences with each student this semester. Conferences can be in-person (the default) or via Zoom (at your request); either is fine with me. I [:record conferences](#x-recordconferences) and I'll [:share the recording and transcript](#x-sharetherecording) with you afterwards.
-
 ## Bookings
 
-I use Microsoft Bookings to schedule conferences. Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
+This course uses Microsoft Bookings to schedule conferences. Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 
 ## Conference logistics
 
-After repeatedly getting sick from in-person conferences, I've switched to Zoom conferences. Meet at this link: <https://nus-sg.zoom.us/my/jonathanfrome> or Meeting ID: 250 394 5161. If you have difficulties joining the Zoom, email or message me to let me know what's going on.
+Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome> or Meeting ID: 250 394 5161. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I sometimes [:record conferences](#x-recordconferences) to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want your conference recorded, you must tell me at the beginning of the conference.
 
 Please follow these guidelines to avoid distractions during Zoom conferences:
 
@@ -23,19 +21,19 @@ Please follow these guidelines to avoid distractions during Zoom conferences:
 
 To make sure you get full benefit from the conference:
 
-- Come to the conference prepared with specific questions; the conference is a time for you to use me as a resource, whether or not I have specific topics to discuss based on your draft
+- Before the conference, review the posted assignment instructions and and your submission
+- Come to the conference prepared with specific questions; the conference is a time for you to use me as a resource, not a time for me to give you a list of tasks you need to complete
 - Be prepared to take notes during the conference (if you type faster than you write, split the screen between Zoom and your notes, or use 2 monitors)
-- Review the posted assignment instructions and and your submission before the conference
 
-## Follow-up
+## Post-conference summaries
 
-- The day of the conference, complete the assigned exercise to submit post-conference notes.
+- After the conference (same day), complete the assigned exercise to submit the conference summary
 
 ##### :x record conferences
 
-I check the recordings to see if discuss the same issue with multiple students. If I do, I know to improve the class notes and website information about those issues.
+I use recordings to see if discuss the same issue with multiple students. If I do, I know to improve the class notes and website information about those issues.
 
-##### :x share the recording
+##### :x recording and transcript
 
 I share the recording by forwarding students the Zoom email notification. IMPORTANT: do not click the "View Details" button, as only the host can see those details. You want to click the sharable link, which will take you to the recording and transcript.
 

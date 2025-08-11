@@ -12,9 +12,6 @@ export default defineConfig({
         minHeadingLevel: 1,
         maxHeadingLevel: 2,
       },
-      markdown: {
-        headingLinks: false,
-      },
       plugins: [
         starlightLinksValidator({
           errorOnFallbackPages: false,
@@ -52,7 +49,7 @@ export default defineConfig({
         //     "course-ntw2029/course-info/extensions",
         //   ],
         // },
-/*
+        /*
           {
             label: "Assignments",
             collapsed: true,
@@ -136,6 +133,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
+    headingLinks: false,
     rehypePlugins: [
       [
         rehypeExternalLinks,
