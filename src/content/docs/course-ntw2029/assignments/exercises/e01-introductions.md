@@ -1,4 +1,4 @@
- ---
+---
 title: Exercise 1 - Introductions
 ---
 
