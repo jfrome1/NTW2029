@@ -1,35 +1,31 @@
----
-
+ ---
 title: Exercise 1 - Introductions
-
-date: 2025-01-13
-
 ---
 
-I've introduced myself to you on the "Meet your instructor" page. Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "[Introductions](https://canvas.nus.edu.sg/courses/73753/discussion_topics/267803)" (NOT on this page). The discussion thread will be set so you can only read the other responses once you have posted yours. Please read and follow the [Exercise Guidelines](/course-ntw2029/assignments/general/exercise-guidelines).
+<!-- I've introduced myself to you on the "Meet your instructor" page. Now it's your turn! Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "Exercise 1 - introductions".
+ -->
 
-The goal of this assignment is to help me and your classmates get to know you in ways that will improve our class.
+I know we did quick introductions in our first class, but I'd like everyone to get to know each other better by asking you to introduce yourself in a post. It's a small class and works much better when we are comfortable talking in the group. Having this written down also helps me remember everyone's details when I'm planning lessons or giving feedback.
 
-In your post, let us know:
+In your post, I'd love to know:
 
-General
+**About You**
 
-- your name
-- what you prefer to be called in class (please don't say "anything is fine", let me know your preference)
-- country of upbringing if not Singapore and/or your experience living in other countries
-- your current academic focus/major (and specific interest within that major, if you have one)
-- the last writing course or project you completed before NUS (GP, IB Extended essay, course assignment, other) and what your last academic writing paper/project was about (if GP, let me know the questions you wrote on).
+- Your name and what you'd like me to call you in class (please don't say "anything is fine" - just tell me what you actually prefer!)
+- Where you grew up if it wasn't Singapore, or any interesting experience living in other countries
+- Your major and, if you have one, what specifically interests you within that field
+- The last academic writing project you did, either before NUS or in NUS (could be GP, IB Extended Essay, or just a major assignment) and the topic and/or goal. If it was GP, let me know which question you wrote on, if you remember.
 
-Evolution and Art
+**Your Background with Evolution and Art**
 
-- what types of art or media entertainment you are most interested in (and degree of interest if notable)—I am not a media snob, I like both horror movies and art films, so just be honest
-- your level of background knowledge/education about evolution, if any (including whether your knowledge of the Earth's age or the origin of humans comes in part from a religious perspective)
-- your level of background knowledge/education about art or media, if any (including whether you create art)
+- What kinds of art or media entertainment do you genuinely enjoy? (I promise I'm not a snob - I watch both low-end horror films and arthouse films, so just be honest)
+- How much do you already know about evolution, if anything? In what contexts have you learned about evolution? School, church, self-study, online?
+- Any background in studying or creating art/media?
 
-Writing
+**You and Writing**
 
-- the degree to which you love/hate/are neutral towards writing and why
-- any perceived strengths or weaknesses in your writing
-- be honest and as detailed as you like—giving me this information will only benefit you
+- How do you honestly feel about writing - love it, hate it, somewhere in between? And why? (be as honest as you want here - it only helps me figure out how to teach you better)
+- What things did you like or dislike about your previous writing instruction? (the instruction doesn't have to be from a writing class; maybe it was just going over an assignment in a science or history class)
 
-If there is any information relating to these topics that would be useful for me to know, but that you would rather not share with your classmates, please email me a supplement to your public post.
+If there's anything in these topics you'd rather tell me privately instead of posting publicly, just send me an email.
+
