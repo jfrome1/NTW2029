@@ -20,7 +20,7 @@ async function getLatestCommit(slug: string) {
 			return null;
 		}
 
-		return data[0].commit.author.date; 
+		return data[0].commit.author.date;
 
 	} catch (error) {
 		console.error('Error fetching data:', error);
@@ -49,7 +49,7 @@ function formatCommitDate(dateString: string | null) {
 }
 ---
 <div>Last updated: {formatCommitDate(await getLatestCommit(Astro.locals.starlightRoute.entry.id))}</div>
-<p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website via Teams or email for class participation credit.</p>
+<p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website for class participation credit.</p>
 
 <script>
 import posthog from "posthog-js";
