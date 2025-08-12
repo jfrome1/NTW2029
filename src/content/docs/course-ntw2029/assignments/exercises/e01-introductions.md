@@ -1,5 +1,6 @@
 ---
 title: Exercise 1 - Introductions
+date: 2025-08-12
 ---
 
 <!-- I've introduced myself to you on the "Meet your instructor" page. Now it's your turn! Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "Exercise 1 - introductions".
@@ -28,4 +29,3 @@ In your post, I'd love to know:
 - What things did you like or dislike about your previous writing instruction? (the instruction doesn't have to be from a writing class; maybe it was just going over an assignment in a science or history class)
 
 If there's anything in these topics you'd rather tell me privately instead of posting publicly, just send me an email.
-
