@@ -6,6 +6,8 @@ title: Conference guidelines
 
 This course uses Microsoft Bookings to schedule conferences. Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 
+Test [anchor link](#test-anchor-link)
+
 ## Conference logistics
 
 Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome> or Meeting ID: 250 394 5161. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I sometimes [:record conferences](#x-recordconferences) to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want your conference recorded, you must tell me at the beginning of the conference.
@@ -54,3 +56,11 @@ The likely problem is that your Microsoft account and calendar are not both set 
 
 ![timezone](/images/timezone.png)
 ![yes-update](/images/yes-update.png)
+
+##### test anchor link
+
+test test test test test test test test test test test test test test test test test test
+test test test test test test test test
+
+- test test test test
+- test test test test
