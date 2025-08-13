@@ -2,10 +2,6 @@
 title: Exercise 3 - explain Boyd
 date: 2024-08-23
 draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Assignment purpose
