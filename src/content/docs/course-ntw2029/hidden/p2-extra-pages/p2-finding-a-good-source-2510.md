@@ -15,7 +15,7 @@ In Paper 2, you'll need to "explain and analyze a recent, published academic arg
 - Recent publication: Within the last ten years ([:exceptions can be made](#x-exceptions-can-be-made) if requested)
 - Academic source (published in a peer-reviewed journal or as a chapter in a book from a university press or academic press)
 - Appropriate format (an article or book chapter, not a whole book)
-- Original: Not a source chosen by current or previous students (see [list on course website](/course-ntw2029/assignments/papers/p2-02-sources))
+- Original: Not a source chosen by current or previous students (see [list on course website](/../../../drafts/papers/p2-02-sources.md))
 - I must approve your source before the Paper 2 source summary deadline
 
 ## What Kind of Source Will Work Well?
