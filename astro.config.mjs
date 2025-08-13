@@ -22,6 +22,9 @@ export default defineConfig({
           },
         }),
       ],
+      markdown: {
+        headingLinks: false,
+      },
       tableOfContents: {
         minHeadingLevel: 1,
         maxHeadingLevel: 2,
