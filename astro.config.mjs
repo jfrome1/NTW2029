@@ -18,7 +18,7 @@ export default defineConfig({
         starlightNutshell(),
         starlightAutoDrafts({
           highlights: {
-            badges: false,
+            badges: true,
           },
         }),
       ],
