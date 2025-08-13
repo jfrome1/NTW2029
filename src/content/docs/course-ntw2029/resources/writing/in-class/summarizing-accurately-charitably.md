@@ -3,6 +3,11 @@
 title: Summarizing accurately and charitably (3.2)
 date: 2025-02-09
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - "they say, I say" starts with communicating and/or explaining what they say

@@ -2,6 +2,11 @@
 
 title: Outline guidelines
 date: 2025-02-01
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

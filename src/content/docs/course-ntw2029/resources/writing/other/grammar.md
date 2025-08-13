@@ -3,6 +3,11 @@
 title: Grammar and style for NTW2029
 date: 2024-09-15
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 This page provides grammar and style information that I can quickly refer to when providing feedback. It's also a guide to the grammar issues that are the most important in the course.

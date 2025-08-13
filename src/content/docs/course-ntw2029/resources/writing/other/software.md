@@ -3,6 +3,11 @@
 title: Software for academic writing
 date: 2025-03-12
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Writing software offerings are changing rapidly. If you have any information to share or sites/apps to recommend, let me know!

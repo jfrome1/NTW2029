@@ -3,7 +3,11 @@ title: Paper 2 brief source summary and context
 date: 2025-03-07
 sidebar:
   hidden: true
+  badge:
+    text: Draft
+    variant: caution
 pagefind: false
+draft: true
 ---
 
 ## Assignment Purpose

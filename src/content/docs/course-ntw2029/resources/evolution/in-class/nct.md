@@ -3,6 +3,11 @@
 title: Niche construction theory (2.1)
 date: 2024-09-08
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - we think of an animal's environment as including their surrounding plants, landscape, and other animals

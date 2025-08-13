@@ -1,6 +1,11 @@
 ---
 title: Exercise 4 - explain Goldfinch (optional)
 date: 2024-08-13
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Assignment purpose

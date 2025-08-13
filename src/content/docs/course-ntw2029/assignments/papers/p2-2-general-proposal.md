@@ -1,7 +1,12 @@
 ---
-
 title: Paper 2 general topic proposal
 date: 2025-02-25
+
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

@@ -2,6 +2,11 @@
 
 title: Read this first!
 date: 2024-09-08
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

@@ -2,6 +2,11 @@
 
 title: Exercise 6 - Paper 1 writing reflection
 date: 2024-08-13
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

@@ -3,6 +3,11 @@
 title: Natural selection (1.2)
 date: 2025-01-18
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - terminology

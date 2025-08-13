@@ -1,6 +1,11 @@
 ---
 title: Common issues for native Chinese speakers
 date: 2025-01-27
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 There are several grammar issues commonly faced by native Chinese speakers when writing English (although native English speakers make these mistakes also!). Here are resources for learning to overcome these issues:

@@ -3,7 +3,11 @@ title: Paper 2 sources
 date: 2025-03-03
 sidebar:
   hidden: true
+  badge:
+    text: Draft
+    variant: caution
 pagefind: false
+draft: true
 ---
 
 ## Current semester

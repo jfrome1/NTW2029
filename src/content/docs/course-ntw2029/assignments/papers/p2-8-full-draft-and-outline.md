@@ -1,6 +1,12 @@
 ---
 title: Paper 2 full draft and outline
 date: 2025-02-01
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
+
 ---
 
 Submit a full draft of your paper (including reference list) and a full outline of your paper. Start the full outline of your paper on a new page. Submit everything as one document.

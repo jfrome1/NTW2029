@@ -1,5 +1,10 @@
 ---
 title: Technology guidelines
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## NTW2029 website

@@ -2,8 +2,11 @@
 
 title: Exercise 7 - Class participation self-evaluation
 date: 2024-10-12
+draft: true
 sidebar:
-  hidden: true
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

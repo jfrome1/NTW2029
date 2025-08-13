@@ -3,6 +3,11 @@
 title: Literature reviews (7.1)
 date: 2025-03-04
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Most research articles summarize previous research in their introductions to provide context regarding what other people have said in the academic conversation. This section of an article is often referred to as a "literature review".
