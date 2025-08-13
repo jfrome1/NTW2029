@@ -24,6 +24,16 @@ export default defineConfig({
       ],
       markdown: {
         headingLinks: false,
+        rehypePlugins: [
+          [
+            rehypeExternalLinks,
+            {
+              content: { type: "text", value: " 🡕" },
+              target: "_blank",
+              rel: ["noopener", "noreferrer"],
+            },
+          ],
+        ],
       },
       tableOfContents: {
         minHeadingLevel: 1,
@@ -138,17 +148,4 @@ export default defineConfig({
       },
     }),
   ],
-  markdown: {
-    headingLinks: false,
-    rehypePlugins: [
-      [
-        rehypeExternalLinks,
-        {
-          content: { type: "text", value: " 🡕" },
-          target: "_blank",
-          rel: ["noopener", "noreferrer"],
-        },
-      ],
-    ],
-  },
 });

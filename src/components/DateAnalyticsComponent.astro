@@ -48,7 +48,7 @@ function formatCommitDate(dateString: string | null) {
   }
 }
 ---
-<div>Last updated: {formatCommitDate(await getLatestCommit(Astro.locals.starlightRoute.entry.id))}</div>
+<div style={{marginTop: "12rem"}}>Last updated: {formatCommitDate(await getLatestCommit(Astro.locals.starlightRoute.entry.id))}</div>
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website for class participation credit.</p>
 
 <script>
@@ -110,11 +110,10 @@ import posthog from "posthog-js";
     function initialize() {
       const user = initializeUser();
       initializeTracking(user);
-      return user;
     }
 
     // Usage
-    const currentUser = initialize();
+    initialize();
 
     window.addEventListener("load", function () {
     let readEventTriggered = false;
