@@ -35,7 +35,7 @@ sidebar:
 
 ## Elicit.com Research Reports
 
-The reports are pdfs. The sources are `.bib` files, which can be imported into a reference manager such as Zotero. Links for Zotero are on the [writing software](/course-ntw2029/resources/writing/other/software) page.
+The reports are pdfs. The sources are `.bib` files, which can be imported into a reference manager such as Zotero.
 
 - [Adaptive Functions of Early Figurative Art--report](/downloads/elicit/adaptive_functions_of_early_figurative_art--report.pdf)
 - [Adaptive Functions of Early Figurative Art--sources](/downloads/elicit/adaptive_functions_of_early_figurative_art--sources.bib)
