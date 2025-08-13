@@ -2,6 +2,11 @@
 title: Citations (4.1)
 date: 2025-02-04
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose of citation

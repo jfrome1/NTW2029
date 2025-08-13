@@ -4,6 +4,11 @@ title: Supernormal stimuli (4.1)
 date: 2025-02-06
 
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - supernormal stimuli (aka superstimuli) are stimuli that are more intense (cause stronger reactions) than those found in nature

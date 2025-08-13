@@ -3,6 +3,11 @@
 title: Critical thinking (2.1/2.2)
 date: 2025-01-29
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - my definition of critical thinking and reading

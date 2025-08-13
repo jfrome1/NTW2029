@@ -3,6 +3,11 @@
 title: Social cooperation and free-riders (2.2)
 date: 2025-01-29
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Media links beginning with `*` are assigned or were shown in class. Others are optional.

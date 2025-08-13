@@ -3,6 +3,11 @@
 title: Analysis questions (2.2)
 date: 2024-10-20
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Questions to ask about your source

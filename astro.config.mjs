@@ -41,12 +41,12 @@ export default defineConfig({
           link: "course-ntw2029/schedule",
           label: "Course schedule",
         },
-        {
-          label: "Course information",
+/*         {
+          label: "Course information (forthcoming)",
           collapsed: true,
           items: [
-            // "course-ntw2029/course-info/need-help",
-            // "course-ntw2029/course-info/readings",
+            "course-ntw2029/course-info/need-help",
+            "course-ntw2029/course-info/readings",
             "course-ntw2029/course-info/conferences",
             "course-ntw2029/course-info/gen-ai-policy",
             "course-ntw2029/course-info/tech-guidelines",
@@ -127,7 +127,7 @@ export default defineConfig({
               ],
             },
           ],
-        },
+        }, */
       ],
     }),
     compress({

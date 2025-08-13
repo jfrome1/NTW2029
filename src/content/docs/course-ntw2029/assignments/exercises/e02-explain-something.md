@@ -1,8 +1,12 @@
 ---
 
 title: Exercise 2 - Explain how to do something
-draft: true
 date: 2024-08-13
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

@@ -1,5 +1,10 @@
 ---
 title: GenAI policy
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Summary of the GenAI policy

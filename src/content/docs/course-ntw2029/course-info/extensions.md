@@ -1,5 +1,10 @@
 ---
 title: Extension policy
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Any assignment, including final papers, may be submitted up to 12 hours late for any reason (i.e. by noon the following day). Don't bother to email me - no apologies or explanation are necessary!

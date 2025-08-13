@@ -3,6 +3,11 @@
 title: Notetaking for understanding (3.1)
 date: 2025-01-30
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 (this is just my notetaking process; not a rule or academic consensus)

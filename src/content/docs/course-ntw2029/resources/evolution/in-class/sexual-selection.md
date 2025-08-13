@@ -3,6 +3,11 @@
 title: Sexual selection (1.2)
 date: 2025-01-18
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - sexual selection theory was developed to solve a problem facing evolutionary theory: traits that seem to hurt an organism's ability to survive, such as the peacock's tail, don't seem to match this theory of natural selection

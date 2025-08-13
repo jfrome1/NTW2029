@@ -1,6 +1,12 @@
 ---
 title: Paper 2 brief source summary
 date: 2025-03-14
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
+
 ---
 
 ## Assignment

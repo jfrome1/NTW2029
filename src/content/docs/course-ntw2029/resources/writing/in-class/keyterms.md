@@ -3,6 +3,11 @@
 title: Keyterms (3.1)
 date: 2025-01-30
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - "keyterms" or "key terms" refer to the the handful of concepts central to an argument or theory

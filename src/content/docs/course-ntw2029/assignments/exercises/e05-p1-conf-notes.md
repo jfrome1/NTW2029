@@ -2,7 +2,11 @@
 
 title: Exercise 5 - Paper 1 post-conference notes
 date: 2024-08-13
-
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 The purpose of this assignment is to help you consolidate your thoughts about the draft feedback so you can better plan your revisions.

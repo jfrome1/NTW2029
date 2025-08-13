@@ -1,6 +1,12 @@
 ---
 title: Paper 2 timeline
 date: 2025-02-01
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
+
 ---
 The following timeline shows the key steps in completing your Paper 2 assignment:
 

@@ -4,6 +4,11 @@ title: Other evolution topics
 date: 2025-02-01
 
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Human evolution

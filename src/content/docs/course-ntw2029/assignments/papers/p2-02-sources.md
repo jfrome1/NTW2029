@@ -1,6 +1,12 @@
 ---
 title: Paper 2 sources
 date: 2025-03-03
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
+
 ---
 
 ## Current semester

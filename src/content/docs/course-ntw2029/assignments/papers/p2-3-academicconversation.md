@@ -3,7 +3,11 @@ title: Paper 2 source proposal and (optional) academic conversation overview
 date: 2025-03-04
 sidebar:
   hidden: true
+  badge:
+    text: Draft
+    variant: caution
 pagefind: false
+draft: true
 ---
 
 Paper 2 starts with selecting a source to analyze. In this assignment, you will propose a main source to analyze in Paper 2.

@@ -1,5 +1,11 @@
 ---
 title: Conference guidelines
+date: 2025-08-13
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Bookings

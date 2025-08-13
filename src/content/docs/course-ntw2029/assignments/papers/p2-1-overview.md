@@ -1,7 +1,12 @@
 ---
-
 title: Paper 2 overview
 date: 2025-03-04
+
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

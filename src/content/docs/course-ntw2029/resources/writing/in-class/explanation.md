@@ -3,6 +3,11 @@
 title: Explanation (2.1/3.2)
 date: 2025-01-27
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - at its most basic, explanation is helping someone understand something by helping them see how its parts are connected

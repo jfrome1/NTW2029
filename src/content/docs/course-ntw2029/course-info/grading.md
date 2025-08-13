@@ -1,6 +1,11 @@
 ---
 title: Grading
 date: 2025-08-12
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 
