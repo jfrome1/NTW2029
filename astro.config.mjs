@@ -10,17 +10,17 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [
-        starlightAutoDrafts({
-          highlights: {
-            badges: true,
-          },
-        }),
         starlightLinksValidator({
           errorOnFallbackPages: false,
           errorOnInconsistentLocale: false,
           errorOnInvalidHashes: false,
         }),
         starlightNutshell(),
+        starlightAutoDrafts({
+          highlights: {
+            badges: false,
+          },
+        }),
       ],
       tableOfContents: {
         minHeadingLevel: 1,
@@ -72,6 +72,10 @@ export default defineConfig({
               label: "Papers",
               collapsed: true,
               autogenerate: { directory: "course-ntw2029/assignments/papers" },
+            },
+            {
+              label: "Projects",
+              link: "course-ntw2029/assignments/exercises/e03-boyd",
             },
           ],
         },
