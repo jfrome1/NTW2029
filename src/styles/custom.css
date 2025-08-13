@@ -108,6 +108,10 @@ main {
 	display: none;
 }
 
+.nutshell-heading {
+	scroll-margin-top: -1rem;
+}
+
 /***************************************************
 EXPANDABLE LINKS
 ***************************************************/
