@@ -2,7 +2,7 @@
 async function getLatestCommit(slug: string) {
 	try {
 		const response = await fetch(
-			"https://api.github.com/repos/jfrome1/ntw2029/commits?path=src/content/docs/" + slug,
+			"https://api.github.com/repos/jfrome1/ntw2029/commits?path=src/content/docs/" + slug + ".md",
       {
         headers: {
           Authorization: `Bearer ${import.meta.env.TOKEN}`, // Use template literal and environment variable
