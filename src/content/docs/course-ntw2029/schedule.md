@@ -1,6 +1,6 @@
 ---
 title: Schedule
-date: 2024-12-17
+date: 2025-08-14
 ---
 
 :::tip
@@ -12,14 +12,15 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: origins of evolutionary thought
 	- Read before class: none
 - Writing topic: university academic writing
-
-<!-- - Class media:
+	- Read before class (recommended): none
+- Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
- -->
+
 ###### Due Tue 12 Aug 2025: Exercise 1 - introductions
 
 ## 1.2 Thu 14 Aug 2025
 
+- TECH EXCEPTION: bring your laptops to class today
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
 	- Read: watch [:assigned videos](#x-assigned-videos)
 - Writing topic: academic writing as a conversation
@@ -28,7 +29,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Class reading: read all webpages on this website under _Course information_
 
 ###### Due Sun 17 Aug 2025: Exercise 2 - explain something
 
@@ -40,7 +40,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended):
 		- TSIS 1 "They Say Starting with What Others Are Saying", 19-29
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
-		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. The Craft of Research. 4th ed. Chicago, IL: University of Chicago Press, 2016.
+		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research. 4th ed._ Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
 <!--Class media:
 	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
@@ -62,7 +62,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 24 Aug 2025: Exercise 3 - explain Boyd reading intro
 >
-###### Due Sun 24 Aug 2025: Evolution basics quiz
+###### Due Sun 24 Aug 2025 (optional, ungraded): Evolution basics quiz
 
 ## 3.1 Mon 25 Aug 2025
 
@@ -84,7 +84,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 31 Aug 2025: Exercise 4 - explain Goldfinch section
 >
-###### Due Sun 31 Aug 2025: Evolution intermediate quiz
+###### Due Sun 31 Aug 2025 (optional, ungraded): Evolution intermediate quiz
 
 ## 4.1 Mon 1 Sep 2025
 
@@ -102,10 +102,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class:
 		- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](/downloads/duttonArtHumanSelfdomestication2009.pdf), [:Dutton discussion questions](#x-dutton-discussion-questions)
 - Writing topic: outlining, paragraph structure
-
+	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Sun 7 Sep 2025: Paper 1 - option to submit drafted material (this is honestly optional, it is not required or expected)
+###### Due Sun 7 Sep 2025: Paper 1 - option to submit drafted material (honestly optional, it is not required or expected)
 
 ## 5.1 Mon 8 Sep 2025
 
@@ -136,12 +136,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 ###### Due four days after conference: Paper 1
 >
-###### Due one day after Paper 1 final: Exercise 6 - Paper 1 writing reflection
+###### Due one day after Paper 1: Exercise 6 - Paper 1 writing reflection
 
 ## 7.1 Mon 29 Sep 2025
 
 - EP and art topic: EP and the multilevel mind
+	- Note: there are no assigned EP content readings after reading week
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
+	- Read before class (recommended): none
 
 ###### Mid-semester course evaluation
 
@@ -152,6 +154,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. Behavioral and Brain Sciences, 44, e60. https://doi.org/10.1017/S0140525X20000345
 		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. Behavioral and Brain Sciences, 44, e59. https://doi.org/10.1017/S0140525X20000333
 - Writing topic: evaluating empirical research
+	- Read before class (recommended): none
 
 ###### Due Wed 1 Oct 2025: Exercise 7 - reading questions
 
@@ -161,6 +164,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class:
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. Behavioral and Brain Sciences, 40. https://doi.org/10.1017/S0140525X17000309
 - Writing topic: introductions framing your argument, creating and refining your thesis
+	- Read before class (recommended): none
 
 ###### Due Sun 5 Oct 2025: Exercise 8 - reading questions
 
@@ -170,6 +174,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class:
 		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. Behavioral and Brain Sciences, 45, e276. https://doi.org/10.1017/S0140525X21000923
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
+	- Read before class (recommended): none
 
 ###### Due Wed 8 Oct 2025: Exercise 9 - reading questions
 
@@ -180,44 +185,45 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 - Writing topic: writing with outlines and drafts, writing concisely
+	- Read before class (recommended): none
+
+###### Due Wed 15 Oct 2025: Paper 2 - article selection
 
 ## 9.2 Thu 16 Oct 2025
 
 - Writing topic: counterarguments and objections
-
-###### Due Sun 19 Oct 2025: Paper 2 - topic proposal
+	- Read before class (recommended): none
 
 ## 10.1 Mon 20 Oct 2025 (no class, Deepavali)
 
-- [:Peer review groups](#x-peer-review-groups)
-- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
-- Writing topic: peer review
-	- Read before class (recommended): peer drafts
-
-###### Due Tue 21 Oct 2025: Paper 2 - academic conversation
+###### Due Tue 21 Oct 2025, 6pm (peer review deadline): Paper 2 - disagreement summary
 
 ## 10.2 Thu 23 Oct 2025
 
-- I encourage you to meet with your group sometime after Mon to get feedback on your source summary outline
+- [:Peer review groups](#x-peer-review-groups)
+- EP and art topic: peer review
+- Writing topic: peer review
+	- Read before class (recommended): peer writing
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 
-## 11.1 Mon 27 Oct 2025 (no class; individual student conferences)
+###### Due Sun 26 Oct 2025: Paper 2 - explain positions
 
-###### Due day of conference: Exercise 10 - Paper 2 proposal conference summary
+## 11.1 and 11.2 (27 and 30 Oct 2025) no class meetings, student conferences
 
-## 11.2 Thu 30 Oct 2025 (no class, Well-Being Day)
+###### Due day of conference: Exercise 10 - Paper 2 explain positions conference summary
 
-###### Due Sun 2 Nov 2025: Paper 2 - proposal
+###### Due Sun 2 Nov 2025, 6pm (peer review deadline): Paper 2 - working draft
 
 ## 12.1 Mon 3 Nov 2025
 
 - Writing topic: peer review
-	- Read before class (recommended): peer drafts
+	- Read before class (recommended): peer writing
 
 ## 12.2 Thu 6 Nov 2025
 
 - Last in-person class meeting
 - Writing topic: peer review
-	- Read before class (recommended): peer drafts
+	- Read before class (recommended): peer writing
 
 ###### Due Sun 9 Nov 2025: Paper 2 - full draft and outline
 
@@ -225,11 +231,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due day of conference: Exercise 11 - Paper 2 draft conference summary
 >
-###### Due one week after conference: Paper 2
+###### Due five days after conference: Paper 2
 >
-###### Due one day after Paper 2 final: Exercise 12 - Paper 2 writing reflection
+###### Due one day after Paper 2: Exercise 12 - Paper 2 writing reflection
 >
-###### Due one day after Paper 2 final: Exercise 13 - Workload report
+###### Due one day after Paper 2: Exercise 13 - Workload report
 >
 ##### :x assigned videos
 
@@ -257,7 +263,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ##### :x goldfinch conclusion discussion questions
 
-- [forthcoming]
+- What responses does the author provide for the objections he described in the earlier readings?
+- Do you think these responses are sufficient?
 
 ##### :x pinker discussion questions
 
@@ -290,4 +297,5 @@ Groups to be assigned
 - How well do the methods test the hypotheses?
 - What do the authors conclude from their research?
 - How well-supported are their conclusions?
-- Note: feel free to ignore all statistics in this paper.
+
+Note: feel free to ignore all statistics in this paper.
