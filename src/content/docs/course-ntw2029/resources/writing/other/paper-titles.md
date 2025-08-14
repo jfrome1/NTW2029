@@ -2,6 +2,11 @@
 title: Paper titles
 date: .2025-02-0
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - give your papers an appropriate title (exercises don't need titles unless indicated)

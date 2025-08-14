@@ -3,6 +3,11 @@
 title: Introductions - orienting your reader (5.2)
 date: 2025-03-11
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - purpose

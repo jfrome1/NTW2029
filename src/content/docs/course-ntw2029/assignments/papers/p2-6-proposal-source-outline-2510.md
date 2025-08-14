@@ -3,7 +3,11 @@ title: Paper 2 proposal and revised source summary outline
 date: 2025-03-14
 sidebar:
   hidden: true
+  badge:
+    text: Draft
+    variant: caution
 pagefind: false
+draft: true
 ---
 
 ## Assignment

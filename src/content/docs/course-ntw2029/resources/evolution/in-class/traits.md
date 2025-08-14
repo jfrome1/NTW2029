@@ -3,6 +3,11 @@
 title: Traits (1.2)
 date: 2025-01-26
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - individual organisms have traits (i.e., characteristics)

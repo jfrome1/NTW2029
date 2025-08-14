@@ -2,6 +2,11 @@
 
 title: Exercise 8 - Paper 2 post-conference notes (proposal conference)
 date: 2024-10-12
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

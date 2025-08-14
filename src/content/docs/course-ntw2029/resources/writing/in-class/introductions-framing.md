@@ -3,6 +3,11 @@
 title: Introductions - framing your argument
 date: 2025-03-11
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - key structural elements for framing your thesis

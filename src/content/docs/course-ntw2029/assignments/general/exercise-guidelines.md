@@ -1,6 +1,11 @@
 ---
 title: Exercise guidelines
 date: 2025-01-11
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Exercises are intended as a way to practice and/or to reflect on your writing. They are not intended to take a very long time to complete. Don't spend more than [:one to two hours](#x-one-to-two-hours) on any exercise.

@@ -1,6 +1,11 @@
 ---
 title: Other policies
 date: 2024-08-16
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Attendance

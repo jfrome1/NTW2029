@@ -3,6 +3,11 @@
 title: Analyzing arguments (2.2)
 date: 2025-01-29
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - arguments involve giving reasons and evidence that a claim is true or false

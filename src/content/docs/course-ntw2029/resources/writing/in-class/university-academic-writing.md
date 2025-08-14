@@ -4,6 +4,11 @@ title: University academic writing (1.1)
 
 date: 2025-01-17
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - what is the purpose of learning these types of writing?

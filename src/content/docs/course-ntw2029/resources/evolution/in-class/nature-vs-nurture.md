@@ -3,6 +3,11 @@
 title: Nature vs. nurture (2.1)
 date: 2025-01-26
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - a small number of human traits are determined by genes alone

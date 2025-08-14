@@ -4,6 +4,11 @@ title: Questioning evolution
 date: 2025-02-01
 
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Below are common questions asked by people who have been encouraged to be skeptical of evolution (which is totally fine) and resources answering those questions.

@@ -2,6 +2,11 @@
 
 title: Paper guidelines
 date: 2025-01-11
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 
