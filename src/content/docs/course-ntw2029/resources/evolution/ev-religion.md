@@ -1,10 +1,5 @@
 ---
 title: Evolution and Religion
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Are evolution and religion incompatible?

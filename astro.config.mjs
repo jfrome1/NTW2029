@@ -51,19 +51,10 @@ export default defineConfig({
           link: "course-ntw2029/schedule",
           label: "Course schedule",
         },
-/*         {
-          label: "Course information (forthcoming)",
+        {
+          label: "Course information",
           collapsed: true,
-          items: [
-            "course-ntw2029/course-info/need-help",
-            "course-ntw2029/course-info/readings",
-            "course-ntw2029/course-info/conferences",
-            "course-ntw2029/course-info/gen-ai-policy",
-            "course-ntw2029/course-info/tech-guidelines",
-            "course-ntw2029/course-info/policies",
-            "course-ntw2029/course-info/grading",
-            "course-ntw2029/course-info/extensions",
-          ],
+          autogenerate: { directory: "course-ntw2029/course-info" },
         },
         {
           label: "Assignments",
@@ -99,45 +90,19 @@ export default defineConfig({
             {
               label: "Evolution",
               collapsed: true,
-              items: [
-                {
-                  label: "In-class",
-                  collapsed: true,
-                  autogenerate: {
-                    directory: "course-ntw2029/resources/evolution/in-class",
-                  },
-                },
-                {
-                  label: "Other",
-                  collapsed: true,
-                  autogenerate: {
-                    directory: "course-ntw2029/resources/evolution/other",
-                  },
-                },
-              ],
+              autogenerate: {
+                directory: "course-ntw2029/resources/evolution",
+              },
             },
             {
               label: "Writing",
               collapsed: true,
-              items: [
-                {
-                  label: "In-class",
-                  collapsed: true,
-                  autogenerate: {
-                    directory: "course-ntw2029/resources/writing/in-class",
-                  },
-                },
-                {
-                  label: "Other",
-                  collapsed: true,
-                  autogenerate: {
-                    directory: "course-ntw2029/resources/writing/other",
-                  },
-                },
-              ],
+			  autogenerate: {
+				directory: "course-ntw2029/resources/writing",
+			  },
             },
           ],
-        }, */
+        },
       ],
     }),
     compress({
