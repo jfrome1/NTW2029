@@ -2,7 +2,7 @@
 async function getLatestCommit(slug: string) {
 	try {
 		const response = await fetch(
-			"https://api.github.com/repos/jfrome1/ntw2029/commits?path=src/content/docs/" + slug,
+			"https://api.github.com/repos/jfrome1/ntw2029/commits?path=src/content/docs/" + slug + ".md",
       {
         headers: {
           Authorization: `Bearer ${import.meta.env.TOKEN}`, // Use template literal and environment variable
@@ -49,7 +49,7 @@ function formatCommitDate(dateString: string | null) {
 }
 ---
 <div style={{
-  marginTop: Astro.url.pathname === "/course-ntw2029/schedule" ? "55vh" : "",
+  marginTop: Astro.url.pathname.includes("/course-ntw2029/schedule") ? "55vh" : "",
 }}>Last updated: {formatCommitDate(await getLatestCommit(Astro.locals.starlightRoute.entry.id))}</div>
 <p style={{color: "var(--sl-color-gray-3)"}}>Send me questions or feedback about the website for class participation credit.</p>
 
