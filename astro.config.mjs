@@ -61,11 +61,6 @@ export default defineConfig({
           collapsed: true,
           items: [
             {
-              label: "General information",
-              collapsed: true,
-              autogenerate: { directory: "course-ntw2029/assignments/general" },
-            },
-            {
               label: "Exercises",
               collapsed: true,
               autogenerate: {
@@ -77,10 +72,7 @@ export default defineConfig({
               collapsed: true,
               autogenerate: { directory: "course-ntw2029/assignments/papers" },
             },
-            {
-              label: "Projects",
-              link: "course-ntw2029/assignments/exercises/e03-boyd",
-            },
+
           ],
         },
         {
@@ -97,9 +89,9 @@ export default defineConfig({
             {
               label: "Writing",
               collapsed: true,
-			  autogenerate: {
-				directory: "course-ntw2029/resources/writing",
-			  },
+              autogenerate: {
+                directory: "course-ntw2029/resources/writing",
+              },
             },
           ],
         },
