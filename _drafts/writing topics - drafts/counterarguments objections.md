@@ -1,0 +1,41 @@
+- Counterarguments, counterexamples, skeptical questions, and objections (questions and objections for short)
+	- In academic conversations, authors often respond to possible counterarguments to their theses
+	- Those counterarguments might have been actually made and published by others or they might just be things the author thinks someone might say in response
+- Why anticipate questions and objections?
+	- Enhances your credibility by conveying to your reader that
+		- You are fair-minded and willing to consider different points of view
+		- You recognize the potential limitations of your argument
+		- You have an answer to their most pressing questions
+	- Helps you discover problems with your paper's argument
+	- Remember, don't think of your thesis as a debate position you need to defend to win; think of it as a small step towards discovering true things
+		- Counterarguments are not attacks you must silence or destroy, they are feedback you should consider and (if needed) reject
+- How to anticipate or identify possible questions and objections?
+	- Consider how your source would respond or defend their argument in the face of your thesis/claims/discussion
+	- Consider how a skeptic (source or other) might challenge your thesis/claims/discussion
+ 	- After writing a first draft, mark your main claims and check if you've already anticipated questions/objections to them
+		- If so, assess whether your reasons and evidence adequately support your answer/rebuttal
+		- If not, brainstorm about questions or objections a skeptical reader might bring up
+	- Seek feedback from actual readers and identify where they are skeptical or confused
+- How to respond?
+	- Anticipate as many questions and objections as you can, but respond only to the most important ones (it's possible that you won't have any important ones to reply to)
+	- Only include questions or objections that you think an educated reader might reasonably entertain; you don't have to respond to every crackpot idea, even if it is published somewhere
+	- Represent and explain questions and objections fairly and generously; don't "strawman" objections, "steelman" them
+	- If you bring up a question or objection you must respond to it; don't mention a counterargument in your paper without responding to it
+	- Responding doesn't always mean offering a rebuttal; a partial concession can strengthen your main argument
+	- Preview major questions / objections in the introduction ("major" means that a significant part of the paper will be devoted to discussing the objection)
+- Qualifying your claims
+	- Sometimes, all you need to do to anticipate questions / objections is to qualify your claims in a way that shows their scope / limitations / preconditions:
+	- Example: "Today Franklin D. Roosevelt is revered as one of America's most admired historical figures, but toward the end of his second term, he was quite unpopular, at least among many segments of American society. Newspapers, for example, attacked him for promoting socialism."
+		- What's an objection that might be raised in response to this? How could you reply?
+- Hedging your claims
+	- Another strategy to deflect criticism is to carefully distinguish between hard claims ("Language is an adaptation") and suggestions / speculations ("It seems that...", "This argument suggests...")
+	- Hedging too much will convey an impression of timidity
+	- Hedging too little will convey an impression of arrogant certainty
+		- Be careful with "no one", "every", "always", "never"
+		- Be careful when making unqualified/overconfident statements about events that occurred in the EEA (such as evolution of a trait)
+- Checklist
+	- Consider to what extent you're already anticipating questions and objections, whether you've picked the most important ones, and whether you're responding to them in a satisfactory way
+	- Consider whether you're using too many hedges or being too certain in your statements
+	- Consider adding partial concessions to your argument or qualifying your argument when there's a limiting condition (i.e. when your argument isn't true in every case)
+<!-- 	- Look at templates handout for responding to objections: sections "Entertaining Objections", "Naming Your Naysayers", and "Introducing Objections Informally"
+- 	 "Unless it can be shown that the newspapers critical of Roosevelt were controlled by special interests, their attacks demonstrate significant popular dissatisfaction with Roosevelt's presidency." -->
