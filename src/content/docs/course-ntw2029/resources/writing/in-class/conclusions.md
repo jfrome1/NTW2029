@@ -3,6 +3,11 @@
 title: Conclusions
 date: 2025-03-11
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Conclusions are much less important than introductions. Introductions are essential for helping your reader understand your paper. Conclusions serve just to close the paper and (potentially) suggest ways to continue the academic conversation.

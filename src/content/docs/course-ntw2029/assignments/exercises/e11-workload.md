@@ -1,6 +1,11 @@
 ---
 title: Exercise 11 - Workload report
 date: 2025-01-15
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Instructors are told that this course should require an average of 10 hours of work per week, and I want to make sure I am within that guideline. I need your help to make sure I'm meeting this goal.

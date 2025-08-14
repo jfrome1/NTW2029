@@ -4,6 +4,11 @@ title: Genetics terminology
 date: 2025-02-01
 
 
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Explainers: DNA, genes, chromosomes, alleles

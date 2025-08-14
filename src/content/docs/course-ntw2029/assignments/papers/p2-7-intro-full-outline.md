@@ -1,6 +1,12 @@
 ---
 title: Paper 2 partial draft and full outline
 date: 2025-02-01
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
+
 ---
 
 Details to come, but in short, you will:

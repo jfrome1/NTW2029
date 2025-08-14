@@ -1,6 +1,11 @@
 ---
 title: Grading
-date: 2025-01-21
+date: 2025-08-12
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 
@@ -10,7 +15,7 @@ date: 2025-01-21
 |                     |     |
 | ------------------- | :-: |
 | Class participation | 15% |
-| Exercises and Paper assignments | 15% |
+| Exercises | 15% |
 | Paper 1             | 30% |
 | Paper 2             | 40% |
 
@@ -28,17 +33,17 @@ Your class participation grade is based on how seriously I think you are engaged
 
 I understand that some students are shy and have trouble speaking in class. Although speaking in class is an important and visible part of class participation, please note that only one of the factors above involves speaking in class, and you can participate in many other ways.
 
-## Exercises and Paper assignments
+## Exercises
 
-Grading guidelines for exercises are on the [exercise guidelines](/course-ntw2029/assignments/general/exercise-guidelines) page.
+"Exercises" is shorthand for assigned exercises, quizzes, surveys, paper drafts, and anything else I assign outside of the final Paper 1 and 2  submissions.
 
-Paper assignments refers to paper submissions other than the final draft, such as proposals and outlines. They are graded using the same criteria and point system as exercises, but they should follow the Paper requirements and formatting guidelines.
+I grade
 
-Note that exercises may be skipped, but all non-optional paper assignments must be submitted.
+Although you can still pass the course if you skip exercises (with a grade penalty), all paper assignments must be submitted to pass the course.
 
 ## Papers 1 and 2
 
-Detailed grading criteria for for papers will be discussed in class and provided on the course website. Both papers will have students submit proposals, outlines, and/or drafts for instructor and peer feedback to make sure students have enough guidance to produce successful work. Students cannot skip paper assignments. All steps of each paper must be submitted at passing quality to pass the course.
+Detailed grading criteria for for papers will be discussed in class and provided on the course website. Both papers will have  students submit proposals, outlines, and/or drafts for instructor and peer feedback to make sure students have enough guidance to produce successful work. All steps of each paper must be submitted at passing quality to pass the course.
 
 ##### :x engagement
 
@@ -64,10 +69,9 @@ Good class preparation means you come to class with all needed materials, honest
 
 Preparing for the course includes:
 
-- reading the course website carefully, including the info, policies, all assignments, and resource
+- reading the course website carefully, including the info, policies, all assignments, and resources
 - setting up the apps and notifications as described on the [technology guidelines](/course-ntw2029/course-info/tech-guidelines) page.
 
 ##### :x individual
 
 Students come into this class with different backgrounds, and I'll sometimes give you a resource to help you with a particular issue. For example, I might tell you that you are making comma errors and give you a resource to learn how to fix the problem. You actively contribute towards your individual learning if you use that resource and learn how to avoid those errors. If I see the same issues in your Paper 2 as your Paper 1, that suggests that you were not able to participate in your learning as much as you might have wanted to.
-

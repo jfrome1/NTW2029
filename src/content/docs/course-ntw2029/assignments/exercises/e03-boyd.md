@@ -1,7 +1,7 @@
 ---
 title: Exercise 3 - explain Boyd
 date: 2024-08-23
-publishDate:
+draft: true
 ---
 
 ## Assignment purpose

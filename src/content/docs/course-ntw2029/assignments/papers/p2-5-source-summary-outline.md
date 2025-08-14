@@ -1,6 +1,12 @@
 ---
 title: Paper 2 source summary and (optional) source summary outline
 date: 2025-03-14
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
+
 ---
 
 ## Assignment

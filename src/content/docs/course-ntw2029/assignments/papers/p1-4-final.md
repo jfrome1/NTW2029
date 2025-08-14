@@ -1,7 +1,12 @@
 ---
-
 title: Paper 1 final
 date: 2024-12-26
+
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 
 ---
 

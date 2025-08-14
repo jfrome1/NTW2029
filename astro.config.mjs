@@ -4,17 +4,11 @@ import starlightLinksValidator from "starlight-links-validator";
 import starlightNutshell from "starlight-nutshell";
 import rehypeExternalLinks from "rehype-external-links";
 import compress from "astro-compress";
+import starlightAutoDrafts from "starlight-auto-drafts";
 
 export default defineConfig({
   integrations: [
     starlight({
-      tableOfContents: {
-        minHeadingLevel: 1,
-        maxHeadingLevel: 2,
-      },
-      markdown: {
-        headingLinks: false,
-      },
       plugins: [
         starlightLinksValidator({
           errorOnFallbackPages: false,
@@ -22,7 +16,29 @@ export default defineConfig({
           errorOnInvalidHashes: false,
         }),
         starlightNutshell(),
+        starlightAutoDrafts({
+          highlights: {
+            badges: true,
+          },
+        }),
       ],
+      markdown: {
+        headingLinks: false,
+        rehypePlugins: [
+          [
+            rehypeExternalLinks,
+            {
+              content: { type: "text", value: " 🡕" },
+              target: "_blank",
+              rel: ["noopener", "noreferrer"],
+            },
+          ],
+        ],
+      },
+      tableOfContents: {
+        minHeadingLevel: 1,
+        maxHeadingLevel: 2,
+      },
       title: "NTW2029 - Home",
       components: {
         // Override the default components.
@@ -35,12 +51,10 @@ export default defineConfig({
           link: "course-ntw2029/schedule",
           label: "Course schedule",
         },
-        {
-          label: "Course information",
+/*         {
+          label: "Course information (forthcoming)",
           collapsed: true,
           items: [
-            "course-ntw2029/course-info/read-this-first",
-            "course-ntw2029/course-info/instructor",
             "course-ntw2029/course-info/need-help",
             "course-ntw2029/course-info/readings",
             "course-ntw2029/course-info/conferences",
@@ -71,6 +85,10 @@ export default defineConfig({
               label: "Papers",
               collapsed: true,
               autogenerate: { directory: "course-ntw2029/assignments/papers" },
+            },
+            {
+              label: "Projects",
+              link: "course-ntw2029/assignments/exercises/e03-boyd",
             },
           ],
         },
@@ -119,7 +137,7 @@ export default defineConfig({
               ],
             },
           ],
-        },
+        }, */
       ],
     }),
     compress({
@@ -130,16 +148,4 @@ export default defineConfig({
       },
     }),
   ],
-  markdown: {
-    rehypePlugins: [
-      [
-        rehypeExternalLinks,
-        {
-          content: { type: "text", value: " 🡕" },
-          target: "_blank",
-          rel: ["noopener", "noreferrer"],
-        },
-      ],
-    ],
-  },
 });
