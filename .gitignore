@@ -2,10 +2,12 @@
 **/node_modules
 
 # Framework files
-drafts/
-coding-notes/
-96.01 website for NTW2029.code-workspace
-NTW2029.code-workspace
+_drafts/
+_notes/
+_scripts/
+*.code-workspace
+_exclude/
+
 
 # Build output
 dist/
