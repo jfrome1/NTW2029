@@ -1,0 +1,14 @@
+- you narrow down your potential paper topic from a general topic, to narrower questions, to sources that can answer those questions, but what you find in the sources will cause you to revise your questions  
+- you must scan sources to add to the academic conversation, because you need to know what has already been said, but you cannot read all sources in depth at this stage because you will be overwhelmed  
+- as you read/skim, look for specific questions within your interest area that you might dive into  
+- sources to scan for ideas  
+- Books with words in the title such as "Handbook", "Companion to" and "[Publisher] Guide to", which give overviews of research in specific areas within a discipline  
+	- Dunbar, Robin, and Louise Barrett, eds. _The Oxford Handbook of Evolutionary Psychology_. Oxford, England: Oxford University Press, 2007.  
+	- Buss, David M., ed. _The Handbook of Evolutionary Psychology, v. 2: Integrations_. 2nd edition. Hoboken, New Jersey: Wiley, 2016.  
+	- Shackelford, Todd K., ed. _The SAGE Handbook of Evolutionary Psychology: Integration of Evolutionary Psychology with Other Disciplines_. London ; Thousand Oaks, California: SAGE Publications, 2021.  
+- Relevant journals  
+	- [Evolutionary Studies in Imaginative Culture](https://www.degruyter.com/journal/key/esic/html#latestIssue)  
+	- target/response journal issues can show you examples of how academics disagree and discuss topics in academic writing  
+- reading about an academic disagreement may be a good way to find a topic—who do you agree with and why?  
+	- note: you still need to add to the conversation, you can't just repeat the arguments of the source you agree with; but you can analyze the disagreement and potentially help your reader understand why one set of arguments is better  
+- for doctoral dissertations, look up the author and see if they have published a revised version as a book or journal article
