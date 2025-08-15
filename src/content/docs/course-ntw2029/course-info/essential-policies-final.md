@@ -21,16 +21,9 @@ No electronic devices visible during class. I'll provide printed lecture notes s
 - **Telegram**: Download the app and join our class chat when I share the link
 - **Email**: Put "NTW2029" in every subject line so your email goes to the right folder
 
-## Extension Policy
+## GenAI Policy
 
-Any assignment (except peer review ones) can be submitted 12 hours late automatically - just submit by noon the next day.
-
-- Don't email me about it
-- No explanation needed
-- Yes, this includes final papers
-- No additional extensions except for serious documented circumstances
-
-If you're struggling with workload, please come talk to me or check out NUSC's [pastoral care resources](https://tinyurl.com/nuscpastoralcare).
+See the [GenAI Policy page](/course-ntw2029/course-info/gen-ai-policy/) for complete details about using AI tools in this course.
 
 ## Classroom Conduct
 
@@ -49,4 +42,16 @@ If you're struggling with workload, please come talk to me or check out NUSC's [
 
 ### Academic Integrity
 
-Using GenAI without submitting transcripts or failing to include the non-use statement will be considered an academic honesty violation with serious penalties.
+Using GenAI without following the course policy (see [GenAI Policy page](/course-ntw2029/course-info/gen-ai-policy/)) will be considered an academic honesty violation with serious penalties.
+
+## Course Improvement & Privacy
+
+To continuously improve this course and my teaching, I may:
+
+- Use anonymized examples from your work in future classes (your name will never be attached)
+- Record class sessions and conferences to create transcripts for improving course materials
+- Analyze patterns in student work to identify areas where instruction can be clearer
+
+All of this is done to make the course better for future students. Your privacy is protected - any examples or quotes used will be anonymous, and recordings are used only for course development, not evaluation.
+
+If you prefer that your work or words not be used in any of these ways, just email me to opt out - no questions asked and no impact on your grade.
