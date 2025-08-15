@@ -26,11 +26,13 @@ Ask permission rather than announce decisions. "May I meet with you after class?
 Choosing the right channel saves everyone time.
 
 **Ask publicly in Teams or class** when others would benefit:
+
 - Can't find something on the website
 - Questions about readings or concepts
 - Coordinating with classmates
 
 **Email me privately** for individual situations:
+
 - Your specific paper topic
 - Personal issues affecting coursework
 - Reporting website errors (so I can fix them before confusing others)
@@ -40,11 +42,13 @@ Rule of thumb: If it's just about you, go private. If others might wonder the sa
 ## Making Conferences Count
 
 Good conferences happen when you come prepared. Before we meet:
+
 - Review the assignment and your submission
 - Write down specific questions (not "what should I fix?")
 - Identify the hardest part for you
 
 During our Zoom conference:
+
 - Find a quiet indoor space (wind noise makes it hard to hear)
 - Keep video on with your face visible
 - Don't eat during the meeting
@@ -55,6 +59,7 @@ I can record conferences if you ask at the beginning. You'll get the recording a
 ## Understanding My Feedback
 
 When I mark up your papers, here's what the formatting means:
+
 - **Green highlighting**: Grammar or citation error (check citations page if unclear)
 - **Light green text**: I can guess what you mean, but it's technically wrong
 - **Bold text**: Wrong tone for academic writing or unnecessarily complex word choice
