@@ -2,12 +2,7 @@
 **/node_modules
 
 # Framework files
-_drafts/
-_notes/
-_scripts/
 *.code-workspace
-_exclude/
-
 
 # Build output
 dist/
