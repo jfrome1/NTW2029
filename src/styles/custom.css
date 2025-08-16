@@ -7,12 +7,6 @@ main {
 	/* this is the most important setting for content in main pane */
 }
 
-.sl-markdown-content table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-
 :root {
 	/* Text size and line height */
 	--sl-text-xs: 0.8125rem;
@@ -87,17 +81,30 @@ main ul {
 	list-style-type: disc;
 }
 
-.table-container {
+/* .table-container {
 	overflow-x: auto;
 	white-space: nowrap;
 }
-
+*/
 /* fix table overflowing with max width */
-table {
+/* table {
 	max-width: 560px;
 	white-space: normal;
 	display: block;
 	overflow-x: auto;
+}
+*/
+
+.sl-markdown-content table {
+    display: block;
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+.sl-markdown-content td,
+.sl-markdown-content th {
+    white-space: normal;
+    min-width: 100px;
 }
 
 /* Adjust the main content area width */
@@ -110,6 +117,11 @@ main {
 	/* Optional: Add some padding */
 }
 
+/***************************************************
+EXPANDABLE LINKS
+***************************************************/
+
+
 .nutshell-heading-embed {
 	display: none;
 }
@@ -117,10 +129,6 @@ main {
 .nutshell-heading {
 	scroll-margin-top: -1rem;
 }
-
-/***************************************************
-EXPANDABLE LINKS
-***************************************************/
 
 .nutshell-expandable {
 
