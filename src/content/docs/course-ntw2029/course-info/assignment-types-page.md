@@ -98,6 +98,10 @@ If you can't find the settings window you need, [:use Word function search](#x-u
 
 There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, and I've been in this business a long time, so I can't help formatting from affecting how I view a paper. I find it really pleasant to see correct formatting and quite annoying to see incorrect formatting, so your formatting determines my mood when I start reading your paper. You may not care about formatting, and I wish I didn't, but I do!
 
+##### :x show-comments
+
+![show comments](/images/show-comments.jpg)
+
 ##### :x paragraph-settings
 
 In Imperial:
