@@ -1,7 +1,6 @@
 ---
 title: Course Mechanics
 date: 2025-08-14
-draft: false
 ---
 
 ## Grade Breakdown
@@ -15,93 +14,110 @@ draft: false
 
 I evaluate your engagement during class meetings based on:
 
-- Being on time and letting me know about absences in advance
-- Active engagement in discussions and small group work
-- Coming to class with readings done and ready to discuss
-- Helping the class develop understanding together
+- Come to class on time and notify me about absences in advance
+- Engage actively in discussions and small group work
+- Complete readings before class and come ready to discuss them
+- Help the class develop understanding through your contributions
 
-[:What good participation looks like](#x-what-good-participation-looks-like):
+[:What good participation looks like](#x-what-good-participation-looks-like)
 
 ## Exercises & Self-Regulated Learning (15%)
 
-### The basics
+### The Basics
 
-Individual exercises are graded credit/no credit during the term. Getting a "complete" on all exercises typically earns a grade of 75%. To determine your final grade, I adjust this number based on how proactive you are in your learning process, a quality sometimes called "self-regulated learning" (SRL). This adjustment rewards students who genuinely work to improve their writing skills rather than just following instructions to earn a grade. More on [:why I incorporate SRL](#x-why-i-incorporate-srl) and [:how SRL is evaluated](#x-how-srl-is-evaluated).
+Individual exercises are graded credit/no credit during the term. Getting "complete" on all exercises typically earns 75%. I adjust your final grade based on how proactive you are in your learning process - a quality called "self-regulated learning" (SRL). [:Why I incorporate SRL](#x-why-i-incorporate-srl) and [:how SRL is evaluated](#x-how-srl-is-evaluated).
 
-Don't spend more than two hours on any exercise (excluding reading time). Exercises are for writing practice and reflection; they are not final papers.
+Don't spend more than two hours on any exercise (excluding reading time).
 
 ### How to Write Exercises
 
-Write exercises with:
+- Write with proper grammar so I know errors aren't from carelessness
+- Use formal style like an essay, not a casual email
+- Choose simple, clear language over complex vocabulary
+- Skip introductions and conclusions - exercises aren't full essays
+- Don't quote or cite sources unless specifically requested
+- Don't do outside research beyond assigned readings
 
-- Proper grammar (so I know errors aren't from carelessness)
-- Formal style (like an essay, not a casual email)
-- Simple, clear language
+### Exercise Grading
 
-Don't do these in exercises:
+For an exercise to be complete:
+- Submit by the deadline (or within 12-hour extension)
+- Include all required elements for that specific assignment
+- Add GenAI link or non-use statement at the bottom
 
-- Quote or cite sources (unless I specifically ask)
-- Do outside research (that's not what they're meant for)
-- Include introductions or conclusions (they're not full essays)
+Grading scale:
+- **Complete** (1 point): All requirements met
+- **Complete on resubmission** (0.5 points): Fixed after feedback (1 week maximum, only 1 resubmission per exercise)
+- **Incomplete** (0 points): Requirements not met even after resubmission
 
-### Exercise grading
-
-For an exercise to be complete, it must fully meet basic guidelines:
-
-- Be submitted by the deadline (or extended deadline)
-- Include all elements of the specific assignment
-- Include a GenAI link or non-use statement at the bottom
-
-Individual exercises are graded as:
-
-- **Complete** (1 point) - all guidelines met
-- **Complete on resubmission** (0.5 points) - after my feedback, your resubmission meets all guidelines (1 week maximum to resubmit, only 1 resubmission per exercise)
-- **Incomplete** (0 points) - all guidelines not met, even in resubmission
-
-Don't freak out if you get one or two incompletes. Each one is a very small part of the final grade.
+Don't panic about getting one or two incompletes - each exercise is a very small part of your final grade.
 
 ## Paper 1 (30%) and Paper 2 (40%)
 
-Grading criteria for the papers will be discussed in future classes.
+Grading criteria for papers will be discussed in future classes. 
 
-Although you can still pass the course if you skip exercises, all paper assignments must be submitted at a minimum acceptable quality to pass the course.
+All paper assignments must be submitted at minimum acceptable quality to pass the course, even if you skip some exercises.
 
 ## Assignment Submission Requirements
 
-For all assignments:
+### For All Assignments
 
-- Submit as an attached Word document (.docx)
+- Submit as attached Word document (.docx) - not Pages, PDF, or Google Docs
 - Include at top: Your name and section (E1 or E2)
 - Include at bottom: Word count and GenAI links/non-use statement
-- Can resubmit unlimited times until deadline (I grade the last submission only)
-- Format in accordance with this [properly formatted paper template](/downloads/ntw2029-paper.docx), check the template comments (`Review / Show Comments`)
-- For papers only
-	- Highlight thesis in yellow (2 sentences max)
-	- Highlight topic sentences in light blue
+- Resubmit unlimited times until deadline - I grade only the last submission
 
-##### :x what good participation looks like
+### Paper Formatting Requirements
 
-- **Preparation**: Actually read the material (not just skim), come with opinions and/or questions, bring your materials.
-- **During discussions**: Ask clarifying questions, build on others' ideas, listen actively. I value thoughtful wrong answers and genuine questions just as much as correct ones. This isn't a competition.
-- **During small groups**: Focus discussion on the activity; ask me if you don't know what to do; if you finish early, ask what more you ca n rather than chatting about other things.
-- **During peer review**: Read classmates' materials beforehand, come in with comments, take an active role, ask questions rather than defending your views
-- **Attendance** : Be on time and let me know in advance if you'll miss class or be late.
+- Set up double-spacing with left justification only (not justified on both sides)
+- Indent first line of each paragraph 0.5 inches
+- Remove extra space between paragraphs (Word adds this automatically)
+- Use Times New Roman 12-point font or similar standard font
+- Keep 1-inch margins on all sides
+- Format citations and reference list in APA style [:APA resources](#x-apa-help)
+- Center paper title at top of first page (no separate title page)
+- Download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check its comments
 
-##### :x why i incorporate srl
+### Additional Requirements for Papers Only
 
-Good writing develops through deliberate practice and reflection. It's not enough to just complete assignments - to get the most out of this course, you need to reflect on what you are doing to build your skills. Are you just following instructions as best you can in hopes of a good grade? Or are you thinking about your writing and learning and taking action to improve your abilities?
-When you create an action plan after a conference, or when you use resources to understand a writing problem I pointed out in Paper 1 and learn to fix it in Paper 2, you're demonstrating self-regulated learning. Students who actively engage with feedback and course resources are the ones who improve their writing the most.
-This part of your grade is to reward students who go beyond minimum requirements to improve their writing. If you consistently show that you're taking action to improve your learning (even if imperfectly), that will be reflected in your grade.
+- Highlight your thesis statement in yellow (2 sentences maximum)
+- Highlight all topic sentences in light blue
+- Start reference list on a new page at the end
+- Italicize all source titles in both text and reference list
 
-##### :x how srl is evaluated
+##### :x what-good-participation-looks-like
 
-I evaluate your self-regulated learning based on several factors. Beyond completing exercises, I'm looking at whether you:
+**Preparation**: Actually read the material (not just skim), come with opinions and/or questions, bring your materials.
 
-- Pay attention to and follow course guidelines
-- Use feedback to help identify writing skills to work on rather than as a checklist of errors to correct
-- Work on writing skills using the course resources I provide
+**During discussions**: Ask clarifying questions, build on others' ideas, listen actively. I value thoughtful wrong answers and genuine questions just as much as correct ones. This isn't a competition.
+
+**During small groups**: Focus discussion on the activity. Ask me if you don't know what to do. If you finish early, ask what more you can do rather than chatting about other things.
+
+**During peer review**: Read classmates' materials beforehand, come with comments prepared, take an active role, ask questions rather than defending your choices.
+
+**Attendance**: Be on time and let me know in advance if you'll miss class or be late.
+
+##### :x why-i-incorporate-srl
+
+Good writing develops through deliberate practice and reflection. It's not enough to just complete assignments - to improve, you need to think about what you're doing to build your skills. Are you just following instructions hoping for a good grade? Or are you thinking about your writing and taking action to improve?
+
+When you create an action plan after a conference, or when you use resources to fix a problem I identified in Paper 1 before writing Paper 2, you're demonstrating self-regulated learning. Students who actively engage with feedback and course resources improve their writing the most.
+
+This part of your grade rewards going beyond minimum requirements to genuinely improve your writing. If you consistently show you're taking action to improve (even imperfectly), that will be reflected in your grade.
+
+##### :x how-srl-is-evaluated
+
+I look for evidence that you:
+
+- Pay attention to and follow course guidelines consistently
+- Use feedback to identify skills to work on, not just errors to fix
+- Work on writing skills using the resources I provide
 - Prepare well for conferences to use our time effectively
-- Synthesize conference feedback into actionable plans (not just list what we talked about)
+- Synthesize conference feedback into actionable plans (not just list what we discussed)
 - Identify and prioritize the key issues in your writing
 - Apply feedback from earlier assignments to improve later ones
 - Show accuracy and insight in your self-assessments
+
+##### :x apa-help
+
+APA format confuses everyone at first. Check the citations page on the course website for examples. The key things students forget: page numbers for paraphrases, italics for titles, and the hanging indent in the reference list. The template shows correct formatting.
