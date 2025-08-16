@@ -44,15 +44,17 @@ Please don't spend more than two hours on any exercise (excluding reading time).
 
 ### Exercise Grading
 
-For an exercise to be complete:
+Requirements for an exercise to be complete:
+
 - Submit by the deadline (or within 12-hour extension)
 - Include all required elements for that specific assignment
-- Add GenAI link or non-use statement at the bottom
+- Add a GenAI link(s) or non-use statement at the bottom
 
 Grading scale:
-- **Complete** (1 point): All requirements met
-- **Complete on resubmission** (0.5 points): Fixed after feedback (1 week maximum, only 1 resubmission per exercise)
-- **Incomplete** (0 points): Requirements not met even after resubmission
+
+- **Complete** (1 point): All requirements fully met
+- **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per exercise)
+- **Incomplete** (0 points): Not submitted on time or resubmission doesn't fully meet requirements
 
 Don't panic about getting one or two incompletes - each exercise is a very small part of your final grade.
 
@@ -69,25 +71,28 @@ All paper assignments must be submitted at minimum acceptable quality to pass th
 - Submit as attached Word document (.docx) - not Pages, PDF, or Google Docs
 - Include at top: Your name and section (E1 or E2)
 - Include at bottom: Word count and GenAI links/non-use statement
-- Resubmit unlimited times until deadline - I grade only the last submission
+- You can resubmit unlimited times until the deadline; I grade only the last submission
 
-### Paper Formatting Requirements
+### Assignment Formatting Requirements
+
+The easiest way to understand formating requirements is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx), see what it looks like, and check the comments.
+
+[:Formatting requirements spelled out in list form](#x-formatting-requirements-spelled-out-in-list-form) with instructions for setting them in MS Word
 
 - Set up double-spacing with left justification only (not justified on both sides)
-- Indent first line of each paragraph 0.5 inches
-- Remove extra space between paragraphs (Word adds this automatically)
-- Use Times New Roman 12-point font or similar standard font
-- Keep 1-inch margins on all sides
-- Format citations and reference list in APA style [:APA resources](#x-apa-help)
+- Indent first line of each paragraph 0.5 inches or 1.25 cm
+- Remove extra space/blank line between paragraphs (Word usually adds this automatically)
+- Use 12-point font
+- Keep 1-inch or 2.5 cm margins on all sides
 - Center paper title at top of first page (no separate title page)
-- Download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check its comments
+- Format citations and reference list in APA style (see Citations page)
 
-### Additional Requirements for Papers Only
+### Additional Requirements for Papers Only (drafts and final papers, not all preliminary paper assignments)
 
 - Highlight your thesis statement in yellow (2 sentences maximum)
 - Highlight all topic sentences in light blue
 - Start reference list on a new page at the end
-- Italicize all source titles in both text and reference list
+- Italicize all titles in both text and reference list
 
 ##### :x what-good-participation-looks-like
 
@@ -121,7 +126,3 @@ I look for evidence that you:
 - Identify and prioritize the key issues in your writing
 - Apply feedback from earlier assignments to improve later ones
 - Show accuracy and insight in your self-assessments
-
-##### :x apa-help
-
-APA format confuses everyone at first. Check the citations page on the course website for examples. The key things students forget: page numbers for paraphrases, italics for titles, and the hanging indent in the reference list. The template shows correct formatting.
