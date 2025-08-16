@@ -1,85 +1,60 @@
 ---
 title: Communication & Support
 date: 2025-08-14
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Contact Methods
 
 ### How to Reach Me
 
-- **Email**: Best for anything formal (extensions, conferences, concerns)
-  - Put "NTW2029" in the subject line every time
-  - Use both your formal name and what I call you in class so I know who you are
-  - I aim to respond within one business day - if you don't hear from me, just email again (I won't be annoyed, sometimes emails get buried)
-- **Telegram**: Quick questions and class chat
-- **In person**: I'm on campus most days - grab me after class for quick things or email for longer meetings
+- **Email**: Use email for formal requests (extensions, conference scheduling, grade concerns)
+  - Include "NTW2029" in every subject line [:why this matters](#x-email-filtering)
+  - Use both your formal name and preferred name so I know who you are
+  - Expect response within one business day; email again if you don't hear back
+- **Telegram**: Use class chat for quick questions and discussions
+- **In person**: Grab me after class for quick questions or email to schedule longer meetings
 
 ### Don't Use These
 
-Canvas messages or office voicemail - I honestly don't check them
+Canvas messages and office voicemail - I don't check them
 
 ## When to Ask Questions
 
-I want you to ask questions! Here's how to decide where:
-
 ### Ask Everyone (Telegram or in class)
 
-- Can't find something on the website (after using search)
-- Need clarification on readings or concepts
-- Questions from class that might help others understand
-- Coordinating with classmates for notes or study groups
-- Sharing relevant examples or links
+- Post questions about readings or concepts that confuse you
+- Ask for clarification on assignment requirements
+- Share resources or examples relevant to class
+- Coordinate with classmates for notes or study groups
+- Request help finding something on the website (after using search)
 
-### Just Ask Me (email)
+### Email Me Privately
 
-- Anything about your specific paper topic (not a good use of class time)
-- Personal situations affecting coursework
-- Website errors (tell me privately so I can fix them before confusing everyone)
-- Problems with classmates or course policies
-- Asking for exceptions or extensions
+- Ask about your specific paper topic or approach
+- Discuss personal situations affecting your coursework
+- Report website errors so I can fix them quickly
+- Address problems with classmates or course policies
+- Request exceptions or extensions beyond the automatic policy
 
-Basic rule: If it's just about you, email me. If others might wonder too, ask publicly.
-
-## Conference Requirements
-
-### Scheduling
-
-- Minimum 3 conferences required per semester
-- Book via Microsoft Bookings (uses 24-hour time)
-- Conducted on Zoom: https://nus-sg.zoom.us/my/jonathanfrome
-
-### Preparation
-
-Before your conference:
-
-- Review assignment instructions and your submission
-- Prepare specific questions
-- Have note-taking materials ready
-
-During the conference:
-
-- Find a quiet indoor space
-- Keep video on with adequate lighting
-- Don't eat during the meeting
-- Be on time (email if running late)
-
-After the conference:
-
-- Complete reflection exercise same day
-- Recording and transcript available upon request
+[:How to decide which channel to use](#x-channel-choice)
 
 ## Getting Additional Help
 
 I'm easily accessible and genuinely want to help you succeed.
 
-- Ask for extra feedback on any assignment - I'm happy to explain my comments
-- Request clarification if something doesn't make sense
-- Schedule additional meetings if you're struggling
-- Email questions about course content anytime (though check the website first)
+- Request extra feedback on any assignment to understand my comments better
+- Ask for clarification if feedback doesn't make sense
+- Schedule additional meetings if you're struggling with concepts
+- Email questions about course content (check website first)
 
 If something isn't working for you, tell me early so we can fix it together.
+
+##### :x email-filtering
+
+I teach multiple courses and get hundreds of emails. Without "NTW2029" in the subject, your email goes to my general inbox where it might get lost among administrative emails and spam. With the course code, it goes straight to the right folder and I'll see it quickly. This isn't me being rigid - it's the only way I can reliably track student emails.
+
+##### :x channel-choice
+
+Basic rule: if it's just about you, email me. If others might wonder the same thing, ask publicly.
+
+Think about whether your classmates would benefit from seeing the answer. "Can we use online sources for Paper 2?" helps everyone. "Can I write about my grandmother's art collection?" only matters to you. When in doubt, ask publicly - I can always tell you to email me if it's too specific.
