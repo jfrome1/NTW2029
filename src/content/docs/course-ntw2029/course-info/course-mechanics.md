@@ -21,8 +21,9 @@ This table shows which requirements apply to different assignment types. See sec
 | **Counts toward** | 15% (Exercises) | 15% (Exercises) | 15% (Exercises) | 30% or 40% |
 | **Formatting** | Simple Word doc | Simple Word doc | Follow paper template | Follow paper template |
 | **Highlighting** | None | None | Thesis & topic sentences | Thesis & topic sentences |
-| **Citations** | Only if requested | As needed | Full APA format | Full APA format |
-| **GenAI link/non-use<br>Word count** | Required | Required | Required | Required |
+| **Citations** | Only if requested | As needed | In-text & reference list | In-text & reference list |
+| **Word count** | Required | Required | Required | Required |
+| **GenAI link/non-use statement** | Required | Required | Required | Required |
 
 ## Class Participation (15%)
 
