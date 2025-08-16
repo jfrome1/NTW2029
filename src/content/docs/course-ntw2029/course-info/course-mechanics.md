@@ -75,7 +75,7 @@ All paper assignments must be submitted at minimum acceptable quality to pass th
 
 ### Assignment Formatting Requirements
 
-The easiest way to understand formating requirements is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx), see what it looks like, and check the comments.
+The easiest way to understand formating requirements is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx), see what it looks like, and check the comments ([:show comments](#x-show-comments) if needed).
 
 [:Formatting requirements spelled out in list form](#x-formatting-requirements-spelled-out-in-list-form) with instructions for setting them in MS Word
 
@@ -126,3 +126,35 @@ I look for evidence that you:
 - Identify and prioritize the key issues in your writing
 - Apply feedback from earlier assignments to improve later ones
 - Show accuracy and insight in your self-assessments
+
+##### :x show comments
+
+![show comments](/images/show-comments.jpg)
+
+##### :x formatting requirements spelled out in list form
+
+- in [:paragraph settings](#x-paragraph-settings)
+    - Set up double-spacing with left justification only (not justified on both sides)
+    - Indent first line of each paragraph 0.5 inches or 1.25 cm
+    - Remove extra space/blank line between paragraphs (Word usually adds this automatically)
+- Add page numbers in the page footer
+- Use 12-point font
+- Keep 1-inch or 2.5 cm margins on all sides
+- Center paper title at top of first page (no separate title page)
+- Format citations and reference list in APA style (see Citations page)
+
+If you can't find the settings window you need, [:search for settings](#x-search-for-settings)
+
+##### :x paragraph settings
+
+In Imperial:
+
+![paragraph settings in imperial](/images/formatting-settings-imperial.jpg)
+
+In Metric:
+
+![paragraph settings in metric](/images/formatting-settings-metric.jpg)
+
+##### :x search for settings
+
+![search word settings](/images/search-word-settings.jpg)
