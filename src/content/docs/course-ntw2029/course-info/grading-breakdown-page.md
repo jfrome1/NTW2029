@@ -42,6 +42,8 @@ Grading scale:
 
 Don't panic about getting one or two incompletes - each item is a very small part of your final grade.
 
+Although you are allowed to miss exercises, all paper prep assignments must be submitted at minimum acceptable quality to pass the course.
+
 ### Overall Category Grade
 
 Your grade for this category has two parts:
@@ -55,12 +57,9 @@ The SRL adjustment rewards students who engage with feedback, use course resourc
 
 [:How SRL is evaluated](#x-how-srl-is-evaluated)
 
-
 ## Paper 1 (30%) and Paper 2 (40%)
 
-These are your final papers only (P03 and P09). Grading criteria will be discussed in future classes.
-
-All final papers must be submitted at minimum acceptable quality to pass the course, even if you skip some exercises.
+Final paper grading criteria will be discussed in future classes.
 
 ##### :x what-good-participation-looks-like
 
