@@ -19,7 +19,7 @@ For information about how these assignments affect your grade, see the [Grading 
 
 ### Content Requirements
 
-- Please don't spend more than two hours on any exercise (excluding reading time)
+- Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you
 - Write with proper grammar so I know errors aren't from carelessness
 - Use formal style like an essay, not a casual email
 - Choose simple, clear language over complex vocabulary
@@ -44,11 +44,12 @@ Use any formatting you like - any font, spacing, or margins are fine.
 
 ### Formatting Requirements
 
-Download the [properly formatted paper template](/downloads/ntw2029-paper.docx) for easiest setup.
+For easiest formatting, download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed).
 
-[:Full formatting details](#x-full-formatting-details)
+You can also see [:full formatting details](#x-full-formatting-details) with instructions for setting them in MS Word
 
 **For drafts only (P01-02, P07-08):**
+
 - Highlight your thesis statement in yellow (2 sentences maximum)
 - Highlight all topic sentences in light blue
 - Start reference list on a new page at the end
@@ -68,11 +69,12 @@ Download the [properly formatted paper template](/downloads/ntw2029-paper.docx) 
 
 ### Formatting Requirements
 
-Download the [properly formatted paper template](/downloads/ntw2029-paper.docx) for easiest setup.
+For easiest formatting, download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed).
 
-[:Full formatting details](#x-full-formatting-details)
+You can also see [:full formatting details](#x-full-formatting-details) with instructions for setting them in MS Word
 
-**Additional requirements:**
+**Additional paper requirements:**
+
 - Highlight your thesis statement in yellow (2 sentences maximum)
 - Highlight all topic sentences in light blue
 - Start reference list on a new page at the end
@@ -81,6 +83,7 @@ Download the [properly formatted paper template](/downloads/ntw2029-paper.docx) 
 ##### :x full-formatting-details
 
 **Required formatting:**
+
 - In [:paragraph settings](#x-paragraph-settings)
     - Set up double-spacing with left justification only (not justified on both sides)
     - Indent first line of each paragraph 0.5 inches or 1.25 cm
