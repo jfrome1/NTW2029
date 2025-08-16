@@ -7,7 +7,7 @@ draft: false
 ## Grade Breakdown
 
 - Class participation: 15%
-- Exercises (Writing Practice and Development): 15%
+- Writing Practice and Development: 15%
 - Paper 1: 30%
 - Paper 2: 40%
 
@@ -36,13 +36,13 @@ I evaluate your engagement during class meetings based on:
 
 [:What good participation looks like](#x-what-good-participation-looks-like)
 
-## Exercises (Writing Practice and Development) (15%)
+## Writing Practice and Development (15%)
 
 ### The Basics
 
 This category includes exercises, quizzes, and preliminary paper assignments. Everything in this category is graded complete/incomplete. Getting "complete" on all items typically earns 75% for this part of the final grade. I then adjust the percentage up or down based on how proactive you are in your learning process, which is sometimes called "self-regulated learning" (SRL).
 
-Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for ranking students. Paper components have their own time expectations listed with each assignment.
+Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for ranking students.
 
 [:Why I incorporate SRL](#x-why-i-incorporate-srl)
 
