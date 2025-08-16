@@ -3,9 +3,9 @@ title: Submission Guidelines
 date: 2025-08-14
 draft: true
 sidebar:
- badge:
-text: Draft
-variant: caution
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Extension Policy
