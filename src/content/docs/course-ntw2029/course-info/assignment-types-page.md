@@ -1,5 +1,5 @@
 ---
-title: Assignment Types
+title: Assignments
 date: 2025-08-14
 draft: false
 ---
