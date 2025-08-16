@@ -7,6 +7,12 @@ main {
 	/* this is the most important setting for content in main pane */
 }
 
+.sl-markdown-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
 :root {
 	/* Text size and line height */
 	--sl-text-xs: 0.8125rem;
