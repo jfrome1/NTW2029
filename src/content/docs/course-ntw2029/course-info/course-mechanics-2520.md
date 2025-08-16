@@ -8,7 +8,7 @@ sidebar:
     variant: caution
 ---
 
-## Grade Breakdown
+# Grade Breakdown
 
 - Class participation: 15%
 - Exercises (Writing Practice and Development): 15%
