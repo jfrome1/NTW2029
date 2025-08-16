@@ -1,10 +1,36 @@
 ---
 title: Assignments
 date: 2025-08-14
-draft: false
+draft: true
+sidebar:
+ badge:
+text: Draft
+variant: caution
 ---
 
-For information about how these assignments affect your grade, see the [Grading Breakdown](/course-info/grading-breakdown) page.
+For grading criteria, see the [Grading Breakdown](/course-info/grading-breakdown) page.
+
+## Assignment Types and Requirements
+
+| Assignment Type | Includes | Grading | Counts Toward |
+|---|---|---|---|
+| **Exercises** | E01-E11 | Complete/Incomplete | Writing Development (15%) |
+| **Paper Prep Work** | P01-02, P04-08 | Complete/Incomplete | Writing Development (15%) |
+| **Final Papers** | P03, P09 | Letter grade | 30% or 40% |
+
+## Assignment Requirements Overview
+
+This table shows which requirements apply to different assignment types. See sections below for detailed explanations.
+
+| | **Exercises** | **Paper Assignments**<br> P04, 05, 06| **Drafts**<br>P01, 02, 07, 08 | **Final Papers**<br>P03, 09 |
+|---|---|---|---|---|
+| **Grading** | Complete/Incomplete | Complete/Incomplete | Complete/Incomplete | Letter grade |
+| **Counts toward** | 15% (Exercises) | 15% (Exercises) | 15% (Exercises) | 30% or 40% |
+| **Formatting** | Simple Word doc | Simple Word doc | Follow paper template | Follow paper template |
+| **Highlighting** | None | None | Thesis & topic sentences | Thesis & topic sentences |
+| **Citations** | Only if requested | As needed | In-text & reference list | In-text & reference list |
+| **Word count** | Required | Required | Required | Required |
+| **GenAI link/non-use statement** | Required | Required | Required | Required |
 
 ## Exercises (E01-E11)
 

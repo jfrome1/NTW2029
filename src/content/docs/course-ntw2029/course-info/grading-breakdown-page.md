@@ -1,7 +1,11 @@
 ---
 title: Grading Breakdown
 date: 2025-08-14
-draft: false
+draft: true
+sidebar:
+ badge:
+text: Draft
+variant: caution
 ---
 
 ## How Your Grade is Calculated
