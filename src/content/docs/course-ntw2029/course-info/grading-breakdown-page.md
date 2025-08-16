@@ -28,6 +28,14 @@ This category includes all exercises (E01-E11) and paper prep work (P01-02, P04-
 
 ### Grading Scale
 
+All items in the 15% category are marked complete if you:
+
+- Submit by the deadline (or within the 12-hour extension window)
+- Include all required elements for that specific assignment
+- Add a GenAI link or non-use statement at the bottom of the submitted document
+
+Grading scale:
+
 - **Complete** (1 point): All requirements fully met
 - **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per item)
 - **Incomplete** (0 points): Not submitted on time, or resubmission doesn't fully meet requirements
@@ -35,6 +43,7 @@ This category includes all exercises (E01-E11) and paper prep work (P01-02, P04-
 ### How Your Grade is Determined
 
 Your grade for this category has two parts:
+
 1. **Base score**: Getting "complete" on all items typically earns 75%
 2. **SRL adjustment**: I adjust up or down based on how actively you work to improve your writing throughout the course
 
