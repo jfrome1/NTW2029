@@ -3,20 +3,12 @@ title: Assignments
 date: 2025-08-14
 draft: true
 sidebar:
- badge:
-text: Draft
-variant: caution
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 For grading criteria, see the [Grading Breakdown](/course-info/grading-breakdown) page.
-
-## Assignment Types and Requirements
-
-| Assignment Type | Includes | Grading | Counts Toward |
-|---|---|---|---|
-| **Exercises** | E01-E11 | Complete/Incomplete | Writing Development (15%) |
-| **Paper Prep Work** | P01-02, P04-08 | Complete/Incomplete | Writing Development (15%) |
-| **Final Papers** | P03, P09 | Letter grade | 30% or 40% |
 
 ## Assignment Requirements Overview
 
