@@ -6,7 +6,7 @@ date: 2025-08-14
 ## Grade Breakdown
 
 - Class participation: 15%
-- Exercises and Paper assignments: 15%
+- Exercises (Writing Practice and Development): 15%
 - Paper 1: 30%
 - Paper 2: 40%
 
@@ -21,7 +21,7 @@ I evaluate your engagement during class meetings based on:
 
 [:What good participation looks like](#x-what-good-participation-looks-like)
 
-## Exercises & Self-Regulated Learning (15%)
+## Exercises (Writing Practice and Development) (15%)
 
 ### The Basics
 
@@ -71,7 +71,7 @@ All paper assignments must be submitted at minimum acceptable quality to pass th
 
 - Submit as attached Word document (.docx) - not Pages, PDF, or Google Docs
 - Include at top: Your name and section (E1 or E2)
-- Include at bottom: Word count and GenAI links/non-use statement
+- Include at bottom: Word count and GenAI link/non-use statement
 - You can resubmit unlimited times until the deadline; I grade only the last submission
 
 ### Assignment Formatting Requirements
