@@ -40,9 +40,9 @@ I evaluate your engagement during class meetings based on:
 
 ### The Basics
 
-This category includes short exercises (E01-E11) and preliminary paper assignments like outlines, proposals, and drafts. Everything in this category is graded credit/no credit. Getting "complete" on all items typically earns 75% for this part of the final grade. I adjust the percentage up or down based on how proactive you are in your learning process, which is sometimes called "self-regulated learning" (SRL).
+This category includes exercises, quizzes, and preliminary paper assignments. Everything in this category is graded complete/incomplete. Getting "complete" on all items typically earns 75% for this part of the final grade. I then adjust the percentage up or down based on how proactive you are in your learning process, which is sometimes called "self-regulated learning" (SRL).
 
-Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for evaluating students. Paper components have their own time expectations listed with each assignment.
+Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for ranking students. Paper components have their own time expectations listed with each assignment.
 
 [:Why I incorporate SRL](#x-why-i-incorporate-srl)
 
