@@ -118,7 +118,7 @@ In Metric:
 
 ##### :x 12-point-font
 
-![12 point font](/images/font-size.jpg)
+![font size](/images/font-size.jpg)
 
 ##### :x margins
 
