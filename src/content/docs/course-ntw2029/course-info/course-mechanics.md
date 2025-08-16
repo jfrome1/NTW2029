@@ -25,22 +25,23 @@ I evaluate your engagement during class meetings based on:
 
 ### The Basics
 
-Short exercises, quizzes, and preliminary paper assignments are graded credit/no credit during the term. Getting "complete" on all of these typically earns 75%. I adjust your final grade based on how proactive you are in your learning process - a quality called "self-regulated learning" (SRL).
+Short exercises, quizzes, and preliminary paper assignments are graded credit/no credit during the term. Getting "complete" on all of these typically earns 75% for this part of the final grade. I adjust the percentage up or down based on how proactive you are in your learning process, which is sometimes called "self-regulated learning" (SRL).
+
+Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for evaluating students.
 
 [:Why I incorporate SRL](#x-why-i-incorporate-srl)
 >
 [:how SRL is evaluated](#x-how-srl-is-evaluated)
 
-Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not final evaluation.
 
 ### How to Write Exercises
 
 - Write with proper grammar so I know errors aren't from carelessness
 - Use formal style like an essay, not a casual email
 - Choose simple, clear language over complex vocabulary
-- Skip introductions and conclusions - exercises aren't full essays
+- Skip introductions and conclusions (exercises aren't full essays)
 - Don't quote or cite sources unless specifically requested
-- Don't do outside research beyond assigned readings
+- Don't do outside research
 
 ### Exercise Grading
 
@@ -79,13 +80,7 @@ The easiest way to understand formating requirements is to download the [properl
 
 [:Formatting requirements spelled out in list form](#x-formatting-requirements-spelled-out-in-list-form) with instructions for setting them in MS Word
 
-- Set up double-spacing with left justification only (not justified on both sides)
-- Indent first line of each paragraph 0.5 inches or 1.25 cm
-- Remove extra space/blank line between paragraphs (Word usually adds this automatically)
-- Use 12-point font
-- Keep 1-inch or 2.5 cm margins on all sides
-- Center paper title at top of first page (no separate title page)
-- Format citations and reference list in APA style (see Citations page)
+There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, and I've been in this business a long time, so I can't help formatting from affecting how I view a paper. I find it really pleasant to see correct formatting and quite annoying to see incorrect formatting, so your formatting determines my mood when I start reading your paper. You may not care about formatting, and I wish I didn't, but I do!
 
 ### Additional Requirements for Papers Only (drafts and final papers, not all preliminary paper assignments)
 
