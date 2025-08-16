@@ -26,7 +26,7 @@ I evaluate your engagement during class meetings based on:
 
 This category includes all exercises (E01-E11) and paper prep work (P01-02, P04-08). Everything here is graded complete/incomplete.
 
-### Grading Scale
+### Grading Individual Submissions
 
 All items in the 15% category are marked complete if you:
 
@@ -40,20 +40,21 @@ Grading scale:
 - **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per item)
 - **Incomplete** (0 points): Not submitted on time, or resubmission doesn't fully meet requirements
 
-### How Your Grade is Determined
+Don't panic about getting one or two incompletes - each item is a very small part of your final grade.
+
+### Overall Category Grade
 
 Your grade for this category has two parts:
 
-1. **Base score**: Getting "complete" on all items typically earns 75%
-2. **SRL adjustment**: I adjust up or down based on how actively you work to improve your writing throughout the course
+1. **Base score**: Getting "complete" on all items typically earns 75% for this part of the final grade
+2. **SRL adjustment**: I adjust up or down based on how actively you work to improve your writing throughout the course, a quality sometimes called "self-regulated learning" (SRL).
 
-This adjustment rewards students who engage with feedback, use course resources, and take action to improve beyond just following instructions.
+The SRL adjustment rewards students who engage with feedback, use course resources, and take action to improve beyond just following instructions.
 
 [:Why I incorporate SRL](#x-why-i-incorporate-srl)
 
 [:How SRL is evaluated](#x-how-srl-is-evaluated)
 
-Don't panic about getting one or two incompletes - each item is a very small part of your final grade.
 
 ## Paper 1 (30%) and Paper 2 (40%)
 
