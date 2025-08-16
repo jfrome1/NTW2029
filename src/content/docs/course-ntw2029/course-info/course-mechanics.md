@@ -133,17 +133,17 @@ I look for evidence that you:
 
 ##### :x formatting requirements spelled out in list form
 
-- in [:paragraph settings](#x-paragraph-settings)
+- In [:paragraph settings](#x-paragraph-settings)
     - Set up double-spacing with left justification only (not justified on both sides)
     - Indent first line of each paragraph 0.5 inches or 1.25 cm
     - Remove extra space/blank line between paragraphs (Word usually adds this automatically)
-- Add page numbers in the page footer
-- Use 12-point font
-- Keep 1-inch or 2.5 cm margins on all sides
+- [:Insert page numbers](#x-insert-page-numbers) in the page footer
+- Use [:12-point font](#x-12-point-font)
+- In the `Layout' menu, set 1-inch or 2.5 cm [:margins](#x-margins) on all sides
 - Center paper title at top of first page (no separate title page)
 - Format citations and reference list in APA style (see Citations page)
 
-If you can't find the settings window you need, [:search for settings](#x-search-for-settings)
+If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search)
 
 ##### :x paragraph settings
 
@@ -155,6 +155,19 @@ In Metric:
 
 ![paragraph settings in metric](/images/formatting-settings-metric.jpg)
 
-##### :x search for settings
+##### :x insert page numbers
 
-![search word settings](/images/search-word-settings.jpg)
+![insert page numbers](/images/insert-page-numbers.jpg)
+
+##### :x 12 point font
+
+![12 point font](/images/font-size.jpg)
+
+##### :x margins
+
+![margins](/images/margins.jpg)
+
+
+##### :x use word function search
+
+![use Word function search](/images/use-word-function-search.jpg)
