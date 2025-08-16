@@ -1,6 +1,7 @@
 ---
 title: Course Mechanics
 date: 2025-08-14
+draft: false
 ---
 
 ## Grade Breakdown
@@ -9,6 +10,19 @@ date: 2025-08-14
 - Exercises (Writing Practice and Development): 15%
 - Paper 1: 30%
 - Paper 2: 40%
+
+## Assignment Requirements Overview
+
+This table shows which requirements apply to different assignment types. See sections below for detailed explanations.
+
+| | **Exercises** | **Paper Assignments**<br> P04, 05, 06| **Drafts**<br>P01, 02, 07, 08 | **Final Papers**<br>P03, 09 |
+|---|---|---|---|---|
+| **Grading** | Complete/Incomplete | Complete/Incomplete | Complete/Incomplete | Letter grade |
+| **Counts toward** | 15% (Exercises) | 15% (Exercises) | 15% (Exercises) | 30% or 40% |
+| **Formatting** | Simple Word doc | Simple Word doc | Follow paper template | Follow paper template |
+| **Highlighting** | None | None | Thesis & topic sentences | Thesis & topic sentences |
+| **Citations** | Only if requested | As needed | Full APA format | Full APA format |
+| **GenAI link/non-use<br>Word count** | Required | Required | Required | Required |
 
 ## Class Participation (15%)
 
@@ -25,16 +39,17 @@ I evaluate your engagement during class meetings based on:
 
 ### The Basics
 
-Short exercises, quizzes, and preliminary paper assignments are graded credit/no credit during the term. Getting "complete" on all of these typically earns 75% for this part of the final grade. I adjust the percentage up or down based on how proactive you are in your learning process, which is sometimes called "self-regulated learning" (SRL).
+This category includes short exercises (E01-E11) and preliminary paper assignments like outlines, proposals, and drafts. Everything in this category is graded credit/no credit. Getting "complete" on all items typically earns 75% for this part of the final grade. I adjust the percentage up or down based on how proactive you are in your learning process, which is sometimes called "self-regulated learning" (SRL).
 
-Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for evaluating students.
+Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not for evaluating students. Paper components have their own time expectations listed with each assignment.
 
 [:Why I incorporate SRL](#x-why-i-incorporate-srl)
->
-[:how SRL is evaluated](#x-how-srl-is-evaluated)
 
+[:How SRL is evaluated](#x-how-srl-is-evaluated)
 
 ### How to Write Exercises
+
+These guidelines apply only to exercises (E01-E11), not paper components:
 
 - Write with proper grammar so I know errors aren't from carelessness
 - Use formal style like an essay, not a casual email
@@ -43,7 +58,9 @@ Please don't spend more than two hours on any exercise (excluding reading time).
 - Don't quote or cite sources unless specifically requested
 - Don't do outside research
 
-### Exercise Grading
+### Grading for This Category
+
+All items in the 15% category use this grading scale:
 
 Completion requirements:
 
@@ -54,10 +71,10 @@ Completion requirements:
 Grading scale:
 
 - **Complete** (1 point): All requirements fully met
-- **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per exercise)
+- **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per item)
 - **Incomplete** (0 points): Not submitted on time, or resubmission doesn't fully meet other requirements
 
-Don't panic about getting one or two incompletes - each exercise is a very small part of your final grade.
+Don't panic about getting one or two incompletes - each item is a very small part of your final grade.
 
 ## Paper 1 (30%) and Paper 2 (40%)
 
@@ -76,7 +93,7 @@ All paper assignments must be submitted at minimum acceptable quality to pass th
 
 ### Assignment Formatting Requirements
 
-The easiest way to understand formating requirements is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx), see what it looks like, and check the comments ([:show comments](#x-show-comments) if needed).
+The easiest way to understand formatting requirements is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx), see what it looks like, and check the comments ([:show comments](#x-show-comments) if needed).
 
 [:Formatting requirements spelled out in list form](#x-formatting-requirements-spelled-out-in-list-form) with instructions for setting them in MS Word
 
@@ -122,11 +139,11 @@ I look for evidence that you:
 - Apply feedback from earlier assignments to improve later ones
 - Show accuracy and insight in your self-assessments
 
-##### :x show comments
+##### :x show-comments
 
 ![show comments](/images/show-comments.jpg)
 
-##### :x formatting requirements spelled out in list form
+##### :x formatting-requirements-spelled-out-in-list-form
 
 - In [:paragraph settings](#x-paragraph-settings)
     - Set up double-spacing with left justification only (not justified on both sides)
@@ -134,13 +151,13 @@ I look for evidence that you:
     - Remove extra space/blank line between paragraphs (Word usually adds this automatically)
 - [:Insert page numbers](#x-insert-page-numbers) in the page footer
 - Use [:12-point font](#x-12-point-font)
-- In the `Layout' menu, set 1-inch or 2.5 cm [:margins](#x-margins) on all sides
+- In the Layout menu, set 1-inch or 2.5 cm [:margins](#x-margins) on all sides
 - Center paper title at top of first page (no separate title page)
 - Format citations and reference list in APA style (see Citations page)
 
 If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search)
 
-##### :x paragraph settings
+##### :x paragraph-settings
 
 In Imperial:
 
@@ -150,11 +167,11 @@ In Metric:
 
 ![paragraph settings in metric](/images/formatting-settings-metric.jpg)
 
-##### :x insert page numbers
+##### :x insert-page-numbers
 
 ![insert page numbers](/images/insert-page-numbers.jpg)
 
-##### :x 12 point font
+##### :x 12-point-font
 
 ![12 point font](/images/font-size.jpg)
 
@@ -162,7 +179,6 @@ In Metric:
 
 ![margins](/images/margins.jpg)
 
-
-##### :x use word function search
+##### :x use-word-function-search
 
 ![use Word function search](/images/use-word-function-search.jpg)
