@@ -14,10 +14,10 @@ date: 2025-08-14
 
 I evaluate your engagement during class meetings based on:
 
-- Come to class on time and notify me about absences in advance
-- Engage actively in discussions and small group work
-- Complete readings before class and come ready to discuss them
-- Help the class develop understanding through your contributions
+- Coming to class on time and notify me about absences in advance
+- Engaging actively in discussions and small group work
+- Completing readings before class and coming ready to discuss them
+- Helping the class develop understanding through your contributions
 
 [:What good participation looks like](#x-what-good-participation-looks-like)
 
@@ -25,9 +25,13 @@ I evaluate your engagement during class meetings based on:
 
 ### The Basics
 
-Individual exercises are graded credit/no credit during the term. Getting "complete" on all exercises typically earns 75%. I adjust your final grade based on how proactive you are in your learning process - a quality called "self-regulated learning" (SRL). [:Why I incorporate SRL](#x-why-i-incorporate-srl) and [:how SRL is evaluated](#x-how-srl-is-evaluated).
+Short exercises, quizzes, and preliminary paper assignments are graded credit/no credit during the term. Getting "complete" on all of these typically earns 75%. I adjust your final grade based on how proactive you are in your learning process - a quality called "self-regulated learning" (SRL).
 
-Don't spend more than two hours on any exercise (excluding reading time).
+[:Why I incorporate SRL](#x-why-i-incorporate-srl)
+>
+[:how SRL is evaluated](#x-how-srl-is-evaluated)
+
+Please don't spend more than two hours on any exercise (excluding reading time). They are for practice and learning, not final evaluation.
 
 ### How to Write Exercises
 
@@ -54,7 +58,7 @@ Don't panic about getting one or two incompletes - each exercise is a very small
 
 ## Paper 1 (30%) and Paper 2 (40%)
 
-Grading criteria for papers will be discussed in future classes. 
+Grading criteria for papers will be discussed in future classes.
 
 All paper assignments must be submitted at minimum acceptable quality to pass the course, even if you skip some exercises.
 
