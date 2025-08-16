@@ -45,17 +45,17 @@ Please don't spend more than two hours on any exercise (excluding reading time).
 
 ### Exercise Grading
 
-Requirements for an exercise to be complete:
+Completion requirements:
 
-- Submit by the deadline (or within 12-hour extension)
+- Submit by the deadline (or within 12-hour extension window)
 - Include all required elements for that specific assignment
-- Add a GenAI link(s) or non-use statement at the bottom
+- Add a GenAI link or non-use statement at the bottom of the submitted document
 
 Grading scale:
 
 - **Complete** (1 point): All requirements fully met
 - **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per exercise)
-- **Incomplete** (0 points): Not submitted on time or resubmission doesn't fully meet requirements
+- **Incomplete** (0 points): Not submitted on time, or resubmission doesn't fully meet other requirements
 
 Don't panic about getting one or two incompletes - each exercise is a very small part of your final grade.
 
