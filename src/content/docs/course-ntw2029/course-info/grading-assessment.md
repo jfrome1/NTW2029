@@ -1,7 +1,11 @@
 ---
 title: Grading & Assessment
 date: 2025-08-14
-draft: false
+draft: true
+sidebar:
+ badge:
+text: Draft
+variant: caution
 ---
 
 ## Grade Breakdown

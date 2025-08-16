@@ -1,6 +1,11 @@
 ---
 title: Essential Policies
 date: 2025-08-14
+draft: true
+sidebar:
+ badge:
+text: Draft
+variant: caution
 ---
 
 ## Technology Requirements
