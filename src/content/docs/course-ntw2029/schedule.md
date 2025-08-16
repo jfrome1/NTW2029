@@ -105,7 +105,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due Sun 7 Sep 2025: Paper 1 - option to submit drafted material (honestly optional, it is not required or expected)
+###### Due Sun 7 Sep 2025: P01 Paper 1 option to submit drafted material (honestly optional, it is not required or expected)
 
 ## 5.1 Mon 8 Sep 2025
 
@@ -128,13 +128,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 <!--Class media: -->
 
-###### Due Sun 14 Sep 2025: Paper 1 - draft
+###### Due Sun 14 Sep 2025: P02 Paper 1 Draft
 
 ## 6.1 and 6.2 (15 and 18 Sep 2025) no class meetings, student conferences
 
 ###### Due day of conference: Exercise 5 - Paper 1 conference summary
 >
-###### Due four days after conference: Paper 1
+###### Due four days after conference: P03 Paper 1 Final
 >
 ###### Due one day after Paper 1: Exercise 6 - Paper 1 writing reflection
 
@@ -187,7 +187,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
 
-###### Due Wed 15 Oct 2025: Paper 2 - article selection
+###### Due Wed 15 Oct 2025: P04 Paper 2 Article Selection
 
 ## 9.2 Thu 16 Oct 2025
 
@@ -196,7 +196,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 10.1 Mon 20 Oct 2025 (no class, Deepavali)
 
-###### Due Tue 21 Oct 2025, 6pm (peer review deadline): Paper 2 - disagreement summary
+###### Due Tue 21 Oct 2025, 6pm: P05 Paper 2 Disagreement Summary (peer review checkpoint)
 
 ## 10.2 Thu 23 Oct 2025
 
@@ -206,13 +206,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): peer writing
 - NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 
-###### Due Sun 26 Oct 2025: Paper 2 - explain positions
+###### Due Sun 26 Oct 2025: P06 Paper 2 Explain Positions
 
 ## 11.1 and 11.2 (27 and 30 Oct 2025) no class meetings, student conferences
 
 ###### Due day of conference: Exercise 10 - Paper 2 explain positions conference summary
 
-###### Due Sun 2 Nov 2025, 6pm (peer review deadline): Paper 2 - working draft
+###### Due Sun 2 Nov 2025, 6pm: P07 Paper 2 Working Draft (peer review checkpoint)
 
 ## 12.1 Mon 3 Nov 2025
 
@@ -225,13 +225,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
 
-###### Due Sun 9 Nov 2025: Paper 2 - full draft and outline
+###### Due Sun 9 Nov 2025: P08 Paper 2 Full Draft and Outline
 
 ## 13.1 and 13.2 (10 and 13 Nov 2025) — no class meetings; individual student conferences
 
 ###### Due day of conference: Exercise 11 - Paper 2 draft conference summary
 >
-###### Due five days after conference: Paper 2
+###### Due five days after conference: P09 Paper 2 Final
 >
 ###### Due one day after Paper 2: Exercise 12 - Paper 2 writing reflection
 >
