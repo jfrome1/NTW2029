@@ -1,8 +1,7 @@
 ---
-
 title: Critical thinking (2.1/2.2)
 date: 2025-01-29
-
+pagefind: false
 draft: true
 sidebar:
   badge:

@@ -1,8 +1,7 @@
 ---
-
 title: Software for academic writing
 date: 2025-03-12
-
+pagefind: false
 draft: true
 sidebar:
   badge:

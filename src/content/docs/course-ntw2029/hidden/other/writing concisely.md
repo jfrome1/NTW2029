@@ -1,11 +1,12 @@
 ---
-
 title: Writing concisely
 date: 2025-03-19
-sidebar:
-  hidden: true
 pagefind: false
-
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 writing concisely
 	concision is not about moving through your reasoning quickly, skipping steps in your explanation, or eliminating nuance

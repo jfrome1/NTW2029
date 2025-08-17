@@ -1,27 +1,22 @@
 ---
 title: Conferences
 date: 2025-08-13
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+draft: false
 ---
 ## Booking
 
-This course uses Microsoft Bookings to schedule conferences. Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
-
-Test [anchor link](#test-anchor-link)
+This course uses Microsoft Bookings to schedule conferences. I'll send you a bookings link when conference times are made available.  Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 
 ## Conference logistics
 
-Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome> or Meeting ID: 250 394 5161. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I sometimes [:record conferences](#x-recordconferences) to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want your conference recorded, you must tell me at the beginning of the conference.
+Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome>. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I sometimes [:record conferences](#x-recordconferences) to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want to be sure your conference is recorded, you must tell me at the beginning of the conference.
 
-Please follow these guidelines to avoid distractions during Zoom conferences:
+Please follow these guidelines to avoid distractions (for me) during Zoom conferences:
 
 - Find in a quiet, indoor space without wind noise or other people nearby
-- Keep your video on and check that your lighting is adequate
-- Please do not eat during the conference
+- Keep your video on
+- Check your lighting (not dark, not bright backlight/window)
+- Do not eat during the conference
 - Make every effort to be on time, but if you are going to be late, email me before the scheduled time to let me know when to expect you
 
 ## Preparation
@@ -38,13 +33,13 @@ To make sure you get full benefit from the conference:
 
 ##### :x record conferences
 
-I use recordings to see if discuss the same issue with multiple students. If I do, I know to improve the class notes and website information about those issues.
+I use recordings to see if discuss the same issue with multiple students. If I do, I use the transcripts  to improve my teaching materials.
 
 ##### :x recording and transcript
 
 I share the recording by forwarding students the Zoom email notification. IMPORTANT: do not click the "View Details" button, as only the host can see those details. You want to click the sharable link, which will take you to the recording and transcript.
 
-Zoom also adds AI summaries and comments to these recordings. Do not rely on them; I haven't found them to be very accurate.
+Zoom also adds AI summaries and comments to these recordings. Zoom transcription is ok, but not great, so double-check anything important against the actual recording.
 
 ![zoom-share-recording](/images/zoom_share_recording.png)
 
@@ -61,11 +56,3 @@ The likely problem is that your Microsoft account and calendar are not both set 
 
 ![timezone](/images/timezone.png)
 ![yes-update](/images/yes-update.png)
-
-##### test anchor link
-
-test test test test test test test test test test test test test test test test test test
-test test test test test test test test
-
-- test test test test
-- test test test test

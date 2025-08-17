@@ -1,8 +1,7 @@
 ---
-
 title: Niche construction theory (2.1)
 date: 2024-09-08
-
+pagefind: false
 draft: true
 sidebar:
   badge:

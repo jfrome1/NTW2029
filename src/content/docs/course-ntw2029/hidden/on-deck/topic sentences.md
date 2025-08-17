@@ -1,9 +1,12 @@
 ---
-
 title: Topic sentences (4.2)
 date: 2025-02-06
-
 pagefind: false
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 - Topic sentences should directly state the main idea of the paragraph.
 - Topic sentences should be at the beginning of each body paragraph unless you have a good reason to place them elsewhere.

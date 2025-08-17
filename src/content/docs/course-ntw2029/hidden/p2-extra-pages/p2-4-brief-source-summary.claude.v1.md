@@ -1,6 +1,12 @@
 ---
 title: Paper 2 brief source summary v1
 date: 2025-03-07
+pagefind: false
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Assignment Requirements

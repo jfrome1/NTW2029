@@ -1,8 +1,7 @@
 ---
-
 title: Gene's eye view and altruism (1.2)
 date: 2025-01-18
-
+pagefind: false
 draft: true
 sidebar:
   badge:

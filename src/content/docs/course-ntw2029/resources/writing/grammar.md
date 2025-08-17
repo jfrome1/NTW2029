@@ -1,8 +1,7 @@
 ---
-
 title: Grammar and style for NTW2029
 date: 2024-09-15
-
+pagefind: false
 draft: true
 sidebar:
   badge:

@@ -1,8 +1,7 @@
 ---
-
 title: Unclear referents and ambiguous pronouns
 date: 2025-01-30
-
+pagefind: false
 draft: true
 sidebar:
   badge:
