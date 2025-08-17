@@ -132,27 +132,28 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 6.1 and 6.2 (15 and 18 Sep 2025) no class meetings, student conferences
 
-###### Due day of conference: Exercise 5 - Paper 1 conference summary
+###### Due day of conference: Exercise 5 - Paper 1 draft conference summary
 >
 ###### Due four days after conference: P03 Paper 1 Final
 >
-###### Due one day after Paper 1: Exercise 6 - Paper 1 writing reflection
+###### Due one day after Paper 1 final: Exercise 6 - Paper 1 writing reflection
 
 ## 7.1 Mon 29 Sep 2025
 
 - EP and art topic: EP and the multilevel mind
-	- Note: there are no assigned EP content readings after reading week
+    - Read: none
 - Writing topic: Paper 2 overview, writing for the academic conversation: primary vs secondary use of sources
 	- Read before class (recommended): none
 
-###### Mid-semester course evaluation
+<!-- ###### Mid-semester course evaluation -->
 
 ## 7.2 Thu 2 Oct 2025
 
 - EP and art topic: evolution of music
-	- Read before class:
+	- Read before class: (pages TBD)
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. Behavioral and Brain Sciences, 44, e60. https://doi.org/10.1017/S0140525X20000345
 		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. Behavioral and Brain Sciences, 44, e59. https://doi.org/10.1017/S0140525X20000333
+		- download both articles and commentary in one file:  [download](/downloads/savage-mehrMusicEvolution.pdf)
 - Writing topic: evaluating empirical research
 	- Read before class (recommended): none
 
@@ -161,8 +162,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 8.1 Mon 6 Oct 2025
 
 - EP and art topic: enjoyment of negative emotions in art
-	- Read before class:
-		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. Behavioral and Brain Sciences, 40. https://doi.org/10.1017/S0140525X17000309
+	- Read before class: (pages TBD)
+		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. Behavioral and Brain Sciences, 40. https://doi.org/10.1017/S0140525X17000309  [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: introductions framing your argument, creating and refining your thesis
 	- Read before class (recommended): none
 
@@ -171,8 +172,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 8.2 Thu 9 Oct 2025
 
 - EP and art topic: appeal of imaginary narrative worlds
-	- Read before class:
-		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. Behavioral and Brain Sciences, 45, e276. https://doi.org/10.1017/S0140525X21000923
+	- Read before class: (pages TBD)
+		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. Behavioral and Brain Sciences, 45, e276. https://doi.org/10.1017/S0140525X21000923  [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 

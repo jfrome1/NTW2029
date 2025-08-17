@@ -1,5 +1,5 @@
 ---
-title: Conference guidelines
+title: Conferences
 date: 2025-08-13
 draft: true
 sidebar:
@@ -7,8 +7,7 @@ sidebar:
     text: Draft
     variant: caution
 ---
-
-## Bookings
+## Booking
 
 This course uses Microsoft Bookings to schedule conferences. Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 

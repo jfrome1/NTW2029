@@ -1,65 +1,164 @@
 ---
 title: Communication & Support
-date: 2025-08-14
 draft: true
 sidebar:
+  order: 2
   badge:
     text: Draft
     variant: caution
 ---
 
-## Contact Methods
+## How to Contact Me
 
-### How to Reach Me
+### Quick Reference
 
-- **Email**: Use email for formal requests (extensions, conference scheduling, grade concerns)
-  - Include "NTW2029" in every subject line [:why this matters](#x-email-filtering)
-  - Use both your formal name and preferred name so I know who you are
-  - Expect response within one business day; email again if you don't hear back
-- **Telegram**: Use class chat for quick questions and discussions
-- **In person**: Grab me after class for quick questions or email to schedule longer meetings
+- **Telegram class chat**: Fastest for quick questions about assignments and deadlines
+- **Email**: For anything requiring a record (extensions, grade concerns, personal matters)
+- **Conferences**: For in-depth discussion of your writing or course content
+- **After class**: For brief clarifications (1-2 minutes only)
 
-### Don't Use These
+### Telegram Class Chat
 
-Canvas messages and office voicemail - I don't check them
+- Join when I share the link in the first week
+- Check daily for announcements and updates
+- For questions with short, specific answers only
+- Ask questions that might help other students
+- Response time: Usually within a few hours during weekdays
+- [:what belongs in Telegram](#x-telegram-appropriate)
+
+### Email
+
+- Always include "NTW2029" in your subject line
+- Use for: extension requests, grade concerns, personal situations, meeting requests, or anything you want documented
+- Can answer specific, focused questions via email
+- Questions requiring lengthy explanation or discussion need a conference
+- Response time: Within one business day
+- Follow up if you don't hear back within 24 hours
+- [:email format tips](#x-email-format)
+- [:what questions work via email](#x-email-questions)
+
+### Individual Conferences
+
+- Three required conferences per semester
+- For in-depth discussion of your writing or course content
+- See [Conferences](/course-info/conferences) page for scheduling and preparation details
+
+### After Class
+
+- Available for 1-2 minute clarifications only
+- For longer discussions, schedule a conference
+- Priority given to urgent matters affecting that day's work
 
 ## When to Ask Questions
 
-### Ask Everyone (Telegram or in class)
+### Always Ask When
 
-- Post questions about readings or concepts that confuse you
-- Ask for clarification on assignment requirements
-- Share resources or examples relevant to class
-- Coordinate with classmates for notes or study groups
-- Request help finding something on the website (after using search)
+- You don't understand an assignment requirement after checking the website
+- You need clarification about feedback you received
+- You're facing technical issues with submissions
+- Personal circumstances affect your coursework
+- You notice an error or broken link on the website
 
-### Email Me Privately
+### Check the Website First For
 
-- Ask about your specific paper topic or approach
-- Discuss personal situations affecting your coursework
-- Report website errors so I can fix them quickly
-- Address problems with classmates or course policies
-- Request exceptions or extensions beyond the automatic policy
+- Assignment instructions and due dates
+- Course policies and procedures
+- Formatting requirements and templates
+- GenAI usage guidelines
+- Grading criteria
 
-[:How to decide which channel to use](#x-channel-choice)
+### Response Expectations
 
-## Getting Additional Help
+- I don't check messages after 9 PM or on weekends
+- Urgent matters: Allow 24 hours for response
+- Plan ahead for assignment questions
+- [:why these boundaries matter](#x-boundaries)
 
-I'm easily accessible and genuinely want to help you succeed.
+## Academic Support Resources
 
-- Request extra feedback on any assignment to understand my comments better
-- Ask for clarification if feedback doesn't make sense
-- Schedule additional meetings if you're struggling with concepts
-- Email questions about course content (check website first)
+### Writing Support
 
-If something isn't working for you, tell me early so we can fix it together.
+- **Writing Assistant Programme (WAP)**: Free tutoring for NUSC students
+- Schedule appointments through the NUSC website
+- Most helpful for: organization, clarity, grammar
+- Note: They cannot help with content understanding or EP concepts
 
-##### :x email-filtering
+### Technical Help
 
-I teach multiple courses and get hundreds of emails. Without "NTW2029" in the subject, your email goes to my general inbox where it might get lost among administrative emails and spam. With the course code, it goes straight to the right folder and I'll see it quickly. This isn't me being rigid - it's the only way I can reliably track student emails.
+- **Canvas Support**: Available 24/7 through Canvas help menu
+- **NUS IT Care**: For login issues and technical problems
+- **Library Services**: For research and source access
 
-##### :x channel-choice
+### Wellbeing Support
 
-Basic rule: if it's just about you, email me. If others might wonder the same thing, ask publicly.
+- **NUSC Pastoral Care Team**: For academic or personal challenges
+- **University Counselling Services**: Professional mental health support
+- Contact details available on the NUSC student portal
+- [:when to seek support](#x-seeking-support)
 
-Think about whether your classmates would benefit from seeing the answer. "Can we use online sources for Paper 2?" helps everyone. "Can I write about my grandmother's art collection?" only matters to you. When in doubt, ask publicly - I can always tell you to email me if it's too specific.
+---
+
+##### :x telegram appropriate
+
+Telegram works best for questions that:
+
+- Have short answers ("Is the assignment due at noon or midnight?")
+- Might help other students ("Can you clarify what 'primary source' means?")
+- Are about logistics ("Is class cancelled due to the holiday?")
+- Need quick clarification ("Should citations go in the word count?")
+
+Telegram is not appropriate for:
+
+- Discussing your grades
+- Explaining personal circumstances
+- Requesting extensions
+- Lengthy questions about your specific paper
+- Anything you'd prefer to keep private
+
+##### :x email format
+
+Good email format helps me respond faster:
+
+Subject line example: "NTW2029 - Extension Request for E03"
+
+Start with your name and section if we haven't corresponded recently. State your request or question in the first sentence. Provide only necessary context. Use a respectful tone that acknowledges you're asking for something, not announcing what you're doing.
+
+Example: "I'm requesting a 24-hour extension for E03 because I have two midterms on the same day. Would this be possible?"
+
+Not: "I'll be submitting E03 late because I have midterms."
+
+##### :x email questions
+
+If your question has a straightforward answer ("Should I cite paraphrases?" "Can I use British spelling?"), email works fine. I can also answer specific either/or questions if you provide context about your thinking.
+
+However, I can't review drafts or answer vague "is this okay?" questions via email. If I'd need to type several paragraphs to explain something, or if we'd need to go back and forth to understand what you're really asking, that's better handled in a conference where we can sort it out quickly through conversation.
+
+##### :x boundaries
+
+I maintain communication boundaries for several reasons:
+
+For you: It encourages planning ahead rather than last-minute panic. You develop problem-solving skills when you can't get immediate answers. You learn to use available resources before asking questions.
+
+For me: It allows me to give thoughtful responses rather than rushed ones. I can maintain work-life balance, which keeps me energized for teaching. It ensures fairness - students who message at 2 AM don't get advantages over those who don't.
+
+For everyone: Clear boundaries mean consistent, predictable response times you can plan around.
+
+##### :x seeking support
+
+Consider seeking support when:
+
+Academic challenges:
+
+- You're consistently struggling to complete assignments on time
+- You don't understand course content despite attending class and reading materials
+- Your grades aren't reflecting your effort
+- You're feeling overwhelmed by coursework
+
+Personal challenges:
+
+- Stress or anxiety is affecting your academic performance
+- You're dealing with family or personal issues
+- You're having difficulty adjusting to university life
+- You need someone to talk to about challenges you're facing
+
+Remember: Seeking help is a sign of good judgment, not weakness. The earlier you reach out, the more options we have for supporting you.
