@@ -12,21 +12,25 @@ This page describes how to write and submit assignments. For grading criteria, s
 
 ## Assignment Requirements Overview
 
-This table shows which requirements apply to different assignment types. See sections below for detailed explanations.
+This table shows which requirements apply to different assignment types.
+>
+See sections below for detailed explanations.
 
-| | **Exercises** | **Paper Assignments**<br> P04, 05, 06| **Drafts**<br>P01, 02, 07, 08 | **Final Papers**<br>P03, 09 |
-|---|---|---|---|---|
-| **Grading** | Complete/Incomplete | Complete/Incomplete | Complete/Incomplete | Letter grade |
-| **Counts toward** | 15% (Exercises) | 15% (Exercises) | 15% (Exercises) | 30% or 40% |
-| **Formatting** | Simple Word doc | Simple Word doc | Follow paper template | Follow paper template |
-| **Highlighting** | None | None | Thesis & topic sentences | Thesis & topic sentences |
-| **Citations** | Only if requested | As needed | In-text & reference list | In-text & reference list |
-| **Word count** | Required | Required | Required | Required |
-| **GenAI link/non-use statement** | Required | Required | Required | Required |
+| | **Exercises** | **Preliminary Writing**<br>P01, 02, 04-08 | **Final Papers**<br>P03, 09 |
+|---|---|---|---|
+| **Grading** | Complete/Incomplete | Complete/Incomplete | Letter grade |
+| **Counts toward** | 15% (Writing Dev) | 15% (Writing Dev) | 30% or 40% |
+| **Formatting** | Simple Word doc | Follow paper template | Follow paper template |
+| **Highlighting** | None | Thesis & topic sentences (drafts only) | Thesis & topic sentences |
+| **Citations** | Only if requested | As needed | In-text & reference list |
+| **Word count** | Required | Required | Required |
+| **GenAI link/non-use statement** | Required | Required | Required |
 
 ## Exercises (E01-E11)
 
 **Counts toward**: Writing Development Work (15%) - graded complete/incomplete
+
+Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you
 
 ### Submission Requirements
 
@@ -37,7 +41,6 @@ This table shows which requirements apply to different assignment types. See sec
 
 ### Content Requirements
 
-- Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you
 - Write with proper grammar so I know errors aren't from carelessness
 - Use formal style like an essay, not a casual email
 - Choose simple, clear language over complex vocabulary
@@ -47,24 +50,24 @@ This table shows which requirements apply to different assignment types. See sec
 
 ### Formatting
 
-Use any formatting you like - any font, spacing, or margins are fine.
+No specific formatting is required.
 
-## Paper Prep Work (P01-02, P04-08)
+## Preliminary Writing (P01-02, P04-08)
 
 **Counts toward**: Writing Development Work (15%) - graded complete/incomplete
 
 ### Submission Requirements
 
-- Submit as attached Word document (.docx) - not Pages, PDF, or Google Docs
+- Submit as attached Word document (.docx)
 - Include at top: Your name and section (E1 or E2)
 - Include at bottom: Word count and GenAI link/non-use statement
 - You can resubmit unlimited times until the deadline; I grade only the last submission
 
 ### Formatting Requirements
 
-For easiest formatting, download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed).
+Follow my formatting guidelines. The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" to format your paper if that's easy for you.
 
-You can also see [:full formatting details](#x-full-formatting-details) with instructions for setting them in MS Word
+You can also read the [:full formatting details](#x-full-formatting-details), which includes instructions for manually setting them up in MS Word.
 
 **For drafts only (P01-02, P07-08):**
 
@@ -87,9 +90,9 @@ You can also see [:full formatting details](#x-full-formatting-details) with ins
 
 ### Formatting Requirements
 
-For easiest formatting, download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed).
+Follow my formatting guidelines. The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" to format your paper if that's easy for you.
 
-You can also see [:full formatting details](#x-full-formatting-details) with instructions for setting them in MS Word
+You can also read the [:full formatting details](#x-full-formatting-details), which includes instructions for manually setting them up in MS Word.
 
 **Additional paper requirements:**
 
