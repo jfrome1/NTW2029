@@ -38,7 +38,7 @@ NOTE: I expect you to check these daily. If you don't, you will miss something.
 
 ## Academic Integrity
 
-Using GenAI without submitting transcripts or failing to include the non-use statement constitutes academic dishonesty. See the [full GenAI policy](/course-info/gen-ai-policy) for details.
+Using GenAI without submitting transcripts or failing to include the non-use statement constitutes academic dishonesty. See the full [GenAI policy](/course-ntw2029/course-info/gen-ai-policy) for details.
 
 ## Use of Student Work
 

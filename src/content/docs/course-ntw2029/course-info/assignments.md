@@ -4,7 +4,7 @@ date: 2025-08-14
 draft: false
 ---
 
-This page describes how to write and submit assignments. For grading criteria, see the [Grading Breakdown](/course-info/grading-breakdown) page.
+This page describes how to write and submit assignments. For grading criteria, see the [Grading](/course-ntw2029/course-info/grading) page.
 
 ## Assignment Requirements Overview
 
