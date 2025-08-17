@@ -12,10 +12,11 @@ sidebar:
 
 ### Quick Reference
 
-- **Telegram class chat**: Fastest for quick questions about assignments and deadlines
-- **Email**: For anything requiring a record (extensions, grade concerns, personal matters)
-- **Conferences**: For in-depth discussion of your writing or course content
-- **After class**: For brief clarifications (1-2 minutes only)
+- **Telegram class chat**: Fastest for quick questions about course or assignments
+- **Email**: For anything requiring a record or more context (arranging a meeting, grade concerns, personal matters)
+- **Conferences**: For discussion of your writing or course content; I'm on campus most days
+- **Before class**: Not a good time; I'm prepping for class
+- **After class**: For brief clarifications (<5 minutes)
 
 ### Telegram Class Chat
 
