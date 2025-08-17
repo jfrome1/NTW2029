@@ -1,9 +1,12 @@
 ---
-
 title: Paragraphs
 date: 2025-02-06
-
 pagefind: false
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - In this course, paragraphs should (almost always) begin with a topic sentence that fully captures the main idea of the paragraph.

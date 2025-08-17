@@ -1,8 +1,7 @@
 ---
-
 title: Summarizing accurately and charitably (3.2)
 date: 2025-02-09
-
+pagefind: false
 draft: true
 sidebar:
   badge:

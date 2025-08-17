@@ -1,6 +1,7 @@
 ---
 title: Common issues for native Chinese speakers
 date: 2025-01-27
+pagefind: false
 draft: true
 sidebar:
   badge:

@@ -1,11 +1,12 @@
 ---
-
 title: Quotations
 date: 2025-03-22
-sidebar:
- hidden: true
 pagefind: false
-
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 - quotation: why and how much?

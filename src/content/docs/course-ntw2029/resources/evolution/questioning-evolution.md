@@ -1,9 +1,7 @@
 ---
-
 title: Questioning evolution
 date: 2025-02-01
-
-
+pagefind: false
 draft: true
 sidebar:
   badge:

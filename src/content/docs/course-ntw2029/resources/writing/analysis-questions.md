@@ -1,8 +1,7 @@
 ---
-
 title: Analysis questions (2.2)
 date: 2024-10-20
-
+pagefind: false
 draft: true
 sidebar:
   badge:

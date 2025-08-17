@@ -1,13 +1,12 @@
 ---
 title: Topic Sentences
 date: 2024-09-06
+pagefind: false
+draft: true
 sidebar:
-  hidden: true
-
   badge:
     text: Draft
     variant: caution
-draft: true
 ---
 
 ## Summary

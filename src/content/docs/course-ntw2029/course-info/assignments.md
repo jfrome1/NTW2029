@@ -1,11 +1,7 @@
 ---
 title: Assignments
 date: 2025-08-14
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+draft: false
 ---
 
 This page describes how to write and submit assignments. For grading criteria, see the [Grading Breakdown](/course-info/grading-breakdown) page.
@@ -25,6 +21,16 @@ See sections below for detailed explanations.
 | **Citations** | Only if requested | As needed | In-text & reference list |
 | **Word count** | Required | Required | Required |
 | **GenAI link/non-use statement** | Required | Required | Required |
+
+## Extension Policy
+
+- You may submit any assignment (except peer review) up to 12 hours late (i.e. automatic extension until noon the following day)
+- No need to email me, explain, or apologize -- I trust you have a good reason
+- Peer review assignments cannot be extended since delays affect classmates
+- Extensions apply to final papers
+- Any further extensions will be granted only for serious, documented circumstances
+
+If you're struggling with workload, come talk to me early and check [NUSC pastoral care resources](https://tinyurl.com/nuscpastoralcare).
 
 ## Exercises (E01-E11)
 

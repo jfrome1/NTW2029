@@ -1,14 +1,10 @@
 ---
 title: Grading
 date: 2025-08-14
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+draft: false
 ---
 
-## How Your Grade is Calculated
+## Final Grade Components
 
 - Class participation: 15%
 - Writing Development Work: 15%
@@ -19,7 +15,7 @@ sidebar:
 
 I evaluate your engagement during class meetings based on:
 
-- Coming to class on time and notifying me about absences in advance
+- Timely, regular attendence and notifying me about absences in advance
 - Engaging actively in discussions and small group work
 - Completing readings before class and coming ready to discuss them
 - Helping the class develop understanding through your contributions

@@ -1,13 +1,12 @@
 ---
 title: Academic conversation
 date: 2025-01-31
+pagefind: false
+draft: true
 sidebar:
-  hidden: true
-
   badge:
     text: Draft
     variant: caution
-draft: true
 ---
 
 Academic papers are always part of a larger conversation about their research topic. What others have written is the conversation that has happened so far. Authors add to the conversation by first explaining to readers what others have said and then presenting their own ideas.

@@ -1,8 +1,7 @@
 ---
-
 title: Traits (1.2)
 date: 2025-01-26
-
+pagefind: false
 draft: true
 sidebar:
   badge:

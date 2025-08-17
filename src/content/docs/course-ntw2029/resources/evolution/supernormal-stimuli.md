@@ -1,9 +1,7 @@
 ---
-
 title: Supernormal stimuli (4.1)
 date: 2025-02-06
-
-
+pagefind: false
 draft: true
 sidebar:
   badge:

@@ -23,7 +23,7 @@ export default defineConfig({
         }),
       ],
       markdown: {
-        headingLinks: true,
+        headingLinks: false,
         rehypePlugins: [
           [
             rehypeExternalLinks,

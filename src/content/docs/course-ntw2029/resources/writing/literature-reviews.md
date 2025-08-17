@@ -1,8 +1,7 @@
 ---
-
 title: Literature reviews (7.1)
 date: 2025-03-04
-
+pagefind: false
 draft: true
 sidebar:
   badge:

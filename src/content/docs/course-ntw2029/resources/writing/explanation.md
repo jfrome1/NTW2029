@@ -1,8 +1,7 @@
 ---
-
 title: Explanation (2.1/3.2)
 date: 2025-01-27
-
+pagefind: false
 draft: true
 sidebar:
   badge:
