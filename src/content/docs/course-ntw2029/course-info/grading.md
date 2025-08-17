@@ -1,5 +1,5 @@
 ---
-title: Grading Breakdown
+title: Grading
 date: 2025-08-14
 draft: true
 sidebar:

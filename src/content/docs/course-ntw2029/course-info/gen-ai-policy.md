@@ -1,5 +1,6 @@
 ---
 title: GenAI policy
+date: 2025-08-17
 draft: false
 ---
 
