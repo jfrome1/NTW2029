@@ -1,6 +1,6 @@
 ---
 title: Schedule
-date: 2025-08-14
+date: 2025-08-18
 ---
 
 :::tip
@@ -29,6 +29,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
+
+
 
 ###### Due Sun 17 Aug 2025: Exercise 2 - explain something
 
@@ -84,7 +86,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 31 Aug 2025: Exercise 4 - explain Goldfinch section
 >
-###### Due Sun 31 Aug 2025 (optional, ungraded): Evolution intermediate quiz
+###### Due Sun 31 Aug 2025: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like)
+>
+###### Due Sun 31 Aug 2025: Exercise 13 - Workload report, Aug
 
 ## 4.1 Mon 1 Sep 2025
 
@@ -137,6 +141,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due four days after conference: P03 Paper 1 Final
 >
 ###### Due one day after Paper 1 final: Exercise 6 - Paper 1 writing reflection
+>
+###### Due Sun 27 Sep 2025: Exercise 13 - Workload report, Sep
 
 ## 7.1 Mon 29 Sep 2025
 
@@ -212,7 +218,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 11.1 and 11.2 (27 and 30 Oct 2025) no class meetings, student conferences
 
 ###### Due day of conference: Exercise 10 - Paper 2 explain positions conference summary
-
+>
+###### Due Sun 1 Nov 2025: Exercise 13 - Workload report, Oct
+>
 ###### Due Sun 2 Nov 2025, 6pm: P07 Paper 2 Working Draft (peer review checkpoint)
 
 ## 12.1 Mon 3 Nov 2025
@@ -236,8 +244,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 ###### Due one day after Paper 2: Exercise 12 - Paper 2 writing reflection
 >
-###### Due one day after Paper 2: Exercise 13 - Workload report
->
+###### Due one day after Paper 2: Exercise 13 - Workload report, Nov (final)
+
 ##### :x assigned videos
 
 - [What is Evolution?](https://youtu.be/GhHOjC4oxh8) (9 min)
