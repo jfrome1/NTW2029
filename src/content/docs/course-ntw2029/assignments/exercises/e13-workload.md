@@ -22,4 +22,4 @@ Estimates are fine if you don't have exact times
 
 ##### :x why log time
 
-Your reported hours will not affect your grade in any way, including participation. I'm not tracking individual students or judging how long things take you. Instructors are told that this course should require an average of 10 hours of work per week, and I want to verify whether I'm meeting this guideline.
+Instructors are told that this course should require an average of 10 hours of work per week, and I want to verify whether I'm meeting this guideline. Your reported hours will not affect your grade in any way, including class participation. I'm not tracking individual student time.
