@@ -1,170 +1,153 @@
 ---
 title: GenAI policy
-date: 2025-08-17
-draft: false
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
-## Summary of the GenAI policy
+GenAI is a tool we'll all be using more and more, so this course lets you explore its capabilities and limitations without penalty. The key is transparency—I need to see how you're using it to understand what helps or hinders your learning.
 
-- You are free to use or not use GenAI chatbots in this course in any way as long as you submit links to your chat transcripts
-- There is no penalty for using GenAI chatbots
-- Every assignment in this course must include either 1) a link to a transcript of all relevant GenAI use or 2) a statement that no GenAI was used to receive credit.
+## GenAI Policy Requirements
 
-See the rest of the page for important details.
+You may use ChatGPT for any coursework with no grade penalty if you follow these requirements:
 
-## Official policy (includes linked details)
+- Submit links to all GenAI chat transcripts at the top of every assignment, above the title
+- Copy links from the share function, not browser URLs
+- Use only text-based chatbot interactions (prompting and receiving text responses)
+- Include the statement "I did not use GenAI in any way for this assignment" if you choose not to use GenAI
+- Create an account and stay logged in when using ChatGPT to enable link sharing
+- Don't delete any course chats
 
-The course's GenAI policy is: you may use GenAI chatbots ([:but only chatbots](#x-chatbots)) for any coursework with no penalty if:
+If you want to use an AI tool other than ChatGPT, come talk to me first to see if I can accommodate you.
 
-1. you use a GenAI tool that lets you share a [:persistent chat link](#x-persistent)
-2. you submit [:links to all of your chat transcripts](#x-one-chat) along with the assignment
-3. you don't use file uploads/downloads or similar (ChatGPT /canvas, Claude artifacts)
+### Grade Impact
 
-If you use GenAI but don't submit [:the links](#x-submit-all), you've [:broken the rules](#x-no-submission).
+- GenAI use or non-use does not affect your grade if you declare it properly
+- Assignments missing both GenAI links and non-use statement receive zero credit
+- Non-declaration or prohibited uses are considered academic honesty violations, with serious penalties
 
-You do not need to cite your use of GenAI in assignments in addition to providing your chat links. The links alone are sufficient citation.
-
-Use or non-use of GenAI in this course [:will not affect your grade](#x-grade).
-
-## Is this a trick? Why would you allow GenAI use?
-
-This permissive GenAI policy is not a trick, or an honesty test, or reverse psychology. The course does not consider use of GenAI to be cheating. GenAI is a tool that all of us will be using more and more. We must learn about its capabilities and limitations.
-
-To that end, after the course is over and grades are in, we will ask students to let us use their chats for research (they will be anonymized, and you can opt-out). Having no penalty for use helps us get [:honest data](#x-honest).
-
-## There is really no penalty? Even if GenAI does the entire assignment for me?
-
-Obviously, your learning may suffer if you rely too heavily on GenAI to complete your coursework. However, there will be no grade penalty or course policy violation as long as you follow the rules described here.
-
-## What counts as GenAI? Can I use any software tool in my coursework?
-
-In this course, Generative AI (hereafter GenAI) includes [:tools that generate text and images](#x-GenAI-tools) from prompts.
-
-Course policy only allows use of [:chatbots](#x-chatbots), not other GenAI tools.
-
-## What counts as GenAI use?
-
-Everything counts. If you use these these tools [:in any way](#x-any-way) while working on your assignment, consider it GenAI use, and send the link.
-
-## Do I have to use GenAI?
-
-No. You are not expected to use GenAI, and it's fine if you don't. If you don't use GenAI on an assignment, you MUST end your submission with the statement, "I did not use GenAI in any way for this assignment." Please just be honest about it.
-
-## How to create and submit links correctly
-
-**_Be careful_**: you must submit links in the right way.
+## How to Submit GenAI Links
 
 :::danger
-Do not highlight the URL in your browser and copy/paste it into your assignment. We cannot reliably get chats from these links. Follow the instructions below.
+Browser URLs do not work. You must use the share function to create public links.
 :::
 
-Instructions for ChatGPT:
+### ChatGPT Shared Link Instructions
 
-Note: you cannot share links unless you _create an account_ and _are logged in_ during your chats. Don't use your full real name or any identifying information in your account username (this is important for keeping the chats anonymous in our research).
+1. Click the share link icon in your chat
+2. Click "Create public link"
+3. Copy the generated link (not the browser URL)
+4. Paste this link at the bottom of your assignment
 
-To share the chat, click the `share link` icon, create a public link, and copy/paste it into your assignment. Here's a [:walkthrough](#x-walkthrough) with images.
+[:See detailed walkthrough with images](#x-walkthrough)
 
-Don't make the mistake of [:copying the wrong links](#x-wrong-links).
+### Non-Approved GenAI Uses
 
-Don't delete the linked chat until course grades have been released at end of term.
+- Uploading or downloading files to/from GenAI tools
+- Using GenAI integrated into other apps, such as Microsoft Office, Google Docs, or custom IDEs
+- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function)
+- GenAI models that can't create special links to share conversations
 
-## NUS general GenAI policy
+### New Chat Guidelines
 
-GenAI policy in this course should be understood in relation to the [:NUS Academic Honesty policy](#x-nus-genai).
+- Start a new chat for each assignment to keep chats organized
+- Try to use just one chat per assignment (P01-P09 count as separate assignments)
+- If you forget and have more than one chat for an assignment, submit links to all of them
+- Submit entire chats regardless of length
 
-## Instructor GenAI declaration
+### What Counts as GenAI Use
 
-I might use AI in the following ways:
+Any interaction with GenAI while working on an assignment counts as use, including:
 
-- generate questions for in-class activities or optional (ungraded) online quizzes
-- generate writing examples for discussion or to illustrate my points
-- revise handouts or lecture notes
-- revise online course content, including on Canvas and my course website
-- revise my written feedback on assignments (I write the initial feedback without GenAI and do all final revisions)
+- Checking spelling or grammar
+- Asking questions that prove unhelpful
+- Testing the tool without using its output
+- Getting ideas or feedback
 
-### :x submit all
+Submit all chats about course topics, whether or not you actually use anything from the chat.
 
-Send the _entire_ chat and _all_ chats if you have more than one. We don't care if it's 100 pages long.Send it all.
+### Chat Research Option
 
-### :x chatbots
+We would like to analyze anonymized chat transcripts and assignment submissions for research after grades are submitted. Although you must follow this GenAI policy, you may opt-out of being part of that research by emailing me at any time before next term, even after final grades are submitted. [Learn more about the research purpose](#research-purpose)
 
-This course allows use of GenAI chatbots, meaning tools like ChatGPT that use a chat interface--you enter a text prompt and the AI responds with a text output. Any chat input is allowed. You can copy-and-paste your paper into the chat if you like.
+## Related Policies
 
-These and other GenAI tools also allow non-chatbot interactions, but these are not allowed in this course. With non-chat tools, It is much harder to understand a student's contribution, see why a student is using the tool, and evaluate the tool's effects on student learning.
+This policy operates within NUS Academic Honesty guidelines. [View NUS GenAI guidance](#nus-genai-guidance)
 
-GenAI uses that are _not allowed_ under this course policy include:
+## Frequently Asked Questions
 
-- using GenAI tools integrated into Microsoft Office or Google Docs
-- uploading any file to GenAI
-- prompting the AI to create any output other than plain text
-- downloading any file from GenAI
+### Why only chatbots?
 
-These uses will be considered violations of NUS academic honesty policies.
+Chatbot interactions provide clear documentation of your thinking process and the AI's contributions. Other GenAI make it difficult to:
 
-### :x one chat
+- Understand what work is yours versus the AI's
+- Track your learning process
+- Evaluate the tool's impact on student development
 
-For each assignment, try to keep all of your GenAI interactions in one chat just to make it easier to give me the transcripts. However, if you do end up with multiple chats, you must include all of them.
+Text-based chat transcripts show the complete interaction, making it possible to study how students use these tools and how they affect learning outcomes.
 
-### :x no submission
+### Why are certain uses prohibited?
 
-If you use GenAI, but _don't_ submit the full transcript(s) with your assignment, it will be considered a violation of academic honesty with consequent (serious) penalties.
+I need transparency to understand how you're using these tools and what you're learning. Chatbot transcripts provide that transparency, while file uploads and integrated tools don't. Also, basic chatbot features are free for all students, but advanced features often require payment. Restricting use to free features keeps things more fair for everyone.
 
-There really is no penalty for using GenAI, so don't risk failing the assignment or the course by forgetting to submit all links.
+### Why submit unhelpful or dead-end conversations?
 
-Every assignment must include either a GenAI link or a statement of non-use to earn credit. If neither are included, the assignment will receive a zero.
+It's valuable to know what students try that doesn't work and what AI tools can't do well. Understanding failed attempts helps me teach you better strategies and shows me where AI falls short. These "failed" conversations are often the most instructive for research purposes.
 
-### :x grade
+### Research purpose
 
-We likely won't even look at most transcripts during the semester. We will collect them, anonymize them, and analyze them for research purposes after grades are in. Even if we do look at the transcripts, there is no penality for using GenAI in the ways we describe here.
+This permissive policy isn't a trick or test. We genuinely want to understand how students use GenAI tools when there's no penalty for being honest about it.
 
-### :x honest
+The research aims to understand:
 
-Please don't edit the chats, or worry that you said something dumb in the chats, or try to trick the system, because that would ruin the dataset and undermine our research. All chats will be anonymized before using them for research.
+- How students actually use GenAI when given freedom to do so
+- Which uses help or hinder learning
+- How to better integrate these tools into education
 
-### :x GenAI tools
+Your honest use and documentation helps us develop better teaching approaches for future students.
 
-GenAI doesn't include basic computer-assisted editing like the grammar and spellcheck functions built into word processors.
+### How does the instructor use GenAI?
 
-It includes (but is not limited to) tools such as ChatGPT, Microsoft CoPilot chat, Gemini, Claude, many other tools whose names we don't know, and home-run LLMs .
+I may use GenAI to:
 
-### :x NUS GenAI
+- Generate questions for discussion, assignments, or quizzes
+- Create writing examples for class discussion
+- Revise course materials and handouts
+- Edit (but not write) assignment feedback
 
-Please read NUS guidance on [use of AI tools generally](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-4), [using AI tools for assignments](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-5), and [plagiarism](https://libguides.nus.edu.sg/copyright_essentials_teaching_learning_research/plagiarism). Relevant sections of the NUS Code of Student Conduct are [here](https://www.nus.edu.sg/celc/statements-and-e-resources-on-plagiarism/).
+### NUS GenAI guidance
 
-### :x persistent
+NUS provides guidance on:
 
-When you use a chatbot, the information isn't necessarily saved in a way that you can share the chat with others. ChatGPT lets you create a link that will persist for at least several days if not weeks. If you want to use a different chatbot, you must confirm that it will let you share a link that will let others see the chat. The link might work on your computer, where the website saves data in your browser, but not on someone else's computer.
+- [General use of AI tools](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-4)
+- [Using AI tools for assignments](https://libguides.nus.edu.sg/new2nus/acadintegrity#s-lib-ctab-22144949-5)
+- [Understanding plagiarism](https://libguides.nus.edu.sg/copyright_essentials_teaching_learning_research/plagiarism)
+- [NUS Code of Student Conduct](https://www.nus.edu.sg/celc/statements-and-e-resources-on-plagiarism/)
+
+The key principle: you must be transparent about any assistance you receive, whether from humans or AI. This course requires that transparency through chat transcript submission.
 
 ### :x walkthrough
 
-First, click the `share link` icon:
+First, click the share link icon:
 
 ![share link icon](/images/chatgpt-share-link-icon.png)
 
-Then, click the `create link` button to create a public link:
+Then, click the "create link" button to create a public link:
 
 ![create link](/images/chatgpt-public-link-create.png)
 
-Finally, click the `copy link` button to create a public link we can see:
+Finally, click the "copy link" button to copy the public link:
 
 ![copy link](/images/chatgpt-copy-link.png)
 
-### :x wrong links
+Common mistakes to avoid:
 
-Don't highlight and copy/paste the URL from your browser--it will take you to the chat, but it won't work for your instructor:
+Don't copy the URL from your browser—it won't work for others:
 
 ![don't copy url link](/images/chatgpt-dont-copy-url.png)
 
-You might also see a `copy link` option in ChatGPT, but this is a link to a GPT builder, not to your chat.
+Don't use the "copy link" option in GPT builder—this links to the tool, not your chat:
 
 ![don't copy this link](/images/chatgpt-dont-copy-link.png)
-
-### :x any way
-
-It doesn't matter if:
-
-- you just ask the tool to check your spelling
-- you ask questions and the tool's output is totally unhelpful
-- you are just testing the tool to see if it will be helpful and you decide that it's not
-
-Send the link! There is no penalty for use. Follow course policy.
