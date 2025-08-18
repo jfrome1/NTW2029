@@ -1,0 +1,81 @@
+---
+// Nutshell.astro
+const { title } = Astro.props;
+---
+
+<span class="nutshell-inline">
+  <details class="nutshell-details">
+    <summary>
+      <span class="icon">:</span>
+      <span class="summary-text">{title}</span>
+    </summary>
+    <div id={title.replaceAll(" ", "-")+"-content"} class="details-content">
+    </div>
+  </details>
+</span>
+
+<script is:inline define:vars={{title}}>
+  document.addEventListener("DOMContentLoaded", () => {
+    const contentHeader = document.getElementById("x-" + title.replaceAll(" ", "-"));
+    const content = document.getElementById(title.replaceAll(" ", "-")+"-content");
+    if (contentHeader && content) {
+      contentHeader.classList.add("hidden")
+      console.log(content.innerHTML)
+      content.innerHTML = contentHeader.nextElementSibling.outerHTML
+    }
+  });
+</script>
+
+<style>
+    summary {
+        all: unset;
+    }
+  .nutshell-inline {
+    display: inline;
+  }
+
+  .nutshell-details {
+    display: inline;
+    all: unset; /* Reset default styles */
+  }
+
+  /* Style the summary as inline text */
+  .nutshell-details > summary {
+    display: inline;
+    list-style: none;
+    cursor: pointer;
+    outline: none;
+  }
+
+  /* Hide default marker */
+  .nutshell-details > summary::marker,
+  .nutshell-details > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  /* Custom icon */
+  .nutshell-details .icon {
+    margin: 0 0.5ch;
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+    display: inline-block;
+  }
+  summary::before {
+    display: none;
+  }
+
+  /* Rotate icon when open */
+  .nutshell-details[open] .icon {
+    transform: rotate(90deg);
+  }
+
+  /* Content appears inline or as block depending on your needs */
+  .details-content {
+    display: inline; /* or 'block' if you want it on a new line */
+    margin-left: 1ch;
+  }
+  .summary-text {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+</style>
