@@ -1,7 +1,6 @@
 ---
 title: Grading
 date: 2025-08-14
-draft: false
 ---
 
 ## Final Grade Components
