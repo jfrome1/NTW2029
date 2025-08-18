@@ -46,7 +46,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
 <!--Class media:
 	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
-	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min) -->
+	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
+	- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
+	- [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
+	- -->
 
 ## 2.2 Thu 21 Aug 2025
 
