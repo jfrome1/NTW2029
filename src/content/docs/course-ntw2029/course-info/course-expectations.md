@@ -1,7 +1,6 @@
 ---
 title: Course Expectations
 date: 2025-08-17
-draft: false
 ---
 
 ## Technology Requirements
@@ -19,7 +18,7 @@ Keep electronic devices out of site during class (except for disability accommod
 
 NOTE: I expect you to check these daily. If you don't, you will miss something.
 
-[:Why you should ignore the Canvas gradebook](#x-why-you-should-ignore-the-canvas-gradebook-looks)
+[:Why you should ignore the Canvas gradebook](#x-why-you-should-ignore-the-canvas-gradebook)
 
 ## Classroom Conduct
 
