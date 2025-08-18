@@ -404,3 +404,70 @@ import posthog from "posthog-js";
             border: 1px solid #f5c6cb;
         }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const headings = document.querySelectorAll("h1, h2");
+
+    headings.forEach(heading => {
+      if (heading.querySelector(".anchor-link")) return;
+
+      let id = heading.id;
+      if (!id && heading.textContent) {
+        id = heading.textContent
+          .trim()
+          .toLowerCase()
+          .replace(/\s+/g, "-")        
+          .replace(/[^a-z0-9-]/g, ""); 
+        heading.id = id;
+      }
+
+      const anchor = document.createElement("a");
+      anchor.href = "#" + id;
+      anchor.className = "anchor-link";
+      anchor.ariaLabel = `Anchor for: ${heading.textContent}`;
+      anchor.textContent = "🔗";
+      anchor.style.textDecoration = "none";
+      anchor.style.color = "#777";
+      anchor.style.marginLeft = "0.5ch";
+      anchor.style.fontSize = "0.7em";
+      anchor.style.opacity = "0";
+      anchor.style.transition = "opacity 0.2s ease";
+
+      const wrapper = document.createElement("span");
+      wrapper.className = "heading-anchor-wrapper";
+      wrapper.style.display = "inline-flex";
+      wrapper.style.alignItems = "center";
+      wrapper.appendChild(document.createTextNode(" "));
+      wrapper.appendChild(anchor);
+
+      heading.appendChild(wrapper);
+
+      (heading as HTMLElement).style.transition = "background 0.2s";
+      heading.addEventListener("mouseenter", () => {
+        anchor.style.opacity = "1";
+      });
+      heading.addEventListener("mouseleave", () => {
+        anchor.style.opacity = "0";
+      });
+
+      if (window.location.hash === "#" + id) {
+        (heading as HTMLElement).style.backgroundColor = "var(--sl-color-accent-low)";
+        anchor.style.opacity = "1";
+      }
+    });
+
+    window.addEventListener("hashchange", () => {
+      document.querySelectorAll("h1, h2").forEach(h => {
+        const anchor = h.querySelector(".anchor-link");
+        if (window.location.hash === "#" + h.id) {
+          (h as HTMLElement).style.backgroundColor = "var(--sl-color-accent-low)";
+          if (anchor) (anchor as HTMLAnchorElement).style.opacity = "1";
+        } else {
+          (h as HTMLElement).style.backgroundColor = "";
+          if (anchor) (anchor as HTMLAnchorElement).style.opacity = "0";
+        }
+      });
+    });
+  });
+</script>
