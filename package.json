@@ -17,7 +17,7 @@
     "astro": "^5.12.9",
     "astro-compress": "^2.3.8",
     "mermaid": "^11.9.0",
-    "posthog-js": "^1.259.0",
+    "posthog-js": "^1.260.1",
     "rehype-external-links": "^3.0.0",
     "remark": "^15.0.1",
     "remark-attr": "^0.11.1",
