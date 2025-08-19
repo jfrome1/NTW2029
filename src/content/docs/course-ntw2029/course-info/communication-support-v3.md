@@ -23,7 +23,7 @@ sidebar:
 - Individual meetings in person or via Zoom
 - Assigned/required conferences: via Zoom
 
-## When I respond
+### When You'll Hear Back
 
 - Telegram messages: Within a few hours on weekdays
 - Email: Within one business day
