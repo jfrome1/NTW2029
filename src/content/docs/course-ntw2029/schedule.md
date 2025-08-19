@@ -75,7 +75,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 24 Aug 2025: Exercise 3 - explain Boyd reading intro
 >
-###### Due Sun 24 Aug 2025 (optional, ungraded): Evolution basics quiz
+###### Due Sun 24 Aug 2025: Evolution basics quiz (take once by this date, you may re-take as many times as you like)
 
 ## 3.1 Mon 25 Aug 2025
 
