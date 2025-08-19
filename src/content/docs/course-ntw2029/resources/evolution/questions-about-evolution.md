@@ -69,7 +69,7 @@ Yes, humans are still evolving, and we can see various trait changes in differen
 
 ### Are evolution and religion compatible?
 
-Many religious people accept evolution as an explanation of how biological diversity developed. For more, see [Evolution and Religion](/course-ntw2029/resources/evolution/other/ev-religion).
+Many religious people accept evolution as an explanation of how biological diversity developed. For more, see resource page `Evolution and Religion`.
 
 ### If evolution is random, how can species be so perfectly designed?
 
