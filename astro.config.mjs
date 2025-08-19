@@ -37,7 +37,7 @@ export default defineConfig({
       },
       tableOfContents: {
         minHeadingLevel: 1,
-        maxHeadingLevel: 2,
+        maxHeadingLevel: 3,
       },
       title: "NTW2029 - Home",
       components: {
