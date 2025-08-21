@@ -1,0 +1,66 @@
+---
+// This is your Astro component file.
+import Default from '@astrojs/starlight/components/SocialIcons.astro';
+---
+
+<div id="username-display">Welcome</div>
+
+<Default><slot /></Default>
+
+<script>
+  function getCookie(name: string) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) {
+      const popped = parts.pop();
+      return popped ? popped.split(';').shift() : null;
+    }
+    return null;
+  }
+
+  function capitalizeWords(str: string) {
+    if (!str || typeof str !== 'string' || str.trim() === '') {
+      return 'Guest';
+    }
+    return str.toLowerCase().split(' ').map(word => {
+      if (word.length > 0) {
+        return word.charAt(0).toUpperCase() + word.slice(1);
+      }
+      return '';
+    }).join(' ');
+  }
+
+  const authUserCookie = getCookie("authUser");
+  const welcomeDiv = document.getElementById("username-display") as HTMLDivElement;
+
+  if (authUserCookie) {
+    try {
+      const user = JSON.parse(decodeURIComponent(authUserCookie));
+      
+      if (user && user.username) {
+        const capitalizedUsername = capitalizeWords(user.username);
+        welcomeDiv.textContent = `Welcome ${capitalizedUsername}`;
+      } else {
+        welcomeDiv?.remove()
+      }
+    } catch (error) {
+      console.error("Failed to parse user data from cookie:", error);
+      welcomeDiv?.remove()
+    }
+  } else {
+    welcomeDiv?.remove()
+  }
+</script>
+
+<style>
+    #username-display {
+        background-color: var(--sl-color-accent-low); 
+        color: var(--sl-color-white);
+        padding: 0.25rem 0.75rem; 
+        border-radius: var(--sl-border-radius);
+        font-weight: 500;
+        font-size: var(--sl-text-sm); 
+        display: inline-block;
+        margin-left: 0.5rem;
+    }
+</style>
