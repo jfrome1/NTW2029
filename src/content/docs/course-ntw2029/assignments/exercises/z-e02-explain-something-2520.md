@@ -7,7 +7,8 @@ sidebar:
     variant: caution
 ---
 
-Revise to have basics/details structure
+- Revise to have basics/details structure
+- Revise to start with guidance on picking the topic before giving writing instructions
 
 ## Assignment purpose
 
@@ -51,7 +52,7 @@ Format this as:
 
 Show your explanation to a friend who is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Then, ask them to identify 1-3 specific places where they might be confused about what to do or how to do it.
 
-Report their feedback exactly as given. Format this like the above, using direct quotes and reporting your friend's feedback.
+Tell me who your reader is (name, roommate/classmate/sibling/etc., age if not NUS student). Report their feedback exactly as given. Format this like the above, using direct quotes and reporting your friend's feedback.
 
 Note: Your friend must identify at least one point of confusion but doesn't need to find three if they think the explanation is really clear.
 
@@ -87,7 +88,7 @@ Make sure that you think of your reader while writing your explanation. What wou
 
 After reading your explanation, your reader should be able to do the thing you explain (even if at a beginner level). It's not enough if they just know the steps involved in the task but can't actually perform those steps. For difficult actions, don't just say what to do, but explain how to do it.
 
-Along these lines, it's best not to pick something that is easy to describe but hard to do, like playing an instrument. You can explain, "to play piano, hit the keys in the right order with the right timing and rhythm", but that doesn't actually help your reader.
+Don't explain something that is easy to describe but hard to do, like playing an instrument, drawing, juggling, or similar physical activities. You can explain, "to play piano, hit the keys in the right order with the right timing and rhythm", but that doesn't actually help your reader.
 
 ## GenAI submission requirement
 

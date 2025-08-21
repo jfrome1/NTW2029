@@ -14,7 +14,7 @@ The purpose of this exercise is to encourage you to critically reflect on how yo
 
 Please answer the following questions. Don't try to use your answers to present a curated image of yourself as a writer; these answers will not affect your paper grade, and you will benefit most from honest reflection. Answers can be as long or short as needed (no word count requirements).
 
-Copy and paste the following questions into the Exercise 6 text box on Canvas. Don't delete the questions--keep them and type answers below each question:
+Copy and paste the following questions into a Word document. Don't delete the questions--keep them and type answers below each question:
 
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
