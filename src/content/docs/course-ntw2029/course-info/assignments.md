@@ -22,6 +22,14 @@ See sections below for detailed explanations.
 | **Word count** | Required | Required | Required |
 | **GenAI link/non-use statement** | Required | Required | Required |
 
+## Submission Basics
+
+- Submit assignments as an attached Word document (.docx) - not Pages, PDF, or Google Docs
+- Include at top: Your name, section (E1 or E2), GenAI link/non-use statement, word count
+- You can resubmit unlimited times until the deadline; I grade only the last submission
+- All paper assignments (P02-09) must be submitted at minimum acceptable quality to pass the course
+- Specific requirements are explained each assignment
+
 ## Extension Policy
 
 - You may submit any assignment (except peer review) up to 12 hours late (i.e. automatic extension until noon the following day)
@@ -32,80 +40,48 @@ See sections below for detailed explanations.
 
 If you're struggling with workload, come talk to me early and check [NUSC pastoral care resources](https://tinyurl.com/nuscpastoralcare).
 
+## Formatting Requirements
+
+### For All Assignments
+
+Follow my formatting guidelines for all assignments (except E13, worload log). The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" in that template to format your paper if that's easy for you.
+
+You can also read the [:full formatting details](#x-full-formatting-details), which includes instructions for MS Word settings.
+
+### Additional Formatting Requirements for Drafts and Final Papers  (P02-03, P07-09)
+
+- Highlight your thesis statement in yellow (2 sentences maximum)
+- Highlight all topic sentences in light blue
+- Start reference list on a new page at the end
+- Italicize all titles in both body text and reference list
+
 ## Exercises (E01-E11)
 
 **Counts toward**: Writing Development Work (15%) - graded complete/incomplete
 
 Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you
 
-### Submission Requirements
-
-- Submit as attached Word document (.docx) - not Pages, PDF, or Google Docs
-- Include at top: Your name and section (E1 or E2)
-- Include at bottom: Word count and GenAI link/non-use statement
-- You can resubmit unlimited times until the deadline; I grade only the last submission
-
 ### Content Requirements
 
-- Write with proper grammar so I know errors aren't from carelessness
+- Write in full sentences and paragraphs (unless the assignment says otherwise)
+- Use proper grammar so I know errors aren't from carelessness
 - Use formal style like an essay, not a casual email
 - Choose simple, clear language over complex vocabulary
 - Skip introductions and conclusions (exercises aren't full essays)
 - Don't quote or cite sources unless specifically requested
 - Don't do outside research
 
-### Formatting
-
-No specific formatting is required.
-
-## Preliminary Writing (P01-02, P04-08)
+## Paper Assignments (P01-P09) Preliminary Writing (P01-02, P04-08)
 
 **Counts toward**: Writing Development Work (15%) - graded complete/incomplete
 
-### Submission Requirements
-
-- Submit as attached Word document (.docx)
-- Include at top: Your name and section (E1 or E2)
-- Include at bottom: Word count and GenAI link/non-use statement
-- You can resubmit unlimited times until the deadline; I grade only the last submission
-
-### Formatting Requirements
-
-Follow my formatting guidelines. The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" to format your paper if that's easy for you.
-
-You can also read the [:full formatting details](#x-full-formatting-details), which includes instructions for manually setting them up in MS Word.
-
-**For drafts only (P01-02, P07-08):**
-
-- Highlight your thesis statement in yellow (2 sentences maximum)
-- Highlight all topic sentences in light blue
-- Start reference list on a new page at the end
-- Italicize all titles in both text and reference list
+Remember that drafts (P02, P07, P08) have additional formatting requirements (listed above).
 
 ## Final Papers (P03, P09)
 
 **Counts toward**: Paper 1 (30%) or Paper 2 (40%) - graded with letter grades
 
-### Submission Requirements
-
-- Submit as attached Word document (.docx) - not Pages, PDF, or Google Docs
-- Include at top: Your name and section (E1 or E2)
-- Include at bottom: Word count and GenAI link/non-use statement
-- You can resubmit unlimited times until the deadline; I grade only the last submission
-- Must be submitted at minimum acceptable quality to pass the course
-
-### Formatting Requirements
-
-Follow my formatting guidelines. The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" to format your paper if that's easy for you.
-
-You can also read the [:full formatting details](#x-full-formatting-details), which includes instructions for manually setting them up in MS Word.
-
-**Additional paper requirements:**
-
-- Highlight your thesis statement in yellow (2 sentences maximum)
-- Highlight all topic sentences in light blue
-- Start reference list on a new page at the end
-- Italicize all titles in both text and reference list
+Remember that final papers (P03, P09) have additional formatting requirements (listed above).
 
 ##### :x full-formatting-details
 
