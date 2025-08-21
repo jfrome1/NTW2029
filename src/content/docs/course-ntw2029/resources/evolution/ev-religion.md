@@ -35,7 +35,7 @@ If you hold that the earth is less than 10,000 years old, then there is potentia
 - [Acceptance of evolution by religious groups - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_of_evolution_by_religious_groups)
 - [What is a Creationist? Evolution Question #5](https://youtu.be/-pSeCLo3AHE)
 
-### :x scientific
+##### :x scientific
 
 If you want to know how scientists estimate the age of the earth, a short discussion of evidence is found in this [article](https://biologos.org/common-questions/how-are-the-ages-of-the-earth-and-universe-calculated), or you can take a deeper look with videos such as these:
 
