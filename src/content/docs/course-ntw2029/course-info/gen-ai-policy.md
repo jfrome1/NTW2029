@@ -126,7 +126,7 @@ NUS provides guidance on:
 
 The key principle: you must be transparent about any assistance you receive, whether from humans or AI. This course requires that transparency through chat transcript submission.
 
-### :x walkthrough
+##### :x walkthrough
 
 First, click the share link icon:
 

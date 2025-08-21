@@ -48,6 +48,6 @@ Follow these guidelines for emailing me:
 
 - You _must_ have a calendar with your course due dates on it. If you don't currently use one, [:set it up right away](#x-calendar).
 
-### :x calendar
+##### :x calendar
 
 Every student I have had who forgot to submit an asssignment was one who didn't use a calendar. Some relied on memory; others had a to-do list. Your life may have worked just fine without a calendar until now. Now you need one. Set up a calendar, put all assignment due dates on it right at the beginning of the semester, check the calendar daily, and if your calendar is electronic, make sure to set up a default one-day advance reminder for assignment due dates.
