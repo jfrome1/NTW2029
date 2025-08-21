@@ -13,7 +13,7 @@ The purpose of this assignment is to help you consolidate your thoughts about th
 
 After our conference, consider our discussion and my feedback on your draft.
 
-Copy and paste the following questions into the Exercise 5 text box on Canvas. Don't delete the questions--keep them and type answers below each question:
+Copy and paste the following questions into a Word document. Don't delete the questions--keep them and type answers below each question:
 
 1. What were the two or three most important points of feedback on your draft?
 2. What other points of feedback were discussed?

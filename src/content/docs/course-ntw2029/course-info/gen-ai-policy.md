@@ -9,11 +9,13 @@ GenAI is a tool we'll all be using more and more, so this course lets you explor
 
 You may use ChatGPT for any coursework with no grade penalty if you follow these requirements:
 
-- Submit links to all GenAI chat transcripts at the top of every assignment, above the title
+- For each submitted assignment:
+    - If you use GenAI, submit links to all relevant chat transcripts
+    - If you don't use GenAI, submit the statement "I did not use GenAI in any way for this assignment"
+- Submit links/non-use statements at the top of the assignment, above the title
 - Copy links from the share function, not browser URLs
-- Use only text-based chatbot interactions (prompting and receiving text responses)
-- Include the statement "I did not use GenAI in any way for this assignment" if you choose not to use GenAI
-- Create an account and stay logged in when using ChatGPT to enable link sharing
+- Use only text-based chatbot interactions (prompts and responses)
+- Create a non-shared ChatGPT account and stay logged in when using it to enable link sharing
 - Don't delete any course chats
 
 If you want to use an AI tool other than ChatGPT, come talk to me first to see if I can accommodate you.
@@ -35,7 +37,7 @@ Browser URLs do not work. You must use the share function to create public links
 1. Click the share link icon in your chat
 2. Click "Create public link"
 3. Copy the generated link (not the browser URL)
-4. Paste this link at the bottom of your assignment
+4. Paste this link at the top of your assignment, above any titles
 
 [:See detailed walkthrough with images](#x-walkthrough)
 
