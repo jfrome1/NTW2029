@@ -37,7 +37,7 @@ export default defineConfig({
       },
       tableOfContents: {
         minHeadingLevel: 1,
-        maxHeadingLevel: 3,
+        maxHeadingLevel: 4,
       },
       title: "NTW2029 - Home",
       components: {
@@ -72,7 +72,6 @@ export default defineConfig({
               collapsed: true,
               autogenerate: { directory: "course-ntw2029/assignments/papers" },
             },
-
           ],
         },
         {

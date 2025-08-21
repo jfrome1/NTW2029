@@ -1,17 +1,11 @@
 ---
 import CustomTableOfContentsList from "./CustomTableOfContentsList.astro";
 const { toc } = Astro.locals.starlightRoute
-
-// Uncomment to remove Overview heading
-const index = toc!.items.findIndex(
-  (item: { slug: string }) => item.slug === "_top"
-);
-if (index !== -1) {
-  toc!.items.splice(index, 1);
-}
-
 // Uncomment to change Overview heading and comment above
-// toc.items[0].text = "Test"
+// if (toc && toc.items.length > 0 && toc.items[0].text === "Overview") {  
+//   toc.items[0].text = ""
+//   toc.items[0].slug = ""
+// }
 ---
 
 {
@@ -29,3 +23,14 @@ if (index !== -1) {
     </starlight-toc>
   )
 }
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const elements = document.querySelectorAll('a[href="#_top"]') ;
+
+  elements.forEach(element => {
+    if (element.textContent && element.textContent.trim() === 'Overview') {
+      element.remove();
+    }
+  });
+});
+</script>
