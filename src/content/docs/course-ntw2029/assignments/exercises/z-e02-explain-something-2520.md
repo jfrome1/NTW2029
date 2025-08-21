@@ -9,6 +9,7 @@ sidebar:
 
 - Revise to have basics/details structure
 - Revise to start with guidance on picking the topic before giving writing instructions
+- The thing must be something that can be accomplished in one session (so "put on a lifejacket" is ok, but "learn to swim" isn't)
 
 ## Assignment purpose
 

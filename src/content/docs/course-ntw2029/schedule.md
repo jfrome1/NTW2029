@@ -80,7 +80,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 3.1 Mon 25 Aug 2025
 
 - EP and art topic: criticisms of EP
-	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-71 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-71.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
+	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-68 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-68.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](/downloads/harveyBriefGuideElements2009-bw.pdf)
 
