@@ -11,7 +11,7 @@ sidebar:
 
 ### Boyd pages 51-55
 
-> In this text, Boyd argues that cooperation in social animals, including humans, can be explained through evolutionary theory. He begins by asking why, even as rebellious teenagers, we accept cooperation as an obviously good idea. He states that before the 1960s, those studying evolution assumed that cooperation could easily evolve because groups benefit from cooperative individuals. In the mid-1960s, however, William Hamilton and George Williams challenged this assumption. They argued that if one individual in a group behaves cooperatively while another behaves selfishly, the selfish individual is more likely than the cooperator to survive and pass on its genes, making it difficult for cooperation to become a widespread trait in a species.
+> Boyd argues that cooperation in social animals, including humans, can be explained through evolutionary theory. He begins by asking why, even as rebellious teenagers, we accept cooperation as an obviously good idea. He states that before the 1960s, those studying evolution assumed that cooperation could easily evolve because groups benefit from cooperative individuals. In the mid-1960s, however, William Hamilton and George Williams challenged this assumption. They argued that if one individual in a group behaves cooperatively while another behaves selfishly, the selfish individual is more likely than the cooperator to survive and pass on its genes, making it difficult for cooperation to become a widespread trait in a species.
 >
 > Boyd notes that unconditional altruism is biologically impossible. Traits are retained only if they offer immediate advantages, and in the short term, selfishness has advantages over unconditional cooperation. But conditional cooperation can and does evolve.
 >
@@ -23,7 +23,7 @@ sidebar:
 
 - Unlike the original, it begins with a clear statement of the source's main claim.
 - It skips some sentences and expands on others.
-- It doesn't have the same number of paragraphs as the source, but is in basically the same order (that's not required)
+- It doesn't have the same number of paragraphs as the source, but is in basically the same order (although that's not required and isn't always a good idea)
 - Attribution is important, but you don't need to mention the source in every single sentence. The standard to meet is: will the reader be clear about whether a claim originated from a source vs the writer?
 - You can refer to the source with pronouns, but treat each paragraph as a new start and make sure you use the source's name before reverting to the pronoun again. I'll explain this principle again in a later class.
 

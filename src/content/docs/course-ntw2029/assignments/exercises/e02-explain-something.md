@@ -1,8 +1,6 @@
 ---
-
 title: Exercise 2 - Explain something
 date: 2024-08-14
-draft: false
 ---
 
 ## Assignment purpose
@@ -39,6 +37,7 @@ For this exercise, start with a title that makes clear what you will explain.
 After writing your explanation, list exactly 3 areas where you think your reader is most likely to misunderstand or struggle. Be specific about which parts of your explanation might cause confusion.
 
 Format this as:
+
 1. [Direct quote from essay] - [Why reader might struggle]
 2. [Direct quote from essay] - [Why reader might struggle]
 3. [Direct quote from essay] - [Why reader might struggle]
