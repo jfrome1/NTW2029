@@ -70,8 +70,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-- Additional resources:
-	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
+
+<!-- NOTE: add class media links -->
+
 
 ###### Due Sun 24 Aug 2025: Exercise 3 - explain Boyd reading intro
 >
@@ -94,6 +95,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017. [download](/downloads/harrisComingtoTerms.pdf)
 <!--Class media:
 	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
+<!-- - Additional resources:
+	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
+ -->
 
 ###### Due Sun 31 Aug 2025: Exercise 4 - explain Goldfinch section
 >

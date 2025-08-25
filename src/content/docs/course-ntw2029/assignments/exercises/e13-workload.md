@@ -1,7 +1,6 @@
 ---
 title: Exercise 13 - Workload report
 date: 2025-08-18
-draft: false
 ---
 
 ## Assignment
