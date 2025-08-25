@@ -2,11 +2,6 @@
 title: Exercise 3 example
 date: 2025-02-08
 pagefind: false
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ### Boyd pages 51-55
