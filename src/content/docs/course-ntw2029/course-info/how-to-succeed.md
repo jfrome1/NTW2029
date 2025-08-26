@@ -13,21 +13,16 @@ sidebar:
 Professional emails get faster, better responses. Here's what works:
 
 **Subject line**: Always include "NTW2029" so I can find your email
-**Opening**: Use both your formal name and what I call you in class
-**Tone**: Write like you're asking a favor, not texting a friend
+**Opening**: Use both your formal name and what I call you in class, if different
+**Tone**: Write like you're asking permission, not texting a friend or telling your Uber driver to wait. "May I meet with you after class?" works better than "I'll come see you after class."
 
-Good: "I would like to request an extension on Paper 1. I will submit it by [date]."
-Bad: "Hey, gonna be late with the paper, sry"
-
-Ask permission rather than announce decisions. "May I meet with you after class?" works better than "I'll come see you after class."
-
-## When to Ask Questions (and Where)
+## When and Where to Ask Questions
 
 Choosing the right channel saves everyone time.
 
 **Ask publicly in Teams or class** when others would benefit:
 
-- Can't find something on the website
+- Can't find something on the website after searching
 - Questions about readings or concepts
 - Coordinating with classmates
 
