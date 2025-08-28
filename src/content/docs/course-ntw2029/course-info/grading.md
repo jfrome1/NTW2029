@@ -5,7 +5,7 @@ date: 2025-08-14
 
 ## Final Grade Components
 
-- Class participation: 15%
+- Class Participation: 15%
 - Writing Development Work: 15%
 - Paper 1 Final: 30%
 - Paper 2 Final: 40%
