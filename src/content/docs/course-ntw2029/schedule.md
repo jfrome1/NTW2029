@@ -124,7 +124,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due Sun 7 Sep 2025: P01 Paper 1 option to submit drafted material (honestly optional, it is not required or expected)
+###### Due Sun 7 Sep 2025: P01 Paper 1 option to submit drafted material (honestly optional, P01 is not graded, required, or expected)
 
 ## 5.1 Mon 8 Sep 2025
 
@@ -153,7 +153,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due day of conference: Exercise 5 - Paper 1 draft conference summary
 >
-###### Due four days after conference: P03 Paper 1 Final
+###### Due four days after conference: P03 Paper 1 final
 >
 ###### Due one day after Paper 1 final: Exercise 6 - Paper 1 writing reflection
 >
