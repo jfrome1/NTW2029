@@ -130,3 +130,41 @@ Beyond these FAQ pages, check the full [Writing Resources section](/course-ntw20
 ### Can I see examples of good writing?
 
 I provide anonymized examples on the website and discuss them in class. Pay attention to the examples we analyze together - they show what I'm looking for in your papers.
+
+## Writing Questions
+
+### How much should I quote versus paraphrase?
+
+Most of your paper should be paraphrasing with citations. Quote only when the exact wording matters or the phrasing is particularly elegant. I'll show you examples of good balance in class.
+
+### What's the difference between Paper 1 and Paper 2?
+
+Paper 1 asks you to explain (and optionally analyze) Pinker's arguments about why we enjoy art. Paper 2 asks you to explain, analyze, and evaluate a source about EP and art, adding your own ideas to the academic conversation. Detailed requirements for each are on their assignment pages.
+
+### What does "adding to the academic conversation" mean?
+
+You might point out unstated assumptions, identify missing evidence, show logical gaps, or explain implications the author didn't discuss. You're working with what's there, not inventing new theories.
+
+### How do I know if a source is suitable for Paper 2?
+
+Good sources make specific EP claims about art, have clear arguments you can analyze, and give you something to critique or extend. Avoid sources that only mention EP briefly or are too technical to understand fully.
+
+### Can I change my source after starting?
+
+It's possible, but consider your time constraints. If you realize early that your source won't work, it's worth switching. If you're deep into the assignment, you might do better working with what you have.
+
+### How should I structure my introduction?
+
+Start broad with the general topic, narrow to your specific focus, provide context for why it matters, then state your thesis. Typically 1-2 paragraphs. Examples are discussed in class.
+
+### How many sources do I need for papers?
+
+Paper 1 uses just Pinker. Paper 2 needs one main source plus at least 3 others for context. Specific requirements are on each paper's assignment page.
+
+### What citation style should I use?
+
+APA style for all papers. See the Citations resources page for detailed guidance and examples.
+
+### Should we include the citations or references in the word count?
+
+Include in-text citations in your word count, but not the reference list at the end. So if I write "Pinker (1997, p. 45) argues that..." those words all count toward your total. But the full citations in your reference list don't count - that's why the word count goes at the bottom of your text, right before the reference list starts.
