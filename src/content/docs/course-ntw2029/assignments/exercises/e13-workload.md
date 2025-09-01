@@ -7,7 +7,9 @@ date: 2025-08-18
 
 Track and report the time you spend on NTW2029 coursework. [:Why do I want students to log time?](#x-why-log-time)
 >
-Estimates are fine if you don't have exact times
+Estimates are fine if you don't know exact times.
+
+No GenAI link or word count needed on this exercise.
 
 ## Requirements
 
