@@ -35,9 +35,31 @@ Thumbs.db
 *.swp
 *.bak
 *.backup
+temp/
+tmp/
+
+# Astro specific
+.astro/
 .vercel
-.astro
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Dependency directories
+.pnp/
+.pnp.js
 
 # Coverage reports
 coverage/
 *.lcov
+
+# Cache files
+.cache
+.eslintcache
+.stylelintcache
+
+# Working folders (ignores any folder beginning with underscore)
+_*/
+
+# Shortcuts
+*.lnk
