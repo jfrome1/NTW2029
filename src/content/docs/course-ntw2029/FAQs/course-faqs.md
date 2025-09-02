@@ -150,6 +150,7 @@ Exercises are for practice and learning, not for evaluating mastry. Don't spend 
 ### Should we include the citations or references in the word count?
 
 Include in-text citations in your word count, but not the reference list at the end. So if I write "Pinker (1997, p. 45) argues that..." those words all count toward your total. But the full citations in your reference list don't count - that's why the word count goes at the bottom of your text, right before the reference list starts.
+
 ### What's the paper template?
 
 The paper template is a pre-formatted Word document that has all the correct formatting already set up for you - double-spacing, margins, indentation, font, and heading styles. It's like a fill-in-the-blank document where you just replace the placeholder text with your own writing.
@@ -190,4 +191,3 @@ Yes, attendance is part of your participation grade (15%). Please sign the atten
 ### What if website instructions seem unclear?
 
 Please email me with specifics about what's confusing. It would help me improve the website for you and future students.
-

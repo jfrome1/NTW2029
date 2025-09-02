@@ -11,7 +11,7 @@ sidebar:
 
 ### When do I need to cite sources?
 
-You need to cite every time you use others' ideas, whether you quote or paraphrase. Two exceptions: common knowledge and information from class. Most plagiarism is unintentional, but failure to cite can have serious consequences. See the full [Citations page](/course-ntw2029/resources/writing/citations) for detailed guidelines.
+You need to cite every time you use others' ideas, whether you quote or paraphrase. Two exceptions: common knowledge and information from class. Failure to cite can have serious consequences, unintentional or not. See the full [Citations page](/course-ntw2029/resources/writing/citations) for detailed guidelines.
 
 ### How often should I include in-text citations?
 
@@ -143,28 +143,20 @@ Paper 1 asks you to explain (and optionally analyze) Pinker's arguments about wh
 
 ### What does "adding to the academic conversation" mean?
 
-You might point out unstated assumptions, identify missing evidence, show logical gaps, or explain implications the author didn't discuss. You're working with what's there, not inventing new theories.
-
-### How do I know if a source is suitable for Paper 2?
-
-Good sources make specific EP claims about art, have clear arguments you can analyze, and give you something to critique or extend. Avoid sources that only mention EP briefly or are too technical to understand fully.
-
-### Can I change my source after starting?
-
-It's possible, but consider your time constraints. If you realize early that your source won't work, it's worth switching. If you're deep into the assignment, you might do better working with what you have.
+You might point out unstated assumptions, identify missing evidence, show logical gaps, or explain implications the author didn't discuss.
 
 ### How should I structure my introduction?
 
-Start broad with the general topic, narrow to your specific focus, provide context for why it matters, then state your thesis. Typically 1-2 paragraphs. Examples are discussed in class.
+Start broad by introducing the general topic, narrow to your specific focus, make sure the reader understands why people are discussing this specific topic, provide context for why the discussion matters, then state your thesis. The introduction for course papers should be one to two paragraphs, and should end before the mid-point of page two. See course materials on introductions for more guidance.
 
 ### How many sources do I need for papers?
 
-Paper 1 uses just Pinker. Paper 2 needs one main source plus at least 3 others for context. Specific requirements are on each paper's assignment page.
+Paper 1 uses just one source. Paper 2 needs one target source, one commentary source, and at least two other sources for context.
 
 ### What citation style should I use?
 
-APA style for all papers. See the Citations resources page for detailed guidance and examples.
+Use APA style for all papers. See the Citations resources page for detailed guidance and examples.
 
-### Should we include the citations or references in the word count?
+### Should we include in-text citations or the reference list in the word count?
 
-Include in-text citations in your word count, but not the reference list at the end. So if I write "Pinker (1997, p. 45) argues that..." those words all count toward your total. But the full citations in your reference list don't count - that's why the word count goes at the bottom of your text, right before the reference list starts.
+Include in-text citations in your word count, but not the reference list at the end.
