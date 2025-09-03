@@ -170,11 +170,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 7.2 Thu 2 Oct 2025
 
-- EP and art topic: evolution of music
+- EP and art topic: appeal of imaginary narrative worlds
 	- Read before class: (pages TBD)
-		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. Behavioral and Brain Sciences, 44, e60. https://doi.org/10.1017/S0140525X20000345
-		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. Behavioral and Brain Sciences, 44, e59. https://doi.org/10.1017/S0140525X20000333
-		- download both articles and commentary in one file:  [download](/downloads/savage-mehrMusicEvolution.pdf)
+		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. Behavioral and Brain Sciences, 45, e276. https://doi.org/10.1017/S0140525X21000923  [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
 - Writing topic: evaluating empirical research
 	- Read before class (recommended): none
 
@@ -192,9 +190,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 8.2 Thu 9 Oct 2025
 
-- EP and art topic: appeal of imaginary narrative worlds
+- EP and art topic: evolution of music
 	- Read before class: (pages TBD)
-		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. Behavioral and Brain Sciences, 45, e276. https://doi.org/10.1017/S0140525X21000923  [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
+		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. Behavioral and Brain Sciences, 44, e60. https://doi.org/10.1017/S0140525X20000345
+		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. Behavioral and Brain Sciences, 44, e59. https://doi.org/10.1017/S0140525X20000333
+		- download both articles and commentary in one file:  [download](/downloads/savage-mehrMusicEvolution.pdf)
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 

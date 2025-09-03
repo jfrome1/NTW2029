@@ -1,318 +1,285 @@
 ---
 title: Citations
-date: 2025-09-01
-pagefind: false
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2025-09-03
 ---
 
-## Purpose of citation
+## How Academic Citation Works
 
-Proper citations are essential for [:an author's credibility](#x-an-authors-credibility).
+Academic citation requires two interconnected components:
 
-Citations are important for [:helping your readers](#x-helping-your-readers).
+1. **In-text citations** - Brief parenthetical notes showing where you use sources
+2. **Reference list** - Full publication details for every source cited
 
-Proper citation is [:ethically important](#x-ethically-important).
+Every in-text citation must match a reference list entry. Don't include any sources in your reference list that aren't cited in-text. <span class="smaller-text"> [:Why not include all references you looked at?](#x-why-not-include-all-references-you-looked-at) </span>
 
-## When is citation required?
+The citation guidelines on this page are a slightly simplified version of APA (American Psychological Association) rules.
 
-- In this course, both in-text citations and a reference list are required _for all assignments_ unless stated otherwise.
-- Provide citations to the original source every time you [:use others' ideas](#x-use-others-ideas).
-- Most plagiarism is [:unintentional](#x-unintentional); but failure to cite can have serious consequences, including failing the assignment or course.
-- Two exceptions to citation: [:common knowledge](#x-common-knowledge) and [:information from class](#x-information-from-class)
+## Part 1: In-Text Citations
 
-## Do not make the following mistakes:
+### Core Principle
 
-- Do not copy [:the citations I put](#x-the-citations-I-put) on Canvas, this website, or handouts
-- Do not [:copy and paste text](#x-copy-and-paste-text) into your reference list
-- Do not blindly trust online tools or [:software citation tools](#x-software-citation-tools)
+Tell the reader where you got any source ideas or quotes by citing the location in your text with (Author, Year, Page). But omit the information that's already obvious to the reader.
 
-It is fine to use tools such as Zotero for citations (I do) but you must check the information you put into tools and double-check the output for errors.
+### Quick Reference Table
 
-## How to cite sources for this course
+| Situation | Citation Format |
+|-----------|----------------|
+| First mention of a source and author| Either _According to Pinker (2002)... (405)_ or _[Sentence] (Pinker, 2002, 405)_ |
+| Author named in the sentence, year not yet given | _Pinker (2002) argues... (405)_ |
+| Source year already given, author obvious | _He also argues... (405)_ |
+| Same source, same paragraph | _(407)_ [just the page number] |
+| Two authors | _(Boyd & Richerson, 1985, 23)_ |
+| Three+ authors | _(Savage et al., 2021, 15)_ |
 
-There are two parts to citing sources:
+**Key rules**:
 
-- citing sources in-text, within the assignment's sentences
-- adding a reference list with full citation information at the end of the assignment
+- Page number almost always required <span class="smaller-text"> [:When is page number not required?](#x-when-is-page-number-not-required)  </span>
+- Period goes after closing parenthesis
+- No "p." before page numbers
 
-### In-text citations
+[:Detailed examples showing the redundancy principle](#x-detailed-examples-showing-the-redundancy-principle)
 
-- In-text citations are short pieces of information, put in parentheses, in the main text of academic papers, like this (Frome, 2021, 65).
-- Put in-text citations whenever you write information that came from a source, but not in [:every single sentence](#x-every-single-sentence).
-- For in-text citations, the sentence period/full stop should always go after the last parentheses when the citation is at the end of the sentence.
-- For in-text citations, follow my guidelines rather than APA guidelines.
-- The basic in-text citation format you should use is (authors' last names, year source was published, page numbers [no "p." is needed]), but most in-text citations after the first one should omit some of this information. Change the citations based on these questions:
-- Does the source have [:more than one author](#x-more-than-one-author)?
-- Do you [:cite the source more than once](#x-cite-the-source-more-than-once) in the paper?
-- Did you [:already mention the author or year](#x-already-mention-the-author-or-year) in the sentence?
-- Are you [:citing the source as a whole](#x-citing-the-source-as-a-whole) rather than an idea that appears on a particular page?
-- Of course, additional [:exceptions exist](#x-exceptions-exist).
+## Part 2: Reference List
 
-### Reference list
+### Essential Formats
 
-Proper reference list formatting includes two elements, and you must check the rules for both:
+| Source Type | Format Pattern |
+|------------|----------------|
+| **Journal article** | Author, A. A., & Author, B. B. (Year). Article title lowercase. _Journal Name_, _volume_(issue), pages. DOI |
+| **Book** | Author, A. A. (Year). _Book title: Subtitle lowercase_. Publisher. DOI [if it has one] |
+| **Book chapter in single author book** | cite the whole book as shown above |
+| **Book chapter in edited collection (editor + multiple authors)** | Author, A. A. (Year). Chapter title lowercase. In E. E. Editor (Ed.), _Book title_ (pp. xx-xx). Publisher. DOI [if it has one] |
 
-- formatting the reference list itself
-- formatting the individual entries on the list (i.e. the full citations)
+### Real Examples
 
-#### Use APA formatting
+**Journal article:**
 
-Assignments should format the reference list in accordance with American Psychological Association (APA) [:formatting rules](#x-formatting-rules)
+Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. _Behavioral and Brain Sciences_, 44, e59. https://doi.org/10.1017/S0140525X20000333
 
-#### Citation URLs
+**Book:**
 
-For URLs, you MUST locate and use the [DOI or DOI link](https://www.doi.org/the-identifier/what-is-a-doi/) for the source. You cannot simply copy and paste the URL for the webpage where you found the source. If there is no DOI, use [:the official publisher's URL](#x-the-official-publishers-url)
+Pinker, S. (2002). _The blank slate: The modern denial of human nature_. Viking.
 
-## Citations and grading
+**Book chapter in edited collection:**
 
-- Papers not using proper format for in-text citations and the reference list will incur a grade penalty.
-- I am happy to look at your citations in person.
-- PLEASE [:do not send me your citations](#x-do-not-send-me-your-citations) and ask me to check them for you (although it's fine for you to ask me a specific, detailed question, e.g. if you have an unusual situation that is not covered by the guidelines here).
+Boyd, B. (2005). Evolutionary theories of art. In J. Gottschall & D. S. Wilson (Eds.), _The literary animal: Evolution and the nature of narrative_ (pp. 147-176). Northwestern University Press.
 
-:::tip
+### Formatting Your Reference List
 
-It's usually not efficient to format all your in-text citations as you draft your paper. In fact, sometimes interrupting your writing to go look up a specific date or page could distract your focus. I usually put (YYYY) or (p) if I don't have the information handy when drafting and add it in later.
+Look at the paper template to quickly see proper reference list formatting. [:Proper formatting example](#x-proper-formatting-example)
 
-:::
+Do:
+- Alphabetical order by first author's last name
+- Hanging indent (first line at page margin, following lines indented)
+- Include DOI or publisher URL where available
+- Italics for journal and book titles
+- No extra lines between entries
 
-## Citations checklist
+Don't:
+- Never include page numbers for whole books
+- Never use database URLs (JSTOR, ProQuest) or repository URLs (ssrn.org, academia.edu)
+- Never add quotation marks around article titles
 
-- include in-text citations for paraphrasing AND quotations (not just quotes; should have at least a few in-text citations in almost every paragraph)
-- check reference list (hanging indents, spacing, etc.)
-- check items in reference list (APA style, correct italics, etc.)
-- check in-text citations using instructions above (names mentioned only as necessary, no "p.", etc.)
+[:How to find DOIs and official URLs](#x-how-to-find-dois-and-official-urls)
 
-## Self-guided Quiz for in-text citation errors
+## When Citation Is Required
 
-I've created a quiz for you to [:test yourself on in-text citation](#x-test-yourself-on-in-text-citation)
+**You must cite:**
 
-I've created a quiz for you to [:test yourself on reference list citation](#x-test-yourself-on-reference-list-citation).
+- Paraphrases and summaries of others' ideas (not just direct quotes)
+- Specific facts, statistics, or findings
+- Any ideas that aren't your own original analysis
 
-## In-text citation: questions about style
+**You don't cite:**
 
-You might be interested in [:some advanced questions](#x-some-advanced-questions) about writing style and citation.
+- Common knowledge (e.g. "video games require skill", "there are thousands of species")
+- Unsourced ideas from class discussion
+- Ideas I gave you during conferences
+- Your own arguments and analysis
 
-##### :x an authors credibility
+[:Examples of common knowledge vs. citable claims](#x-examples-of-common-knowledge-vs-citable-claims)
 
-- They demonstrate to readers that the author got their information from credible sources.
-- They convey the message, "I have nothing to hide. If you don't trust my claims about these sources, you can go check them yourself."
-- Lack of proper citations (including proper formatting) suggests that the author didn't produce the paper with attention to detail and may be committing plagiarism.
+[:Citation mistakes and how to avoid them](#x-citation-mistakes-and-how-to-avoid-them)
 
-##### :x helping your readers
+## Self-Assessment Tools
 
-- Readers need a way to easily find the sources you are discussing so they can confirm whether they agree with your interpretation of those sources.
-- Readers doing research in the same area will want to be able to find your sources.
-- Readers often skim reference lists to quickly check if a paper references important and recent sources.
+- [:Practice examples with answers](#x-practice-examples)
 
-##### :x ethically important
+<!-- - [Interactive Citation Quiz](canvas-link) - Test your format recognition -->
 
-Scholars devote their professional lives to generating and disseminating ideas. Usually, they forego more lucrative careers do do so. The primary reward they receive is others publicly recognizing their ideas by citing them. Using someone's ideas without crediting them is essentially stealing their labor. You should properly cite sources because it takes minimal effort and is the right thing to do.
+## FAQs
 
-##### :x use others ideas
+### Can you double-check my citations?
 
-Citation is to tell the reader where you got any ideas, reasons, or evidence that were not created by you alone.
+I'm happy to answer specific questions about unusual sources or citation situations, but please don't send me your reference list just to check it (you're asking me to copyedit your work). I'm also happy to look at reference lists in person to see if anything looks wrong to me at first glance, but I can't confirm the citation information is correct unless I look up the source using my computer.
 
-- It doesn't matter where you got the ideas (whether published, online, or personal communication).
-- It doesn't matter whether you use the exact words of a source (quotation) or state the idea in your own words (paraphrase/summary). Read section 14.6 of [_The Craft of Research_](https://go.exlibris.link/fFKws0JQ) for clarification and examples.
+### How are your citation rules different from standard APA?
 
-##### :x unintentional
+There is a really minor difference I didn't want to burden you with: standard APA tells you to include the year after an author's name every time you start a new paragraph.
 
-Students often do not know when they must cite sources, but it is your responsibility to learn and to do it correctly.
+### When do I need to cite sources?
 
-##### :x common knowledge
+You need to cite every time you use others' ideas, whether you quote or paraphrase. Two exceptions: common knowledge and information from class. Failure to cite can have serious consequences, unintentional or not.
 
-You don't need to cite sources for common knowledge or obvious observations.
+### How often should I include in-text citations?
 
-For example, this passage has unnecessary citations:
+Have at least one in-text citation in each paragraph that uses a source's ideas, and include a new citation if the relevant page changes. I need enough information to find the location you're discussing.
 
-> These games are based on player skill and performance (Grodal, 2003), focusing on how players experience and perform in the game. Fitness-related stimuli like obstacles and actions are aplenty. Not performing these actions well can result in failure to meet gameplay objectives, such as clearing a level or defeating a boss enemy. Failure often results in loss of life, energy, or game termination (Juul, 2009).
+---
 
-It is common knowledge that games often require skill and that failing in a videogame often results in losing a life.
+##### :x when is page number not required
 
-##### :x information from class
+If you are not telling the reader where you got an idea or quote, but are instead pointing to the entire source as an example of something, you don't include a page number; e.g.:
 
-You need to cite ideas from assigned readings or other sources, whether or not I talk about them in class.
+> _Some scholars argue that art is adaptive due to cooperation (Boyd 2002, Austin 2010)._
 
-You don't need to cite any unsourced ideas I give you, in or out of class, in assignments submitted to me unless you are referencing something I published.
+##### :x why not include all references you looked at
 
-##### :x software citation tools
+Some reference lists include all works read or consulted in writing a paper, but here we list only references actually cited in your essay.
 
-Online citations _cannot be trusted_; they often have bad information or make mistakes. You MUST proofread your citations against the actual rules of your paper's formatting style (in our course, APA), which are provided below. You are responsible for confirming that the citations are correct.
+##### :x detailed examples showing the redundancy principle
 
-##### :x the citations I put
+The redundancy removal principle in action:
 
-When I provide citations, I often deviate from proper format for course-related reasons, such as specifying a chapter in a book. Proper citations in a paper reference list don't specify book chapters; you just cite the book as a whole. I also sometimes include page numbers to help you estimate reading time, even if they are not needed in a reference list.
-
-##### :x copy and paste text
-
-Students often have problems with the reference list when they copy and paste text into the list from other documents. This process often messes up their formatting. If you copy and paste citations, double-check your fonts (use only one), spacing, line breaks, italics, and other formatting elements.
-
-##### :x every single sentence
-
-In this course, the main purpose of in-text citation is for me to be able to find the place in your source that you are discussing. Sometimes, students paraphrase or quote sources as saying things that seem unlikely or surprising to me, and I want to check to see if I read the source in the same way.
-
-In-text citations should be included frequently enough that I can easily find the location students are discussing, but not in every sentence, which might interrupt reading flow.
-
-My guidelines are: 1) have at least one in-text citation in each paragraph that uses a source's ideas, and 2) include a new in-text citation if the relevant page changes.
-
-In all honesty, most academic papers do not focus extensively on closely explaining or analyzing just one source in the way that our assignments do, so you won't see so many citations in published sources.
-
-##### :x more than one author
-
-Follow these examples:
-
-- (Alibali, 2019, 37) - for a source with one author
-- (Alibali & Moore, 2019, 37) - for a source with two authors
-- (Alibali et al., 2019, 37) - for a source with more than two authors
-
-Note that in `et al.`, nothing is capitalized, there's a space between "et" and "al", there's no period after "et", and there's a period after "al", regardless of any additional punctuation.
-
-##### :x cite the source more than once
-
-If there is only one source with the same author, then you include the year of the source _only the first time_ you cite/mention the source, because the reader can use that first mention to clearly identify the source in your reference list. Example:
-> Alibali's (2019) mixed-methods study found that children represent mathematical problems best on paper (20). Alibali concluded that computers should not be used to teach elementary math (31). (you don't need the year in the second sentence)
-
-If you have more than one source with the same author, then you need to include the year each time you mention the source, as the reader needs a way to know which of the sources by that same author you are referencing.
-
-##### :x already mention the author or year
-
-You don't want to repeat citation information you've already presented in the same sentence. If you mention the author(s) in the sentence, don't repeat the name(s) in the in-text citation. Put the year directly after the author's name and put the page number in-text separately, after the cited information, usually at the end of the sentence. Examples:
-> Alibali's (2019) mixed-methods study found that children represent mathematical problems best on paper (20).
+**First citation:**
 >
-> In a case study of a 3rd-grade classroom, Zhang (2017) explored the implementation of a new curriculum (5).
+> _According to evolutionary psychologist Steven Pinker (2002), art serves no adaptive function (405)._
 
-##### :x citing the source as a whole
+We name the author in text, so the parentheses only need year and page. We don't repeat "Pinker" in the in-text citation. [:Why isn't the year in the citation?](#x-why-isnt-the-year-in-the-citation)
 
-If you are citing a source as a whole, rather than a specific idea in the source, no page number is needed:
+**Next sentence, same source:**
 
-- Researchers have studied how children represent mathematical problems (Alibali & Moore, 2019).
+>
+> _He argues that art is merely a byproduct of other evolved capacities (407)._
 
-##### :x exceptions exist
+Just page number - reader knows we're still discussing Pinker (2002).
 
-There are lots of uncommon exceptions or additional rules for unusual situations (e.g., two authors with the same last name, two works with the same authors published in the same year, personal communication, indirect sources, etc.). Don't try to guess the correct way to handle these; after confirming that these guidelines don't answer your questions, proactively ask me how to do the citation. It is ok in these rare cases.
+**New paragraph, same source:**
+>
+> _Pinker's byproduct hypothesis has three components (410)._
 
-##### :x formatting rules
+Remind reader of author, but year unnecessary unless you are citing multiple Pinker sources and need to make clear which one you're referring to.
 
-You can review APA rules many places online, including [here](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html).
+##### :x why isnt the year in the citation
 
-You can download a handout with APA formatting instructions [here](https://writing.wisc.edu/handbook/documentation/docapa/). The section about reference list formatting is section 7. Ignore other sections of the handout.
+If the first time you mention a source's authors is in a sentence, you put the year directly after the author's name, but if it's in an in-text citation, you put it in the citation. e.g.:
 
-APA guidelines on citing book chapters is [here](https://apastyle.apa.org/blog/book-chapters)
+> _According to Pinker (2002), musical structure mirrors the structure of language (405)._
 
-##### :x the official publishers url
+vs.
 
-When you include a URL in your citation, the purpose is to help the reader locate the correct, official version of the source. However, you might have found copies of publications in online repositories that don't offer full citation information or the final version of a work. These links are also not well-maintained and may cease to work, unlike the official links.
+> _Musical structure mirrors the structure of language (Pinker, 2002, 405)._
 
-To locate the correct citation URL for an article, search for the article title on the NUS library website. If you don't find the article right away, search for the name of the journal the article appeared in on the NUS library website and click through to the journal webpage. Then use either the volume and issue number, the date, or the general search function to find your specific article. Use that link.
+##### :x how to find dois and official urls
 
-##### :x reference
+**Finding DOIs for journal articles:**
 
-APA has a LOT of guidelines about formatting papers that you should not follow in this course, including in-text citation, running headers, and title page. For those elements, follow the course guidelines about formatting. Follow APA guidelines only for the reference list.
+1. Go to the NUS library website, login
+2. Search for the article title in quotes
+3. Click "View Online" or "Get Full Text"
+4. On the publisher's page, find the DOI (usually near the title)
+5. Copy entire DOI including https://doi.org/ prefix
 
-##### :x do not send me your citations
+**If article has no DOI:**
 
-I'm happy to provide guidance or answer specific questions, but I can't be every student's reference list copyeditor, the same way you wouldn't send me your draft and say, "Can you look at this and mark all of the grammar errors?"
+- Use stable publisher URL (not PDF link)
+- Never use: Google Scholar links, download URLs, database links
 
-I have provided very clear instructions, there is tons of additional guidance online, you can ask for help from librarians and writing tutors. You can do this. And again, do NOT copy and paste citations from webpages or online reference tools.
+**For books:**
 
-##### :x test yourself on in text citation
+- Physical books: just publisher name, no URL
+- E-books: include DOI or publisher URL if available
 
-See if you can identify the problem before clicking the arrow to check the answer.
+##### :x examples of common knowledge vs citable claims
 
-<details><summary> My paper aims to propose an alternative to De Backer's (2012) "eye-witness-I-witness" theory on PSRs. She does not dwell on the difference between fictional and non-fictional media characters, simply stating that while "readers often establish bonds with fictitious characters in books," "visuals play the most important role" in PSR formation.
+**Common knowledge (no citation needed):**
 
-</summary>
+- _Many people enjoy music._
+- _People dance to celebrate._
+- _The human brain has two hemispheres._
+- _Darwin created a theory of evolution by natural selection._
 
-- problem: no page number citations
+**Requires citation:**
+
+- _Music appears in all known cultures (Savage et al., 2021, 1)_
+- _The brain's default mode network activates during rest (Raichle, 2015, 47)_
+- _The earliest wind instrument ever found, a flute, is over 8,000 years old (Author, 2020, 23)_
+
+Rule: If a reasonable person would need to verify it, cite it.
+
+##### :x citation mistakes and how to avoid them
+
+**Copy-paste formatting problems:**
+When you copy from Word/Google Docs/websites, invisible formatting tags come too. This can cause mixed fonts, extra spacing, and other errors.
+
+Solution: Paste as plain text (Ctrl+Shift+V), then reformat.
+
+**Citation generator errors:**
+
+If citation generators worked well, I'd recommend them, but they don't. They often get information and formatting wrong.
+
+Solution: Verify citations against official sources, such as the journal's official online page.
+
+**Course citations are wrong:**
+
+I sometimes write things like "Pinker Ch. 8" or "Boyd (51-55)" for teaching purposes. Your citations should follow standard format.
+
+Solution: Don't try to save ten seconds by copying the course citations, find the official versions.
+
+**Missing page numbers:**
+
+Many students think page numbers are only needed for direct quotes, but that's not the case.
+
+Solution: Cite page numbers in text whenever discussing claims or evidence from particular places in your sources.
+
+##### :x practice examples
+
+Test yourself! Try to identify all errors in each item before expanding to see the answers:
+
+<details><summary>In-text: According to Pinker in 2002, art is evolutionarily useless (Pinker, 2002, p. 405).</summary>
+
+Errors:
+
+- Year should be in parentheses after name: Pinker (2002)
+- Don't repeat author name in parenthetical citation
+- Don't use "p." before page number
+- Correct: According to Pinker (2002), art is evolutionarily useless (405).
 
 </details>
-<details><summary> The MSB theory argues that "musicality" or the ability to create or perceive music was selected for because it promotes social bonding, accommodating increasing size and complexity of human social structures. In their article, social bonding is defined as the "formation, strengthening, and maintenance" of bonds with other individuals, bonds which form the basis of cooperative behavior. The definition that Savage et al. provide is broad, encompassing "bonding processes" and "their effects" (Savage et al., 2021, p. 2). Savage et al. argue that music is a bonding mechanism akin to grooming and gossiping as proposed by Dunbar (1993).
 
-</summary>
+<details><summary>Reference: Dutton, D. (2009). "The Art Instinct: Beauty, Pleasure, and Human Evolution." Bloomsbury Press.</summary>
 
-- problem: author name repeated in in-text citation, year incorrectly included
+Errors:
 
-</details>
-<details><summary> According to Fredrickson in 1998, when hominids were transitioning to bipedalism around 4 million years ago, the environment that they lived in became more open and dispersed, with poorer-quality food eaten.
-
-</summary>
-
-- problem: year should be in parentheses, no page number provided
+- No quotation marks around book title
+- Book title should be italicized
+- Capitalize only first word of title/subtitle
+- Correct: Dutton, D. (2009). _The art instinct: Beauty, pleasure, and human evolution_. Bloomsbury Press.
 
 </details>
-<details><summary> In "Origins of Music in Credible Signalling" (Mehr et. al. 2020), Mehr et. al. introduces a set of criteria to determine whether claims about the origins of music are complete claims.
 
-</summary>
+<details><summary>In-text: Savage et al. (2021) argues that music bonds groups (15).</summary>
 
-- problem: no need to mention author's name twice
+Error:
 
-</details>
-<details><summary> Robin Dunbar discusses his view that music evolved to create and maintain social bonds in his 1991 paper "Functional Significance of Social Grooming in Primates" (Dunbar 1991).
-
-</summary>
-
-- problem: no need to mention author's name or paper year twice
+- Very subtle error! "Savage et al." is plural because it refers to multiple authors, so the verb must be plural also: "argue", not "argues"
+- Correct: Savage et al. (2021) argue that music bonds groups (15).
 
 </details>
-<details><summary> One such theory is the sexual selection hypothesis, which proposes that musicality is the biological propensity that was shaped by sexual selection (Miller, G., 2000, 1). Studies supporting the sexual selection hypothesis have revealed that there is a positive correlation between perceived mate value and Musical Performance Quality (MPQ) during ovulation (Charlton, B.D., 2014, 4). Additionally, other studies have highlighted that musicality and MPQ suggest greater health, intelligence, social class, and parenting abilities, which improves mate value (Madison et al., 2018, 9).
 
-</summary>
+##### :x why simplified
 
-- problem: no need to put first initials on single-author in-text citations
+Standard APA requires the year every time you start a new paragraph, even if you're still discussing the same source. This creates unnecessary repetition that confuses students and clutters their writing.
 
-</details>
-<details><summary> The validity of these music universals were later confirmed by other evolutionary psychologists, like Savage et al. (2015) (1).
+Our simplified version follows a clearer principle: once you've identified a source, you don't need to keep re-identifying it unless there's potential confusion. This reduces errors while maintaining clarity about source attribution.
 
-</summary>
+The difference:
 
-- problem: year and page number should be in one set of parentheses, not two
+- **Standard APA**: Pinker (2002) in every new paragraph
+- **Simplified APA**: Pinker (2002) on first mention only
 
-##### :x test yourself on reference list citation
+This simplification typically prevents 3-4 errors per paper. You'll need standard APA in other courses, but for this course, focus on the simplified version to ensure accuracy in the fundamentals.
 
-See if you can identify the problem before clicking the arrow to check the answer.
+##### :x proper formatting example
 
-<details><summary>Krakowiak, K.M. and Tsay-Vogel, M. (2013). What makes characters' bad behaviors acceptable? the effects of character motivation and outcome on perceptions, character liking, and moral disengagement. <em>Mass Communication and Society</em>, 16(2), pp. 179-199. http://dx.doi.org/10.1080/15205436.2012.690926 </summary>
-
-- problem: no capital "T" in "The"</details>
-<details><summary>Bloom, C. (Ed.). (2020). <em>The Palgrave Handbook of Contemporary Gothic</em> (p. 449). Palgrave Macmillan.</summary>
-
-- problem: should not include page number when citing a book</details>
-<details><summary>Clasen, M. (2014). Evil monsters in horror fiction: an evolutionary perspective on form and function. <em>A history of evil in popular culture: What Hannibal Lecter, Stephen King and vampires reveal about America</em>, 2, 39-47.</summary>
-
-- problems: citing a chapter for a single-author book, not sure what the "2" means before the page numbers, no publisher information</details>
-
-##### :x test
-
-
-##### :x some advanced questions
-
-_"When citing a source, when should you mention the source author(s) name(s) in the sentence vs. in the parenthetical in-text citation?"_
-
-- If you are discussing your source as a primary participant in an academic conversation, name them in the sentences. If the source is being cited just as an example of a type of research or as the source of a fact supporting your claim, then put the name(s) in the parenthetical citation.
-
-_"When citing a source, when should you mention contextual information (prominent linguist Stephen Pinker says...) about a source vs. just mentioning the name? (Stephen Pinker says...)"_
-
-- This question must be answered on a case-by-case basis, considering your audience, where your essay is published, and the topic. Factors that are relevant in deciding whether to include contextual information (like the source's employer or discipline) include:
-- Will your reader know the source or not? (if no, more likely you should provide context)
-- Is the source from outside academia? (if yes, more likely you should provide context)
-- Is the source from a discipline distant from the one you are writing in? (if yes, more likely you should provide context)
-- Does your article discuss several sources from distinct disciplines? (if yes, more likely you should provide context)
-
-_"When citing a source, when should you mention the source's entire name vs. just the last name?"_
-
-- Like the above question, this is case-by-case and different disciplines have different norms. Generally, if you are discussing few authors in your writing, you're more likely to use first names.
-
-_"How often should you include in-text citations in one paragraph when explaining a source's argument? Every sentence?"_
-
-- For this course, err on the side of too much citation. In general, when citing, you must balance two guiding principles:
-- the reader should be able to easily understand the source of any idea in a sentence (the author's vs. a source's)
-- too much citation information in a sentence can interfere with the smooth flow of reading
-- In short, cite as infrequently as you can, but not so infrequently that there is ever any confusion as to the source of an idea.
-
-_"How to cite ideas from source B that you learned from source A telling you about something source B says?"_
-
-- You must mention both sources in the sentence and cite source A in-text and in the reference list. The sentence might read something like, "According to Badcock, Sterenly argues that...(31)".
+![reference list formatting](/images/reference-list-formatting.jpg)

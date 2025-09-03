@@ -44,7 +44,7 @@ It's fine to contact me anytime. You won't wake me (I use 'do not disturb').
 ### Formal Conferences
 
 - There are three formal conferences per semester (weeks 6, 11, 13)
-- See [Conferences](/course-info/conferences) page for details
+- See [Conferences](/course-ntw2029/course-info/conferences) page for details
 
 ### After Class
 
@@ -65,7 +65,7 @@ Reach out for support when you're consistently struggling to meet deadlines, not
 
 ### Wellbeing Support
 
-- [NUSC Pastoral Care](tinyurl.com/nuscpastoralcare)
+- [NUSC Pastoral Care](https://tinyurl.com/nuscpastoralcare)
 
 ## Frequently Asked Questions
 

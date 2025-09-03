@@ -7,32 +7,6 @@ sidebar:
     text: Draft
     variant: caution
 ---
-## Citations and Attribution
-
-### When do I need to cite sources?
-
-You need to cite every time you use others' ideas, whether you quote or paraphrase. Two exceptions: common knowledge and information from class. Failure to cite can have serious consequences, unintentional or not. See the full [Citations page](/course-ntw2029/resources/writing/citations) for detailed guidelines.
-
-### How often should I include in-text citations?
-
-Have at least one in-text citation in each paragraph that uses a source's ideas, and include a new citation if the relevant page changes. The purpose is so I can easily find the location you're discussing. Full details on the [Citations page](/course-ntw2029/resources/writing/citations#x-every-single-sentence).
-
-### What's the correct in-text citation format?
-
-The basic format is (author's last name, year, page number) - no "p." needed. But most citations after the first one should omit some of this information. Check the [specific rules](/course-ntw2029/resources/writing/citations) for when to include year, when you have multiple authors, etc.
-
-### Why can't I trust online citation tools?
-
-Online citations often have bad information or make mistakes. You MUST proofread your citations against actual APA rules. It's fine to use tools like Zotero (I do!) but you must double-check the output for errors.
-
-### Should I format citations while drafting?
-
-It's usually not efficient to format all your citations as you draft. Sometimes interrupting your writing to look up a specific date or page could distract your focus. I usually put (YYYY) or (p) if I don't have the information handy and add it in later.
-
-### Can you check my citations for me?
-
-I'm happy to answer specific questions about unusual situations, but I can't be every student's reference list copyeditor. I've provided clear instructions, there's tons of guidance online, and you can ask librarians and writing tutors for help. You can do this!
-
 ## Topic Sentences and Paragraph Structure
 
 ### What makes a good topic sentence?

@@ -33,6 +33,11 @@ main {
 	/* Default border color for light mode */
 }
 
+/* class to make to make nutshell link font smaller */
+.smaller-text .nutshell-expandable-text {
+    font-size: .85rem;
+    }
+
 @media (prefers-color-scheme: dark) {
 	:root {
 		--border-color: white;
