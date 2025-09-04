@@ -2,12 +2,6 @@
 
 title: Exercise 6 - Paper 1 writing reflection
 date: 2024-08-13
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
-
 ---
 
 ## Purpose
@@ -43,4 +37,4 @@ Include a GenAI link/non-use statement (required) but not a word count.
 
 ## Feedback
 
-You'll receive completion credit for thoughtful responses. This exercise won't receive individual comments but will inform my understanding of your writing development process.
+This exercise won't receive individual comments but will inform my understanding of your writing development process.

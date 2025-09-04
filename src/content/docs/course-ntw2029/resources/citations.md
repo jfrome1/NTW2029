@@ -24,7 +24,7 @@ Tell the reader where you got any source ideas or quotes by citing the location 
 
 | Situation | Citation Format |
 |-----------|----------------|
-| First mention of a source and author| Either _According to Pinker (2002)... (405)_ or _[Sentence] (Pinker, 2002, 405)_ |
+| First mention of a source and author| Either _According to Pinker (2002)... (405)_ or _People seem to... (Pinker, 2002, 405)_ |
 | Author named in the sentence, year not yet given | _Pinker (2002) argues... (405)_ |
 | Source year already given, author obvious | _He also argues... (405)_ |
 | Same source, same paragraph | _(407)_ [just the page number] |
