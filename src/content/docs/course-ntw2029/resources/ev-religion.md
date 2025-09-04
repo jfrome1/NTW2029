@@ -1,5 +1,6 @@
 ---
 title: Evolution and Religion
+date: 2025-09-04
 ---
 
 ## Are evolution and religion incompatible?

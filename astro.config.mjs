@@ -78,22 +78,7 @@ export default defineConfig({
         {
           label: "Resources",
           collapsed: true,
-          items: [
-            {
-              label: "Evolution",
-              collapsed: true,
-              autogenerate: {
-                directory: "course-ntw2029/resources/evolution",
-              },
-            },
-            {
-              label: "Writing",
-              collapsed: true,
-              autogenerate: {
-                directory: "course-ntw2029/resources/writing",
-              },
-            },
-          ],
+          autogenerate: { directory: "course-ntw2029/resources" },
         },
       ],
     }),

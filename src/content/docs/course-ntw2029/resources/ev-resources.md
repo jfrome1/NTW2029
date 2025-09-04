@@ -1,6 +1,6 @@
 ---
-title: Other evolution topics
-date: 2025-02-01
+title: Evolution resources
+date: 2025-09-04
 ---
 
 ## Human evolution

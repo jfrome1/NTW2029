@@ -30,6 +30,24 @@ To make sure you get full benefit from the conference:
 
 - After the conference (same day), complete the assigned exercise to submit the conference summary
 
+## Post-conference support
+
+After your conference, continue working on your paper with targeted support from me.
+
+Available support:
+
+- Answering specific questions about concepts, feedback, or writing strategies via email/Telegram <span class="smaller-text"> [:What do you mean by specific questions?](#x-what-do-you-mean-by-specific-questions) </span>
+- Scheduling additional meetings/conferences as time allows (not that conference weeks are busy, and I can't meet on weekends)
+- Clarifying conference feedback you didn't fully understand
+
+Not available:
+
+- Reviewing emailed drafts or paper sections
+
+[Why can't you review emailed drafts?](/course-ntw2029/course-info/conferences/#why-cant-you-review-emailed-drafts)
+
+Remember: The conference gives you comprehensive feedback on your full draft. Additional support works best when you've already attempted to apply that feedback and hit specific obstacles. I suggest you first complete your post-conference reflection exercise to identify specific areas where you need help. Then, if needed, follow up with targeted questions about remaining uncertainties.
+
 ##### :x record conferences
 
 I use recordings to see if discuss the same issue with multiple students. If I do, I use the transcripts  to improve my teaching materials.
@@ -55,3 +73,38 @@ The likely problem is that your Microsoft account and calendar are not both set 
 
 ![timezone](/images/timezone.png)
 ![yes-update](/images/yes-update.png)
+
+##### :x what do you mean by specific questions
+
+Vague questions ask for reassurance without identifying a problem or a solution without showing that you've reflected on the guidance you've already received. Specific questions show you've identified what you're trying to achieve and where/why you're stuck. They show that you are taking ownership for developing your writing skills.
+
+**Vague questions (avoid):**
+
+- "Is my intro ok?"
+- "Which source should I choose?"
+- "Should I change my thesis?"
+- "Does this paragraph work?"
+- "Is my analysis good enough?"
+
+**Specific questions (productive):**
+
+- "My thesis claims X, but my third paragraph seems to argue Y. How can I align them?"
+- "I'm trying to show Boyd's argument differs from standard evolutionary psychology. Does paragraph 4 make that distinction clear?"
+- "My topic sentence says 'cooperation evolved through group selection,' but my evidence in that paragraph discusses individual benefits. Should I revise the topic sentence or put the evidence in a new paragraph?"
+- "You said that I needed to explain what I meant by 'pleasure technology' or I should remove it. Does the following sentence explain it sufficiently, or do you still think I should remove it? [quotes draft sentence]"
+
+Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance. Often, specific questions also propose possible solutions. Formulating these questions builds writing skills.
+
+---
+
+## FAQs
+
+### Why can't you review emailed drafts?
+
+While I do review drafts as part of the normal course assignments, I can't review additional emailed drafts (in part or in whole) for practical and pedagogical reasons.
+
+- it takes just 10 seconds to email me a draft, so many students would ask for extra feedback
+- the existing feedback schedule already occupies almost all of my time
+- even short additional reviews would require many hours of additional work (it's hard to believe, but just 10 minutes per draft for all students adds up to roughly 6 hours work in reality)
+
+Instead, submit complete work at designated checkpoints, prepare for conferences to take full advantage of them, and make appointments for additional help.

@@ -15,5 +15,5 @@ sidebar:
 - In an argumentative essay, each topic sentence states an argument or reason. Across the paper, the topic sentences should include all of the reasons needed to support the essay's thesis statement.
 - Topic sentences are usually combined with transitions. They might begin with a transition word or phrase helping the reader understand how the previous paragraph relates to the current paragraph.
 	- e.g. 1
-		- > While Rolls' theory about the origins of aesthetics fills gaps left by previous views, it is flawed because is falsely assumes that that simple solutions hold an evolutionary advantage.
+		- _While Rolls' theory about the origins of aesthetics fills gaps left by previous views, it is flawed because is falsely assumes that that simple solutions hold an evolutionary advantage._
 		- Here, the beginning of the sentence summarizes the previous paragraph, and the rest connects the previous idea to the main idea that will be shown in the current paragraph.
