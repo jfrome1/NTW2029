@@ -298,7 +298,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ##### :x dutton discussion questions
 
-- On p. 139, there is a sentence beginning "It is human intelligence..." that contains the word "art". Which of the two senses of "art" is Dutton using here?
+- On p. 136, there is a sentence beginning "It is human intelligence..." that contains the word "art". Which of the two senses of "art" is Dutton using here?
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
 
