@@ -76,7 +76,7 @@ Review the rules for using the words "that" vs "which" here: https://owl.purdue.
 
 ## Unclear referent
 
-See [Unclear referents and ambiguous pronouns](/course-ntw2029/resources/writing/other/unclear-referent)
+See [Unclear referents and ambiguous pronouns](/course-ntw2029/resources/unclear-referent)
 
 ##### :x since
 
