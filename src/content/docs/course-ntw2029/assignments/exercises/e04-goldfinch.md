@@ -39,7 +39,7 @@ Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted [here](/course-n
 
 ## Example explanations of 2.7.4
 
-An example  explanation of 2.7.4 will be posted here after the exercise 4 deadline.
+An example  explanation of 2.7.4 will be posted [here](/course-ntw2029/hidden/exercise-examples/e04-eg-4) after the exercise 4 deadline.
 
 <!-- Example Goldfinch explanations of 2.7.4 will be posted [here](/course-ntw2029/hidden/exercise-examples/e04-eg-4-5) after the exercise 4 deadline.
  -->

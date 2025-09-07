@@ -1,15 +1,9 @@
 ---
 title: Grammar and style for NTW2029
-date: 2024-09-15
-pagefind: false
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2025-09-07
 ---
 
-This page provides grammar and style information that I can quickly refer to when providing feedback. It's also a guide to the grammar issues that are the most important in the course.
+This page provides grammar and style information that I can quickly refer to when providing feedback.
 
 Some of the linked resources are full of pop-up ads. You may want to get [uBlock Origin](https://ublockorigin.com/) to avoid those.
 
@@ -34,15 +28,15 @@ Review basic comma rules here: https://owl.purdue.edu/owl/general_writing/punctu
 
 Don't use a comma to indicate where you would pause if reading a sentence out loud. That's not what commas are for; they have other functions.
 
-There's no shame in misusing commas because no one ever taught you how to use them. You now have linked resources, and if you want to use commas properly, you can invest the time to learn the rules.
+There's no shame in misusing commas because no one ever taught you how to use them, but you now have some resources and can ask me to clarify any rules you don't understand. If you want to use commas properly,  invest the time to learn the rules.
 
-**Commas and compound predicates**
+<!-- **Commas and compound predicates**
 
 It's usually better to avoid a comma in a sentence with a compound predicate. See the explanation here: https://blog.apastyle.org/apastyle/2013/09/comma-usage-and-compound-predicates.html and this article for a more in-depth discussion: https://cmosshoptalk.com/2021/01/19/commas-between-compound-predicates/
 
 Avoid: "Pinker states that art is a byproduct, and argues that those who think is art is an adaptation are wrong."
 
-Better: "Pinker states that art is a byproduct and argues that those who think is art is an adaptation are wrong."
+Better: "Pinker states that art is a byproduct and argues that those who think is art is an adaptation are wrong." -->
 
 ## Dashes
 
