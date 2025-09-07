@@ -1,12 +1,6 @@
 ---
 title: Unclear referents and ambiguous pronouns
-date: 2025-01-30
-pagefind: false
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2025-09-07
 ---
 
 Pronouns cause confusion when it's not clear what they refer to. There are two common versions of this problem, which I refer to by these labels:
