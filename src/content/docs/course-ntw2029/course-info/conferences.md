@@ -6,9 +6,13 @@ date: 2025-08-13
 
 This course uses Microsoft Bookings to schedule conferences. I'll send you a bookings link when conference times are made available.  Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 
+### Scheduling guidelines
+
+I sometimes (but not always) send feedback for you to review before our conference. If time is short, you may receive this feedback just an hour before the conference. Thus, try to schedule the conference at a time when you will be able to review feedback in the preceeding hour.
+
 ## Conference logistics
 
-Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome>. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I sometimes [:record conferences](#x-recordconferences) to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want to be sure your conference is recorded, you must tell me at the beginning of the conference.
+Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome>. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I usually record conferences to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want to be sure your conference is recorded, you must tell me at the beginning of the conference.
 
 Please follow these guidelines to avoid distractions (for me) during Zoom conferences:
 
@@ -23,7 +27,9 @@ Please follow these guidelines to avoid distractions (for me) during Zoom confer
 To make sure you get full benefit from the conference:
 
 - Before the conference, review the posted assignment instructions and and your submission
-- Come to the conference prepared with specific questions; the conference is a time for you to use me as a resource, not a time for me to give you a list of tasks you need to complete
+- Come to the conference prepared with specific questions
+    - Although I'll give you feedback on important areas for improvement, I do not see it as my job to give you a list of tasks you need to complete to get an A paper
+    - Conferences are a time for you to use me as a resource, which requires effort on your part to ask for guidance on specific issues
 - Be prepared to take notes during the conference (if you type faster than you write, split the screen between Zoom and your notes, or use 2 monitors)
 
 ## Post-conference summaries
@@ -37,7 +43,7 @@ After your conference, continue working on your paper with targeted support from
 Available support:
 
 - Answering specific questions about concepts, feedback, or writing strategies via email/Telegram <span class="smaller-text"> [:What do you mean by specific questions?](#x-what-do-you-mean-by-specific-questions) </span>
-- Scheduling additional meetings/conferences as time allows (not that conference weeks are busy, and I can't meet on weekends)
+- Scheduling additional meetings/conferences as time allows (note that conference weeks are busy, and I can't meet on weekends)
 - Clarifying conference feedback you didn't fully understand
 
 Not available:
@@ -46,11 +52,7 @@ Not available:
 
 [Why can't you review emailed drafts?](/course-ntw2029/course-info/conferences/#why-cant-you-review-emailed-drafts)
 
-Remember: The conference gives you comprehensive feedback on your full draft. Additional support works best when you've already attempted to apply that feedback and hit specific obstacles. I suggest you first complete your post-conference reflection exercise to identify specific areas where you need help. Then, if needed, follow up with targeted questions about remaining uncertainties.
-
-##### :x record conferences
-
-I use recordings to see if discuss the same issue with multiple students. If I do, I use the transcripts  to improve my teaching materials.
+Remember: The conference gives you feedback on the most important issues with your draft. Additional support works best when you've already attempted to apply that feedback and hit specific obstacles. I suggest you first complete your post-conference reflection exercise to identify specific areas where you need help. Then, if needed, follow up with targeted questions about remaining uncertainties.
 
 ##### :x recording and transcript
 
