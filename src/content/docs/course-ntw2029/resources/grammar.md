@@ -1,6 +1,6 @@
 ---
-title: Grammar and style for NTW2029
-date: 2025-09-07
+title: Grammar and style
+date: 2025-09-08
 ---
 
 This page provides grammar and style information that I can quickly refer to when providing feedback.
@@ -64,11 +64,20 @@ See [that vs which](#that-vs-which).
 
 ## Subject-pronoun agreement
 
-The subject and the pronoun do not agree in number. Agreement can be trickier if your subject is an [:abstract noun](#abstract-nouns), but this is a basic rule of grammar and must be mastered, as these types of errors (fairly or unfairly) act as a key indicator of overall language fluency. Review the first point in this article: https://owl.purdue.edu/owl/general_writing/grammar/pronouns/index.html
+The subject and the pronoun do not agree in number. Agreement can be trickier if your subject is an abstract noun (see above), but this is a basic rule of grammar and must be mastered, as these types of errors (fairly or unfairly) act as a key indicator of overall language fluency. Review the first point in this article: https://owl.purdue.edu/owl/general_writing/grammar/pronouns/index.html
 
 ## Subject-verb agreement
 
 Subject and verb must agree (e.g. I _am_, she _is_, we _are_). Agreement can be trickier if your subject is an [:abstract noun](#abstract-nouns), but this is a basic rule of grammar and must be mastered, as these types of errors (fairly or unfairly) act as a key indicator of overall language fluency. Student errors in subject-verb agreement occur more frequently when a modifier makes a singular noun sound plural or vice-versa (e.g. "the brain's capacity to remember places and names" is singular, not plural). Review the rules in this article:  https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html
+
+## Verb tense for source actions (e.g. says, writes, argues)
+
+Follow these rules for verb tense when writing about source claims, as they match our approach of thinking about writing as an academic conversation. When writing, pretend that anything written in the source is something that they are actually saying to you directly as you read it. Thus:
+
+- when writing about source claims, use present tense (e.g.: Boyd states, Pinker notes, Dutton argues)
+- when writing about things that the source refers to as happening in the past, follow the source and use past tense (e.g.: According to Boyd, subjects in the dictator game *divided* the money...)
+
+There are disciplinary differences and exceptions, but we'll keep it simple in this course where possible
 
 ## That vs which
 
