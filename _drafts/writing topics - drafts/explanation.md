@@ -1,0 +1,19 @@
+- good explanation requires a few considerations:
+	- defining terms the reader may not know
+	- putting information in the right order so it is easy for the reader to connect each phrase and sentence to the ones next to it
+	- introducing information using "old then new" sentences
+	- using transitions to help the reader understand how each idea relates to the last idea and to the thesis
+	- illustrating abstract claims with detailed examples or scenarios (real or invented)
+
+
+Consider what you need to explain to your reader for them to understand your argument:
+
+- Firstly, both cultural and biological traits vary, but since there is volition involved in cultural variation, the variation is generally more purposeful and thus may be more extensive. Darwin's first key finding states that there is variation in biological traits due to genetic mutations and recombinations, the latter in sexual species where genetic information from both parents are mixed and result in differences in their offspring. Dunbar et al. likens "novel accidents" in cultural phenomena to "genetic mutations", which implies that cultural variation arises from unintentional 'slip-ups', thus making the analogy seem fitting (138). However, people often intentionally build on previous cultural phenomena, which leads to more systematic and purposeful variation.
+
+- order of info confusing
+	> G&W proposed a fundamental form of Duchenne laughter which happens during nonserious social incongruities. They believed that this is the fundamental stimulus that elicits Duchenne laughter, where Duchenne laughter is the positive emotional reaction to such a situation. Therefore, Duchenne laughter and play are very dependent on perceived levels of seriousness and satiety (Fredrickson, 1998; Biben & Champoux, 1999; Gamble, 2001; Sharpe et al., 2002) and it can only happen when individuals do not perceive any threat to their immediate well-being (Gamble, 2001). This feature of laughter constrains their potential circumstances of occurrence, making it an effective signal for play time. Duchenne laughter is laughter that is stimulus-driven, emotionally valenced and sincere while non-Duchenne laughter is self-generated, self-learnt and emotionless laughter (Bonanno & Keltner, 1997). In other words, the laughter that we naturally produce when we interact with humorous content is Duchenne laughter, whereas non-Duchenne laughter is the laughter that is learnt to be employed for various social functions. For example, in stressful situations, non-Duchenne laughter is elicited as a defense mechanism in stressful situations or a social lubricant in conversations (Gervais & Wilson, 2005).
+
+
+- good use of scenario to explain an idea:
+
+> Pinker argues that a way that the human mind registers the attainment of its goal states is by feeling a sense of pleasure (524). In other words, the human mind is adapted to feel a sense of pleasure in fitness-enhancing environments. However, he argues that it is challenging and inconvenient to put oneself in a fitness-enhancing environment (524). Learning how to use weapons more effectively, for example, would allow an individual to fend off threats more effectively, improving an individual’s chances of surviving in the ancestral environment. One would derive pleasure from learning to use a weapon effectively and being able to fend off threats in the wild. However, it takes time to develop sufficient strength and motor skills to use the weapons effectively. In this example, there is a rather inconvenient learning process involved in putting oneself in the fitness-enhancing state of being able to use weapons well.

@@ -1,0 +1,3 @@
+#### Paper Comments
+
+I will provide feedback on assignments leading up to the final draft of your two main papers. When grading the final, I often notice problems that I remember mentioning in conferences or as written feedback on previous assignments. Try to avoid ignoring issues that I explicitly mention if at all possible. The failure to address mentioned issues probably comes from a multitude of factors, including the workload and time pressure put on NUSC students. However, from an instructor's perspective, it is easy to interpret these problems is as indicating that the student did not think the advice or the assignment was important enough to address.

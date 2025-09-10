@@ -1,0 +1,73 @@
+- discuss (class or small groups): what is critical thinking and reading?
+	- What makes thinking or reading critical?
+	- What other kinds of reading are there, and what makes them different?
+	- What are the values or attitudes underlying critical thinking/reading?
+	- Why do we need critical thinking/reading?
+- critical thinking
+	- critical thinking is a style of thinking that improves your ability to determine truth from falsity by asking questions
+	- critical thinking requires the right attitude and a skill set of useful techniques
+	- critical thinking is not something you can or want to do all of the time
+		- it takes time and mental effort to critically examine claims, and you can't live a normal life if you question everything people say all of the time
+		- critical thinking is most essential in domains where truth is determined by objective evidence and you care about knowing whether claims are true
+		- critical thinking may not be appropriate for some domains
+			- entertainment: goal is not truth, but enjoyment
+			- religion: truth is often tied to faith or personal testimony, rather than saying things are true only if proven with objective evidence
+			- everyday situations where there is no reason to doubt something: information on maps, menus, business cards
+	- what is a critical thinking attitude?
+		- combines open-minded, skeptical questioning (is that really true? how do you know?) with belief that reason and evidence guide us towards truth (even if we can never be 100% sure about any particular claim)
+		- critical thinkers embrace these mental habits:
+			- willingness to reconsider your own beliefs as well as the claims of others
+			- trust that reliable reasoning and evidence is the most likely indicator of truth
+			- recognition that a person's authority, knowledge, or credentials are _NOT_ the best indication of whether their claims are true (although they are not totally irrelevant in evaluating their claims)
+	- critical thinking technique 1
+		- ask "how do you know that?"
+		- there are better and worse ways of knowing something or reasons for believing something
+		- find out what process someone used to reach a conclusion so you can evaluate whether that process is reliable
+		- reliable doesn't mean "always right", but better chance of being right
+	- critical thinking technique 2
+		- think of potential counterexamples to claims
+		- e.g. "natural things are healthier than artificial things"
+			- counterexamples- arsenic, poison ivy
+		- e.g. "you should always treat others as you want to be treated"
+			- counterexample: perhaps you shouldn't treat your roommate the way you want to be treated, because you love to eat spicy food, but your roommate can't eat spicy food, so you shouldn't cook the same dinner for them that you would want someone to cook for you
+		- it takes practice to be good at coming up with counter-examples
+	- critical thinking technique 3
+		- ask: what would have to be true for someone to accept that a claim is wrong? and is it possible to actually get the type of evidence we would need to determine whether a claim is wrong?
+		- this question creates a space for the possibility of doubt
+		- asking this question identifies claims that are unfalsifiable (cannot be shown to be false), at least to the person making the claim
+		- e.g. Jack says "my lucky shoes helped me win my football game." Jill says "if you had lost your football game, would that convince you that your shoes are not lucky?" If Jack says "no, if I hadn't worn my lucky shoes, we would have lost even worse!"  then Jack's belief that his shoes are lucky is not actually based on the evidence he provided. It is not yet clear whether his belief is open to revision based on reliable reasons or evidence.
+		- unfalsifiable claims are bad in research, because if a claim cannot be shown to be false, it cannot help us make predictions about the future, which is what most research explanations aim to do
+- critical thinking vs. debating
+	- critical thinking and debating can both involve:
+		- coming up with reasons to believe a claim
+		- attempts to challenge claims
+		- asking for evidence to support claims
+	- yet debating and critical thinking have different primary goals
+		- debating aims to defend your claims while attacking someone else's claims, and the goal is to win the argument or persuade an audience
+		- critical thinking aims to discover the truth about a claim, and requires you to be open-minded enough to change your beliefs based on the best evidence
+- critical reading
+	- critical reading is simply practicing critical thinking about what you are reading
+	- you should read both other texts and your own writing critically to constantly test the strength of the arguments being made
+- critical reading tips
+  	- find a non-distracting environment where you can focus; turn off notifications and don't be in a place where people are talking
+  	- don't highlight; instead, take notes about what you are reading
+  	- take notes on
+  		- what the text says (summary of key points)
+  		- what the text does (e.g. introduction a new point, an objection, …)
+  		- your own questions and responses
+  	- after reading a text through, if it has key concepts or terms you don't understand, look them up (but don't get bogged down by details)
+  	- if you are closely analyzing a source, expect to re-read it many times to really understand it
+- after reading (ideally as time allows)
+  	- write up a brief summary or outline
+  	- check if you can now answer questions that you had earlier
+  	- draw connections with previous readings or class discussions
+  	- write down questions you want to ask in class or potentially address in a paper
+- potential obstacles
+  	- "it takes me too long to read the assigned texts critically"
+  		- critical reading inevitably takes longer than surface reading or studying facts. you may need to adjust to this kind of reading.
+  		- are you getting bogged down by details or distracted?
+  	- "i have too many questions or thoughts"
+  		- are all your questions relevant or are you writing down all of your thoughts indiscriminately?
+  	- "i don't have any good questions or thoughts"
+  		- are you actively probing the argument?
+  		- are you dismissing your thoughts or questions prematurely?
