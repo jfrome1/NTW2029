@@ -59,7 +59,8 @@ coverage/
 .stylelintcache
 
 # Working folders (ignores any folder beginning with underscore)
-_*/
+# uncomment the next line if you want to ignore such folders
+# _*/
 
 # Shortcuts
 *.lnk
