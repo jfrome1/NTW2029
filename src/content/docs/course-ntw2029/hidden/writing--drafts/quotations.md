@@ -83,3 +83,5 @@ Poor use of quotes:
 	- don't need to quote this, the word choice isn't important here
 - "Many have tried to uncover the reason we enjoy art, to no avail, as "millions of pages of scholarship" have been unable to find a satisfactory answer (521). "
 	- don't need to quote this, the word choice isn't important here
+- "Pinker reinforces this idea as he states “The mind is a neural computer, fitted by the natural selection algorithms for casual and probabilistic reasoning about plants, animals, objects and people ... That tool box[of the mind], however, can be used to assemble Sunday afternoon projects of dubious adaptive value”. While Pinker acknowledges that the mind that controls our thoughts and behaviours is designed to fit and survive in the surrounding environment(i.e. adaptation), he argues that humans with such minds can also engage in “idle” activities that do not contribute to a fitter version of himself."
+    - quote too long, not needed
