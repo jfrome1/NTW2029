@@ -140,8 +140,12 @@ Click to see what [:extra space between paragraphs](#x-extra-space-between-parag
 
 Microsoft Word automatically adds extra space between paragraphs by default, but academic papers should not have these blank lines.
 
-The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph formatting settings](#x-extra-space-formatting-settings.jpg).
+The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph formatting settings](#x-extra-space-formatting-settings).
+
+##### :x extra space between paragraphs
+
+![extra space between paragraphs](/images/extra-space-between-paragraphs.jpg)
 
 ##### :x extra space formatting settings
 
- ![extra space formatting settings](/images/extra-space-formatting-settings.jpg)
+![extra space formatting settings](/images/extra-space-formatting-settings.jpg)
