@@ -1,28 +1,50 @@
 ---
 title: Unclear referents and ambiguous pronouns
-date: 2025-09-07
+date: 2025-09-15
 ---
 
-Pronouns cause confusion when it's not clear what they refer to. There are two common versions of this problem, which I refer to by these labels:
+Try to follow this argument:
 
-### Unclear referents
+_The novel ends with a sense of closure for the reader as good triumphs over evil. This is contrary to what we experience in the real world, where situations often remain unresolved, and morals are often complex and dynamic. This makes it difficult to feel reassured about what will happen in the future. Thus, we enjoy reading detective fiction, Zunshine argues, because it provides a sense of stability in an alternate universe that is difficult to experience in real life._
 
-Here, writers use a pronoun to refer to a concept or idea that is clear in their minds, but isn't specified in what's written, causing reader confusion. Most frequently, the pronoun's referent is unclear when the writer uses "this" or "it" alone as the subject of a sentence: "Students often write late into the night, and their memory can play tricks on them if they haven't slept and try to use energy drinks as stimulants. This has been studied by the Singapore Health Authority." What does "this" refer to? Your reader can't tell. So be clear: "The effect of energy drinks on memory has been studied..."
+Was it easy to follow the argument? Or did you pause when parsing the sentences starting with "This"? Readers have to figure out what "this" in the second sentence refers to. Is it the sense of closure? Good triumphing over evil? The entire concept? And the "this" in the third sentence—does it mean the unresolved situations, the complex and dynamic morals, or something else entirely?
 
-Consider an example. Try to follow the argument:
+Student authors know what they mean when they write "this is" or "it means", but readers are confused when it's not clear what those pronouns are referring to. [:See how clarifying the referents makes writing clearer](#x-See-how-clarifying-the-referents-makes-writing-clearer)
 
-> The novel usually ends with good triumphing over evil, which provides readers with a sense of closure. This is contrary to what we experience in the real world, where there are several factors to consider. This makes it difficult to establish what is good and what is bad. Hence, by reading detective fiction, we are able to find solace in this alternate universe's stability, which is difficult to experience in real life.
+## Unclear referents
 
-What does the "this" starting the second sentence refer to, exactly? How about the "this" starting the third sentence? It's hard to understand what the author is arguing.
+Writers often use pronouns like "this" or "it" to refer to ideas that are clear in their minds but are not explicitly stated for the reader.
 
-In the course, as the ideas become more complicated, it becomes increasingly important to be very clear and specific in your writing.
+**Example:**
 
-### Ambiguous pronouns
+_Students often write late into the night, and their memory can play tricks on them if they haven't slept and try to use energy drinks as stimulants. This has been studied by the Singapore Health Authority._
 
-Here, a pronoun has several potential referents and the reader can't tell which one the writer is referring to.
+What has been studied? Late-night writing? Memory tricks? Sleep deprivation? Energy drinks? The combined effect? Your reader shouldn't have to guess.
 
-Consider an example:
+**Fix:** Be explicit about what you're referring to:
 
-> Puzzlingly, despite horror films evoking strong negative emotions, humans still take pleasure in horror experiences and they remain extremely popular, even in mainstream media.
+_...energy drinks as stimulants. The effect of energy drinks on sleep-deprived memory has been studied by the Singapore Health Authority._
 
-With some mental effort, the reader can tell from context that the "they" in "they remain" refers to horror films, but grammatically, "they" could also refer to negative emotions, humans, or experiences.
+## Ambiguous pronouns: Too many options
+
+Sometimes a pronoun could grammatically refer to multiple things in the sentence, leaving readers unsure which one you mean.
+
+**Example:**
+
+_Puzzlingly, despite horror films evoking strong negative emotions, horror audiences are growing in size and they remain extremely popular, even in mainstream media._
+
+Does "they" refer to horror films, negative emotions, or horror audiences? Context suggests horror films, but there's no need to make your reader guess.
+
+**Fix:** Repeat the noun or restructure:
+
+_...horror audiences are growing in size and these films remain extremely popular, even in mainstream media._
+
+## Recommendation
+
+Before submitting any assignment, search for every "this," "it," "they," and "that" in your draft. Will the reader immediately know what it refers to? If not, revise to clarify the specific noun or phrase.
+
+##### :x See how clarifying the referents makes writing clearer
+
+The example revised to make "this" clearer:
+
+_The novel ends with a sense of closure for the reader as good triumphs over evil. This clear resolution is contrary to what we experience in the real world, where situations often remain unresolved and morals are often complex and dynamic. Reality's ever-changing moral landscape makes it difficult to feel reassured about what will happen in the future. Thus, we enjoy reading detective fiction, Zunshine argues, because it provides a sense of stability in an alternate universe that is difficult to experience in real life._
