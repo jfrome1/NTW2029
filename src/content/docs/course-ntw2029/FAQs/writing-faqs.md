@@ -117,7 +117,7 @@ Paper 1 asks you to explain (and optionally analyze) Pinker's arguments about wh
 
 ### What does "adding to the academic conversation" mean?
 
-You might point out unstated assumptions, identify missing evidence, show logical gaps, or explain implications the author didn't discuss.
+It means saying something that hasn't already been explicitly said in a publication. It doesn't require proposing an original theory about the research question; you can add by commenting on what other people have said. You might point out unstated assumptions, identify missing evidence, show logical gaps, or explain implications the author didn't discuss.
 
 ### How should I structure my introduction?
 
