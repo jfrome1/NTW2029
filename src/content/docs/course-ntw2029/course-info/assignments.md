@@ -1,6 +1,6 @@
 ---
 title: Assignments
-date: 2025-08-14
+date: 2025-09-15
 ---
 
 This page describes how to write and submit assignments. For grading criteria, see the [Grading](/course-ntw2029/course-info/grading) page.
@@ -156,13 +156,11 @@ The provided template doesn't have them. You can remove them by highlighting the
 
 ##### :x why do I need to remove comments
 
-Comments are like personal notes; they're for you, not your reader. Comments also [:make it hard for me to read submissions on Canvas](#x-make-it-hard-for-me-to-read-submissions-on-canvas) and they are distracting if I want to add my own margin comments.
+Comments are like personal notes; they're for you, not your reader. It's professional to remove them. They are distracting if I want to add my own margin comments. Comments also [:make it hard for me to read submissions on Canvas](#x-make-it-hard-for-me-to-read-submissions-on-canvas).
 
 ##### :x make it hard for me to read submissions on canvas
 
 ![canvas comments blurred](/images/canvas-comments-blurred.jpg)
-
-![canvas comments blurred](/images/canvas-comments-blurred-small.jpg)
 
 ##### :x delete all comments in document
 
