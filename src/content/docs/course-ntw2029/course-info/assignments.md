@@ -45,7 +45,9 @@ If you're struggling with workload, come talk to me early and check [NUSC pastor
 
 Follow my formatting guidelines for all assignments (except E13, worload log). The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" in that template to format your paper if that's easy for you.
 
-You can also read the [:full formatting details](#x-full-formatting-details), which includes instructions for MS Word settings.
+If you use the template, or if you use margin comments as part of your editing process, remember to remove the comments before submitting the assignment.
+
+You can also read the [:full formatting details](#x-full-formatting-details), which includes detailed instructions for how to set your settings for MS Word.
 
 ### Additional Formatting Requirements for Drafts and Final Papers  (P02-03, P07-09)
 
@@ -134,6 +136,18 @@ In Metric:
 
 ## FAQs
 
+### How do I remove comments from my Word document?
+
+If your submission has comments, you must remove them before submitting your paper. <span class="smaller-text">  [:Why do I need to remove comments?](#x-why-do-i-need-to-remove-comments) </span>
+
+To remove all comments:
+
+1. Go to the Review tab
+2. In the Comments section, click the arrow under "Delete"
+3. Select "Delete All Comments in Document"
+
+![delete comments](/images/delete-comments.jpg)
+
 ### What does "Remove extra space/blank line between paragraphs" mean? How do I do that?
 
 Click to see what [:extra space between paragraphs](#x-extra-space-between-paragraphs) means.
@@ -142,6 +156,10 @@ Microsoft Word automatically adds extra space between paragraphs by default, but
 
 The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph formatting settings](#x-extra-space-formatting-settings).
 
+##### :x why do I need to remove comments
+
+Comments are like personal notes; they're for you, not your reader. Comments also [:make it hard for me to read submissions on Canvas](#x-make-it-hard-for-me-to-read-submissions-on-canvas) and they are distracting if I want to add my own margin comments.
+
 ##### :x extra space between paragraphs
 
 ![extra space between paragraphs](/images/extra-space-between-paragraphs.jpg)
@@ -149,3 +167,7 @@ The provided template doesn't have them. You can remove them by highlighting the
 ##### :x extra space formatting settings
 
 ![extra space formatting settings](/images/extra-space-formatting-settings.jpg)
+
+##### :x make it hard for me to read submissions on canvas
+
+![Canvas submission with comments](/images/canvas-submission-with-comments.jpg)
