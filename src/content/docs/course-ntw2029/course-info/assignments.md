@@ -158,6 +158,12 @@ The provided template doesn't have them. You can remove them by highlighting the
 
 Comments are like personal notes; they're for you, not your reader. Comments also [:make it hard for me to read submissions on Canvas](#x-make-it-hard-for-me-to-read-submissions-on-canvas) and they are distracting if I want to add my own margin comments.
 
+##### :x make it hard for me to read submissions on canvas
+
+![canvas comments blurred](/images/canvas-comments-blurred.jpg)
+
+![canvas comments blurred](/images/canvas-comments-blurred-small.jpg)
+
 ##### :x delete all comments in document
 
 ![delete comments](/images/delete-comments.jpg)
