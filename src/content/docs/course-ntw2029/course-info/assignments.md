@@ -144,9 +144,7 @@ To remove all comments:
 
 1. Go to the Review tab
 2. In the Comments section, click the arrow under "Delete"
-3. Select "Delete All Comments in Document"
-
-![delete comments](/images/delete-comments.jpg)
+3. Select [:"Delete All Comments in Document"](#x-delete-all-comments-in-document)
 
 ### What does "Remove extra space/blank line between paragraphs" mean? How do I do that?
 
@@ -159,6 +157,10 @@ The provided template doesn't have them. You can remove them by highlighting the
 ##### :x why do I need to remove comments
 
 Comments are like personal notes; they're for you, not your reader. Comments also [:make it hard for me to read submissions on Canvas](#x-make-it-hard-for-me-to-read-submissions-on-canvas) and they are distracting if I want to add my own margin comments.
+
+##### :x delete all comments in document
+
+![delete comments](/images/delete-comments.jpg)
 
 ##### :x extra space between paragraphs
 
