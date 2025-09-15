@@ -129,3 +129,19 @@ In Metric:
 ##### :x use-word-function-search
 
 ![use Word function search](/images/use-word-function-search.jpg)
+
+---
+
+## FAQs
+
+### What does "Remove extra space/blank line between paragraphs" mean? How do I do that?
+
+Click to see what [:extra space between paragraphs](#x-extra-space-between-paragraphs) means.
+
+Microsoft Word automatically adds extra space between paragraphs by default, but academic papers should not have these blank lines.
+
+The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph settings](#x-paragraph-settings).
+
+##### :x extra space between paragraphs
+
+ ![extra space between paragraphs](/images/extra-space-between-paragraphs.jpg)
