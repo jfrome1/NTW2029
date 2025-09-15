@@ -49,9 +49,9 @@ You can also read the [:full formatting details](#x-full-formatting-details), wh
 
 ### Additional Formatting Requirements for Drafts and Final Papers  (P02-03, P07-09)
 
-- Highlight your thesis statement in yellow (2 sentences maximum)
+- Highlight your thesis statement in yellow (2 consecutive sentences maximum)
 - Highlight all topic sentences in light blue
-- Start reference list on a new page at the end
+- Include reference list, start it on a new page at the end
 - Italicize all titles in both body text and reference list
 
 ## Exercises (E01-E11)
