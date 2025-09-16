@@ -6,6 +6,8 @@ date: 2025-08-13
 
 This course uses Microsoft Bookings to schedule conferences. I'll send you a bookings link when conference times are made available.  Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
 
+If you do not book a conference, miss your scheduled conference, or fail to turn your assignment in on time, you should not expect draft feedback or a conference for this assignment.
+
 ### Scheduling guidelines
 
 I sometimes (but not always) send feedback for you to review before our conference. If time is short, you may receive this feedback just an hour before the conference. Thus, try to schedule the conference at a time when you will be able to review feedback in the preceeding hour.
