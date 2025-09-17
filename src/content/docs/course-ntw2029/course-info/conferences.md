@@ -19,9 +19,9 @@ Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome>
 Please follow these guidelines to avoid distractions (for me) during Zoom conferences:
 
 - Zoom
+    - Test your audio and video using Zoom settings before the conference begins
     - Keep your video on
     - Close other programs (Zoom hogs RAM)
-    - Test your audio and video using Zoom settings before the conference begins
     - Plug in laptop / charge battery in advance
 - Other
     - Find in a quiet, indoor space without wind noise or other people nearby
