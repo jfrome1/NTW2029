@@ -10,3 +10,5 @@ sidebar:
 ---
 
 FAQs to add:
+
+- what do I highlight, in what assignments?
