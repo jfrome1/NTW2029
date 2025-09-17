@@ -18,11 +18,16 @@ Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome>
 
 Please follow these guidelines to avoid distractions (for me) during Zoom conferences:
 
-- Find in a quiet, indoor space without wind noise or other people nearby
-- Keep your video on
-- Check your lighting (not dark, not bright backlight/window)
-- Do not eat during the conference
-- Make every effort to be on time, but if you are going to be late, email me before the scheduled time to let me know when to expect you
+- Zoom
+    - Keep your video on
+    - Close other programs (Zoom hogs RAM)
+    - Test your audio and video using Zoom settings before the conference begins
+    - Plug in laptop / charge battery in advance
+- Other
+    - Find in a quiet, indoor space without wind noise or other people nearby
+    - Check your lighting (not dark, not bright backlight/window)
+    - Do not eat during the conference
+    - Make every effort to be on time, but if you are going to be late, email me before the scheduled time to let me know when to expect you
 
 ## Preparation
 
