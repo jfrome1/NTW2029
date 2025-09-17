@@ -58,7 +58,7 @@ The SRL adjustment rewards students who engage with feedback, use course resourc
 
 Final paper grading criteria will be discussed in future classes.
 
-Although you are allowed to miss exercises, all paper prep assignments must be submitted at minimum acceptable quality to pass the course.
+Although you are allowed to miss exercises, all paper prep assignments must be submitted on time at minimum acceptable quality to pass the course.
 
 ##### :x what-good-participation-looks-like
 
