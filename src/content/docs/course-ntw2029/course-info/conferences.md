@@ -33,7 +33,8 @@ Please follow these guidelines to avoid distractions (for me) during Zoom confer
 
 To make sure you get full benefit from the conference:
 
-- Before the conference, review the posted assignment instructions and and your submission
+- Make sure to watch any video feedback I send you. If you don't, the conference will not be nearly as productive.
+    - If you don't receive a video by one hour before your scheduled conference, contact me to request it.
 - Come to the conference prepared with specific questions
     - Although I'll give you feedback on important areas for improvement, I do not see it as my job to give you a list of tasks you need to complete to get an A paper
     - Conferences are a time for you to use me as a resource, which requires effort on your part to ask for guidance on specific issues
