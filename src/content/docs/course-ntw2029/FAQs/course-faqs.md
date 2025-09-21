@@ -129,7 +129,7 @@ Don't worry too much - each exercise is a very small part of your final grade. H
 
 ### What file type should I use for assignments?
 
-Always submit as a Word document (.docx) - not Pages, PDF, or Google Docs. Include your name and section at the top, word count and GenAI disclosure at the bottom. Full formatting details on the [Assignments page](/course-ntw2029/course-info/assignments).
+Always submit as a Word document (.docx) - not Pages, PDF, or Google Docs. Include your name and section at the top, word count and GenAI disclosure at the top. Full formatting details on the [Assignments page](/course-ntw2029/course-info/assignments).
 
 ### How should I format papers?
 
@@ -149,7 +149,7 @@ Exercises are for practice and learning, not for evaluating mastry. Don't spend 
 
 ### Should we include the citations or references in the word count?
 
-Include in-text citations in your word count, but not the reference list at the end. So if I write "Pinker (1997, p. 45) argues that..." those words all count toward your total. But the full citations in your reference list don't count - that's why the word count goes at the bottom of your text, right before the reference list starts.
+Include in-text citations in your word count, but exclude the reference list at the end. So if you write "Pinker (1997, p. 45) argues that..." those words all count toward your total.
 
 ### What's the paper template?
 
