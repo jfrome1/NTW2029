@@ -19,12 +19,11 @@ Copy and paste the following questions into the Exercise 6 text box on Canvas. D
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
 3. What major changes did you make on your draft after our conference?
-4. Did you use the feedback form? If yes, how did you do so and how helpful was it?
-5. Did you use ChatGPT? If yes, how did you do so and how helpful was it?
-6. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
-7. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
-8. In general, what was the biggest challenge in writing this paper?
-9. What did you learn from writing this paper that you will apply to future writing assignments?
+4. Did you use ChatGPT? If yes, how did you do so and how helpful was it?
+5. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
+6. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
+7. In general, what was the biggest challenge in writing this paper?
+8. What did you learn from writing this paper that you will apply to future writing assignments?
 
 Include a GenAI link/non-use statement (required) but not a word count.
 
