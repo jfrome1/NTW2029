@@ -16,42 +16,60 @@ This course includes three required conferences:
 - **Week 11**: Paper 2 explain positions conference
 - **Week 13**: Paper 2 draft conference
 
-## Booking Requirements
+## Requirements for Conferences
+
+### Requirements for receiving assignment feedback:
+
+- Submit your assignment properly and on time
+- Book your conference on time
+
+### Requirements for the conference:
+
+- Don't miss your scheduled conference time (communicate in advance about any problems)
+- Be in a private, quiet room
+- Have working audio and video (test in advance)
+
+If you don't meet these requirements, we won't be able to have the conference as scheduled. A reschedule at a mutually convenient time is possible but not assured.
+
+## Conference Booking
 
 - Book your conference through Microsoft Bookings when I send the link
 - Check the times carefully - Bookings uses 24-hour time format
 - Schedule your conference when you can review feedback in the hour before [:why this timing matters](#x-timing-matters)
-- **If you don't book a conference on time, miss your conference, or submit late: you may not receive feedback or a conference for that assignment**
 
 ## Conference Preparation
 
-- Review my feedback before your conference
-- Contact me if you haven't received feedback by 1 hour before your conference
-- Prepare specific questions about your draft [:what makes questions productive](#x-productive-questions)
+- Watch the video feedback before your conference (if sent)
+- Contact me if you haven't received a video by 1 hour before your conference
+- Prepare specific questions about your draft
+- Bring materials for note-taking
 
 ## During Conference
 
 - Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
 - Email or message me if you have connection difficulties
 - Tell me at the start if you want the conference recorded [:about recordings](#x-about-recordings)
-- Follow these Zoom guidelines:
-    - Test your audio and video before the conference
-    - Keep your video on throughout the conference
-    - Close other programs before joining (Zoom uses significant RAM)
-    - Charge your laptop in advance
-- Follow these environment guidelines:
-    - Find a quiet, indoor space without wind noise
-    - Check your lighting (avoid darkness or bright backlights)
-    - Do not eat during the conference
-    - Arrive on time or email me before the scheduled time if you'll be late
+
+### Zoom Setup
+
+- Test your audio and video before the conference begins
+- Keep your video on throughout the conference
+- Close other programs before joining (Zoom uses significant RAM)
+- Charge your laptop in advance
+
+### Environment Setup
+
+- Find a quiet, indoor space without wind noise or other people
+- Check your lighting (avoid darkness or bright backlights)
+- Do not eat during the conference
+- Email me before the scheduled time if you'll be late
 
 ## After Conference
 
 - Submit your conference summary exercise the same day
-- Use these post-conference support options:
-    - Ask specific questions about the feedback via email/Telegram
-    - Request additional meetings if time allows
-    - Request clarification of any conference feedback you didn't understand
+- Ask specific questions about the feedback via email/Telegram
+- Request additional meetings if time allows
+- Request clarification of any conference feedback you didn't understand
 - Do not send draft sections for review between conferences
 
 ## FAQs
@@ -93,14 +111,6 @@ Instead: Submit work at designated checkpoints, prepare thoroughly for conferenc
 ##### :x timing matters
 
 Feedback sometimes arrives just an hour before your conference. Scheduling when you can review it immediately before we meet ensures you get maximum benefit from our discussion.
-
-##### :x productive questions
-
-Productive questions show that you've identified what you're trying to achieve and where you're stuck:
-
-- "My thesis claims X, but paragraph 3 argues Y. How can I align them?"
-- "I'm trying to show Boyd differs from standard EP. Does paragraph 4 make this clear?"
-- "You said to explain 'pleasure technology' or remove it. Is this explanation sufficient? [quotes draft]"
 
 ##### :x about recordings
 
