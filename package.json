@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.35.2",
+    "@astrojs/starlight": "^0.36.0",
     "@astrojs/starlight-docsearch": "^0.6.0",
     "@vercel/edge": "^1.2.2",
     "astro": "^5.12.9",
