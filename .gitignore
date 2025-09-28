@@ -64,3 +64,5 @@ coverage/
 
 # Shortcuts
 *.lnk
+
+pnpm-lock.yaml

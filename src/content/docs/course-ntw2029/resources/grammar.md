@@ -1,6 +1,6 @@
 ---
 title: Grammar and style
-date: 2025-09-08
+date: 2025-09-23
 ---
 
 This page provides grammar and style information that I can quickly refer to when providing feedback.
@@ -82,10 +82,6 @@ There are disciplinary differences and exceptions, but we'll keep it simple in t
 ## That vs which
 
 Review the rules for using the words "that" vs "which" here: https://owl.purdue.edu/owl/general_writing/grammar/that_vs_which.html
-
-## Unclear referent
-
-See [Unclear referents and ambiguous pronouns](/course-ntw2029/resources/unclear-referent)
 
 ##### :x since
 
