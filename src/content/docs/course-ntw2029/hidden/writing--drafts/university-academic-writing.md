@@ -27,3 +27,7 @@ sidebar:
 	- what I aim to teach you:
 		- how to clearly explain complex ideas to a generalist reader
 		- how to actually contribute to an ongoing academic conversation
+
+Online resources
+- [Why Academics’ Writing Stinks - The Chronicle of Higher Education](file:///C:/Users/nemo-/Zotero/storage/472LSSFN/pinkerWhyAcademicsStink2014.html)
+-
