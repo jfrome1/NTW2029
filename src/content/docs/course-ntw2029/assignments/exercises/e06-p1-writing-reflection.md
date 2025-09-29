@@ -1,5 +1,4 @@
 ---
-
 title: Exercise 6 - Paper 1 writing reflection
 date: 2024-08-13
 ---
@@ -14,7 +13,7 @@ Answer the following questions about your writing process, from initial drafting
 
 ## Requirements
 
-Copy and paste the following questions into the Exercise 6 text box on Canvas. Don't delete the questions—keep them and type answers below each question:
+Copy and paste the following questions into a document and type answers below each question, in full sentences:
 
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
