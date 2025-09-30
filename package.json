@@ -14,7 +14,7 @@
     "@astrojs/starlight": "^0.35.2",
     "@astrojs/starlight-docsearch": "^0.6.0",
     "@vercel/edge": "^1.2.2",
-    "astro": "^5.12.9",
+    "astro": "^5.14.1",
     "astro-compress": "^2.3.8",
     "mermaid": "^11.9.0",
     "posthog-js": "^1.259.0",
