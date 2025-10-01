@@ -1,15 +1,12 @@
 ---
-title: e08
-date: 2025-09-03
+title: Exercise 08 - Understanding competing explanations
+date: 2025-10-02
 draft: true
 sidebar:
   badge:
     text: Draft
     variant: caution
 ---
-title: Exercise 08 - Understanding competing explanations
-date: 2025-10-02
-draft: true
 
 ## Purpose
 
@@ -19,17 +16,21 @@ This exercise develops your ability to distinguish between existing explanations
 
 Answer questions about Menninghaus et al.'s article on negative emotions in art. This article tackles a puzzle: why do we enjoy art that makes us feel sad, scared, or disgusted? You'll identify both the old explanations and their new model. We'll discuss these in class 8.1.
 
-## Instructions
+## Requirements
 
-Read "The Distancing-Embracing model of the enjoyment of negative emotions in art reception" (Menninghaus et al., 2017), following this guide:
+### Reading
+
+Read the following sections from "The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception" (Menninghaus et al., 2017):
 
 - Abstract (full)
 - Pages 1-6 (Introduction through section 2.3)
 - Pages 11-12 (section 3.1 - The Distancing-Embracing Model)
 - Pages 19-20 (section 5 - Conclusion)
-- Commentary excerpt provided on Canvas (1 page)
 
-## Requirements
+Also read the commentary article "Emotional granularity and the musical
+Enjoyment of sadness itself" (Barrett et al., 2017) on pp. 18-19.
+
+### Questions
 
 Copy and paste the following questions into a document and type answers below each question, in full sentences:
 
@@ -39,29 +40,17 @@ Copy and paste the following questions into a document and type answers below ea
 
 3. **NEW explanation (what "we say")**: In your own words, what are the two key components of the Distancing-Embracing Model? Don't just name them—explain what each means. (3-4 sentences)
 
-4. **Finding disagreement**: Based on the commentary excerpt, what specific aspect of the DEM model does the commentator question or challenge? Quote one sentence from the commentary that shows the disagreement. (2-3 sentences)
+4. **Finding disagreement**: Based on the Barrett et al. commentary, what specific aspect of the DEM model does the commentary question or challenge? Quote one sentence from the commentary that shows the disagreement and explain the quotation in your own words. (2-3 sentences)
 
 5. **Why this matters**: According to the conclusion (pp. 19-20), what's at stake in getting this right? Why do the authors think understanding negative emotions in art is important? (2-3 sentences)
 
-Include page numbers for any quotations. Include a GenAI link/non-use statement (required) but not a word count.
+Include page numbers for any quotations.
 
 ## Guidelines
 
 - For question 2, don't try to explain all the compensatory theories—pick the one that makes most sense to you
-- The DEM model might seem complex, but focus on the basic idea: we need distance AND embracing for negative emotions to be enjoyable
-- The commentary will likely accept the paradox exists but disagree about the solution
+- The DEM model might seem complex, but focus on the basic idea: we need both distance and embracing for negative emotions to be enjoyable
 - This is practice for Paper 2, where you'll analyze similar disagreements in detail
-
-## Checklist
-
-Don't try to save time by using this checklist as a substitute for reading the assignment. The checklist can remind you of some easily-missed aspects of the assignment, but it is not a comprehensive summary of all assignment requirements.
-
-- [ ] Read specified sections of Menninghaus article
-- [ ] Read commentary excerpt on Canvas
-- [ ] Answer all 5 questions in complete sentences
-- [ ] Include page references for quotations
-- [ ] Include GenAI disclosure
-- [ ] Submit by Saturday, October 5 at 11:59 PM
 
 ## Feedback
 
