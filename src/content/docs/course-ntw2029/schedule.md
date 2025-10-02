@@ -168,6 +168,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 <!-- ###### Mid-semester course evaluation -->
 
+###### Due Wed 1 Oct 2025: Exercise 7 - reading questions
+
 ## 7.2 Thu 2 Oct 2025
 
 - EP and art topic: appeal of imaginary narrative worlds
@@ -183,7 +185,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: none
 	- Read before class (recommended): none
 
-###### Due Wed 1 Oct 2025: Exercise 7 - reading questions
+
+###### Due Sun 5 Oct 2025: Exercise 8 - reading questions
 
 ## 8.1 Mon 6 Oct 2025
 
@@ -193,7 +196,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: introductions framing your argument, creating and refining your thesis
 	- Read before class (recommended): none
 
-###### Due Sun 5 Oct 2025: Exercise 8 - reading questions
+
+###### Due Wed 8 Oct 2025: Exercise 9 - reading questions
 
 ## 8.2 Thu 9 Oct 2025
 
@@ -205,7 +209,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due Wed 8 Oct 2025: Exercise 9 - reading questions
 
 ## 9.1 Mon 13 Oct 2025
 
