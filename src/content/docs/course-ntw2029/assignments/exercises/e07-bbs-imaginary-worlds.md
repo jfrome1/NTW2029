@@ -1,5 +1,5 @@
 ---
-title: Exercise 07 - Reading questions
+title: Exercise 07 - Imaginary Worlds
 date: 2025-09-03
 ---
 ## Purpose
@@ -25,7 +25,7 @@ Read "Why imaginary worlds? The psychological foundations and cultural evolution
 
 Copy and paste the following questions into a document and type answers below each question, in full sentences:
 
-1. The phenomenon: What specific success/trend about imaginary worlds do the authors document? (pp. 1-2, give 2 examples)
+1. The phenomenon: What specific success/trend about imaginary worlds do the authors document? (pp. 1-2, give 2 examples of this trend)
 2. The "they say": According to the Author's Response (pp. 64-65), what is the "information hypothesis" that other scholars believe about why we consume fiction? Why do D&B think this explanation fails for imaginary worlds specifically?
 3. Their "I say": What do D&B propose instead? Find their main claim in the abstract about exploration preferences.
 4. Key definition: How do they distinguish "imaginary worlds" from other fictional settings like Balzac's novels? (pp. 2-3)
