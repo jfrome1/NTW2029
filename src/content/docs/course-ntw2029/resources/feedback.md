@@ -1,15 +1,21 @@
 ---
-
-title: Assignment feedback
-date: 2024-09-20
+title: Feedback
+date: 2025-10-05
 draft: true
 sidebar:
   badge:
     text: Draft
     variant: caution
-
 ---
 
+For full drafts and papers, I usually give margin comments and recorded audio feedback.
+
+Margin comments include comments on writing for the first two pages or so, and content comments throughout.
+
+In recorded audio comments, I try to note strengths to build on and the two or three most important issues for improvement. All students receive feedback in this way, regardless of grade. Although it's difficult for me to limit myself to two or three main points, I do it because research suggests that more than that can be cognitively overwhelming for students and leave them unable to internalize the feedback. If you would like more feedback, I'm happy to help--just make an appointment to see me.
+
+
+---
 I provide feedback in different ways based on the assignment. My goal is to give you as much guidance as I can within my available time and resources. You are always welcome to ask for clarification and/or more feedback.
 
 ### Grades/marks vs. feedback
@@ -72,10 +78,12 @@ What the text styles mean:
 
 Although you will want to keep a copy of my feedback, you also need a clean copy of your document that you can revise and resubmit. Here's how to:
 
-- [:remove comments](#x-remove-comments)
-- [:remove highlighting](#x-remove-highlighting)
-- [:remove colored text](#x-remove-colored-text)
-- [:remove bold text](#x-remove-bold-text)
+- [Feedback through text styles](#feedback-through-text-styles)
+- [Removing my feedback for revision](#removing-my-feedback-for-revision)
+            - [:x remove comments](#x-remove-comments)
+            - [:x remove highlighting](#x-remove-highlighting)
+            - [:x remove colored text](#x-remove-colored-text)
+            - [:x remove bold text](#x-remove-bold-text)
 
 Save your revised document under a new file name to ensure you have a clean version ready for revision and submission.
 
