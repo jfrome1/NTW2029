@@ -28,7 +28,7 @@ Also read the commentary article "'Negative emotions' live in stories, not in th
 
 ### Questions
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences. Include page numbers for any quotations. No word count requirements.
+Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations. No word count requirements.
 
 1. Academic conversation about a puzzling phenomenon: What's the "paradox of negative emotions in art"? Give two specific examples of art forms where this happens.
 
@@ -39,6 +39,8 @@ Copy and paste the following questions into a document and type answers below ea
 4. Finding disagreement: Explain one of Konecni's criticisms of the target article. Quote a sentence from the commentary that shows the disagreement and explain the quotation in your own words.
 
 5. Understanding disagreement: If you can, try to explain what is underlying the disagreement you explained. What is the disagreement underlying the criticism? Do they disagree about, for example, the nature of emotion? The purpose of art? What "distance" means? Something else?
+
+Include a GenAI link/non-use statement (required) but not a word count.
 
 ## Guidelines
 

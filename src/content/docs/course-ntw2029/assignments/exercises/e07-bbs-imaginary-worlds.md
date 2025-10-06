@@ -23,15 +23,13 @@ Read "Why imaginary worlds? The psychological foundations and cultural evolution
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences:
+Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations. No word count requirements.
 
 1. The phenomenon: What specific success/trend about imaginary worlds do the authors document? (pp. 1-2, give 2 examples of this trend)
 2. The "they say": According to the Author's Response (pp. 64-65), what is the "information hypothesis" that other scholars believe about why we consume fiction? Why do D&B think this explanation fails for imaginary worlds specifically?
 3. Their "I say": What do D&B propose instead? Find their main claim in the abstract about exploration preferences.
 4. Key definition: How do they distinguish "imaginary worlds" from other fictional settings like Balzac's novels? (pp. 2-3)
 5. The evolutionary argument: On page 65, they discuss fiction as "entertainment" vs "information." Which side do they take and why does this matter for imaginary worlds with impossible elements (flying broomsticks, dragons)?
-
-Provide an in-text citation (page number only--I know the authors and date) for any quotations you include in your answers.
 
 Include a GenAI link/non-use statement (required) but not a word count.
 
