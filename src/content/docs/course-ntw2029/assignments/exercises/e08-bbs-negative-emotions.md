@@ -24,7 +24,7 @@ Read (at least) the following parts of "The Distancing-Embracing Model of the En
 - Section 4, "How the arts of selecting, combining, and formally elaborating constituent parts of artworks promote the enjoyment of negative emotions: The Embracing factor"  (two paragraphs of intro, first 2 paragraphs of subsection 4.1)
 - One subsection of 4.2 (your choice, see question 2 below)
 
-Also read the commentary article "'Negative emotions' live in stories, not in the hearts of readers who enjoy them" (Konecni, 2017) on pp. 32-33.
+Also read the commentary article "'Negative emotions' live in stories, not in the hearts of readers who enjoy them" (Konečni, 2017) on pp. 32-33.
 
 ### Questions
 
@@ -36,7 +36,7 @@ Copy and paste the following questions into a document and type answers below ea
 
 3. What the source is adding: (the source's "I say"): How does the target article claim to add to the conversation? In your own words, explain the two key parts of the Distancing-Embracing Model (or DEM). Focus on explaining these components in general and don't name or discuss all of their subparts. (Optional - identify what the authors claim is the benefit of the DEM over existing theories).
 
-4. Finding disagreement: Explain one of Konecni's criticisms of the target article. Quote a sentence from the commentary that shows the disagreement and explain the quotation in your own words.
+4. Finding disagreement: Explain one of Konečni's criticisms of the target article. Quote a sentence from the commentary that shows the disagreement and explain the quotation in your own words.
 
 5. Understanding disagreement: If you can, try to explain what is underlying the disagreement you explained. What is the disagreement underlying the criticism? Do they disagree about, for example, the nature of emotion? The purpose of art? What "distance" means? Something else?
 
