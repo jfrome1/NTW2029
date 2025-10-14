@@ -219,12 +219,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
 
-###### Due Wed 15 Oct 2025: P04 Paper 2 Article Selection
 
 ## 9.2 Thu 16 Oct 2025
 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
+
+###### Due Sat 18 Oct 2025: P04 Paper 2 Article Selection
 
 ## 10.1 Mon 20 Oct 2025 (no class, Deepavali)
 
