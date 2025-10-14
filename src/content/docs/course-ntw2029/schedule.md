@@ -244,7 +244,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due day of conference: Exercise 10 - Paper 2 explain positions conference summary
 >
-###### Due Sun 1 Nov 2025: Exercise 13 - Workload report, Oct
+###### Due Sun 2 Nov 2025: Exercise 13 - Workload report, Oct
 >
 ###### Due Sun 2 Nov 2025, 6pm: P07 Paper 2 Working Draft (peer review checkpoint)
 
