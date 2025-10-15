@@ -1,5 +1,4 @@
 ---
-
 title: P04 - Article Selection
 date: 2025-10-14
 ---
@@ -46,15 +45,13 @@ Avoid obviously weak arguments. It might seem easier to choose a commentary that
 Main article: pp. 1-18
 Author's response: p. 63
 
-1. Arnett, J. J. (2022). "It's not fiction if you believe it: How imaginary worlds are derived from imaginary realities." *Behavioral and Brain Sciences*, 45, e278 (p. 19)
+1. Dunk, R. & Mar, R. A. (2022). "Cognitive exploration drives engagement and re-engagement with imaginary worlds, but not spatial exploration as predicted by evolutionary theory." *Behavioral and Brain Sciences*, 45, e281 (pp. 24-25)
 
-2. Dunk, R. & Mar, R. A. (2022). "Cognitive exploration drives engagement and re-engagement with imaginary worlds, but not spatial exploration as predicted by evolutionary theory." *Behavioral and Brain Sciences*, 45, e281 (pp. 24-25)
+2. Gabriel, S. (2022). "Using imaginary worlds for real social benefits." *Behavioral and Brain Sciences*, 45, e282 (pp. 25-26)
 
-3. Gabriel, S. (2022). "Using imaginary worlds for real social benefits." *Behavioral and Brain Sciences*, 45, e282 (pp. 25-26)
+3. Nyhout, A. (2022). "Young children are not driven to explore imaginary worlds." *Behavioral and Brain Sciences*, 45, e294 (pp. 37-38)
 
-4. Nyhout, A. (2022). "Young children are not driven to explore imaginary worlds." *Behavioral and Brain Sciences*, 45, e294 (pp. 37-38)
-
-5. Shtulman, A. (2022). "The familiar appeal of imaginary worlds." *Behavioral and Brain Sciences*, 45, e303 (pp. 44-45)
+4. Shtulman, A. (2022). "The familiar appeal of imaginary worlds." *Behavioral and Brain Sciences*, 45, e303 (pp. 44-45)
 
 ---
 
