@@ -51,7 +51,7 @@ After your conference, continue working on your paper with targeted support from
 **Available support**:
 
 - Answering specific questions about concepts, feedback, or writing strategies via email/Telegram.
-    - [What counts as a specific question?](/course-ntw2029/course-info/conferences/#faq-specific-questions)
+    - [What counts as a specific question?](/course-ntw2029/course-info/conferences/#what-counts-as-a-specific-question)
 - Scheduling additional meetings/conferences as time allows (note that conference weeks are busy, and I can't meet on weekends)
 - Clarifying conference feedback you didn't fully understand
 
