@@ -84,7 +84,7 @@ The likely problem is that your Microsoft account and calendar are not both set 
 ![timezone](/images/timezone.png)
 ![yes-update](/images/yes-update.png)
 
-##### :x what do you mean by specific questions
+##### :x What do you mean by specific questions?
 
 Vague questions ask for reassurance without identifying a problem or a solution without showing that you've reflected on the guidance you've already received. Specific questions show you've identified what you're trying to achieve and where/why you're stuck. They show that you are taking ownership for developing your writing skills.
 
