@@ -67,7 +67,7 @@ If you don't meet these requirements, we won't be able to have the conference as
 ## After Conference
 
 - Submit your conference summary exercise the same day
-- Ask specific questions about the feedback via email/Telegram. [What counts as a specific question?](#faq-specific-questions)
+- Ask specific questions about the feedback via email/Telegram
 - Request additional meetings if time allows
 - Request clarification of any conference feedback you didn't understand
 - Do not send draft sections for review between conferences
@@ -107,27 +107,6 @@ I review drafts at scheduled checkpoints as part of the normal course assignment
 - 10 minutes per extra draft × all students = 6+ hours of additional work
 
 Instead: Submit work at designated checkpoints, prepare thoroughly for conferences, and request meetings for specific help.
-
-### What counts as a specific question?
-
-Vague questions ask for reassurance without identifying a problem or a solution without showing that you've reflected on the guidance you've already received. Specific questions show you've identified what you're trying to achieve and where/why you're stuck. They show that you are taking ownership for developing your writing skills.
-
-**Vague questions (avoid):**
-
-- "Is my intro ok?"
-- "Which source should I choose?"
-- "Should I change my thesis?"
-- "Does this paragraph work?"
-- "Is my analysis good enough?"
-
-**Specific questions (productive):**
-
-- "My thesis claims X, but my third paragraph seems to argue Y. How can I align them?"
-- "I'm trying to show Boyd's argument differs from standard evolutionary psychology. Does paragraph 4 make that distinction clear?"
-- "My topic sentence says 'cooperation evolved through group selection,' but my evidence in that paragraph discusses individual benefits. Should I revise the topic sentence or put the evidence in a new paragraph?"
-- "You said that I needed to explain what I meant by 'pleasure technology' or I should remove it. Does the following sentence explain it sufficiently, or do you still think I should remove it? [quotes draft sentence]"
-
-Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance. Often, specific questions also propose possible solutions. Formulating these questions builds writing skills.
 
 ##### :x timing matters
 
