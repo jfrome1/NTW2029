@@ -1,6 +1,6 @@
 ---
 title: P04 - Article Selection
-date: 2025-10-17-
+date: 2025-10-17
 ---
 
 ## Purpose
