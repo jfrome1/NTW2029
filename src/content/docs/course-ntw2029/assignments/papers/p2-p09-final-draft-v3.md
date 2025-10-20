@@ -14,7 +14,7 @@ This assignment is your opportunity to polish and finalize your paper based on P
 
 ## Overview
 
-Write a final 2000+ word paper that includes explanation of both positions, analytical thesis about what makes them incompatible, analysis supporting your thesis, and discussion of what your analysis contributes. Revise based on P08 conference guidance to strengthen specific aspects of your analysis.
+Write a final 2250-2750 word paper that includes explanation of both positions, analytical thesis about what makes them incompatible, analysis supporting your thesis, and discussion of what your analysis contributes. Revise based on P08 conference guidance to strengthen specific aspects of your analysis.
 
 ## Requirements
 
@@ -28,8 +28,6 @@ Your final paper must include:
 
 4. **Significance discussion**: Explain what your analysis contributes to the academic conversation. What does understanding this incompatibility reveal? What's at stake? What would resolving it require?
 
-5. **(For some students) Deeper analytical work**: Based on P08 conference guidance, some papers will include additional depth—examining other commentaries, evaluating empirical studies, proposing resolutions, or addressing additional depth questions.
-
 ### Source Requirements
 
 - Target article
@@ -39,38 +37,33 @@ Your final paper must include:
 
 ## Assessment
 
+**Note:** The percentage breakdown below indicates relative emphasis in assessment and will be reviewed for future iterations. These are not submission requirements but guidance on what aspects of your work receive most attention during evaluation.
+
 All papers are assessed on how well they answer core questions:
 
-### Understanding (30% of grade)
+### Understanding (30%)
 - What does the commentary claim is problematic about the target article?
 - What does the target article say or do that the commentary responds to?
 - How do these positions conflict?
 
 *You demonstrate stronger performance by: providing accurate explanations with appropriate context, supporting claims with specific evidence, showing clear understanding of both positions*
 
-### Analysis (40% of grade)
+### Analysis (40%)
 - What makes these positions incompatible?
 - What assumptions, definitions, or methodological commitments drive different conclusions?
 
 *You demonstrate stronger performance by: identifying sophisticated insights about incompatibility, providing deep analysis with strong supporting evidence, showing nuanced understanding of what drives disagreement*
 
-### Significance (20% of grade)
+**Depth is evaluated through the sophistication of your analysis, not as a separate component.** Stronger analysis often addresses questions like: What theoretical goals make different approaches useful? What would it take to resolve this disagreement? What's gained and lost with each position? How do methodological commitments constrain conclusions? Why do these authors approach the problem differently?
+
+### Significance (20%)
 - What does your analysis contribute to the academic conversation?
 - What's at stake in how this disagreement is resolved?
 
 *You demonstrate stronger performance by: revealing substantive insights about what your analysis shows, connecting your work meaningfully to academic conversation, explaining clearly why understanding this incompatibility matters*
 
-### Clarity & Organization (10% of grade)
+### Clarity & Organization (10%)
 - Clear structure, effective transitions, appropriate evidence use, correct citations
-
-### Additional Depth
-
-Papers can demonstrate stronger performance by addressing one or more of these questions particularly well:
-- What theoretical goals or disciplinary contexts make different approaches useful?
-- What would it take to resolve this disagreement?
-- What's gained and lost with each position?
-- How do methodological commitments constrain possible conclusions?
-- Why do these authors approach the problem differently?
 
 ## Grade Differentiation
 
@@ -82,7 +75,7 @@ Papers can demonstrate stronger performance by addressing one or more of these q
 
 ### A-range papers additionally demonstrate ONE OR MORE of:
 - Sophisticated answers to core questions revealing non-obvious insights
-- Particularly effective addressing of one or more depth questions
+- Particularly deep engagement with what drives incompatibility
 - Deep understanding of theoretical frameworks driving positions
 - Integration of multiple analytical approaches
 - Well-executed evaluation grounded in student's own reasoning (not appeal to authority)
@@ -95,7 +88,7 @@ Papers can demonstrate stronger performance by addressing one or more of these q
 - Organization or clarity problems
 - Reliance on appeal to authority rather than student's own analysis
 
-**Note:** Addressing depth questions is not required for A-range work. You can achieve A-range through particularly sophisticated answers to core questions OR through addressing depth questions effectively.
+**Note:** Developing depth is not about adding separate components. You achieve stronger work through more sophisticated answers to core questions.
 
 ## Guidelines
 
@@ -124,7 +117,7 @@ Your thesis should emerge from your analysis, not motivate it. You've spent P04-
 
 Don't try to save time by using this checklist as a substitute for reading the assignment. The checklist can remind you of some easily-missed aspects of the assignment, but it is not a comprehensive summary of all assignment requirements.
 
-- [ ] 2000+ words minimum
+- [ ] 2250-2750 words
 - [ ] Clear explanation of both positions with sufficient context
 - [ ] Analytical thesis stating what makes positions incompatible
 - [ ] Analysis supporting thesis with evidence
