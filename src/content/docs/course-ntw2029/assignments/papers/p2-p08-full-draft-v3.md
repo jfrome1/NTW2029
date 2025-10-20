@@ -1,5 +1,5 @@
 ---
-title: "P08: Full Draft"
+title: "P08 - Full Draft and Outline"
 date: 2025-10-18
 draft: true
 sidebar:

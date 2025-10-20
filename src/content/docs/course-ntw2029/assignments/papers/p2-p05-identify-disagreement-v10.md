@@ -1,5 +1,5 @@
 ---
-title: "P05: Identify the Criticism"
+title: "P05 - Identify the Criticism"
 date: 2025-10-15
 ---
 

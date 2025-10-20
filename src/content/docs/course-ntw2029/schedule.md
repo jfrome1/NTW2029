@@ -229,7 +229,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 10.1 Mon 20 Oct 2025 (no class, Deepavali)
 
-###### Due Tue 21 Oct 2025, 6pm: P05 Paper 2 Disagreement Summary (peer review checkpoint)
+###### Due Wed 21 Oct 2025, 6pm: P05 Paper 2 Identify the Criticism (peer review checkpoint)
 
 ## 10.2 Thu 23 Oct 2025
 
