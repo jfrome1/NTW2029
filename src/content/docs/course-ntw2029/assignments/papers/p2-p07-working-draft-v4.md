@@ -1,5 +1,5 @@
 ---
-title: "P07: Working Draft with Analytical Thesis"
+title: "P07 - Working Draft"
 date: 2025-01-18
 draft: true
 sidebar:
