@@ -44,17 +44,38 @@ Your thesis should identify WHAT makes the positions incompatible, not evaluate 
 
 Save evaluative claims for P08-P09, and only if your analysis supports them.
 
-### Analytical Moves You Can Make
+### Diagnostic Questions for Understanding Incompatibility
 
-To develop your analytical thesis, you might explore:
+To identify what makes the positions incompatible, answer whichever questions apply to your case. Most commentaries will match one or two patterns—you don't need to answer questions that don't fit your disagreement:
 
-- What assumptions underlie each position?
-- How do definitional or conceptual differences shape their conclusions?
-- How do they interpret evidence differently?
-- What methodological commitments constrain their possible conclusions?
-- What theoretical goals make different approaches useful?
+**Pattern 1: Claims don't match evidence**
+- Does the commentary show the target's prediction failed?
+- Are there counterexamples to the target's universal claim?
+- Does the target cherry-pick supporting cases while ignoring contradictory evidence?
+- *Example: Verpooten & Eens show singing doesn't correlate with social complexity as predicted*
 
-You may discuss related arguments from the commentary if they help answer your analytical question, but maintain focus on understanding what makes the positions incompatible.
+**Pattern 2: Missing important factors**
+- What does the commentary say the target overlooked?
+- Why does that missing factor matter for understanding the phenomenon?
+- *Example: Goldstein shows theatre lacks representational distance that target's theory requires*
+
+**Pattern 3: Definitions don't match**
+- Do target and commentary define key terms differently?
+- If you used the commentary's definition, would the disagreement dissolve or remain?
+- *Example: Norman redefines "exploration" to include all non-real worlds, not just fantastical ones*
+
+**Pattern 4: Wrong question or framework**
+- Does the commentary say the target asked the wrong question?
+- Does the commentary claim the target's approach can't work for this type of phenomenon?
+- *Example: Killin argues adaptation/byproduct framework can't handle coevolved mosaics like music*
+
+**Pattern 5: Logical problems or scientific standards**
+- Does the commentary say the target's argument is circular or logically invalid?
+- Does the commentary say the theory is too vague to test or makes no testable predictions?
+- Does the commentary challenge what evidence threshold is needed (burden of proof, parsimony, defaults)?
+- *Example: Stewart-Williams argues evidence is ambiguous between adaptation and byproduct; when evidence doesn't discriminate, default should be simpler explanation*
+
+Answering the relevant questions will help you understand what drives the incompatibility. Your analysis should explain how these issues prevent the authors from reaching compatible conclusions.
 
 ### About Depth
 
@@ -65,6 +86,8 @@ The analytical work described above is required for all papers—it's not option
 ### Developing Your Thesis
 
 Your thesis should emerge from your understanding of both positions. After P06, you understand what each argues. Now ask: What makes these positions incompatible? What assumptions, definitions, or commitments prevent these authors from reaching the same conclusions?
+
+The diagnostic questions above can help structure this inquiry. Once you've answered the relevant questions for your case, your thesis should articulate what you've discovered about the nature of the incompatibility.
 
 The 1-2 sentences about significance should flow naturally from your analytical claim. If you've identified what makes positions incompatible, you can explain why that matters—what it reveals about the criticism, what it suggests for future research, or what it clarifies about the disagreement.
 
