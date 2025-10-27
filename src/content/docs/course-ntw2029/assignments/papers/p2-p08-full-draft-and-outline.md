@@ -14,7 +14,7 @@ This assignment helps you expand your P07 draft by discussing the significance o
 
 ## Overview
 
-Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis). All papers must include analytical thesis, supporting analysis, and significance discussion—what distinguishes stronger work is the depth and sophistication of this analysis.
+Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis). All papers must include thesis explaining the disagreement, supporting analysis, and significance discussion—what distinguishes stronger work is the depth and sophistication of this analysis.
 
 ## Requirements
 
@@ -22,13 +22,13 @@ Your draft must include:
 
 1. **Everything from P07** (revised based on peer review):
    - Brief explanation of both positions
-   - Analytical thesis about what makes positions incompatible
+   - Thesis explaining why they reach different conclusions
    - Analysis supporting your thesis
 
 2. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. Address questions like:
    - What does your analysis reveal about this criticism?
    - What's at stake in how this disagreement is resolved?
-   - How does understanding what makes positions incompatible advance understanding of the topic?
+   - How does understanding why they reach different conclusions advance understanding of the topic?
    - What would resolving this disagreement require?
 
 3. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis). Use these sources to:
@@ -45,9 +45,12 @@ Your significance discussion must show what YOUR ANALYSIS reveals, not just summ
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
 
 **Not acceptable:**
-- "This matters because it's interesting" (too vague)
-- "Students should care about this because..." (wrong audience—you're contributing to academic conversation, not teaching students)
-- Just summarizing stakes the authors mention (needs YOUR insight about what your analysis reveals)
+- Generic statements ("this matters because it's important," "more research needed")
+- Teaching mode ("students should care about this because...")
+- Moralizing ("shows need for clarity")
+- Just summarizing stakes the authors mention without YOUR insight
+
+Your significance must show one specific consequence that connects directly to the difference you identified. It should name what becomes difficult, unclear, or unresolvable, and connect to specific research questions or methodological choices.
 
 ### Developing Depth
 
@@ -70,17 +73,20 @@ The conference will help you identify specific opportunities to deepen YOUR anal
 
 Not all papers will develop depth in the same way. What matters is strengthening YOUR paper's particular analysis.
 
-### If You Include Evaluation
+### If You Identify Limitations
 
-If your analysis leads you to support one position over another, you may include evaluative claims in P08, BUT your reasoning must be something YOU develop through analysis—not appeal to authority.
+If your analysis reveals specific limitations in one position's reasoning, you may discuss those limitations in P08, BUT your reasoning must emerge from YOUR analysis—not appeal to authority.
 
-**Acceptable evaluation:**
-"Smith's argument relies on assumption X, which is questionable because [student's own reasoning supported by additional sources or analysis]"
+Frame limitations as consequences or implications rather than declarations of which side is right:
 
-**Not acceptable:**
+**Appropriate framing:**
+"Smith's argument relies on assumption X. If X doesn't hold [explain why it might not, with evidence], then [explain consequences for Smith's conclusion]"
+
+**Not appropriate:**
 "Smith is wrong because Jones says so" (appeal to authority)
+"Jones is right and Smith is wrong" (side-picking without analytical support)
 
-Your evaluation must emerge from YOUR analysis of assumptions, evidence, or methods, supported by additional sources or logical analysis you provide.
+Your discussion of limitations must emerge from YOUR analysis of assumptions, evidence, or methods, supported by additional sources or logical analysis you provide. Present it as explaining consequences of differences, not advocating for winners.
 
 ### Using Additional Sources Appropriately
 
@@ -104,7 +110,7 @@ Revise your P07 draft based on peer feedback before expanding to P08. Your new c
 
 ### Your Analysis Should Drive Everything
 
-Whether discussing significance or including evaluative claims, your reasoning must be something YOU contribute. Don't just cite one author against another—develop your own analytical insights supported by evidence and reasoning.
+Whether discussing significance or identifying limitations, your reasoning must be something YOU contribute. Don't just cite one author against another—develop your own analytical insights supported by evidence and reasoning.
 
 ### Word Count as Maximum
 
@@ -115,12 +121,13 @@ The 2750-word maximum gives you space to develop your analysis fully and include
 Don't try to save time by using this checklist as a substitute for reading the assignment. The checklist can remind you of some easily-missed aspects of the assignment, but it is not a comprehensive summary of all assignment requirements.
 
 - [ ] Up to 2750 words
-- [ ] Includes all revised P07 content (explanation, analytical thesis, analysis)
+- [ ] Includes all revised P07 content (explanation, thesis, analysis)
 - [ ] Includes significance discussion showing what your analysis contributes
+- [ ] Significance shows concrete consequences, not generic importance claims
 - [ ] Uses at least 2 additional sources beyond target, commentary, and author's response (if relevant)
 - [ ] Additional sources used appropriately (support analysis, don't expand scope)
-- [ ] Significance discussion shows YOUR insights, not just author stakes
-- [ ] If includes evaluation, reasoning is YOUR analysis (not appeal to authority)
+- [ ] If discusses limitations, framed as consequences/implications (not side-picking)
+- [ ] If discusses limitations, reasoning is YOUR analysis (not appeal to authority)
 - [ ] Maintains focus on analyzing chosen criticism
 - [ ] All claims supported with evidence and citations
 
