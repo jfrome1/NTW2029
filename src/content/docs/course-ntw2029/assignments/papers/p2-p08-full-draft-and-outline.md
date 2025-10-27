@@ -116,21 +116,6 @@ Whether discussing significance or identifying limitations, your reasoning must 
 
 The 2750-word maximum gives you space to develop your analysis fully and include everything you want feedback on. However, concise, focused analysis is often stronger than expansive, diffuse discussion. Use the space you need to make your argument effectively.
 
-## Checklist
-
-Don't try to save time by using this checklist as a substitute for reading the assignment. The checklist can remind you of some easily-missed aspects of the assignment, but it is not a comprehensive summary of all assignment requirements.
-
-- [ ] Up to 2750 words
-- [ ] Includes all revised P07 content (explanation, thesis, analysis)
-- [ ] Includes significance discussion showing what your analysis contributes
-- [ ] Significance shows concrete consequences, not generic importance claims
-- [ ] Uses at least 2 additional sources beyond target, commentary, and author's response (if relevant)
-- [ ] Additional sources used appropriately (support analysis, don't expand scope)
-- [ ] If discusses limitations, framed as consequences/implications (not side-picking)
-- [ ] If discusses limitations, reasoning is YOUR analysis (not appeal to authority)
-- [ ] Maintains focus on analyzing chosen criticism
-- [ ] All claims supported with evidence and citations
-
 ## Feedback
 
 You'll receive a conference after submitting P08. The conference will assess what your draft shows you're capable of and provide specific guidance on how to strengthen your analysis for P09. This is similar to the P1 conference—the focus will be on what YOUR paper needs next, not general tiers of work.
