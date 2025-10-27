@@ -10,11 +10,11 @@ sidebar:
 
 ## Purpose
 
-This assignment helps you develop a thesis explaining why the target and commentary reach different conclusions. You'll practice explaining the logical conflict in their stated positions, which is different from evaluating which position is stronger. This draft will receive peer review before you develop it into P08.
+This assignment helps you develop a working thesis explaining why the target and commentary reach different conclusions. You'll practice explaining the logical conflict in their stated positions, which is different from evaluating which position is stronger. This draft will receive peer review before you develop it into P08.
 
 ## Overview
 
-Write a working draft of up to 1500 words. P07 should minimally include explanation of both positions, a thesis explaining why they reach different conclusions, analysis supporting your thesis, and identification of additional sources for P08. If you are confident that you have covered these aspects sufficiently, you are welcome to continue developing other parts of your paper, such as deepening your analysis or beginning to discuss what your analysis reveals. Peer review will focus on the required elements before moving to the optional elements.
+Write a working draft of up to 1500 words. P07 should minimally include an introduction, explanation of both positions, a working thesis explaining why they reach different conclusions, analysis supporting your thesis, and identification of additional sources for P08. If you are confident that you have covered these aspects sufficiently, you are welcome to continue developing other parts of your paper, such as deepening your analysis or beginning to think about what your analysis reveals for the academic conversation. Peer review will focus on the required elements before moving to the optional elements.
 
 ## Requirements
 
@@ -22,15 +22,19 @@ Write a working draft of up to 1500 words. P07 should minimally include explanat
 
 Your draft must include:
 
-1. **Explanation of both positions**: Provide whatever explanation enables your reader to understand what the target argues, what the commentary challenges about it, and how these positions conflict. Depending on your specific articles, this might emphasize overall arguments, specific claims, or implicit assumptions—whatever your analysis requires.
+1. **Introduction**: Provide context for the disagreement you're analyzing. What question or issue do the target and commentary address? What's the commentary's main criticism? Your introduction should orient readers to the academic conversation.
 
-2. **Thesis explaining the disagreement**: State why the target and commentary reach different conclusions. Your thesis should answer: What prevents these positions from both being right?
+2. **Explanation of both positions**: Provide whatever explanation enables your reader to understand what the target argues, what the commentary challenges about it, and how these positions conflict. Depending on your specific articles, this might emphasize overall arguments, specific claims, or implicit assumptions—whatever your analysis requires.
+
+3. **Working thesis**: State why the target and commentary reach different conclusions. Your thesis should answer: What prevents these positions from both being right?
 
    Don't argue that one scholar is right and the other is wrong. Instead, explain how their different starting points (definitions, methods, assumptions) lead to different conclusions.
+   
+   **Expect your thesis to change.** What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08. Starting with a surface-level observation and developing it through analysis is normal and expected.
 
-3. **Analysis supporting your thesis**: Develop your thesis with specific evidence and reasoning. This might involve identifying unstated assumptions, explaining how definitional differences shape conclusions, analyzing how evidence is interpreted differently, or showing how methodological commitments lead to different conclusions.
+4. **Analysis supporting your thesis**: Develop your thesis with specific evidence and reasoning. This might involve identifying unstated assumptions, explaining how definitional differences shape conclusions, analyzing how evidence is interpreted differently, or showing how methodological commitments lead to different conclusions.
 
-4. **Source identification**: List at least 2 additional sources beyond target, commentary, and response (if relevant) that you'll use in P08. For each source, provide 1-2 sentences explaining how it will support your analysis.
+5. **Source identification**: List at least 2 additional sources beyond target, commentary, and response (if relevant) that you'll use in P08. For each source, provide 1-2 sentences explaining how it will support your analysis.
 
 ### Optional Development
 
@@ -38,25 +42,40 @@ If you have adequately covered the required elements, you may continue developin
 
 - Deeper analysis using the diagnostic questions
 - More thorough engagement with additional sources you've identified
-- Initial thinking about what your analysis reveals for the academic conversation
+- Initial thinking about why understanding this disagreement matters for the academic conversation (you'll develop this fully in P08)
 
 Peer review will help you determine whether the required elements need more development or whether you're ready to expand into these optional areas.
 
-### What Your Thesis Should Do
+### How Working Theses Develop
 
-Your thesis should explain WHY the positions reach different conclusions, not evaluate which position is stronger.
+Your thesis will likely evolve through stages. This is expected, not a sign of problems.
 
-**Appropriate thesis examples** (for P07):
-- "The disagreement stems from incompatible definitions of emotional engagement that lead to different predictions. Understanding this definitional conflict reveals that both authors may be correct within their respective frameworks."
-- "The target and commentary focus on different types of causation—sufficient versus necessary conditions—which makes their claims about cooperation incommensurable. This matters because it suggests the debate requires clarifying causal questions before evaluating evidence."
-- "The commentary challenges the target's empirical claims, but close examination reveals they're measuring different phenomena. Recognizing this distinction helps explain why seemingly contradictory findings can coexist."
+**Starting observation** (not yet a thesis): 
+- "They disagree about whether X is an adaptation"
+- This restates the conclusion-level disagreement. It identifies where they differ but not why.
 
-**Inappropriate thesis examples** (NOT for P07):
-- "The commentary's objection fails because..." (picking a side)
-- "The commentary provides stronger evidence than the target" (judging)
-- "The target's theory better explains the data" (evaluating)
+**Working thesis** (meets P07 requirement):
+- "They disagree because the target focuses on evolutionary history while the commentary focuses on current function"
+- "They use different standards for what counts as evidence—the target accepts correlational studies but the commentary requires experimental manipulation"
+- "The target treats X as a necessary mechanism while the commentary argues it's one option among several"
 
-Save evaluative claims for P08-P09, and only if your analysis supports them.
+These identify what drives the disagreement. They may be surface-level explanations that you'll deepen in P08, but they move beyond just noting that disagreement exists.
+
+**Deeper thesis** (develops in P08):
+- Shows how the difference produces logical incompatibility
+- Identifies implicit assumptions or commitments neither author states
+- Reveals structural constraints in frameworks
+- Explains patterns in how evidence gets interpreted
+
+Peer review will help you identify whether you're still at the starting observation (need to develop a working thesis) or have a working thesis that explains the disagreement (ready to deepen in P08).
+
+### Beginning to Think About Significance
+
+As you develop your working thesis, start considering: Why does understanding this disagreement matter? What does it reveal about this criticism or this research area? You won't write a full significance discussion in P07, but beginning to think about these questions will help you in P08:
+
+- What becomes difficult or unresolvable because of this disagreement?
+- What does the disagreement reveal about different approaches to studying this phenomenon?
+- If this disagreement were resolved, what would that require or enable?
 
 ### Diagnostic Questions for Understanding the Disagreement
 
@@ -93,15 +112,26 @@ Answering the relevant questions will help you understand what drives the disagr
 
 ### About Depth
 
-The analytical work described above is required for all papers—it's not optional or advanced. What distinguishes stronger papers is the depth and sophistication of this analysis, not its presence. Depth comes from how thoroughly you identify what drives the disagreement and how well you support your claims with evidence.
+The analytical work described above is required for all papers—it's not optional or advanced. What distinguishes stronger papers is the depth and sophistication of this analysis, not its presence. 
+
+Depth often comes from getting below the surface to understand what implicit issues the disagreement reflects. This doesn't mean being clever for its own sake. It means:
+
+- Identifying assumptions or commitments that aren't explicitly stated but drive the disagreement
+- Examining details in cited research to understand why the authors disagree about what evidence shows
+- Recognizing structural features of their approaches that explain why the disagreement persists
+- Revealing patterns that neither author explicitly names
+
+This kind of depth emerges from thorough analytical work, not from trying to sound sophisticated.
 
 ## Guidelines
 
-### Developing Your Thesis
+### Developing Your Working Thesis
 
 Your thesis should emerge from your understanding of both positions. After P06, you understand what each argues. Now ask: What prevents these positions from both being right? What assumptions, definitions, or commitments lead these authors to different conclusions?
 
 The diagnostic questions above can help structure this inquiry. Once you've answered the relevant questions for your case, your thesis should articulate what you've discovered about the nature of the disagreement.
+
+Don't worry if your thesis seems straightforward or surface-level at this stage. The goal is to move beyond "they disagree about X" to "they disagree because of Y." You'll deepen this understanding in P08.
 
 ### If You Find Yourself Wanting to Argue Which Side Is Right
 
@@ -127,7 +157,7 @@ List these sources in your P07 submission with brief explanation of how each wil
 
 ### Remember the Process
 
-Your thesis should be the RESULT of your analysis of what you've learned about both positions. In P08, you may develop evaluative claims if your analysis supports them, but P07 focuses on understanding what drives the disagreement.
+Your working thesis should be the RESULT of your analysis of what you've learned about both positions. Expect it to evolve as you work through P08. In P08, you'll develop your significance discussion and may deepen your thesis, but P07 focuses on establishing your baseline understanding of what drives the disagreement.
 
 ## Peer Review Focus
 
