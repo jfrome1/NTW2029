@@ -21,11 +21,12 @@ Write a draft of up to 2750 words that includes everything from P07 (revised bas
 Your draft must include:
 
 1. **Everything from P07** (revised based on peer review):
-   - Brief explanation of both positions
-   - Thesis explaining why they reach different conclusions
+   - Introduction (revised if needed)
+   - Explanation of both positions (revised if needed)
+   - Thesis explaining why they reach different conclusions (expect this to evolve from your working thesis—refinement, deepening, or reconceptualization is normal)
    - Analysis supporting your thesis
 
-2. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. Address questions like:
+2. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. You began thinking about this in P07; now develop it fully. Address questions like:
    - What does your analysis reveal about this criticism?
    - What's at stake in how this disagreement is resolved?
    - How does understanding why they reach different conclusions advance understanding of the topic?
@@ -61,6 +62,8 @@ Stronger analysis often addresses one or more of these questions:
 - What would it take to resolve this disagreement?
 - How do methodological commitments constrain possible conclusions?
 - Why do these authors approach the problem differently?
+- What patterns or structures drive the disagreement that neither author explicitly names?
+- What makes this disagreement harder to resolve than it appears on the surface?
 
 The conference will help you identify specific opportunities to deepen YOUR analysis based on what your draft shows. Possible directions include:
 
@@ -72,6 +75,13 @@ The conference will help you identify specific opportunities to deepen YOUR anal
 - Identifying what assumptions would need to be true for each position
 
 Not all papers will develop depth in the same way. What matters is strengthening YOUR paper's particular analysis.
+
+Depth often comes from getting below the surface to understand what implicit issues the disagreement reflects. This doesn't mean being clever for its own sake. It means:
+
+- Identifying assumptions or commitments that aren't explicitly stated but drive the disagreement
+- Examining details in cited research to understand why the authors disagree about what evidence shows
+- Recognizing structural features of their approaches that explain why the disagreement persists
+- Revealing patterns that neither author explicitly names
 
 ### If You Identify Limitations
 
@@ -106,7 +116,9 @@ Keep focus on analyzing the disagreement between target and commentary, using ad
 
 ### Building on P07
 
-Revise your P07 draft based on peer feedback before expanding to P08. Your new content will develop the significance discussion and deepen analytical work identified through your own analysis and conference guidance.
+Revise your P07 draft based on peer feedback before expanding to P08. Your working thesis from P07 should evolve as you continue your analysis. Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
+
+Your new content will develop the significance discussion and deepen analytical work identified through your own analysis and conference guidance.
 
 ### Your Analysis Should Drive Everything
 
