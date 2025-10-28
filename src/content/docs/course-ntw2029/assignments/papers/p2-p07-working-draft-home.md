@@ -14,7 +14,7 @@ This assignment helps you develop a working thesis (not your final thesis) expla
 
 ## Overview
 
-Write a working draft of up to 1500 words that verifies whether your target and commentary genuinely disagree, then explains what drives the disagreement (or what caused the apparent disagreement if it dissolves under verification). This draft should include explanation of both positions, documentation of your verification process, a working thesis stating what you discovered, and analysis supporting that thesis with specific evidence from both articles. Don't include an introduction, since you are likely still figuring out your take on this disagreement. If you are confident that you have covered these aspects sufficiently, you are welcome to continue developing other parts of your paper, such as deepening your analysis or beginning to think about what your analysis reveals for the academic conversation. Peer review will focus on the required elements before moving to the optional elements.
+Write a working draft of up to 1500 words that verifies whether your target and commentary genuinely disagree, then explains what drives the disagreement (or what caused the apparent disagreement if it dissolves under verification). Include explanation of both positions, documentation of your verification process, a working thesis stating what you discovered, and analysis supporting that thesis with specific evidence from both articles.
 
 ## Requirements
 
