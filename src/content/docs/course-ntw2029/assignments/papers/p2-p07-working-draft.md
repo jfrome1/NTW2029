@@ -18,6 +18,7 @@ Write a working draft of up to 1500 words. P07 should minimally include an intro
 
 ## Requirements
 
+
 ### Required Elements
 
 Your draft must include:
