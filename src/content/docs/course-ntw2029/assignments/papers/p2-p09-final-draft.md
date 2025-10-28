@@ -65,28 +65,28 @@ All papers are assessed on how well they answer core questions:
 ### Clarity & Organization (10%)
 - Clear structure, effective transitions, appropriate evidence use, correct citations
 
-## Grade Differentiation
+## Performance Levels
 
-### B-range papers
+### Needs Improvement
+- Incomplete, inaccurate, or superficial answers to core questions
+- Superficial analysis ("they just disagree") or unclear reasoning
+- Generic or missing significance discussion
+- Organization or clarity problems
+- Reliance on appeal to authority rather than student's own analysis
+
+### Meets Basic Requirements
 - Clear, accurate answers to core questions with solid supporting analysis
 - Appropriate context and evidence
 - Substantive significance discussion showing what analysis reveals
 - Clear analytical thesis identifying what makes positions incompatible
 
-### A-range papers additionally demonstrate ONE OR MORE of:
+### Exceeds Basic Requirements (demonstrates ONE OR MORE of the following)
 - Sophisticated answers to core questions revealing non-obvious insights
 - Particularly deep engagement with what drives incompatibility
 - Deep understanding of theoretical frameworks driving positions
 - Integration of multiple analytical approaches
 - Well-executed evaluation grounded in student's own reasoning (not appeal to authority)
 - Especially insightful discussion of what's at stake
-
-### C-range papers
-- Incomplete, inaccurate, or superficial answers to core questions
-- Superficial analysis ("they just disagree") or unclear reasoning
-- Generic or missing significance discussion
-- Organization or clarity problems
-- Reliance on appeal to authority rather than student's own analysis
 
 **Note:** Developing depth is not about adding separate components. You achieve stronger work through more sophisticated answers to core questions.
 
