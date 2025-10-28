@@ -4,7 +4,7 @@ title: Exercise 10 - P06 Conference Notes
 
 ## Purpose
 
-This exercise helps you consolidate feedback from our conference and create an action plan for revising your P06 explanation. P06's core challenge is explaining positions accurately and neutrally—describing what each side says without analyzing what's really going on beneath the surface disagreement. That analytical work belongs in P07.
+This exercise helps you consolidate feedback from our conference and create an action plan for revising your P06 explanation. P06's core challenge is explaining positions accurately and neutrally; describing what each side says to prepare for further analysis of the ideas in P07.
 
 By articulating the key points from our discussion, you'll better internalize the feedback and develop a clear strategy for completing your explanation work before moving to analysis in P07.
 

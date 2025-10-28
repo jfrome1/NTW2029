@@ -10,7 +10,7 @@ This exercise helps you consolidate feedback from our conference and create an a
 
 Answer the following questions about the conference feedback and your revision plans.
 
-## Instructions
+## Requirements
 
 Copy and paste the following questions into a document and type answers below each question, in full sentences:
 
