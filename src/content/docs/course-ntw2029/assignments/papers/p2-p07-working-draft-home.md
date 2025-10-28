@@ -110,6 +110,10 @@ Remember: Additional sources should help you analyze THIS specific disagreement.
 
 ## Guidelines
 
+### What Not to Include
+
+Don't include an introduction. You're still figuring out your take on this disagreement through the verification and analysis process. An introduction requires framing a question you're answering, but that frame should emerge from your analysis, not precede it. You'll write an introduction in P08 once your thesis has stabilized through peer review.
+
 ### Using Your P06 Work
 
 Use your P06 explanation as a starting point, but verification may reveal you need to adjust what you emphasize. Your reader needs to understand both positions well enough to follow your verification and thesis.
