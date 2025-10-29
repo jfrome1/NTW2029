@@ -29,11 +29,11 @@ Your draft must include:
 
 ### 2. Verification of Disagreement
 
-- Apply the room scenario test to check whether they genuinely disagree about explicit claims [:room scenario test](#x-room-scenario-test)
+- Apply the room scenario test to check whether they genuinely disagree about explicit claims [:what this test checks](#x-what-this-test-checks)
 - Check whether the commentary accurately represents the target's claims
 - Document your verification process in this section
 - Quote both articles to demonstrate what you found
-- Identify which of three outcomes your verification revealed [:three possible outcomes](#x-three-possible-outcomes)
+- Identify which of three outcomes your verification revealed [:see all three types](#x-see-all-three-types)
 
 ### 3. Working Thesis
 
@@ -45,7 +45,7 @@ Your draft must include:
 ### 4. Analysis Supporting Your Thesis
 
 - Develop your thesis with specific evidence from both articles
-- Answer whichever diagnostic questions fit your case [:diagnostic questions](#x-diagnostic-questions)
+- Answer whichever diagnostic questions fit your case [:questions organized by pattern](#x-questions-organized-by-pattern)
 - Explain how the issues you identify produce the incompatibility stated in your thesis
 - Use specific evidence from both articles to develop your claims
 
@@ -169,7 +169,7 @@ This kind of depth emerges from thorough analytical work, not from trying to sou
 
 Depending on your specific articles, this explanation might emphasize overall arguments, specific claims, or stated assumptions—whatever your analysis requires. The key is providing enough context that your reader can follow your verification and understand your thesis.
 
-##### :x room scenario test
+##### :x what this test checks
 
 Imagine the authors in a room together with a whiteboard. The commentary says "You claim X." Does the target respond "Yes, we do claim X" or "No, we actually claim Y"?
 
@@ -180,7 +180,7 @@ Check the commentary's characterization against the target's actual claims:
 - Does it strengthen claims beyond what the target stated?
 - Does it attribute claims the target doesn't make?
 
-##### :x three possible outcomes
+##### :x see all three types
 
 You may find one of three outcomes:
 
@@ -202,7 +202,7 @@ These examples show different types of disagreements. The first two identify dif
 
 Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08. Verification may reveal surface-level differences that you'll later discover reflect deeper theoretical conflicts.
 
-##### :x diagnostic questions
+##### :x questions organized by pattern
 
 To identify why the positions reach different conclusions, answer whichever questions apply to your case. Most commentaries will match one or two patterns—you don't need to answer questions that don't fit your disagreement:
 
