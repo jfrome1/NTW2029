@@ -18,41 +18,27 @@ Write a working draft of up to 1500 words that verifies whether your target and 
 
 ## Requirements
 
-Your draft must include:
+Write your draft as numbered paragraphs under the following headings:
 
 ### 1. Explanation of Both Positions
 
-- Explain what the target argues
-- Explain what the commentary challenges about it
-- Focus on their explicit claims—what they actually say, including qualifiers that limit strength and scope
-- Provide whatever explanation enables your reader to understand the disagreement [:how to explain positions](#x-how-to-explain-positions)
+Write numbered paragraphs explaining what the target argues and what the commentary challenges. [:how to explain positions](#x-how-to-explain-positions)
 
 ### 2. Verification of Disagreement
 
-- Apply the room scenario test to check whether they genuinely disagree about explicit claims [:what this test checks](#x-what-this-test-checks)
-- Check whether the commentary accurately represents the target's claims
-- Document your verification process in this section
-- Quote both articles to demonstrate what you found
-- Identify which of three outcomes your verification revealed [:see all three types](#x-see-all-three-types)
+Write numbered paragraphs documenting your verification of whether they genuinely disagree at the explicit claim level. [:how to verify disagreement](#x-how-to-verify-disagreement)
 
 ### 3. Working Thesis
 
-- State what your verification revealed about what prevents these positions from being compatible
-- Use one of the thesis formats that matches your verification outcome [:thesis format examples](#x-thesis-format-examples)
-- Explain the definitional, methodological, or evidentiary difference you identified
-- Do not argue which scholar is right—explain what drives the criticism
+State what your verification revealed about what prevents these positions from being compatible. [:how to formulate your thesis](#x-how-to-formulate-your-thesis)
 
 ### 4. Analysis Supporting Your Thesis
 
-- Develop your thesis with specific evidence from both articles
-- Answer whichever diagnostic questions fit your case [:questions organized by pattern](#x-questions-organized-by-pattern)
-- Explain how the issues you identify produce the incompatibility stated in your thesis
-- Use specific evidence from both articles to develop your claims
+Write numbered analytical paragraphs developing your thesis with specific evidence from both articles. [:how to develop your analysis](#x-how-to-develop-your-analysis)
 
 ### 5. Source Identification
 
-- List at least 2 additional sources beyond target, commentary, and response
-- Provide 1-2 sentences for each explaining how it will support your analysis in P08
+List at least 2 additional sources beyond target, commentary, and response, with 1-2 sentences explaining how each will support your P08 analysis. [:what sources to identify](#x-what-sources-to-identify)
 
 ### Word Count
 
@@ -64,51 +50,9 @@ Up to 1500 words
 
 Don't include an introduction. You're still figuring out your take on this disagreement through the verification and analysis process. An introduction requires framing a question you're answering, but that frame should emerge from your analysis, not precede it. You'll write an introduction in P08 once your thesis has stabilized through peer review.
 
-### Using Your P06 Work
-
-Use your P06 explanation as a starting point, but verification may reveal you need to adjust what you emphasize. Your reader needs to understand both positions well enough to follow your verification and thesis.
-
-### Understanding Verification Outcomes
-
-Your verification may reveal genuine disagreement, mischaracterization, or surface agreement with underlying conflict. Each outcome is legitimate and produces different types of theses. Don't try to force your articles into a particular pattern—follow what your verification reveals.
-
-If your verification reveals the commentary misrepresents the target, that's a legitimate analytical discovery, not a problem with your paper choice. Your thesis should explain what caused the mischaracterization and whether any substantive disagreement remains.
-
-If verification shows they actually agree on explicit claims, don't think there's nothing to analyze. Your thesis should address what the exchange reveals about their different frameworks, goals, or standards—the implicit differences that made it appear they disagreed.
-
 ### If You Find Yourself Wanting to Argue Which Side Is Right
 
 It's natural to form judgments about which position seems stronger. Hold that thought for P08. For P07, focus first on why they reach different conclusions—what assumptions, definitions, or evidence interpretations drive their disagreement. If showing consequences of those differences leads you to reveal limitations, that can emerge in P08-09, but frame it as explanation of consequences rather than advocacy.
-
-### How Working Theses Develop
-
-Your thesis will likely evolve through stages. This is expected, not a sign of problems.
-
-**Starting point** (what P06 gave you):
-- Understanding what each position argues
-- Identifying the commentary's main criticism
-
-**P07 working thesis** (what verification reveals):
-- "They disagree because the target focuses on X while the commentary focuses on Y"
-- "The apparent conflict stems from commentary's mischaracterization of Z"
-- "They agree on explicit claims but differ on implicit assumption A"
-
-**Deeper thesis** (develops in P08):
-
-For theoretical/definitional disagreements, deeper theses often:
-- Identify implicit assumptions or commitments neither author states
-- Reveal structural constraints in theoretical frameworks
-- Show why theoretical positions logically exclude each other
-
-For empirical disagreements, deeper theses often:
-- Reveal evidentiary standards and what each treats as sufficient proof
-- Explain patterns in how data or predictions get evaluated differently
-- Identify who bears burden of proof and why that matters
-- Show what methodological commitments drive different interpretations
-
-Your analysis determines which aspects matter for your case. You might address one of these or several, depending on what you discover.
-
-Peer review will help you identify whether your verification is accurate and whether your working thesis explains what you discovered.
 
 ### Optional Development
 
@@ -131,16 +75,6 @@ As you develop your working thesis, start considering: Why does understanding th
 ### Related Arguments
 
 You focused on one main criticism in P04-P06. In P07, you may discuss related arguments from the commentary if they strengthen your analysis of why the positions reach different conclusions. However, maintain focus on your central question.
-
-### Preparing for Additional Sources
-
-During P07, identify the additional sources you'll need for P08:
-
-- If the commentary cites research as evidence for its claims, find and begin reading that research to evaluate whether it supports what the commentary says
-- If the commentary or author's response references other work by either author, locate those sources to see whether they clarify or complicate the criticism
-- If you need to understand theoretical frameworks or technical concepts mentioned in either article, find sources that explain them
-
-List these sources in your P07 submission with brief explanation of how each will support your analysis. Remember: Additional sources should help you evaluate THIS specific criticism. They should not introduce entirely new arguments or shift focus away from the disagreement between your target and commentary.
 
 ### Remember the Process
 
@@ -167,11 +101,13 @@ This kind of depth emerges from thorough analytical work, not from trying to sou
 
 ##### :x how to explain positions
 
-Depending on your specific articles, this explanation might emphasize overall arguments, specific claims, or stated assumptions—whatever your analysis requires. The key is providing enough context that your reader can follow your verification and understand your thesis.
+Focus on their explicit claims—what they actually say, including qualifiers that limit the strength and scope of their claims. Depending on your specific articles, this explanation might emphasize overall arguments, specific claims, or stated assumptions—whatever your analysis requires. The key is providing enough context that your reader can follow your verification and understand your thesis.
 
-##### :x what this test checks
+Use your P06 explanation as a starting point, but verification may reveal you need to adjust what you emphasize. Your reader needs to understand both positions well enough to follow your verification and thesis.
 
-Imagine the authors in a room together with a whiteboard. The commentary says "You claim X." Does the target respond "Yes, we do claim X" or "No, we actually claim Y"?
+##### :x how to verify disagreement
+
+Apply the room scenario test: Imagine the authors in a room together with a whiteboard. The commentary says "You claim X." Does the target respond "Yes, we do claim X" or "No, we actually claim Y"?
 
 Check the commentary's characterization against the target's actual claims:
 
@@ -180,9 +116,9 @@ Check the commentary's characterization against the target's actual claims:
 - Does it strengthen claims beyond what the target stated?
 - Does it attribute claims the target doesn't make?
 
-##### :x see all three types
+Document your verification in this section. Show the specific claims where you tested for agreement/disagreement. Quote both articles to demonstrate what you found. Identify which of three outcomes your verification revealed. [:see the three outcome types](#x-three-outcome-types)
 
-You may find one of three outcomes:
+##### :x three outcome types
 
 **Genuine disagreement about explicit claims:** They agree on what the target says, but disagree about whether those explicit claims are correct. Example: They both agree the target claims distancing is necessary for fiction, but the commentary argues this claim is false.
 
@@ -190,7 +126,19 @@ You may find one of three outcomes:
 
 **Surface agreement, underlying conflict:** They agree on explicit claims but reveal different assumptions, frameworks, or standards that produce incompatibility. Example: They agree on what the evidence shows, but disagree about what counts as sufficient evidence for claiming something is an adaptation.
 
-##### :x thesis format examples
+[:understanding these outcomes](#x-understanding-outcomes)
+
+##### :x understanding outcomes
+
+For students interested in the pedagogical framework: Your verification may reveal genuine disagreement, mischaracterization, or surface agreement with underlying conflict. Each outcome is legitimate and produces different types of theses. Don't try to force your articles into a particular pattern—follow what your verification reveals.
+
+If your verification reveals the commentary misrepresents the target, that's a legitimate analytical discovery, not a problem with your paper choice. Your thesis should explain what caused the mischaracterization and whether any substantive disagreement remains.
+
+If verification shows they actually agree on explicit claims, don't think there's nothing to analyze. Your thesis should address what the exchange reveals about their different frameworks, goals, or standards—the implicit differences that made it appear they disagreed.
+
+##### :x how to formulate your thesis
+
+State what your verification revealed. Your thesis should be a claim about what prevents these positions from being compatible, based on what you discovered in your verification.
 
 Your thesis will take one of these forms, depending on your verification outcome:
 
@@ -198,13 +146,59 @@ Your thesis will take one of these forms, depending on your verification outcome
 - "The apparent disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
 - "They agree on [explicit claims] but differ on [implicit assumption or framework commitment]"
 
-These examples show different types of disagreements. The first two identify different theoretical focuses or definitional issues. The second specifically identifies different evidentiary standards—this is an empirical disagreement about what evidence is sufficient or what methods are valid for testing claims.
+These examples show different types of disagreements. The first two identify different theoretical focuses or definitional issues. The third specifically identifies different evidentiary standards—this is an empirical disagreement about what evidence is sufficient or what methods are valid for testing claims.
 
-Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08. Verification may reveal surface-level differences that you'll later discover reflect deeper theoretical conflicts.
+Don't argue that one scholar is right and the other is wrong. Instead, explain what drives the criticism, such as the assumption, definition, or methodological commitment that produces the conflict.
 
-##### :x questions organized by pattern
+[:how theses develop through P07-P08](#x-thesis-development)
 
-To identify why the positions reach different conclusions, answer whichever questions apply to your case. Most commentaries will match one or two patterns—you don't need to answer questions that don't fit your disagreement:
+##### :x thesis development
+
+For students interested in understanding the developmental process: Your thesis will likely evolve through stages. This is expected, not a sign of problems.
+
+**Starting point** (what P06 gave you):
+- Understanding what each position argues
+- Identifying the commentary's main criticism
+
+**P07 working thesis** (what verification reveals):
+- "They disagree because the target focuses on X while the commentary focuses on Y"
+- "The apparent conflict stems from commentary's mischaracterization of Z"
+- "They agree on explicit claims but differ on implicit assumption A"
+
+**Deeper thesis** (develops in P08):
+
+For theoretical/definitional disagreements, deeper theses often:
+- Identify implicit assumptions or commitments neither author states
+- Reveal structural constraints in theoretical frameworks
+- Show why theoretical positions logically exclude each other
+
+For empirical disagreements, deeper theses often:
+- Reveal evidentiary standards and what each treats as sufficient proof
+- Explain patterns in how data or predictions get evaluated differently
+- Identify who bears burden of proof and why that matters
+- Show what methodological commitments drive different interpretations
+
+Your analysis determines which aspects matter for your case. You might address one of these or several, depending on what you discover.
+
+Peer review will help you identify whether your verification is accurate and whether your working thesis explains what you discovered. Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08. Verification may reveal surface-level differences that you'll later discover reflect deeper theoretical conflicts.
+
+##### :x how to develop your analysis
+
+Develop your thesis with specific evidence and reasoning. Answer whichever diagnostic questions fit your case—most commentaries will match one or two patterns. Your analysis should explain how these issues produce the incompatibility you identified in your thesis. Use specific evidence from both articles to develop your claims.
+
+[:diagnostic question patterns](#x-diagnostic-patterns)
+
+##### :x diagnostic patterns
+
+To identify why the positions reach different conclusions, answer whichever questions apply to your case. You don't need to answer questions that don't fit your disagreement:
+
+[:Pattern 1: Claims don't match evidence](#x-pattern-1)
+[:Pattern 2: Missing important factors](#x-pattern-2)
+[:Pattern 3: Definitions don't match](#x-pattern-3)
+[:Pattern 4: Wrong question or framework](#x-pattern-4)
+[:Pattern 5: Logical problems or scientific standards](#x-pattern-5)
+
+##### :x pattern-1
 
 **Pattern 1: Claims don't match evidence**
 
@@ -213,11 +207,15 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Does the target cherry-pick supporting cases while ignoring contradictory evidence?
 - *Example: Verpooten & Eens show singing doesn't correlate with social complexity as predicted*
 
+##### :x pattern-2
+
 **Pattern 2: Missing important factors**
 
 - What does the commentary say the target overlooked?
 - Why does that missing factor matter for understanding the phenomenon?
 - *Example: Goldstein shows theatre lacks representational distance that target's theory requires*
+
+##### :x pattern-3
 
 **Pattern 3: Definitions don't match**
 
@@ -225,11 +223,15 @@ To identify why the positions reach different conclusions, answer whichever ques
 - If they used the commentary's definition, would the disagreement dissolve or remain?
 - *Example: Norman redefines "exploration" to include all non-real worlds, not just fantastical ones*
 
+##### :x pattern-4
+
 **Pattern 4: Wrong question or framework**
 
 - Does the commentary say the target asked the wrong question?
 - Does the commentary claim the target's approach can't work for this type of phenomenon?
 - *Example: Killin argues adaptation/byproduct framework can't handle coevolved mosaics like music*
+
+##### :x pattern-5
 
 **Pattern 5: Logical problems or scientific standards**
 
@@ -238,7 +240,15 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Does the commentary challenge what evidence threshold is needed (burden of proof, parsimony, defaults)?
 - *Example: Stewart-Williams argues evidence is ambiguous between adaptation and byproduct; when evidence doesn't discriminate, default should be simpler explanation*
 
-Answering the relevant questions will help you understand what drives the disagreement. Your analysis should explain how these issues prevent the authors from reaching compatible conclusions.
+##### :x what sources to identify
+
+During P07, identify the additional sources you'll need for P08:
+
+- If the commentary cites research as evidence for its claims, find and begin reading that research to evaluate whether it supports what the commentary says
+- If the commentary or author's response references other work by either author, locate those sources to see whether they clarify or complicate the criticism
+- If you need to understand theoretical frameworks or technical concepts mentioned in either article, find sources that explain them
+
+List these sources in your P07 submission with brief explanation of how each will support your analysis. Remember: Additional sources should help you evaluate THIS specific criticism. They should not introduce entirely new arguments or shift focus away from the disagreement between your target and commentary.
 
 ## Peer Review Focus
 
