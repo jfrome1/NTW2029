@@ -25,27 +25,27 @@ Your draft must include:
 - Explain what the target argues
 - Explain what the commentary challenges about it
 - Focus on their explicit claims—what they actually say, including qualifiers that limit strength and scope
-- Provide whatever explanation enables your reader to understand the disagreement [:how to explain positions](#x-explain)
+- Provide whatever explanation enables your reader to understand the disagreement [:how to explain positions](#x-how-to-explain-positions)
 
 ### 2. Verification of Disagreement
 
-- Apply the room scenario test to check whether they genuinely disagree about explicit claims [:room scenario test](#x-room-test)
+- Apply the room scenario test to check whether they genuinely disagree about explicit claims [:room scenario test](#x-room-scenario-test)
 - Check whether the commentary accurately represents the target's claims
 - Document your verification process in this section
 - Quote both articles to demonstrate what you found
-- Identify which of three outcomes your verification revealed [:three possible outcomes](#x-outcomes)
+- Identify which of three outcomes your verification revealed [:three possible outcomes](#x-three-possible-outcomes)
 
 ### 3. Working Thesis
 
 - State what your verification revealed about what prevents these positions from being compatible
-- Use one of the thesis formats that matches your verification outcome [:thesis format examples](#x-thesis-formats)
+- Use one of the thesis formats that matches your verification outcome [:thesis format examples](#x-thesis-format-examples)
 - Explain the definitional, methodological, or evidentiary difference you identified
 - Do not argue which scholar is right—explain what drives the criticism
 
 ### 4. Analysis Supporting Your Thesis
 
 - Develop your thesis with specific evidence from both articles
-- Answer whichever diagnostic questions fit your case [:diagnostic questions](#x-diagnostic)
+- Answer whichever diagnostic questions fit your case [:diagnostic questions](#x-diagnostic-questions)
 - Explain how the issues you identify produce the incompatibility stated in your thesis
 - Use specific evidence from both articles to develop your claims
 
@@ -165,11 +165,11 @@ Your analysis determines which aspects apply to your case.
 
 This kind of depth emerges from thorough analytical work, not from trying to sound sophisticated.
 
-##### :x explain
+##### :x how to explain positions
 
 Depending on your specific articles, this explanation might emphasize overall arguments, specific claims, or stated assumptions—whatever your analysis requires. The key is providing enough context that your reader can follow your verification and understand your thesis.
 
-##### :x room-test
+##### :x room scenario test
 
 Imagine the authors in a room together with a whiteboard. The commentary says "You claim X." Does the target respond "Yes, we do claim X" or "No, we actually claim Y"?
 
@@ -180,7 +180,7 @@ Check the commentary's characterization against the target's actual claims:
 - Does it strengthen claims beyond what the target stated?
 - Does it attribute claims the target doesn't make?
 
-##### :x outcomes
+##### :x three possible outcomes
 
 You may find one of three outcomes:
 
@@ -190,7 +190,7 @@ You may find one of three outcomes:
 
 **Surface agreement, underlying conflict:** They agree on explicit claims but reveal different assumptions, frameworks, or standards that produce incompatibility. Example: They agree on what the evidence shows, but disagree about what counts as sufficient evidence for claiming something is an adaptation.
 
-##### :x thesis-formats
+##### :x thesis format examples
 
 Your thesis will take one of these forms, depending on your verification outcome:
 
@@ -202,7 +202,7 @@ These examples show different types of disagreements. The first two identify dif
 
 Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08. Verification may reveal surface-level differences that you'll later discover reflect deeper theoretical conflicts.
 
-##### :x diagnostic
+##### :x diagnostic questions
 
 To identify why the positions reach different conclusions, answer whichever questions apply to your case. Most commentaries will match one or two patterns—you don't need to answer questions that don't fit your disagreement:
 
