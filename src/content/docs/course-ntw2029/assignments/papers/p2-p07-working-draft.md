@@ -118,7 +118,7 @@ Use your P06 explanation as a starting point, but verification may reveal you ne
 
 After explaining both positions, verify whether they genuinely disagree at the explicit claim level. Use the room scenario test:
 
-**Imagine the authors in a room together with a whiteboard.** The commentary says "You claim X." Does the target respond "Yes, we do claim X" or "No, we actually claim Y"?
+**Imagine the authors in a room together with a whiteboard.** The commentary says "You claim X." Does the target respond "Yes, we do claim X", "No, we actually claim Y", or "Well, sort of--we don't say 'always X', we say 'X tends to be true, but in certain contexts'".
 
 Check the commentary's characterization against the target's actual claims:
 
@@ -127,17 +127,24 @@ Check the commentary's characterization against the target's actual claims:
 - Does it strengthen claims beyond what the target stated?
 - Does it attribute claims the target doesn't make?
 
-Document your verification in this section. Show the specific claims where you tested for agreement/disagreement. Quote both articles to demonstrate what you found. Identify which of three outcomes your verification revealed:
+Document your verification in this section. Use quotations (from both articles) and explanation to show why you think the commentary's description of the target claim is accurate or inaccurate.
 
-- **Genuine disagreement about explicit claims:** They agree on what the target says, but disagree about whether those explicit claims are correct. Example: They both agree the target claims distancing is necessary for fiction, but the commentary argues this claim is false.
-- **Potential mischaracterization:** The apparent disagreement stems from the commentary potentially misrepresenting the target's position—strengthening claims, removing qualifiers, or conflating different concepts. Example: Target says art "can function as" emotional regulation, but commentary treats this as "is designed for" emotional regulation. Note that sometimes it's not clear whether the commentary is accurate, even after careful checking. Example: the commentary could say that the target thinks that X is an adaptation, when the target is actually vague or ambiguous about whether X is an adaptation.
-- **Surface agreement, underlying conflict:** They agree on explicit claims but reveal different assumptions, frameworks, or standards that produce incompatibility. Example: They agree on what the evidence shows, but disagree about what counts as sufficient evidence for claiming something is an adaptation.
+Your verification might reveal:
 
-Each outcome is legitimate and produces different types of theses. Don't try to force your articles into a particular pattern—follow what your verification reveals.
+- Clean match (commentary's characterization of target's position matches target's actual position)
+- Strengthened claims (commentary makes target's position more absolute than target's actual position; e.g. "X causes Y" becomes "only X causes Y")
+- Target ambiguity (target's statements are vague or could mean multiple things; commentary picks one interpretation)
+- Terminological confusion (same words, different definitions)
 
-If your verification reveals the commentary misrepresents the target, that's a legitimate analytical discovery, not a problem with your paper choice. Your thesis should explain what caused the mischaracterization and whether any substantive disagreement remains.
+If you're using the author's response, also check whether the target accurately represents the commentary's claims. You might find:
 
-If verification shows they actually agree on explicit claims, don't think there's nothing to analyze. Your thesis should address what the exchange reveals about their different frameworks, goals, or standards—the implicit differences that made it appear they disagreed.
+- Mutual misreading (articles mischaracterize each other)
+- Selective engagement (commentary descibes target as claiming X and Y; target replies to commentary about X but ignores Y)
+
+Or something else entirely. Don't force your case into these patterns—they're examples,
+not requirements.
+
+Remember that verification of the commentary claims is just one step in your paper analysis. Even if your verification reveals that an apparent disagreement doesn't reflect an actual logical conflict, that's a legitimate analytical discovery, not a dead end or a problem with your choice of articles. You'll develop your thesis as you do more analysis.
 
 ##### :x how to formulate your thesis
 
