@@ -10,15 +10,15 @@ sidebar:
 
 ## Purpose
 
-This assignment helps you expand your P07 draft by discussing the significance of your analysis—what your work contributes to the academic conversation. Based on conference guidance, you'll identify specific ways to deepen your analysis. This draft will receive a conference where you'll get guidance on how to strengthen your final paper.
+This assignment helps you expand your P07 working draft into a full draft that we can discuss in conference.
 
 ## Overview
 
-Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis).
+Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus an introduction,  required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis).
 
 ## Requirements
 
-Your draft must include:
+Your draft should include:
 
 1. **Content from P07** (revised and integrated based on peer review). [:Building on P07](#x-building-on-p07)
    - Explanation of both positions (revised if needed)
