@@ -44,10 +44,12 @@ Your draft must include:
 Your significance discussion must show what YOUR ANALYSIS reveals, not just summarize what's at stake according to the authors.
 
 **Good examples of significance discussion:**
+
 - "This analysis reveals that the disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
 
 **Not acceptable:**
+
 - Generic statements ("this matters because it's important," "more research needed")
 - Teaching mode ("students should care about this because...")
 - Moralizing ("shows need for clarity")
@@ -103,11 +105,13 @@ Your discussion of limitations must emerge from YOUR analysis of assumptions, ev
 ### Using Additional Sources Appropriately
 
 **Appropriate uses:**
+
 - Provide background on concepts or theories mentioned in articles
 - Verify or evaluate specific empirical claims
 - Understand technical terms or disciplinary context
 
 **Inappropriate uses:**
+
 - Introduce entirely new arguments not present in your chosen articles
 - Substitute for close engagement with target and commentary
 - Expand scope beyond your chosen criticism
@@ -139,9 +143,18 @@ P07 focused on verification and thesis development without framing. Now that you
 - Identifies the target article and commentary you're analyzing
 - Briefly states what the commentary criticizes
 - Previews your thesis about what drives the disagreement
-- Positions your analysis within the academic conversation (optional)
+- Includes a brief significance statement (1-2 sentences) indicating what understanding this disagreement reveals or contributes
 
 Keep your introduction concise. Your reader needs orientation to the specific criticism you're analyzing, not comprehensive background on the entire research area. Most effective introductions are 150-250 words.
+
+### Placing Your Significance Discussion
+
+Your paper should reference significance twice:
+
+1. **Introduction:** After your thesis preview, include 1-2 sentences indicating what your analysis will reveal
+2. **Conclusion:** Develop your full significance discussion here, explaining what your analysis contributes to the academic conversation
+
+The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them to expect significance; your conclusion delivers it.
 
 ### Your Analysis Should Drive Everything
 
@@ -153,4 +166,4 @@ The 2750-word maximum gives you space to develop your analysis fully and include
 
 ## Feedback
 
-You'll receive a conference after submitting P08. The conference will assess what your draft shows you're capable of and provide specific guidance on how to strengthen your analysis for P09. This is similar to the P1 conference—the focus will be on what YOUR paper needs next, not general tiers of work.
+You'll receive a conference after submitting P08. The conference will assess what your draft shows you're capable of and provide specific guidance on how to strengthen your analysis for P09. This is similar to the Paper 1 draft conference—the focus will be on what YOUR paper needs next, not general tiers of work.
