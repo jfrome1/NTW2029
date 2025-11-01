@@ -26,7 +26,7 @@ Your final paper must include:
 
 3. **Analysis supporting thesis**: Develop your analytical thesis with evidence and reasoning. Show how specific aspects of each position create incompatibility.
 
-4. **Significance discussion**: Explain what your analysis contributes to the academic conversation. What does understanding this incompatibility reveal? What's at stake? What would resolving it require?
+4. **Significance discussion**: Your significance discussion should reveal why understanding this incompatibility matters. See P08 for detailed guidance on developing significance discussion.
 
 ### Source Requirements
 
