@@ -10,15 +10,15 @@ sidebar:
 
 ## Purpose
 
-This assignment helps you expand your P07 working draft into a full draft that we can discuss in conference.
+This assignment helps you expand your P07 working draft into a full draft and simplified outline.
 
 ## Overview
 
-Write a draft of up to 2750 words structured as a complete essay. Integrate insights from P07 (revised based on peer feedback) into proper essay structure with your thesis in the introduction, explanation where it contextualizes, and analysis distributed across body paragraphs. Add an introduction framing your thesis and a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis).
+Write a draft of up to 2750 words structured as a complete essay, including an introduction, thesis, explanation, analysis, and a conclusion discussing significance. Integrate insights written for P07 and revised through peer review into the full draft. Include least four academic sources (the target article, commentary, and author's response can each count as one source).
 
 ## Requirements
 
-Your draft should    include:
+Your draft should include:
 
 1. **Content from P07** (revised and integrated based on peer review). [:Building on P07](#x-building-on-p07)
    - Explanation of both positions (revised if needed)
