@@ -18,7 +18,7 @@ Write a draft of up to 2750 words that includes everything from P07 (revised bas
 
 ## Requirements
 
-Your draft should include:
+Your draft should    include:
 
 1. **Content from P07** (revised and integrated based on peer review). [:Building on P07](#x-building-on-p07)
    - Explanation of both positions (revised if needed)
@@ -35,6 +35,8 @@ Your draft should include:
    - What would resolving this disagreement require?
 
 4. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis). [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
+
+5. **Outline**: List all topic sentences from your draft in order, attached at the end of the document after your References section. After completing your draft, read through this outline to verify your argument flows logically and each paragraph advances your thesis.
 
 ## Guidelines
 
@@ -90,6 +92,17 @@ Whether discussing significance or identifying limitations, your reasoning must 
 ### Word Count as Maximum
 
 The 2750-word maximum gives you space to develop your analysis fully and include everything you want feedback on. However, concise, focused analysis is often stronger than expansive, diffuse discussion. Use the space you need to make your argument effectively.
+
+### Essay Structure
+
+P07 was scaffolding that developed your understanding through verification and thesis development. Now you're writing a complete essay with proper structure. Don't paste P07 sections wholesale—extract insights and place them where they belong:
+
+- Explanation of positions: where it contextualizes the disagreement
+- Verification evidence: where it supports analytical claims about characterization or incompatibility
+- Thesis: in the introduction
+- Analysis: distributed across body paragraphs developing your thesis
+
+Apply essay structure standards from Class 5.2: topic sentences start paragraphs, one idea per paragraph, rename concepts at paragraph starts rather than using pronouns.
 
 ## Feedback
 
