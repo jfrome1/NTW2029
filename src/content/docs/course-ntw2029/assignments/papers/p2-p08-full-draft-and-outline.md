@@ -14,7 +14,7 @@ This assignment helps you expand your P07 draft by discussing the significance o
 
 ## Overview
 
-Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis). All papers must include thesis explaining the disagreement, supporting analysis, and significance discussion—what distinguishes stronger work is the depth and sophistication of this analysis.
+Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis).
 
 ## Requirements
 
@@ -26,30 +26,29 @@ Your draft must include:
    - Analysis supporting your thesis (integrate evidence from your verification work—quotes showing characterization accuracy, examples of strengthened claims, etc.)
    - Additional sources (move from identification list to actual engagement in your analysis)
 
-2. **Introduction** (write this now): Frame your analysis by identifying the articles, stating what the commentary criticizes, and previewing your thesis. See guidelines below.
+2. **Introduction** (write this now): Frame your analysis by identifying the articles, stating what the commentary criticizes, and previewing your thesis.
 
-3. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. You began thinking about this in P07; now develop it fully. Address questions like:
+3. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. Address questions like:
    - What does your analysis reveal about this criticism?
    - What's at stake in how this disagreement is resolved?
    - How does understanding why they reach different conclusions advance understanding of the topic?
    - What would resolving this disagreement require?
 
-4. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis). Use these sources to:
-   - Provide background on concepts or theories
-   - Verify or evaluate specific empirical claims
-   - Understand technical terms or disciplinary context
+4. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis).
+
+See Guidelines below for how to develop each element effectively.
+
+## Guidelines
 
 ### About Your Significance Discussion
 
 Your significance discussion must show what YOUR ANALYSIS reveals, not just summarize what's at stake according to the authors.
 
 **Good examples of significance discussion:**
-
 - "This analysis reveals that the disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
 
 **Not acceptable:**
-
 - Generic statements ("this matters because it's important," "more research needed")
 - Teaching mode ("students should care about this because...")
 - Moralizing ("shows need for clarity")
@@ -105,20 +104,16 @@ Your discussion of limitations must emerge from YOUR analysis of assumptions, ev
 ### Using Additional Sources Appropriately
 
 **Appropriate uses:**
-
 - Provide background on concepts or theories mentioned in articles
 - Verify or evaluate specific empirical claims
 - Understand technical terms or disciplinary context
 
 **Inappropriate uses:**
-
 - Introduce entirely new arguments not present in your chosen articles
 - Substitute for close engagement with target and commentary
 - Expand scope beyond your chosen criticism
 
 Keep focus on analyzing the disagreement between target and commentary, using additional sources to support that analysis.
-
-## Guidelines
 
 ### Building on P07
 
