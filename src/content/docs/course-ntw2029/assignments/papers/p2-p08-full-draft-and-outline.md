@@ -20,19 +20,21 @@ Write a draft of up to 2750 words that includes everything from P07 (revised bas
 
 Your draft must include:
 
-1. **Everything from P07** (revised based on peer review):
-   - Introduction (revised if needed)
+1. **Content from P07** (revised and integrated based on peer review):
    - Explanation of both positions (revised if needed)
-   - Thesis explaining why they reach different conclusions (expect this to evolve from your working thesis—refinement, deepening, or reconceptualization is normal)
-   - Analysis supporting your thesis
+   - Thesis explaining why they reach different conclusions (this should now reflect what your verification revealed and will likely evolve through refinement, deepening, or reconceptualization)
+   - Analysis supporting your thesis (integrate evidence from your verification work—quotes showing characterization accuracy, examples of strengthened claims, etc.)
+   - Additional sources (move from identification list to actual engagement in your analysis)
 
-2. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. You began thinking about this in P07; now develop it fully. Address questions like:
+2. **Introduction** (write this now): Frame your analysis by identifying the articles, stating what the commentary criticizes, and previewing your thesis. See guidelines below.
+
+3. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. You began thinking about this in P07; now develop it fully. Address questions like:
    - What does your analysis reveal about this criticism?
    - What's at stake in how this disagreement is resolved?
    - How does understanding why they reach different conclusions advance understanding of the topic?
    - What would resolving this disagreement require?
 
-3. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis). Use these sources to:
+4. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis). Use these sources to:
    - Provide background on concepts or theories
    - Verify or evaluate specific empirical claims
    - Understand technical terms or disciplinary context
@@ -119,6 +121,27 @@ Keep focus on analyzing the disagreement between target and commentary, using ad
 Revise your P07 draft based on peer feedback before expanding to P08. Your working thesis from P07 should evolve as you continue your analysis. Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
 
 Your new content will develop the significance discussion and deepen analytical work identified through your own analysis and conference guidance.
+
+### Integrating Your Verification Work
+
+Your P07 verification section doesn't need to appear as a separate labeled section in P08. Instead, integrate what you discovered:
+
+- Your thesis should state what verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
+- Your analysis should use verification evidence (specific quotes, characterization checks) to support claims about incompatibility
+- If verification revealed mischaracterization, explain how that affects interpretation of the criticism
+
+The verification process shaped your understanding. The integrated essay should reflect that understanding without preserving P07's scaffolding structure.
+
+### Writing Your Introduction
+
+P07 focused on verification and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
+
+- Identifies the target article and commentary you're analyzing
+- Briefly states what the commentary criticizes
+- Previews your thesis about what drives the disagreement
+- Positions your analysis within the academic conversation (optional)
+
+Keep your introduction concise. Your reader needs orientation to the specific criticism you're analyzing, not comprehensive background on the entire research area. Most effective introductions are 150-250 words.
 
 ### Your Analysis Should Drive Everything
 
