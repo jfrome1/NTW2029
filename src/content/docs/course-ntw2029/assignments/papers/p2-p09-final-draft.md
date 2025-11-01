@@ -131,4 +131,4 @@ Don't try to save time by using this checklist as a substitute for reading the a
 
 ## Feedback
 
-You'll receive a grade and written feedback on your final paper. Your grade will be based on how well you answer the core questions and the depth and sophistication of your analysis, not on which components are present (all papers should include all core components).
+I'll provide a grade and written feedback on your final paper. Your grade will be based on how well you answer the core questions and the depth and sophistication of your analysis.
