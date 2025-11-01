@@ -14,7 +14,7 @@ This assignment helps you expand your P07 working draft into a full draft that w
 
 ## Overview
 
-Write a draft of up to 2750 words that includes everything from P07 (revised based on peer feedback) plus an introduction,  required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis).
+Write a draft of up to 2750 words structured as a complete essay. Integrate insights from P07 (revised based on peer feedback) into proper essay structure with your thesis in the introduction, explanation where it contextualizes, and analysis distributed across body paragraphs. Add an introduction framing your thesis and a required discussion of significance. You must also include at least 2 additional sources beyond the target article, commentary, and author's response (if relevant to your analysis).
 
 ## Requirements
 
@@ -140,10 +140,12 @@ Keep your introduction concise. Your reader needs orientation to the specific cr
 Your significance discussion must show what YOUR ANALYSIS reveals, not just summarize what's at stake according to the authors.
 
 **Good examples of significance discussion:**
+
 - "This analysis reveals that the disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
 
 **Not acceptable:**
+
 - Generic statements ("this matters because it's important," "more research needed")
 - Teaching mode ("students should care about this because...")
 - Moralizing ("shows need for clarity")
@@ -163,11 +165,13 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 ##### :x using additional sources appropriately
 
 **Appropriate uses:**
+
 - Provide background on concepts or theories mentioned in articles
 - Verify or evaluate specific empirical claims
 - Understand technical terms or disciplinary context
 
 **Inappropriate uses:**
+
 - Introduce entirely new arguments not present in your chosen articles
 - Substitute for close engagement with target and commentary
 - Expand scope beyond your chosen criticism
