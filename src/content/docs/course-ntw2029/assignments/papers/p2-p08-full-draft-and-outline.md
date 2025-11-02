@@ -24,7 +24,7 @@ Write a document with three parts: full draft, reference list, and simplified ou
 
 Your draft should include:
 
-- **Introduction**: [:How to write your introduction](#x-how-to-write-your-introduction) [:How to formulate your thesis](#x-how-to-formulate-your-thesis)
+- **Introduction**: [:How to write your introduction](#x-how-to-write-your-introduction) [:Developing your thesis](#x-developing-your-thesis)
 
 - **Body (Explanation and Analysis)**: Explain the target article's argument, the commentary's criticism, and (if applicable) the target's response. Analyze the disagreement to support your thesis. Typically it's best to provide explanation first, then analysis. However, in some cases mixing explanation and analysis as you move from topic to topic works better. What's best depends on your specific essay.
 
@@ -38,7 +38,7 @@ Read guidelines on [:using writing from P07](#x-building-on-p07)
 
 Check guidelines on the [Citations](https://ntw-2029.vercel.app/course-ntw2029/resources/citations/#part-2-reference-list)  page.
 
-1. **Simplified outline**: List all topic sentences from your draft in a numbered list, on a new page, after your Reference list. You don't need to highlight the sentences. Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind. As you write the draft, regularly read through the outline to check that your argument flows logically and that each paragraph advances your thesis. If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph) the outline will fairly represent your essay's argument. Consequently, when I give draft feedback before the Week 13 conference, I'll start by commenting on your argument as presented in the outline.
+3. **Simplified outline**: Create an outline of your draft's topic sentences. [:How to create and use your outline](#x-outline)
 
 ## Guidelines
 
@@ -117,9 +117,9 @@ Don't assume that your P07 will expand into P08 just by adding a few paragraphs.
 - Source identification
     - Your additional sources should be cited in your essay.
 
-##### :x how to formulate your thesis
+##### :x developing your thesis
 
-Your thesis should explain why they reach different conclusions based on what your analysis revealed.
+Your working thesis from P07 identified what drives the disagreement. Your P08 thesis should reflect what your continued analysis revealed, whether that means refining your P07 identification, explaining what drives it, or reformulating if you discovered something different.
 
 For theoretical disagreements, analysis might identify explicit differences (they define key terms differently, they focus on different aspects of the phenomenon) or explain what drives those differences (implicit assumptions neither author states, structural constraints in their theoretical frameworks, why their positions logically exclude each other).
 
@@ -181,3 +181,13 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 - Expand scope beyond your chosen criticism
 
 Keep focus on analyzing the disagreement between target and commentary, using additional sources to support that analysis.
+
+##### :x how to create and use your outline
+
+Create your outline by extracting all topic sentences from your draft in order. List them in a numbered list on a new page after your Reference list. You don't need to highlight the sentences.
+
+Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
+
+As you write the draft, regularly read through the outline to check that your argument flows logically and that each paragraph advances your thesis. If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph) the outline will fairly represent your essay's argument.
+
+When I give draft feedback before the Week 13 conference, I'll start by commenting on your argument as presented in the outline.
