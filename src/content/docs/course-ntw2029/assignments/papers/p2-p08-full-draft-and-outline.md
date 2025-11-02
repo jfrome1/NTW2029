@@ -24,7 +24,7 @@ Write a document with three parts: full draft, reference list, and simplified ou
 
 Your draft should include:
 
-- **Introduction**: [:How to write your introduction](#x-how-to-write-your-introduction) [:How to formulate your thesis]()
+- **Introduction**: [:How to write your introduction](#x-how-to-write-your-introduction) [:How to formulate your thesis](#x-how-to-formulate-your-thesis)
 
 - **Body (Explanation and Analysis)**: Explain the target article's argument, the commentary's criticism, and (if applicable) the target's response. Analyze the disagreement to support your thesis. Typically it's best to provide explanation first, then analysis. However, in some cases mixing explanation and analysis as you move from topic to topic works better. What's best depends on your specific essay.
 
