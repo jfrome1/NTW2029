@@ -1,5 +1,5 @@
 ---
-title: "P09: Final Draft"
+title: P09-Final Draft
 date: 2025-10-19
 draft: true
 sidebar:
@@ -18,15 +18,12 @@ Write a final 2250-2750 word paper that includes explanation of both positions, 
 
 ## Requirements
 
-Your final paper must include:
+Your final paper must meet all P08 requirements with revisions based on conference guidance. Focus on:
 
-1. **Explanation of both positions**: Provide enough context for a reader to understand the target article's argument, what the commentary criticizes, and how these positions conflict. Support with specific evidence from texts.
-
-2. **Analytical thesis**: State what makes these positions incompatible. Your thesis should identify assumptions, definitional differences, evidence interpretation, methodological commitments, or theoretical goals that drive the disagreement.
-
-3. **Analysis supporting thesis**: Develop your analytical thesis with evidence and reasoning. Show how specific aspects of each position create incompatibility.
-
-4. **Significance discussion**: Your significance discussion should reveal why understanding this incompatibility matters. See P08 for detailed guidance on developing significance discussion.
+- Refining your analytical thesis based on conference discussion
+- Strengthening analysis with deeper insights or additional evidence
+- Developing significance discussion to clearly show your contribution
+- Polishing for clarity, organization, and precision
 
 ### Source Requirements
 
@@ -65,22 +62,22 @@ All papers are assessed on how well they answer core questions:
 ### Clarity & Organization (10%)
 - Clear structure, effective transitions, appropriate evidence use, correct citations
 
-## Performance Levels
+### Performance Levels
 
-### Needs Improvement
+#### Needs Improvement
 - Incomplete, inaccurate, or superficial answers to core questions
 - Superficial analysis ("they just disagree") or unclear reasoning
 - Generic or missing significance discussion
 - Organization or clarity problems
 - Reliance on appeal to authority rather than student's own analysis
 
-### Meets Basic Requirements
+#### Meets Basic Requirements
 - Clear, accurate answers to core questions with solid supporting analysis
 - Appropriate context and evidence
 - Substantive significance discussion showing what analysis reveals
 - Clear analytical thesis identifying what makes positions incompatible
 
-### Exceeds Basic Requirements (demonstrates ONE OR MORE of the following)
+#### Exceeds Basic Requirements (demonstrates ONE OR MORE of the following)
 - Sophisticated answers to core questions revealing non-obvious insights
 - Particularly deep engagement with what drives incompatibility
 - Deep understanding of theoretical frameworks driving positions
@@ -113,7 +110,7 @@ Your paper should feel like a genuine contribution to understanding this critici
 
 Your thesis should emerge from your analysis, not motivate it. You've spent P04-P08 building understanding, developing analytical insights, and determining significance. P09 brings all this work together in polished form.
 
-## Checklist
+### Checklist
 
 Don't try to save time by using this checklist as a substitute for reading the assignment. The checklist can remind you of some easily-missed aspects of the assignment, but it is not a comprehensive summary of all assignment requirements.
 
