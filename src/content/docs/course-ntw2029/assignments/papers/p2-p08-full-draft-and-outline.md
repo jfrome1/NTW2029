@@ -14,29 +14,31 @@ This assignment helps you expand your P07 working draft into a full draft and si
 
 ## Overview
 
-Write a draft of up to 2750 words structured as a complete essay, including an introduction, thesis, explanation, analysis, and a conclusion discussing significance. Integrate insights written for P07 and revised through peer review into the full draft. Include least four academic sources (the target article, commentary, and author's response can each count as one source).
+Write a draft of up to 2750 words structured as a complete essay, including an introduction, thesis, explanation, analysis, and a conclusion discussing significance. Integrate insights written for P07 and revised through peer review into the full draft.
 
 ## Requirements
 
+Write a document with three parts: full draft, reference list, and simplified outline.
+
+1. **Full draft**
+
 Your draft should include:
 
-1. **Content from P07** (revised and integrated based on peer review). [:Building on P07](#x-building-on-p07)
-   - Explanation of both positions (revised if needed)
-   - Thesis explaining why they reach different conclusions (this should now reflect what your verification revealed and will likely evolve through refinement, deepening, or reconceptualization)
-   - Analysis supporting your thesis (integrate evidence from your verification work—quotes showing characterization accuracy, examples of strengthened claims, etc.)
-   - Additional sources (move from identification list to actual engagement in your analysis)
+- **Introduction**: [:How to write your introduction](#x-how-to-write-your-introduction) [:How to formulate your thesis]()
 
-2. **Introduction**: Frame your analysis by identifying the articles, stating what the commentary criticizes, and previewing your thesis. [:How to write your introduction](#x-how-to-write-your-introduction)
+- **Body (Explanation and Analysis)**: Explain the target article's argument, the commentary's criticism, and (if applicable) the target's response. Analyze the disagreement to support your thesis. Typically it's best to provide explanation first, then analysis. However, in some cases mixing explanation and analysis as you move from topic to topic works better. What's best depends on your specific essay.
 
-3. **Significance discussion** (required for all students): Explain what your analysis contributes to the academic conversation. [:Developing your significance discussion](#x-developing-your-significance-discussion)
-   - What does your analysis reveal about this criticism?
-   - What's at stake in how this disagreement is resolved?
-   - How does understanding why they reach different conclusions advance understanding of the topic?
-   - What would resolving this disagreement require?
+- **Conclusion (Significance)**: Your significance discussion should reveal why understanding this incompatibility matters. [:Developing your significance discussion](#x-developing-your-significance-discussion)
 
-4. **At least 2 additional sources** beyond target article, commentary, and author's response (if relevant to your analysis). [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
+- **Use of at least 4 academic sources**: The target article, commentary, and author's response can each count as one source. "Use of" means that all sources must be cited in the essay text. [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
 
-5. **Outline**: List all topic sentences from your draft in order, attached at the end of the document after your References section. After completing your draft, read through this outline to verify your argument flows logically and each paragraph advances your thesis.
+Read guidelines on [:using writing from P07](#x-building-on-p07)
+
+2. **Reference list**
+
+Check guidelines on the [Citations](https://ntw-2029.vercel.app/course-ntw2029/resources/citations/#part-2-reference-list)  page.
+
+1. **Simplified outline**: List all topic sentences from your draft in a numbered list, on a new page, after your Reference list. You don't need to highlight the sentences. Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind. As you write the draft, regularly read through the outline to check that your argument flows logically and that each paragraph advances your thesis. If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph) the outline will fairly represent your essay's argument. Consequently, when I give draft feedback before the Week 13 conference, I'll start by commenting on your argument as presented in the outline.
 
 ## Guidelines
 
@@ -93,47 +95,49 @@ Whether discussing significance or identifying limitations, your reasoning must 
 
 The 2750-word maximum gives you space to develop your analysis fully and include everything you want feedback on. However, concise, focused analysis is often stronger than expansive, diffuse discussion. Use the space you need to make your argument effectively.
 
-### Essay Structure
-
-P07 was scaffolding that developed your understanding through verification and thesis development. Now you're writing a complete essay with proper structure. Don't paste P07 sections wholesale—extract insights and place them where they belong:
-
-- Explanation of positions: where it contextualizes the disagreement
-- Verification evidence: where it supports analytical claims about characterization or incompatibility
-- Thesis: in the introduction
-- Analysis: distributed across body paragraphs developing your thesis
-
-Apply essay structure standards from Class 5.2: topic sentences start paragraphs, one idea per paragraph, rename concepts at paragraph starts rather than using pronouns.
-
 ## Feedback
 
 I'll hold a conference after you submit P08 to provide specific guidance for strengthening your analysis in P09. The focus will be on what YOUR paper needs next.
 
 ##### :x building on p07
 
-Revise your P07 draft based on peer feedback before expanding to P08. Your working thesis from P07 should evolve as you continue your analysis. Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
+Don't assume that your P07 will expand into P08 just by adding a few paragraphs. Since P07 was designed to help you with analysis, rather than communicating your conclusions, It's probably better to think of P07 as a resource you can pilliage for P08 material than as a starting draft. Here's how you might use P07 when creating P08:
 
-Your new content will develop the significance discussion and deepen analytical work identified through your own analysis and conference guidance.
+- Thesis
+    - Your working thesis from P07 should evolve as you continue your analysis.
+    - Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
+- Explanation of both positions
+    - A very brief version of your explanation will go in your introduction above your thesis--just enough to set context and make your thesis understandable. The essay body will contain a more detailed version.
+- Verification of disagreement
+    - Your thesis should state what verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
+    - If the verification was straightforward (i.e. target and commentary's claims were both clear and accurate), your explanation will include the verified claims.
+    - If the verification was complicated or nuanced, your explanation will likely present a simple version of the claims, and your analysis will use verification evidence (specific quotes, characterization checks) to support claims about the disagreement.
+- Continuing analysis
+    - Your additional analysis should be reflected in your thesis.
+- Source identification
+    - Your additional sources should be cited in your essay.
 
-**Integrating Your Verification Work:**
+##### :x how to formulate your thesis
 
-Your P07 verification section doesn't need to appear as a separate labeled section in P08. Instead, integrate what you discovered:
+Your thesis should explain why they reach different conclusions based on what your analysis revealed.
 
-- Your thesis should state what verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
-- Your analysis should use verification evidence (specific quotes, characterization checks) to support claims about incompatibility
-- If verification revealed mischaracterization, explain how that affects interpretation of the criticism
+For theoretical disagreements, analysis might identify explicit differences (they define key terms differently, they focus on different aspects of the phenomenon) or explain what drives those differences (implicit assumptions neither author states, structural constraints in their theoretical frameworks, why their positions logically exclude each other).
 
-The verification process shaped your understanding. The integrated essay should reflect that understanding without preserving P07's scaffolding structure.
+For empirical disagreements, analysis might identify explicit differences (they interpret the same data differently, they apply different standards for what counts as evidence) or explain what drives those differences (different views of burden of proof, different methodological commitments that produce different interpretations).
+
+Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities—what matters is accurately explaining the incompatibility you discovered.
 
 ##### :x how to write your introduction
 
 P07 focused on verification and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
 
-- Identifies the target article and commentary you're analyzing
+- Introduces your reader to the academic conversation (the introduction to the puzzle in P2 can be shorter, with less explanation, than in P1)
+- Briefly states the target article's thesis/main conclusion in a way that addresses the puzzle
 - Briefly states what the commentary criticizes
-- Previews your thesis about what drives the disagreement
-- Includes a brief significance statement (1-2 sentences) indicating what understanding this disagreement reveals or contributes
+- States your thesis about what drives the disagreement
+- After the thesis, states a brief significance statement (1-2 sentences) indicating how your thesis (focusing on the disagreement or your analysis of it) contributes to the academic conversation.
 
-Keep your introduction concise. Your reader needs orientation to the specific criticism you're analyzing, not comprehensive background on the entire research area. Most effective introductions are 150-250 words.
+Choose your introduction details carefully, with an aim to not overwhelm the reader. Your reader needs orientation to the specific criticism you're analyzing, not a comprehensive explanation of the articles' positions.
 
 ##### :x developing your significance discussion
 
