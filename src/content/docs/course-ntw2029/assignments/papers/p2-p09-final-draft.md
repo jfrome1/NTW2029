@@ -30,7 +30,7 @@ Your final paper must meet all P08 requirements with revisions based on conferen
 - Target article
 - Commentary article
 - Author's response (if relevant to your analysis)
-- At least 2 additional sources used appropriately to support your analysis
+- At least 1 additional source used appropriately to support your analysis
 
 ## Assessment
 
