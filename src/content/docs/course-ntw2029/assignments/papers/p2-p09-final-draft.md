@@ -110,22 +110,6 @@ Your paper should feel like a genuine contribution to understanding this critici
 
 Your thesis should emerge from your analysis, not motivate it. You've spent P04-P08 building understanding, developing analytical insights, and determining significance. P09 brings all this work together in polished form.
 
-### Checklist
-
-Don't try to save time by using this checklist as a substitute for reading the assignment. The checklist can remind you of some easily-missed aspects of the assignment, but it is not a comprehensive summary of all assignment requirements.
-
-- [ ] 2250-2750 words
-- [ ] Clear explanation of both positions with sufficient context
-- [ ] Analytical thesis stating what makes positions incompatible
-- [ ] Analysis supporting thesis with evidence
-- [ ] Significance discussion explaining your contribution
-- [ ] At least 2 additional sources beyond target, commentary, response
-- [ ] All sources used appropriately (support analysis, don't expand scope)
-- [ ] Thesis emerges from analysis rather than motivating it
-- [ ] Claims supported with evidence and proper citations
-- [ ] Paper revised based on P08 conference guidance
-- [ ] Proofread for clarity, organization, and correctness
-
 ## Feedback
 
 I'll provide a grade and written feedback on your final paper. Your grade will be based on how well you answer the core questions and the depth and sophistication of your analysis.
