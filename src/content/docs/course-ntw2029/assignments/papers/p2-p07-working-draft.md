@@ -1,5 +1,5 @@
 ---
-title: "P07 - Working Draft"
+title: P07 - Working Draft
 date: 2025-10-28
 ---
 
@@ -146,7 +146,7 @@ not requirements.
 
 Remember that verification of the commentary claims is just one step in your paper analysis. Even if your verification reveals that an apparent disagreement doesn't reflect an actual logical conflict, that's a legitimate analytical discovery, not a dead end or a problem with your choice of articles. You'll develop your thesis as you do more analysis.
 
-##### :x how to formulate your thesis
+##### :x how to formulate your working thesis
 
 State what your verification revealed. Your working thesis should be a claim about what prevents these positions from being compatible, based on what you discovered in your verification.
 
@@ -166,7 +166,7 @@ If in your P06 conference I suggested that you already understood the disagreeme
 
 ##### :x How theses develop through P07-P08
 
-For students interested in understanding the developmental process: Your thesis will likely evolve through stages. This is expected, not a sign of problems.
+For students interested in understanding the developmental process: Your thesis will likely evolve through stages. A changing thesis is expected, not a sign of problems.
 
 **Starting point** (what P06 gave you):
 
