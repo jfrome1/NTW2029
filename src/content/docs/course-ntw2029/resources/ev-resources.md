@@ -18,13 +18,15 @@ date: 2025-09-04
 
 ## Simulating evolution
 
-This web series uses computer simulations to explore many interesting ideas about evolution. Learning through these simulations is a different type of experience.
+YouTube channel [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) uses computer simulations to explore many interesting ideas about evolution. Learning through these simulations is a different type of experience.
 
 Below are a few example videos. The whole evolution playlist is [here](https://www.youtube.com/watch?v=oDvzbBRiNlA&list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB).
 
 - [Simulating Natural Selection](https://www.youtube.com/watch?v=0ZGbIKd0XrM)
 - [Simulating the Evolution of Aggression](https://www.youtube.com/watch?v=YNMkADpvO4w)
 - [Simulating Green Beard Altruism](https://www.youtube.com/watch?v=goePYJ74Ydg)
+
+Major YouTube science channel Veritasium borrows this approach (with credit) in the useful video [Simulating The Strange Way Life (Likely) Started](https://youtu.be/XX7PdJIGiCw), which also helpfully discusses altruism and the gene's eye view.
 
 ## Epigenitics
 
