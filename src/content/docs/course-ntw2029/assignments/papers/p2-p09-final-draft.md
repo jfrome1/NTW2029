@@ -18,13 +18,29 @@ Write a final 2250-2750 word paper that includes explanation of both positions, 
 
 ## Requirements
 
-Your final paper must meet all P08 requirements, with improvements based on conference guidance, and revised to reflect class guidance about writing for your target audience. Your content revisions will likely focus on:
+Submit a final paper of 2250-2750 words that includes:
+
+- An introduction with your thesis
+- Explanation of the target article's argument
+- Explanation of the commentary's criticism
+- Explanation of the target's response (if applicable)
+- Analysis supporting your thesis about what drives the disagreement
+- A conclusion discussing what understanding this disagreement contributes
+- A reference list formatted according to the [Citations](/course-ntw2029/resources/citations/#part-2-reference-list) page
+
+Use at least 4 academic sources: target article, commentary, author's response (if applicable), and at least 1 additional source.
+
+These are the same core requirements as P08, revised and polished based on conference guidance.
+
+Your revisions will likely focus on:
+
+**Content revisions:**
 
 - Refining or developing your thesis
 - Strengthening analysis with deeper insights or additional evidence
-- Developing significance discussion to clearly show the impact of your conclusions on the academic conversation
+- Developing significance discussion to clearly show the impact of your conclusions
 
-Your writing revisions will likely focus on:
+**Writing revisions:**
 
 - Revising paragraphs and topic sentences to each convey one main idea
 - Restructuring sentences for optimal flow (X does Y, old then new)
@@ -32,25 +48,42 @@ Your writing revisions will likely focus on:
 - Improving paragraph transitions
 - Using quotations as evidence for your claims and for credibility
 
-Your polishing/proofreading revisions will likely focus on checking:
+**Polishing revisions:**
 
-- in-text and reference list citations
-- consistency in keyterms
-- simple language where possible, nuanced language where needed
-- formatting and assignment requirements
-
-### Source Requirements
-
-- Target article
-- Commentary article
-- Author's response (only if relevant to your analysis)
-- At least 1 additional source used appropriately to support your analysis
+- Checking in-text and reference list citations
+- Ensuring consistency in key terms
+- Using simple language where possible, nuanced language where needed
+- Verifying formatting and assignment requirements
 
 ## Assessment
 
-### Assessment Framework
+Papers are assessed holistically based on the following elements:
+
+**Understanding** - How accurate is the explanation of the target and commentary articles?
+
+**Analysis** - How well-reasoned and well-supported (with quotations and other evidence) is the discussion of what drives the disagreement (e.g. assumptions, definitions, methodological commitments)?
+
+**Significance** - How well does your discussion reveal why understanding this disagreement matters?
+
+**Clarity** - How much mental effort would it take your target audience to read and understand your paper?
+
+**Polish** - How well does your paper meet standards of academic writing and citation?
+
+## Guidelines
+
+### Remember the Process
+
+Your thesis should emerge from your analysis, not motivate it. You've spent P04-P08 building understanding, developing analytical insights, and determining significance. P09 brings all this work together in polished form.
+
+### Your Contribution
+
+Your paper should feel like a genuine contribution to understanding this criticism. You're not just reporting what authors say—you're analyzing what drives their disagreement and revealing why that matters.
+
+### Understanding Performance Expectations
 
 Your paper is assessed on how well you explain both positions, analyze what drives their disagreement, and discuss what understanding this disagreement contributes to the academic conversation.
+
+**Build your foundation first.** Establishing what positions actually claim prepares you to analyze what drives their differences. Understanding what drives differences prepares you to examine consequences. Jumping to implications before establishing what drives disagreement typically produces weak analysis.
 
 **Accurate understanding** of both positions is the foundation. You need to explain what each position claims, using specific textual evidence. If you struggle to explain what the target and commentary actually say—in your own words, with evidence—focus on comprehension before attempting to analyze their disagreement.
 
@@ -62,41 +95,15 @@ Strong analysis examines what drives the disagreement. You might identify underl
 
 Sophisticated analysis moves beyond identifying what drives disagreement to examining its implications. You might analyze what would resolve the disagreement, what theoretical goals make different approaches useful, what's gained and lost with each framework, or why methodological differences matter for the field.
 
-**Build your foundation first.** Establishing what positions actually claim prepares you to analyze what drives their differences. Understanding what drives differences prepares you to examine consequences. Jumping to implications before establishing what drives disagreement typically produces weak analysis.
-
 **Significance discussion** should reveal why understanding this disagreement matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what your analysis shows about different approaches to the phenomenon.
 
 **Clear writing** means each paragraph conveys one main idea, sentences flow logically, evidence supports claims, and the overall argument develops coherently.
 
-### Performance Levels
+**Polish** means meeting standards of academic writing and citation—accurate quotations, proper citations, consistency in key terms, and attention to sentence-level clarity. Finish your main writing in time to review your draft for:
 
-Papers that accurately explain both positions and identify their explicit disagreement meet foundational expectations. Papers that also analyze what drives the disagreement—the assumptions, definitions, or commitments producing different conclusions—demonstrate strong analytical work. Papers that examine implications of the disagreement show sophisticated engagement with the academic conversation.
-
-Strong work typically establishes structural analysis (what drives disagreement) before moving to consequential analysis (what that disagreement reveals). Sophisticated analysis of implications is possible but not required for strong performance.
-
-## Guidelines
-
-### Using Conference Feedback
-
-Focus on the specific guidance you received about strengthening YOUR paper. The conference identified opportunities based on what your P08 draft showed you're capable of doing with your particular articles.
-
-### Polish and Precision
-
-This is your final draft. Review for:
-
-- Clear thesis statement
 - Smooth transitions between ideas
 - Accurate quotations with proper citations
-- Consistent argument throughout
-- Proofread sentences and paragraphs
-
-### Your Contribution
-
-Your paper should feel like a genuine contribution to understanding this criticism. You're not just reporting what authors say—you're analyzing what drives their disagreement and revealing why that matters.
-
-### Remember the Process
-
-Your thesis should emerge from your analysis, not motivate it. You've spent P04-P08 building understanding, developing analytical insights, and determining significance. P09 brings all this work together in polished form.
+- Grammatical sentences and paragraphs
 
 ## Feedback
 
