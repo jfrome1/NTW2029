@@ -48,65 +48,31 @@ Your polishing/proofreading revisions will likely focus on checking:
 
 ## Assessment
 
-**Note:** The percentage breakdown below indicates relative emphasis in assessment and will be reviewed for future iterations. These are not submission requirements but guidance on what aspects of your work receive most attention during evaluation.
+Your paper is assessed on how well you explain both positions, analyze what makes them incompatible, and discuss what understanding this incompatibility contributes to the academic conversation.
 
-All papers are assessed on how well they answer core questions:
+### What We're Looking For
 
-### Understanding (30%)
+**Accurate understanding** of both positions is the foundation. You need to explain what each position claims, using specific textual evidence. If you struggle to explain what the target and commentary actually say—in your own words, with evidence—focus on comprehension before attempting to analyze their disagreement.
 
-- What does the commentary claim is problematic about the target article?
-- What does the target article say or do that the commentary responds to?
-- How do these positions conflict?
+**Analytical depth** comes from answering the question: what makes these positions incompatible?
 
-*You demonstrate stronger performance by: providing accurate explanations with appropriate context, supporting claims with specific evidence, showing clear understanding of both positions*
+Foundational analysis identifies where they explicitly disagree—you show that the disagreement exists and explain what each side claims.
 
-### Analysis (40%)
+Strong analysis examines what drives the disagreement. You might identify underlying assumptions each position relies on, show how different definitions lead to different conclusions, or reveal how methodological commitments constrain what each position can claim. This level analyzes patterns in the disagreement—whether positions are genuinely incompatible or superficially different, what structural factors produce different conclusions.
 
-- What makes these positions incompatible?
-- What assumptions, definitions, or methodological commitments drive different conclusions?
+Sophisticated analysis moves beyond identifying incompatibility to examining its implications. You might analyze what would resolve the disagreement, what theoretical goals make different approaches useful, what's gained and lost with each framework, or why methodological differences matter for the field.
 
-*You demonstrate stronger performance by: identifying sophisticated insights about incompatibility, providing deep analysis with strong supporting evidence, showing nuanced understanding of what drives disagreement*
+**Build your foundation first.** Establishing what positions actually claim prepares you to analyze what drives their differences. Understanding what drives differences prepares you to examine consequences. Jumping to implications before establishing incompatibility typically produces weak analysis.
 
-**Depth is evaluated through the sophistication of your analysis, not as a separate component.** Stronger analysis often addresses questions like: What theoretical goals make different approaches useful? What would it take to resolve this disagreement? What's gained and lost with each position? How do methodological commitments constrain conclusions? Why do these authors approach the problem differently?
+**Significance discussion** should reveal why understanding this incompatibility matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what your analysis shows about different approaches to the phenomenon.
 
-### Significance (20%)
+**Clear writing** means each paragraph conveys one main idea, sentences flow logically, evidence supports claims, and the overall argument develops coherently.
 
-- What does your analysis contribute to the academic conversation?
-- What's at stake in how this disagreement is resolved?
+### Performance Expectations
 
-*You demonstrate stronger performance by: revealing substantive insights about what your analysis shows, connecting your work meaningfully to academic conversation, explaining clearly why understanding this incompatibility matters*
+Papers that accurately explain both positions and identify their explicit disagreement meet foundational expectations. Papers that also analyze what drives the disagreement—the assumptions, definitions, or commitments producing different conclusions—demonstrate strong analytical work. Papers that examine implications of the incompatibility show sophisticated engagement with the academic conversation.
 
-### Clarity & Organization (10%)
-
-- Clear structure, effective transitions, appropriate evidence use, correct citations
-
-### Performance Levels
-
-#### Needs Improvement
-
-- Incomplete, inaccurate, or superficial answers to core questions
-- Superficial analysis ("they just disagree") or unclear reasoning
-- Generic or missing significance discussion
-- Organization or clarity problems
-- Reliance on appeal to authority rather than student's own analysis
-
-#### Meets Basic Requirements
-
-- Clear, accurate answers to core questions with solid supporting analysis
-- Appropriate context and evidence
-- Substantive significance discussion showing what analysis reveals
-- Clear analytical thesis identifying what makes positions incompatible
-
-#### Exceeds Basic Requirements (demonstrates ONE OR MORE of the following)
-
-- Sophisticated answers to core questions revealing non-obvious insights
-- Particularly deep engagement with what drives incompatibility
-- Deep understanding of theoretical frameworks driving positions
-- Integration of multiple analytical approaches
-- Well-executed evaluation grounded in student's own reasoning (not appeal to authority)
-- Especially insightful discussion of what's at stake
-
-**Note:** Developing depth is not about adding separate components. You achieve stronger work through more sophisticated answers to core questions.
+Strong work typically establishes structural analysis (what drives incompatibility) before moving to consequential analysis (what that incompatibility reveals). Sophisticated analysis of implications is possible but not required for strong performance.
 
 ## Guidelines
 
