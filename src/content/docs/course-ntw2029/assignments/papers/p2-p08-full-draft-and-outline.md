@@ -82,7 +82,7 @@ I'll hold a conference after you submit P08 to provide specific guidance for str
 
 ##### :x building on p07
 
-Don't assume that your P07 will expand into P08 just by adding a few paragraphs. Since P07 was designed to help you with analysis, rather than communicating your conclusions, It's probably better to think of P07 as a resource you can pilliage for P08 material than as a starting draft. Here's how you might use P07 when creating P08:
+P07 developed your analytical understanding through verification and thesis development. P08 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how P07 work carries forward into P08:
 
 - Thesis
     - Your working thesis from P07 should evolve as you continue your analysis.
@@ -116,7 +116,7 @@ P07 focused on verification and thesis development without framing. Now that you
 - Briefly states the target article's thesis/main conclusion in a way that addresses the puzzle
 - Briefly states what the commentary criticizes
 - States your thesis about what drives the disagreement
-- After the thesis, states a brief significance statement (1-2 sentences) indicating what your analysis reveals about what drives the disagreement.
+- After the thesis, states a brief significance statement (1-2 sentences) indicating what understanding this disagreement reveals.
 
 Choose your introduction details carefully, with an aim to not overwhelm the reader. Your reader needs orientation to the specific criticism you're analyzing, not a comprehensive explanation of the articles' positions.
 
@@ -127,7 +127,7 @@ Your significance discussion should reveal why understanding this disagreement m
 **Good examples of significance discussion:**
 
 - "Understanding this disagreement matters because it reveals that the conflict isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
-- "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
+- "Understanding this disagreement reveals that both positions may be correct within their respective methodological frameworks, suggesting the conflict stems from different research goals rather than incompatible claims"
 
 **Not acceptable:**
 
