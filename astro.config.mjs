@@ -9,6 +9,15 @@ import starlightAutoDrafts from "starlight-auto-drafts";
 export default defineConfig({
   integrations: [
     starlight({
+      head: [
+        {
+          tag: 'script',
+          attrs: {
+            src: '/scripts/version-checker.js', 
+            async: true, 
+          },
+        },
+      ],
       plugins: [
         starlightLinksValidator({
           errorOnFallbackPages: false,
