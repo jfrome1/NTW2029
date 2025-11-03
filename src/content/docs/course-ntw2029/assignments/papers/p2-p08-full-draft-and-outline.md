@@ -63,7 +63,7 @@ The conference will help you identify specific opportunities to strengthen your 
 - Explaining why different approaches might suit different research questions
 - Identifying what assumptions would need to be true for each position
 
-Not all papers will develop depth in the same way. What matters is strengthening YOUR paper's particular analysis.
+Not all papers will develop depth in the same way. What matters is strengthening each paper's particular analysis.
 
 Depth often comes from getting below the surface to understand what implicit issues the disagreement reflects. This doesn't mean being clever for its own sake. It means:
 
@@ -74,7 +74,7 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 ### If You Identify Limitations
 
-If your analysis reveals specific limitations in one position's reasoning, you may discuss those limitations in P08, BUT your reasoning must emerge from YOUR analysis—not appeal to authority.
+If your analysis reveals specific limitations in one position's reasoning, you may discuss those limitations in P08, but your reasoning must emerge from your own analysis—not appeal to authority.
 
 Frame limitations as consequences or implications rather than declarations of which side is right:
 
@@ -85,11 +85,11 @@ Frame limitations as consequences or implications rather than declarations of wh
 "Smith is wrong because Jones says so" (appeal to authority)
 "Jones is right and Smith is wrong" (side-picking without analytical support)
 
-Your discussion of limitations must emerge from YOUR analysis of assumptions, evidence, or methods, supported by additional sources or logical analysis you provide. Present it as explaining consequences of differences, not advocating for winners.
+Your discussion of limitations must emerge from your own analysis of assumptions, evidence, or methods, supported by additional sources or logical analysis you provide. Present it as explaining consequences of differences, not advocating for winners.
 
 ### Your Analysis Should Drive Everything
 
-Whether discussing significance or identifying limitations, your reasoning must be something YOU contribute. Don't just cite one author against another—develop your own analytical insights supported by evidence and reasoning.
+Whether discussing significance or identifying limitations, your reasoning must be something you contribute. Don't just cite one author against another—develop your own analytical insights supported by evidence and reasoning.
 
 ### Word Count as Maximum
 
@@ -97,7 +97,7 @@ The 2750-word maximum gives you space to develop your analysis fully and include
 
 ## Feedback
 
-I'll hold a conference after you submit P08 to provide specific guidance for strengthening your analysis in P09. The focus will be on what YOUR paper needs next.
+I'll hold a conference after you submit P08 to provide specific guidance for strengthening your analysis in P09. The focus will be on what your particular paper needs next.
 
 ##### :x building on p07
 
