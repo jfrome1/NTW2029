@@ -147,7 +147,6 @@ Your significance discussion should reveal why understanding this incompatibilit
 
 - "Understanding this incompatibility matters because it reveals that disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
-- "This incompatibility reveals a fundamental tension between adaptation and byproduct explanations that affects how researchers design studies and interpret evidence across evolutionary psychology"
 
 **Not acceptable:**
 
