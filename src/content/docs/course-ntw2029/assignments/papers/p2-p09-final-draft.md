@@ -48,9 +48,9 @@ Your polishing/proofreading revisions will likely focus on checking:
 
 ## Assessment
 
-Your paper is assessed on how well you explain both positions, analyze what drives their disagreement, and discuss what understanding this disagreement contributes to the academic conversation.
+### Assessment Framework
 
-### What We're Looking For
+Your paper is assessed on how well you explain both positions, analyze what drives their disagreement, and discuss what understanding this disagreement contributes to the academic conversation.
 
 **Accurate understanding** of both positions is the foundation. You need to explain what each position claims, using specific textual evidence. If you struggle to explain what the target and commentary actually say—in your own words, with evidence—focus on comprehension before attempting to analyze their disagreement.
 
@@ -68,7 +68,7 @@ Sophisticated analysis moves beyond identifying what drives disagreement to exam
 
 **Clear writing** means each paragraph conveys one main idea, sentences flow logically, evidence supports claims, and the overall argument develops coherently.
 
-### Performance Expectations
+### Performance Levels
 
 Papers that accurately explain both positions and identify their explicit disagreement meet foundational expectations. Papers that also analyze what drives the disagreement—the assumptions, definitions, or commitments producing different conclusions—demonstrate strong analytical work. Papers that examine implications of the disagreement show sophisticated engagement with the academic conversation.
 
