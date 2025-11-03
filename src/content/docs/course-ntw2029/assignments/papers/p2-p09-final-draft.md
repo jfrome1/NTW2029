@@ -1,11 +1,6 @@
 ---
 title: P09-Final Draft
 date: 2025-10-19
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
@@ -107,4 +102,4 @@ Sophisticated analysis moves beyond identifying what drives disagreement to exam
 
 ## Feedback
 
-I'll provide a grade and written feedback on your final paper. Your grade will be based on how well you answer the core questions and the depth and sophistication of your analysis.
+I'll provide a grade and written or recorded feedback on your final paper. Your grade will be based on how the assessment questions and the depth and sophistication of your analysis.

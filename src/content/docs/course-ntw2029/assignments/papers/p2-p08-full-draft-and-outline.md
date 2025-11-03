@@ -1,11 +1,6 @@
 ---
 title: P08 - Full Draft and Outline
 date: 2025-10-18
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
@@ -74,7 +69,7 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 ## Feedback
 
-I'll hold a conference after you submit P08 to provide specific guidance for strengthening your analysis in P09. The focus will be on what your particular paper needs next.
+You'll receive recorded feedback on P08 to discuss in a conference during Week 13.
 
 ##### :x using writing from P07
 
