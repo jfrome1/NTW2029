@@ -28,7 +28,7 @@ Your draft should include:
 
 - **Body (Explanation and Analysis)**: Explain the target article's argument, the commentary's criticism, and (if applicable) the target's response. Analyze the disagreement to support your thesis. Typically it's best to provide explanation first, then analysis. However, in some cases mixing explanation and analysis as you move from topic to topic works better. What's best depends on your specific essay.
 
-- **Conclusion (Significance)**: Your significance discussion should reveal why understanding this incompatibility matters. [:Developing your significance discussion](#x-developing-your-significance-discussion)
+- **Conclusion (Significance)**: Your significance discussion should reveal why understanding this disagreement matters. [:Developing your significance discussion](#x-developing-your-significance-discussion)
 
 - **Use of at least 4 academic sources**: The target article, commentary, and author's response can each count as one source. "Use of" means that all sources must be cited in the essay text. [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
 
@@ -141,11 +141,11 @@ Choose your introduction details carefully, with an aim to not overwhelm the rea
 
 ##### :x developing your significance discussion
 
-Your significance discussion should reveal why understanding this incompatibility matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what understanding the disagreement shows about different approaches to the phenomenon.
+Your significance discussion should reveal why understanding this disagreement matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what understanding the disagreement shows about different approaches to the phenomenon.
 
 **Good examples of significance discussion:**
 
-- "Understanding this incompatibility matters because it reveals that disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
+- "Understanding this disagreement matters because it reveals that the conflict isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
 
 **Not acceptable:**
@@ -154,16 +154,16 @@ Your significance discussion should reveal why understanding this incompatibilit
 - Teaching mode ("students should care about this because...")
 - Moralizing ("shows need for clarity")
 - Just summarizing stakes the authors mention without showing what understanding the disagreement reveals
-- Framing your analysis as the significant thing ("my analysis shows..." or "this analysis reveals...") rather than what understanding the incompatibility reveals
+- Framing your analysis as the significant thing ("my analysis shows..." or "this analysis reveals...") rather than what understanding the disagreement reveals
 
-Your significance must show one specific consequence that connects directly to understanding the incompatibility. It should name what becomes difficult, unclear, or unresolvable, and connect to specific research questions or methodological choices.
+Your significance must show one specific consequence that connects directly to understanding the disagreement. It should name what becomes difficult, unclear, or unresolvable, and connect to specific research questions or methodological choices.
 
 **Placing Your Significance Discussion:**
 
 Your paper should reference significance twice:
 
-1. **Introduction:** After your thesis preview, include 1-2 sentences indicating what your analysis will reveal
-2. **Conclusion:** Develop your full significance discussion here, explaining what your analysis contributes to the academic conversation
+1. **Introduction:** After your thesis preview, include 1-2 sentences indicating what understanding this disagreement reveals
+2. **Conclusion:** Develop your full significance discussion here, explaining what understanding this disagreement contributes to the academic conversation
 
 The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them to expect significance; your conclusion delivers it.
 
