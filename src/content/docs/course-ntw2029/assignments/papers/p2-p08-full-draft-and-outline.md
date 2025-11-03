@@ -122,24 +122,31 @@ Choose your introduction details carefully, with an aim to not overwhelm the rea
 
 ##### :x developing your significance discussion
 
-In P05, you answered a question about the significance of the criticism for the target article's argument: what would be the consequences if the commentary is correct? That question focused on whether the commentary's criticism mattered.
+Your significance discussion should reveal why understanding this disagreement matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what understanding the disagreement reveals about different approaches to the phenomenon.
 
-Now you must address a different type of significance: what your analysis of why they disagree reveals about how scholars approach this phenomenon, methodology, or the field.
+**Good examples of significance discussion:**
 
-**The connection between thesis and significance:**
+- "Understanding this disagreement matters because it reveals that the conflict isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
+- "Understanding this disagreement reveals that both positions may be correct within their respective methodological frameworks, suggesting the conflict stems from different research goals rather than incompatible claims"
 
-Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals—what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
+**Not acceptable:**
 
-[:Example showing thesis-significance connection](#x-example-photography-and-artistic-status)
+- Generic statements ("this matters because it's important," "more research needed")
+- Teaching mode ("students should care about this because...")
+- Moralizing ("shows need for clarity")
+- Just summarizing stakes the authors mention without showing what understanding the disagreement reveals
+- Framing your analysis as the significant thing ("my analysis shows..." or "this analysis reveals...") rather than what understanding the disagreement reveals
+
+Your significance must show one specific consequence that connects directly to understanding the disagreement. It should name what becomes difficult, unclear, or unresolvable, and connect to specific research questions or methodological choices.
 
 **Placing Your Significance Discussion:**
 
 Your paper should reference significance twice:
 
-1. **Introduction:** After your thesis, include 1-2 sentences previewing what understanding this disagreement reveals
-2. **Conclusion:** Develop your full significance discussion here, explaining what understanding why they disagree contributes to the academic conversation
+1. **Introduction:** After your thesis preview, include 1-2 sentences indicating what understanding this disagreement reveals
+2. **Conclusion:** Develop your full significance discussion here, explaining what understanding this disagreement contributes to the academic conversation
 
-The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
+The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them to expect significance; your conclusion delivers it.
 
 ##### :x using additional sources appropriately
 
@@ -166,20 +173,3 @@ Keep the outline updated as you write your full draft. I suggest going back and 
 As you write the draft, regularly read through the outline to check that your argument flows logically and that each paragraph advances your thesis. If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph) the outline will fairly represent your essay's argument.
 
 When I give draft feedback before the Week 13 conference, I'll start by commenting on your argument as presented in the outline.
-
-##### :x example-photography-and-artistic-status
-
-**Poor thesis:**
-- Thesis: "They disagree about whether photography qualifies as art—the target argues photography is art, the commentary argues photography is merely mechanical reproduction"
-- Significance: "Understanding this disagreement is important because photography is widely used and resolving whether it's art matters for the field"
-- Why this fails: This thesis just identifies opposing positions without explaining what drives them. The significance has nowhere to go except generic importance claims. The analysis tells us nothing beyond what we already knew from reading that they disagree.
-
-**Fine thesis:**
-- Thesis: "They disagree because they define art differently—the target defines art by aesthetic response while the commentary requires intentional creative control over composition"
-- Significance: "Understanding this definitional disagreement reveals that these scholars evaluate photography against incompatible criteria, which explains why they reach opposite conclusions about the same medium"
-- Why this works: The thesis identifies the explicit difference that drives disagreement. The significance explains what this reveals about these authors' frameworks—an article-level observation that's accurate and meaningful but doesn't extend to field-level claims.
-
-**Strong thesis:**
-- Thesis: "The commentary characterizes the target as claiming photographers 'create' images, but the target's actual claim is that photographers 'select and frame' existing visual arrangements. This disconnect reveals that the ordinary concept of 'artistic creation' conflates two distinct activities—generating new configurations versus recognizing and isolating existing ones. The commentary treats only generation as creation, while the target argues recognition and isolation constitute creative acts. Settling this dispute requires specifying whether 'creation' in art requires bringing configurations into existence or whether it includes making configurations visible through selection"
-- Significance: "Understanding this conceptual ambiguity reveals why debates about photography's artistic status persist despite extensive discussion—the term 'creation' carries unexamined assumptions about what artistic activity involves. This pattern extends to other selection-based practices (found art, readymades, curatorial work), suggesting that progress requires explicit theorization of whether art-making requires generation or whether strategic selection qualifies"
-- Why this works: The thesis reveals a conceptual ambiguity that neither author acknowledges but which drives the entire disagreement. The significance can now make field-level claims about patterns across debates and what's required for progress because the analysis exposes something structural rather than just identifying explicit differences.
