@@ -38,7 +38,7 @@ Read guidelines on [:using writing from P07](#x-building-on-p07)
 
 Check guidelines on the [Citations](https://ntw-2029.vercel.app/course-ntw2029/resources/citations/#part-2-reference-list)  page.
 
-3. **Simplified outline**: Create an outline of your draft's topic sentences. [:How to create and use your outline](#x-outline)
+3. **Simplified outline**: Create an outline of your draft's topic sentences. [:How to create and use your outline](#x-how-to-create-and-use-your-outline)
 
 ## Guidelines
 
@@ -76,7 +76,7 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 I'll hold a conference after you submit P08 to provide specific guidance for strengthening your analysis in P09. The focus will be on what your particular paper needs next.
 
-##### :x building on p07
+##### :x using writing from P07
 
 P07 developed your analytical understanding through verification and thesis development. P08 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how P07 work carries forward into P08:
 
@@ -126,7 +126,7 @@ Now you must address a _different_ type of significance: what your analysis of w
 
 Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals—what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
 
-[:Example showing different levels of thesis and significance](#x-example-thesis-significance-connection)
+[:Example showing different levels of thesis and significance](#x-example-showing-different-levels-of-thesis-and-significance)
 
 **Placing Your Significance Discussion:**
 
@@ -137,7 +137,7 @@ Your paper should reference significance twice:
 
 The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
 
-###### :x example-thesis-significance-connection
+###### :x Example showing different levels of thesis and significance
 
 **Limited thesis and significance:**
 
@@ -173,7 +173,7 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 
 Keep focus on analyzing the disagreement between target and commentary, using additional sources to support that analysis.
 
-##### :x how to create and use your outline
+##### :x How to create and use your outline
 
 Create your outline by extracting all topic sentences from your draft in order. List them in a numbered list on a new page after your Reference list. You don't need to highlight the sentences.
 
