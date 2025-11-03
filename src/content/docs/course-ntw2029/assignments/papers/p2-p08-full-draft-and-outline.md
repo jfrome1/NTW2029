@@ -10,7 +10,7 @@ sidebar:
 
 ## Purpose
 
-This assignment helps you expand your P07 working draft into a full draft and simplified outline.
+This assignment helps you build on your P2 work to produce a full draft and simplified outline.
 
 ## Overview
 
@@ -54,7 +54,7 @@ Stronger analysis often addresses one or more of these questions:
 - What patterns or structures drive the disagreement that neither author explicitly names?
 - What makes this disagreement harder to resolve than it appears on the surface?
 
-The conference will help you identify specific opportunities to deepen YOUR analysis based on what your draft shows. Possible directions include:
+The conference will help you identify specific opportunities to strengthen your paper's analysis based on what your draft shows. Possible directions include:
 
 - Examining other commentaries on the same issue
 - Evaluating empirical studies cited by either author
