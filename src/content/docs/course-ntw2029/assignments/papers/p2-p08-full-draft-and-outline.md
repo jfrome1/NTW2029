@@ -1,11 +1,6 @@
 ---
-title: "P08 - Full Draft and Outline"
+title: P08 - Full Draft and Outline
 date: 2025-10-18
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
