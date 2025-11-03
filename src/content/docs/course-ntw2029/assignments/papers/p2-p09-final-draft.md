@@ -18,18 +18,32 @@ Write a final 2250-2750 word paper that includes explanation of both positions, 
 
 ## Requirements
 
-Your final paper must meet all P08 requirements with revisions based on conference guidance. Focus on:
+Your final paper must meet all P08 requirements, with improvements based on conference guidance, and revised to reflect class guidance about writing for your target audience. Your content revisions will likely focus on:
 
-- Refining your analytical thesis based on conference discussion
+- Refining or developing your thesis
 - Strengthening analysis with deeper insights or additional evidence
-- Developing significance discussion to clearly show your contribution
-- Polishing for clarity, organization, and precision
+- Developing significance discussion to clearly show the impact of your conclusions on the academic conversation
+
+Your writing revisions will likely focus on:
+
+- Revising paragraphs and topic sentences to each convey one main idea
+- Restructuring sentences for optimal flow (X does Y, old then new)
+- Reducing wordiness (Paramedic method, delete empty phrases)
+- Improving paragraph transitions
+- Using quotations as evidence for your claims and for credibility
+
+Your polishing/proofreading revisions will likely focus on checking:
+
+- in-text and reference list citations
+- consistency in keyterms
+- simple language where possible, nuanced language where needed
+- formatting and assignment requirements
 
 ### Source Requirements
 
 - Target article
 - Commentary article
-- Author's response (if relevant to your analysis)
+- Author's response (only if relevant to your analysis)
 - At least 1 additional source used appropriately to support your analysis
 
 ## Assessment
@@ -39,6 +53,7 @@ Your final paper must meet all P08 requirements with revisions based on conferen
 All papers are assessed on how well they answer core questions:
 
 ### Understanding (30%)
+
 - What does the commentary claim is problematic about the target article?
 - What does the target article say or do that the commentary responds to?
 - How do these positions conflict?
@@ -46,6 +61,7 @@ All papers are assessed on how well they answer core questions:
 *You demonstrate stronger performance by: providing accurate explanations with appropriate context, supporting claims with specific evidence, showing clear understanding of both positions*
 
 ### Analysis (40%)
+
 - What makes these positions incompatible?
 - What assumptions, definitions, or methodological commitments drive different conclusions?
 
@@ -54,17 +70,20 @@ All papers are assessed on how well they answer core questions:
 **Depth is evaluated through the sophistication of your analysis, not as a separate component.** Stronger analysis often addresses questions like: What theoretical goals make different approaches useful? What would it take to resolve this disagreement? What's gained and lost with each position? How do methodological commitments constrain conclusions? Why do these authors approach the problem differently?
 
 ### Significance (20%)
+
 - What does your analysis contribute to the academic conversation?
 - What's at stake in how this disagreement is resolved?
 
 *You demonstrate stronger performance by: revealing substantive insights about what your analysis shows, connecting your work meaningfully to academic conversation, explaining clearly why understanding this incompatibility matters*
 
 ### Clarity & Organization (10%)
+
 - Clear structure, effective transitions, appropriate evidence use, correct citations
 
 ### Performance Levels
 
 #### Needs Improvement
+
 - Incomplete, inaccurate, or superficial answers to core questions
 - Superficial analysis ("they just disagree") or unclear reasoning
 - Generic or missing significance discussion
@@ -72,12 +91,14 @@ All papers are assessed on how well they answer core questions:
 - Reliance on appeal to authority rather than student's own analysis
 
 #### Meets Basic Requirements
+
 - Clear, accurate answers to core questions with solid supporting analysis
 - Appropriate context and evidence
 - Substantive significance discussion showing what analysis reveals
 - Clear analytical thesis identifying what makes positions incompatible
 
 #### Exceeds Basic Requirements (demonstrates ONE OR MORE of the following)
+
 - Sophisticated answers to core questions revealing non-obvious insights
 - Particularly deep engagement with what drives incompatibility
 - Deep understanding of theoretical frameworks driving positions
@@ -96,6 +117,7 @@ Focus on the specific guidance you received about strengthening YOUR paper. The 
 ### Polish and Precision
 
 This is your final draft. Review for:
+
 - Clear thesis statement
 - Smooth transitions between ideas
 - Accurate quotations with proper citations
