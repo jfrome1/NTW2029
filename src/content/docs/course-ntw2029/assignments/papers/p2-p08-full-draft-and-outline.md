@@ -32,7 +32,7 @@ Your draft should include:
 
 - **Use of at least 4 academic sources**: The target article, commentary, and author's response can each count as one source. "Use of" means that all sources must be cited in the essay text. [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
 
-Read guidelines on [:using writing from P07](#x-building-on-p07)
+Read guidelines on [:using writing from P07](#x-using-writing-from-p07)
 
 2. **Reference list**
 
