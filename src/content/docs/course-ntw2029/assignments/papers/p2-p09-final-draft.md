@@ -10,7 +10,7 @@ sidebar:
 
 ## Purpose
 
-This assignment is your opportunity to polish and finalize your paper based on P08 conference guidance. You'll refine your analysis, strengthen your significance discussion, and ensure your paper represents your best work contributing to the academic conversation about your chosen criticism.
+This assignment develops your ability to refine analytical arguments based on targeted feedback and polish academic writing through systematic revision. You'll strengthen skills in evaluating your own analysis, identifying areas for development, and transforming draft insights into finished scholarly work.
 
 ## Overview
 
