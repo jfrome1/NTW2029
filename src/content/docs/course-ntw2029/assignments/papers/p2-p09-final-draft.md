@@ -14,7 +14,7 @@ This assignment is your opportunity to polish and finalize your paper based on P
 
 ## Overview
 
-Write a final 2250-2750 word paper that includes explanation of both positions, analytical thesis about what makes them incompatible, analysis supporting your thesis, and discussion of what your analysis contributes. Revise based on P08 conference guidance to strengthen specific aspects of your analysis.
+Write a final 2250-2750 word paper that includes explanation of both positions, analytical thesis about what drives their disagreement, analysis supporting your thesis, and discussion of what understanding this disagreement contributes. Revise based on P08 conference guidance to strengthen specific aspects of your analysis.
 
 ## Requirements
 
@@ -48,31 +48,31 @@ Your polishing/proofreading revisions will likely focus on checking:
 
 ## Assessment
 
-Your paper is assessed on how well you explain both positions, analyze what makes them incompatible, and discuss what understanding this incompatibility contributes to the academic conversation.
+Your paper is assessed on how well you explain both positions, analyze what drives their disagreement, and discuss what understanding this disagreement contributes to the academic conversation.
 
 ### What We're Looking For
 
 **Accurate understanding** of both positions is the foundation. You need to explain what each position claims, using specific textual evidence. If you struggle to explain what the target and commentary actually say—in your own words, with evidence—focus on comprehension before attempting to analyze their disagreement.
 
-**Analytical depth** comes from answering the question: what makes these positions incompatible?
+**Analytical depth** comes from answering the question: what drives this disagreement?
 
 Foundational analysis identifies where they explicitly disagree—you show that the disagreement exists and explain what each side claims.
 
-Strong analysis examines what drives the disagreement. You might identify underlying assumptions each position relies on, show how different definitions lead to different conclusions, or reveal how methodological commitments constrain what each position can claim. This level analyzes patterns in the disagreement—whether positions are genuinely incompatible or superficially different, what structural factors produce different conclusions.
+Strong analysis examines what drives the disagreement. You might identify underlying assumptions each position relies on, show how different definitions lead to different conclusions, or reveal how methodological commitments constrain what each position can claim. This level analyzes patterns in the disagreement—what structural factors produce different conclusions, whether positions are genuinely incompatible or addressing different questions.
 
-Sophisticated analysis moves beyond identifying incompatibility to examining its implications. You might analyze what would resolve the disagreement, what theoretical goals make different approaches useful, what's gained and lost with each framework, or why methodological differences matter for the field.
+Sophisticated analysis moves beyond identifying what drives disagreement to examining its implications. You might analyze what would resolve the disagreement, what theoretical goals make different approaches useful, what's gained and lost with each framework, or why methodological differences matter for the field.
 
-**Build your foundation first.** Establishing what positions actually claim prepares you to analyze what drives their differences. Understanding what drives differences prepares you to examine consequences. Jumping to implications before establishing incompatibility typically produces weak analysis.
+**Build your foundation first.** Establishing what positions actually claim prepares you to analyze what drives their differences. Understanding what drives differences prepares you to examine consequences. Jumping to implications before establishing what drives disagreement typically produces weak analysis.
 
-**Significance discussion** should reveal why understanding this incompatibility matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what your analysis shows about different approaches to the phenomenon.
+**Significance discussion** should reveal why understanding this disagreement matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what your analysis shows about different approaches to the phenomenon.
 
 **Clear writing** means each paragraph conveys one main idea, sentences flow logically, evidence supports claims, and the overall argument develops coherently.
 
 ### Performance Expectations
 
-Papers that accurately explain both positions and identify their explicit disagreement meet foundational expectations. Papers that also analyze what drives the disagreement—the assumptions, definitions, or commitments producing different conclusions—demonstrate strong analytical work. Papers that examine implications of the incompatibility show sophisticated engagement with the academic conversation.
+Papers that accurately explain both positions and identify their explicit disagreement meet foundational expectations. Papers that also analyze what drives the disagreement—the assumptions, definitions, or commitments producing different conclusions—demonstrate strong analytical work. Papers that examine implications of the disagreement show sophisticated engagement with the academic conversation.
 
-Strong work typically establishes structural analysis (what drives incompatibility) before moving to consequential analysis (what that incompatibility reveals). Sophisticated analysis of implications is possible but not required for strong performance.
+Strong work typically establishes structural analysis (what drives disagreement) before moving to consequential analysis (what that disagreement reveals). Sophisticated analysis of implications is possible but not required for strong performance.
 
 ## Guidelines
 
@@ -92,7 +92,7 @@ This is your final draft. Review for:
 
 ### Your Contribution
 
-Your paper should feel like a genuine contribution to understanding this criticism. You're not just reporting what authors say—you're analyzing what makes their positions incompatible and revealing why that matters.
+Your paper should feel like a genuine contribution to understanding this criticism. You're not just reporting what authors say—you're analyzing what drives their disagreement and revealing why that matters.
 
 ### Remember the Process
 
