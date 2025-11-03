@@ -120,7 +120,7 @@ Choose your introduction details carefully, with an aim to not overwhelm the rea
 
 In P05, you answered a question about the significance of the criticism for the target article's argument: what would be the consequences if the commentary is correct? That question focused on whether the commentary's criticism mattered.
 
-Now you must address a different type of significance: what your analysis of why they disagree reveals about how scholars approach this phenomenon, methodology, or the field.
+Now you must address a _different_ type of significance: what your analysis of why they disagree reveals about how scholars approach this phenomenon, methodology, or the field.
 
 **The connection between thesis and significance:**
 
