@@ -72,10 +72,6 @@ Depth often comes from getting below the surface to understand what implicit iss
 - Recognizing structural features of their approaches that explain why the disagreement persists
 - Revealing patterns that neither author explicitly names
 
-### Word Count as Maximum
-
-The 2750-word maximum gives you space to develop your analysis fully and include everything you want feedback on. However, concise, focused analysis is often stronger than expansive, diffuse discussion. Use the space you need to make your argument effectively.
-
 ## Feedback
 
 I'll hold a conference after you submit P08 to provide specific guidance for strengthening your analysis in P09. The focus will be on what your particular paper needs next.
@@ -130,22 +126,25 @@ Now you must address a different type of significance: what your analysis of why
 
 Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals—what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
 
-**Example: Photography and artistic status**
+**Example: Different Levels of Paper Thesis/Significance:**
 
-**Poor thesis:**
-- Thesis: "They disagree about whether photography qualifies as art—the target argues photography is art, the commentary argues photography is merely mechanical reproduction"
-- Significance: "Understanding this disagreement is important because photography is widely used and resolving whether it's art matters for the field"
-- Why this fails: This thesis just identifies opposing positions without explaining what drives them. The significance has nowhere to go except generic importance claims. The analysis tells us nothing beyond what we already knew from reading that they disagree.
+**Limited thesis and significance:**
 
-**Fine thesis:**
-- Thesis: "They disagree because they define art differently—the target defines art by aesthetic response while the commentary requires intentional creative control over composition"
-- Significance: "Understanding this definitional disagreement reveals that these scholars evaluate photography against incompatible criteria, which explains why they reach opposite conclusions about the same medium"
+- Thesis: "They disagree about whether photography qualifies as art; the target argues photography is art, the commentary argues photography is merely mechanical reproduction."
+- Significance: "Understanding this disagreement is important because photography is widely used and resolving whether it's art matters for the field."
+- Why this fails: This thesis just identifies opposing positions without explaining what drives them, so it doesn't add much to the academic conversation. Thus, the significance claim is limited to stating that the topic is important, without reference to what the paper contributes.
+
+**Satisfactory thesis and significance:**
+
+- Thesis: "They disagree about photography's status as art because they rely on different definitions of art. The target defines on art by aesthetic response while the commentary defines it as an act of creative intention."
+- Significance: "Understanding this definitional disagreement reveals that resolving the debate requires prior agreement on whether art is defined by production or reception, not more analysis of photography's features."
 - Why this works: The thesis identifies the explicit difference that drives disagreement. The significance explains what this reveals about these authors' frameworks—an article-level observation that's accurate and meaningful but doesn't extend to field-level claims.
 
-**Strong thesis:**
-- Thesis: "The commentary characterizes the target as claiming photographers 'create' images, but the target's actual claim is that photographers 'select and frame' existing visual arrangements. This disconnect reveals that the ordinary concept of 'artistic creation' conflates two distinct activities—generating new configurations versus recognizing and isolating existing ones. The commentary treats only generation as creation, while the target argues recognition and isolation constitute creative acts. Settling this dispute requires specifying whether 'creation' in art requires bringing configurations into existence or whether it includes making configurations visible through selection"
-- Significance: "Understanding this conceptual ambiguity reveals why debates about photography's artistic status persist despite extensive discussion—the term 'creation' carries unexamined assumptions about what artistic activity involves. This pattern extends to other selection-based practices (found art, readymades, curatorial work), suggesting that progress requires explicit theorization of whether art-making requires generation or whether strategic selection qualifies"
-- Why this works: The thesis reveals a conceptual ambiguity that neither author acknowledges but which drives the entire disagreement. The significance can now make field-level claims about patterns across debates and what's required for progress because the analysis exposes something structural rather than just identifying explicit differences.
+**Strong thesis and significance:**
+
+- Thesis: "The commentary characterizes the target as claiming photographers 'create' images, but the target's actual claim is that photographers 'select and frame' existing visual arrangements. This disconnect reveals that the ordinary concept of 'artistic creation' conflates two distinct activities—generating new configurations versus recognizing and isolating existing ones."
+- Significance: "Understanding this conceptual ambiguity reveals why debates about photography's artistic status persist despite extensive discussion—the term 'creation' carries unexamined assumptions about what artistic activity involves. This pattern extends to other selection-based practices (found art, readymades, curatorial work), suggesting that progress on this topic requires more specification of the ordinary-language concept of "creating art."
+- Why this works: The thesis reveals a conceptual ambiguity that neither author acknowledges but which drives the entire disagreement. The significance extends beyond the particular dispute between the target and commentary articles because it exposes a conceptual problem in the academic conversation as a whole.
 
 **Placing Your Significance Discussion:**
 
