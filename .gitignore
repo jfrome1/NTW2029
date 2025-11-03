@@ -38,6 +38,19 @@ Thumbs.db
 temp/
 tmp/
 
+# Office temp files
+~$*
+
+# Git conflict artifacts
+*.rej
+*.orig
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # Astro specific
 .astro/
 .vercel
@@ -58,11 +71,8 @@ coverage/
 .eslintcache
 .stylelintcache
 
-# Working folders (ignores any folder beginning with underscore)
-# uncomment the next line if you want to ignore such folders
-# _*/
-
 # Shortcuts
 *.lnk
 
+# Package manager lock files
 pnpm-lock.yaml
