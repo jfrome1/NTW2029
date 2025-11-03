@@ -72,25 +72,6 @@ Depth often comes from getting below the surface to understand what implicit iss
 - Recognizing structural features of their approaches that explain why the disagreement persists
 - Revealing patterns that neither author explicitly names
 
-### If You Identify Limitations
-
-If your analysis reveals specific limitations in one position's reasoning, you may discuss those limitations in P08, but your reasoning must emerge from your own analysis—not appeal to authority.
-
-Frame limitations as consequences or implications rather than declarations of which side is right:
-
-**Appropriate framing:**
-"Smith's argument relies on assumption X. If X doesn't hold [explain why it might not, with evidence], then [explain consequences for Smith's conclusion]"
-
-**Not appropriate:**
-"Smith is wrong because Jones says so" (appeal to authority)
-"Jones is right and Smith is wrong" (side-picking without analytical support)
-
-Your discussion of limitations must emerge from your own analysis of assumptions, evidence, or methods, supported by additional sources or logical analysis you provide. Present it as explaining consequences of differences, not advocating for winners.
-
-### Your Analysis Should Drive Everything
-
-Whether discussing significance or identifying limitations, your reasoning must be something you contribute. Don't just cite one author against another—develop your own analytical insights supported by evidence and reasoning.
-
 ### Word Count as Maximum
 
 The 2750-word maximum gives you space to develop your analysis fully and include everything you want feedback on. However, concise, focused analysis is often stronger than expansive, diffuse discussion. Use the space you need to make your argument effectively.
@@ -125,7 +106,7 @@ For theoretical disagreements, analysis might identify explicit differences (the
 
 For empirical disagreements, analysis might identify explicit differences (they interpret the same data differently, they apply different standards for what counts as evidence) or explain what drives those differences (different views of burden of proof, different methodological commitments that produce different interpretations).
 
-Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities—what matters is accurately explaining the incompatibility you discovered.
+Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities—what matters is accurately explaining the disagreement you discovered.
 
 ##### :x how to write your introduction
 
@@ -135,7 +116,7 @@ P07 focused on verification and thesis development without framing. Now that you
 - Briefly states the target article's thesis/main conclusion in a way that addresses the puzzle
 - Briefly states what the commentary criticizes
 - States your thesis about what drives the disagreement
-- After the thesis, states a brief significance statement (1-2 sentences) indicating how your thesis (focusing on the disagreement or your analysis of it) contributes to the academic conversation.
+- After the thesis, states a brief significance statement (1-2 sentences) indicating what your analysis reveals about what drives the disagreement.
 
 Choose your introduction details carefully, with an aim to not overwhelm the reader. Your reader needs orientation to the specific criticism you're analyzing, not a comprehensive explanation of the articles' positions.
 
