@@ -141,21 +141,23 @@ Choose your introduction details carefully, with an aim to not overwhelm the rea
 
 ##### :x developing your significance discussion
 
-Your significance discussion must show what YOUR ANALYSIS reveals, not just summarize what's at stake according to the authors.
+Your significance discussion should reveal why understanding this incompatibility matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what understanding the disagreement shows about different approaches to the phenomenon.
 
 **Good examples of significance discussion:**
 
-- "This analysis reveals that the disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
+- "Understanding this incompatibility matters because it reveals that disagreement isn't about empirical evidence but about incompatible definitions of 'exploration,' suggesting future research should clarify conceptual frameworks before testing predictions"
 - "Understanding that these authors use different methodological approaches helps explain why their conclusions differ, and shows that both may be correct within their respective frameworks"
+- "This incompatibility reveals a fundamental tension between adaptation and byproduct explanations that affects how researchers design studies and interpret evidence across evolutionary psychology"
 
 **Not acceptable:**
 
 - Generic statements ("this matters because it's important," "more research needed")
 - Teaching mode ("students should care about this because...")
 - Moralizing ("shows need for clarity")
-- Just summarizing stakes the authors mention without YOUR insight
+- Just summarizing stakes the authors mention without showing what understanding the disagreement reveals
+- Framing your analysis as the significant thing ("my analysis shows..." or "this analysis reveals...") rather than what understanding the incompatibility reveals
 
-Your significance must show one specific consequence that connects directly to the difference you identified. It should name what becomes difficult, unclear, or unresolvable, and connect to specific research questions or methodological choices.
+Your significance must show one specific consequence that connects directly to understanding the incompatibility. It should name what becomes difficult, unclear, or unresolvable, and connect to specific research questions or methodological choices.
 
 **Placing Your Significance Discussion:**
 
