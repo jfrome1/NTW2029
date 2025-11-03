@@ -126,7 +126,18 @@ Now you must address a different type of significance: what your analysis of why
 
 Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals—what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
 
-**Example: Different Levels of Paper Thesis/Significance:**
+[:Example showing different levels of thesis and significance](#x-example-thesis-significance-connection)
+
+**Placing Your Significance Discussion:**
+
+Your paper should reference significance twice:
+
+1. **Introduction:** After your thesis, include 1-2 sentences previewing what understanding this disagreement reveals
+2. **Conclusion:** Develop your full significance discussion here, explaining what understanding why they disagree contributes to the academic conversation
+
+The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
+
+###### :x example-thesis-significance-connection
 
 **Limited thesis and significance:**
 
@@ -145,15 +156,6 @@ Significance flows directly from your thesis. Your thesis identifies what preven
 - Thesis: "The commentary characterizes the target as claiming photographers 'create' images, but the target's actual claim is that photographers 'select and frame' existing visual arrangements. This disconnect reveals that the ordinary concept of 'artistic creation' conflates two distinct activities—generating new configurations versus recognizing and isolating existing ones."
 - Significance: "Understanding this conceptual ambiguity reveals why debates about photography's artistic status persist despite extensive discussion—the term 'creation' carries unexamined assumptions about what artistic activity involves. This pattern extends to other selection-based practices (found art, readymades, curatorial work), suggesting that progress on this topic requires more specification of the ordinary-language concept of "creating art."
 - Why this works: The thesis reveals a conceptual ambiguity that neither author acknowledges but which drives the entire disagreement. The significance extends beyond the particular dispute between the target and commentary articles because it exposes a conceptual problem in the academic conversation as a whole.
-
-**Placing Your Significance Discussion:**
-
-Your paper should reference significance twice:
-
-1. **Introduction:** After your thesis, include 1-2 sentences previewing what understanding this disagreement reveals
-2. **Conclusion:** Develop your full significance discussion here, explaining what understanding why they disagree contributes to the academic conversation
-
-The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
 
 ##### :x using additional sources appropriately
 
