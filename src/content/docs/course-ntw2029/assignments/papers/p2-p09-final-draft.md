@@ -15,17 +15,17 @@ Write a final 2250-2750 word paper that includes explanation of both positions, 
 
 Submit a final paper of 2250-2750 words that includes:
 
-- An introduction with your thesis
-- Explanation of the target article's argument
-- Explanation of the commentary's criticism
-- Explanation of the target's response (if applicable)
-- Analysis supporting your thesis about what drives the disagreement
-- A conclusion discussing what understanding this disagreement contributes
-- A reference list formatted according to the [Citations](/course-ntw2029/resources/citations/#part-2-reference-list) page
+**Introduction** that orients readers to the academic conversation, briefly explains what the target argues and what the commentary criticizes, presents your thesis explaining why they reach different conclusions, and previews the significance of your thesis
 
-Use at least 4 academic sources: target article, commentary, author's response (if applicable), and at least 1 additional source.
+**Body** explaining both positions and analyzing why they reach different conclusions. Support your thesis with specific textual evidence and reasoning.
 
-These are the same core requirements as P08, revised and polished based on conference guidance.
+**Conclusion** discussing what understanding why they reach different conclusions contributes to the academic conversation
+
+**Reference list** formatted according to the [Citations](/course-ntw2029/resources/citations/#part-2-reference-list) page
+
+**Use at least 4 academic sources:** target article, commentary, author's response (if applicable), and at least 1 additional source
+
+These are the same core requirements as P08, revised and polished based on conference guidance. See [P08](/course-ntw2029/assignments/papers/p2-p08-full-draft-and-outline/) for detailed guidance on introduction structure, explanation and analysis integration, and significance discussion development.
 
 Your revisions will likely focus on:
 
