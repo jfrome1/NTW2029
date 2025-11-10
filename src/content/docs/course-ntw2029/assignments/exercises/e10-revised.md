@@ -12,12 +12,15 @@ sidebar:
 # Exercise 10 - Paper 2 Writing Reflection
 
 ## Purpose
+
 This exercise encourages you to critically reflect on how you approached Paper 2 and what you learned from writing this analytical paper. These reflections will help you identify your growth since Paper 1 and consolidate strategies for future academic writing.
 
 ## Overview
+
 You'll answer ten questions about your writing process for Paper 2, from topic selection through final revisions. Submit your responses one day after your Paper 2 final is due. Answers can be as long or short as needed—there are no word count requirements.
 
 ## Requirements
+
 Copy and paste the following questions into the Exercise 10 text box on Canvas. Don't delete the questions—keep them and type answers below each question:
 
 1. What parts of your paper are you most proud of and why?
@@ -32,6 +35,7 @@ Copy and paste the following questions into the Exercise 10 text box on Canvas. 
 10. Do you have any suggestions for improving the Paper 2 process for next time I teach the course?
 
 ## Guidelines
+
 - Be honest in your self-assessment—these answers won't affect your paper grade
 - Don't try to present a curated image of yourself as a writer; you'll benefit most from genuine reflection
 - Compare your experience with Paper 2 to Paper 1—note areas of improvement
@@ -40,4 +44,5 @@ Copy and paste the following questions into the Exercise 10 text box on Canvas. 
 - Your suggestions in question 10 genuinely help improve the course for future students
 
 ## Feedback
+
 You'll receive completion credit for thoughtful responses. While these reflections won't receive individual comments, I read them carefully to understand your writing development and to improve course design.
