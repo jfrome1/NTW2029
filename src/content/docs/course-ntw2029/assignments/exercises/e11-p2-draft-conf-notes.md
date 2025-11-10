@@ -5,31 +5,27 @@ date: 2025-11-10
 
 ## Purpose
 
-This exercise helps you consolidate guidance from our conference on your Paper 2 full draft. By articulating what you learned in the conference, you'll better internalize the analytical approaches and develop a clear strategy for your P2 final draft.
+This exercise helps you consolidate guidance from our conference on your Paper 2 full draft. By articulating what you learned in the conference, you'll better internalize key revisions and develop a clear strategy for your P2 final draft.
 
 ## Overview
 
-To capture the key insights and guidance from the conference, answer the following questions about the conference and your future plans for Paper 2.
+To capture the key insights and guidance from the conference, answer the following questions about the conference and your revision plans for Paper 2.
 
 ## Requirements
 
 Copy and paste the questions below into a document and type your answer below each question, in full sentences. Keep the question numbered:
 
-1. **What were the 2 or 3 most important points of feedback from the conference?** Be specific about what you learned or what changed in your understanding.
+1. **What were the 2 or 3 most important issues with your draft?** Be specific about what needed clarification, revision, or rethinking.
 
-2. **What did I recommend as the most important next step for your writing?** If there was no one specific activity mentioned, describe one important step either recommended or planned.
+2. **Did we discuss problems with how you explained the disagreement between the target and commentary?** If so, what needs to be clearer or more specific about what makes their positions incompatible? If not, write "No explanation issues discussed."
 
-3. **Did we discuss any specific approach or framework for analyzing the disagreement?** If so, describe the approach and explain how it applies to your disagreement. If not, write "No specific approach discussed."
+3. **Did we identify terminology, concepts, or distinctions you need to clarify?** If so, which terms or concepts, and how should you handle them? If not, write "No terminology issues discussed."
 
-4. **Did we clarify any key terms or concepts that you were unclear about?** If so, which terms and how does understanding them change your analysis? If not, write "No terminology clarifications."
+4. **Did we discuss issues with your topic sentences or paragraph organization?** If so, what specific changes should you make to improve argument flow or clarity? If not, write "No organization issues discussed."
 
-5. **Did we discuss the difference between surface-level and underlying disagreements in your case?** If so, what's the surface disagreement and what might be underlying it? If not, write "This distinction wasn't discussed."
+5. **What is your main revision priority based on the conference?** Describe the single most important change or improvement you plan to make.
 
-6. **Did I suggest any research strategies or specific sources for P2?** If so, what should you investigate and where? If not, write "No research strategies discussed."
-
-7. **What questions were raised about the target and commentary article's claims that you plan to clarify or research further?** If none, write "No questions raised."
-
-8. **(Optional)** Do you have any other questions, comments, or feedback for me?
+6. **(Optional)** Do you have any other questions, comments, or feedback for me?
 
 ## Guidelines
 
