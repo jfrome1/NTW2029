@@ -16,7 +16,7 @@
     "@vercel/edge": "^1.2.2",
     "astro": "^5.12.9",
     "astro-compress": "^2.3.8",
-    "mermaid": "^11.9.0",
+    "mermaid": "^11.12.1",
     "posthog-js": "^1.259.0",
     "rehype-external-links": "^3.0.0",
     "remark": "^15.0.1",
