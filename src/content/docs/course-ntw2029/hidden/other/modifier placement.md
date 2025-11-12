@@ -13,7 +13,7 @@ Make sure your modifiers are placed carefully, immediately before or after the n
 
 > He explains that humans have adapted to improve our knowledge of threats through narratives, as it allows one to learn about a greater number of threats from others in a safe setting rather than only being able to learn through dangerous personal experiences.
 
-# avoid dangling modifiers
+# avoid dangling modifiers [or is it really a dangling modifier?] **Misleading Clause Attachments: When Missing Commas Confuse the Reader**
 
 A "dangling modifier" error occurs when a sentence has a modifying phrase, but it is unclear what the phrase is modifying or the phrase modifies a noun in a way that doesn't make sense. Usually, this error occurs when the sentence begins with a descriptive clause and is immediately followed by the subject of the sentence, but that subject is not what is described by the introductory clause. This error can lead to confusion or ambiguity in the sentence, as the reader may not be sure what the modifier is intended to modify.
 
@@ -37,9 +37,11 @@ Revision: "By studying the behavior of different species, ethologists were able 
 
 Real student examples:
 
-- > When auditory scene analysis is applied to music, Pinker asserts that music provides pleasure because our minds are able to distinguish and assign sounds in music to their soundmaker (536).
-- > Aside from actually increasing biological fitness, Pinker proposes that human senses are capable of inducing pleasure when senses detect pleasure-stimulating patterns given off by fitness-promoting environments.
-- > Being artificially created for the purpose of pleasure, Pinker posits that arts provides humans with more intense pleasure than available in the natural world.
+- _When auditory scene analysis is applied to music, Pinker asserts that music provides pleasure because our minds are able to distinguish and assign sounds in music to their soundmaker (536)._
+- _Aside from actually increasing biological fitness, Pinker proposes that human senses are capable of inducing pleasure when senses detect pleasure-stimulating patterns given off by fitness-promoting environments._
+- _Being artificially created for the purpose of pleasure, Pinker posits that arts provides humans with more intense pleasure than available in the natural world._
+_Rather than taking pleasure in exploring unfamiliar environments, Shtulman argues that it is the familiar elements presented in novel ways that explain the appeal of imaginary worlds._
+_Despite being costly to produce and consume, Dubourg & Baumard (D&B) want to understand why humans are so attracted to these imaginary worlds._
 
 Parallel structure: https://www.iup.edu/writingcenter/writing-resources/grammar/parallel-structure.html
 
