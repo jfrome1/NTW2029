@@ -153,7 +153,7 @@ State what your verification revealed. Your working thesis should be a claim abo
 Your working thesis will take one of these forms, depending on your verification outcome:
 
 - "They genuinely disagree because [identify the definitional, methodological, or evidentiary difference]"
-- "The apparent disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
+- "Their disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
 - "They agree on [explicit claims] but differ on [implicit assumption or framework commitment]"
 
 These examples show different types of disagreements. The first two identify different theoretical focuses or definitional issues. The third specifically identifies different evidentiary standards—this is an empirical disagreement about what evidence is sufficient or what methods are valid for testing claims.
