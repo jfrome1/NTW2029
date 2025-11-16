@@ -13,7 +13,7 @@ Answer the following questions about your writing process, from initial drafting
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences:
+Copy and paste the questions below into a document and type your answer below each question, in full sentences. Keep the question numbered:
 
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
