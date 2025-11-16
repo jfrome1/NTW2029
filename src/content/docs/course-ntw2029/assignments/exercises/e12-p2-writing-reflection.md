@@ -1,24 +1,19 @@
 ---
 title: Exercise 12 - Paper 2 writing reflection
 date: 2024-08-13
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
 
-This exercise encourages you to critically reflect on how you approached Paper 2 and what you learned from the writing process. These reflections will help you identify your strengths, challenges, and strategies for analyzing scholarly disagreements in future academic work.
+This exercise encourages you to critically reflect on how you approached Paper 2 and what you learned from the writing process and the course. These reflections will also provide me with information for improving this assignment in future semesters.
 
 ## Overview
 
-Answer the following questions about your writing process, from initial reading through final revisions. Submit your responses one day after your Paper 2 final is due. Answers can be as long or short as needed—there are no length requirements.
+Answer the following questions about your writing process, from initial reading through final revisions. Submit your responses one day after your Paper 2 final is due. Answers can be as long or short as needeed.
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences:
+Copy and paste the questions below into a document and type your answer below each question, in full sentences. Keep the question numbered:
 
 1. What aspects of this paper represent improvements in your writing skills compared to previous papers you've written? How are those improvements reflected?
 2. How did your understanding of the disagreement between your target article and your commentary article change from your first reading to your final draft? What caused that shift?
@@ -31,7 +26,7 @@ Copy and paste the following questions into a document and type answers below ea
 9. Do you have any suggestions about how to make the P2 assignment more effective as a learning experience?
 10. What were the one or two most significant things you learned in or skills you developed in this course?
 
-Include a GenAI link/non-use statement (required) but not a word count.
+Include a GenAI link/non-use statement at the top of your assignment (required) but not a word count.
 
 ## Guidelines
 
