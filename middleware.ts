@@ -10,7 +10,7 @@ export default async function middleware(request: Request) {
     return next();
   }
 
-  const COOKIE_NAME = import.meta.env.COOKIE_NAME;
+  const COOKIE_NAME = process.env.COOKIE_NAME;
   const cookies = request.headers.get("cookie");
 
   const getCookie = (cookieName: string, cookieHeader: string | null) => {
@@ -21,7 +21,7 @@ export default async function middleware(request: Request) {
     return cookie ? cookie.split("=")[1] : null;
   };
 
-  const userCookie = getCookie(COOKIE_NAME, cookies);
+  const userCookie = getCookie(COOKIE_NAME as string, cookies);
   if (userCookie) {
     try {
       const user = JSON.parse(decodeURIComponent(userCookie));

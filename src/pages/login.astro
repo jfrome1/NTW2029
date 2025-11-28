@@ -15,7 +15,7 @@
         const isBrave = "brave" in navigator;
         if (!isBrave) {
           const config = {
-            cookieName: "authUserV3",
+            cookieName: import.meta.env.COOKIE_NAME,
             loginEndpoint: "/api/auth",
           };
 
