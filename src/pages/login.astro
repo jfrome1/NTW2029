@@ -1,234 +1,243 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NTW2029 login page</title>
-</head>
-<body>
-  <div class="container">
-    <h1>Welcome to the NTW2029 login page</h1>
-    <button id="loginButton">Login</button>
-    <button id="goToSiteButton" class="hidden">Go to the site →</button>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NTW2029 login page</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to the NTW2029 login page</h1>
+      <button id="loginButton">Login</button>
+      <button id="goToSiteButton" class="hidden">Go to the site →</button>
 
-  <script>
-      const isBrave = "brave" in navigator;
-      if (!isBrave) {
-    
-    const config = {
-      cookieName: 'authUser',
-      loginEndpoint: '/api/auth' 
-    };
+      <script>
+        const isBrave = "brave" in navigator;
+        if (!isBrave) {
+          const config = {
+            cookieName: "authUserV3",
+            loginEndpoint: "/api/auth",
+          };
 
-    function setCookie(name: string, value:string) {
-      try {
-        document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Lax; Secure`;
-      } catch (error) {
-        console.error('Error setting cookie:', error);
-      }
-    }
-
-    function getCookie(name: string) {
-      try {
-        return document.cookie
-          .split('; ')
-          .find(row => row.startsWith(`${name}=`))
-          ?.split('=')[1];
-      } catch (error) {
-        console.error('Error reading cookie:', error);
-        return null;
-      }
-    }
-
-    function deleteCookie(name:string) {
-      try {
-        document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Lax; Secure`;
-      } catch (error) {
-        console.error('Error deleting cookie:', error);
-      }
-    }
-
-    function login() {
-      try {
-        const username = prompt('Enter your username (case sensitive use uppercase):');
-        const password = prompt('Enter your password:');
-
-        if (!username || !password) {
-          alert('Username and password are required.');
-          return;
-        }
-
-        fetch(config.loginEndpoint, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ username, password })
-        })
-        .then(response => response.json())
-        .then(data => {
-          if (data.success) {
-            console.log(data.user)
-            setCookie(config.cookieName, JSON.stringify({ id: data.user.id, username: data.user.name }));
-            alert(`Welcome, ${username}! You are now logged in.`);
-            window.location.reload(); 
-          } else {
-            alert('Invalid username or password. Please try again.');
+          function setCookie(name: string, value: string) {
+            try {
+              document.cookie = `${name}=${encodeURIComponent(value)}; max-age=${90 * 24 * 60 * 60}; path=/; SameSite=Lax; Secure`;
+            } catch (error) {
+              console.error("Error setting cookie:", error);
+            }
           }
-        })
-        .catch(error => {
-          console.error('Error during login:', error);
-          alert('An error occurred. Please try again later.');
-        });
 
-      } catch (error) {
-        console.error('Error during login:', error);
-        alert('An error occurred. Please try again later.');
-      }
-    }
-
-    function checkLoggedInUser() {
-      const savedUser = getCookie(config.cookieName);
-      if (savedUser) {
-        try {
-          const parsedUser = JSON.parse(decodeURIComponent(savedUser));
-          if (parsedUser?.id && parsedUser?.username) {
-            alert(`Welcome back, ${parsedUser.username}!`);
-            showSiteButton()
-            return true;
+          function getCookie(name: string) {
+            try {
+              return document.cookie
+                .split("; ")
+                .find((row) => row.startsWith(`${name}=`))
+                ?.split("=")[1];
+            } catch (error) {
+              console.error("Error reading cookie:", error);
+              return null;
+            }
           }
-        } catch (error) {
-          console.error('Error parsing user cookie:', error);
+
+          function deleteCookie(name: string) {
+            try {
+              document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Lax; Secure`;
+            } catch (error) {
+              console.error("Error deleting cookie:", error);
+            }
+          }
+
+          function login() {
+            try {
+              const username = prompt(
+                "Enter your username (case sensitive use uppercase):",
+              );
+              const password = prompt("Enter your password:");
+
+              if (!username || !password) {
+                alert("Username and password are required.");
+                return;
+              }
+
+              fetch(config.loginEndpoint, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ username, password }),
+              })
+                .then((response) => response.json())
+                .then((data) => {
+                  if (data.success) {
+                    console.log(data.user);
+                    setCookie(
+                      config.cookieName,
+                      JSON.stringify({
+                        id: data.user.id,
+                        username: data.user.name,
+                      }),
+                    );
+                    alert(`Welcome, ${username}! You are now logged in.`);
+                    window.location.reload();
+                  } else {
+                    alert("Invalid username or password. Please try again.");
+                  }
+                })
+                .catch((error) => {
+                  console.error("Error during login:", error);
+                  alert("An error occurred. Please try again later.");
+                });
+            } catch (error) {
+              console.error("Error during login:", error);
+              alert("An error occurred. Please try again later.");
+            }
+          }
+
+          function checkLoggedInUser() {
+            const savedUser = getCookie(config.cookieName);
+            if (savedUser) {
+              try {
+                const parsedUser = JSON.parse(decodeURIComponent(savedUser));
+                if (parsedUser?.id && parsedUser?.username) {
+                  alert(`Welcome back, ${parsedUser.username}!`);
+                  showSiteButton();
+                  return true;
+                }
+              } catch (error) {
+                console.error("Error parsing user cookie:", error);
+              }
+            }
+            return false;
+          }
+
+          function showSiteButton() {
+            const goToSiteButton = document.getElementById("goToSiteButton");
+            if (goToSiteButton) {
+              goToSiteButton.classList.remove("hidden");
+              goToSiteButton.addEventListener("click", () => {
+                window.location.href = "/";
+              });
+            }
+          }
+
+          const loginButton = document.getElementById("loginButton");
+          if (loginButton) {
+            loginButton.addEventListener("click", login);
+
+            if (checkLoggedInUser()) {
+              loginButton.textContent = "Logout";
+              loginButton.removeEventListener("click", login);
+              loginButton.addEventListener("click", () => {
+                deleteCookie(config.cookieName);
+                alert("You have been logged out.");
+                window.location.reload();
+              });
+            }
+          }
+        } else {
+          const loginButton = document.getElementById("loginButton");
+          if (loginButton) {
+            loginButton.style.opacity = "0.5";
+            loginButton.style.cursor = "not-allowed";
+            loginButton.textContent = "Login (Chrome, Safari, Firefox only)";
+          }
         }
-      }
-      return false;
-    }
+      </script>
+    </div>
+  </body>
 
-    function showSiteButton() {
-      const goToSiteButton = document.getElementById('goToSiteButton');
-      if (goToSiteButton) {
-        goToSiteButton.classList.remove('hidden');
-        goToSiteButton.addEventListener('click', () => {
-          window.location.href = "/"; 
-        });
-      }
-    }
-
-    const loginButton = document.getElementById('loginButton');
-    if (loginButton) {
-      loginButton.addEventListener('click', login);
-
-      if (checkLoggedInUser()) {
-        loginButton.textContent = 'Logout';
-        loginButton.removeEventListener('click', login);
-        loginButton.addEventListener('click', () => {
-          deleteCookie(config.cookieName); 
-          alert('You have been logged out.');
-          window.location.reload(); 
-        });
-      }
-    }
-  } else {
-    const loginButton = document.getElementById('loginButton');
-    if (loginButton) {
-      loginButton.style.opacity = '0.5';
-      loginButton.style.cursor = 'not-allowed';
-      loginButton.textContent = 'Login (Chrome, Safari, Firefox only)';
-    }
-  }
-  </script>
-</body>
-</html>
-
-
-<style>
-  body {
-    background-color: #f3f4f6; /* Light gray background */
-    color: #111827; /* Dark gray text */
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    margin: 0;
-    transition: background-color 0.3s, color 0.3s;
-  }
-
-  .container {
-    background-color: #ffffff; /* White container */
-    padding: 2rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    max-width: 400px;
-    width: 100%;
-    transition: background-color 0.3s, box-shadow 0.3s;
-  }
-  .hidden {
-    display: none;
-  }
-
-  h1 {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 1.5rem;
-  }
-
-  button {
-    padding: 0.75rem 1.5rem;
-    border-radius: 0.375rem;
-    cursor: pointer;
-    font-size: 1rem;
-    width: 100%;
-    transition: background-color 0.3s;
-    border: none; /* Remove default button border */
-  }
-
-  #loginButton {
-    background-color: #3b82f6; /* Blue login button */
-    color: #ffffff;
-  }
-
-  #loginButton:hover {
-    background-color: #2563eb; /* Darker blue on hover */
-  }
-
-  #goToSiteButton {
-    margin-top: 10px;
-    background-color: #6d28d9; /* Purple "Go to site" button */
-    color: #ffffff;
-  }
-
-  #goToSiteButton:hover {
-    background-color: #551a8b; /* Darker purple on hover */
-  }
-
-
-  /* Dark mode */
-  @media (prefers-color-scheme: dark) {
+  <style>
     body {
-      background-color: #1f2937; /* Dark background */
-      color: #f3f4f6; /* Light text */
+      background-color: #f3f4f6; /* Light gray background */
+      color: #111827; /* Dark gray text */
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      transition:
+        background-color 0.3s,
+        color 0.3s;
     }
 
     .container {
-      background-color: #374151; /* Darker container */
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+      background-color: #ffffff; /* White container */
+      padding: 2rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      max-width: 400px;
+      width: 100%;
+      transition:
+        background-color 0.3s,
+        box-shadow 0.3s;
+    }
+    .hidden {
+      display: none;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1.5rem;
+    }
+
+    button {
+      padding: 0.75rem 1.5rem;
+      border-radius: 0.375rem;
+      cursor: pointer;
+      font-size: 1rem;
+      width: 100%;
+      transition: background-color 0.3s;
+      border: none; /* Remove default button border */
     }
 
     #loginButton {
-      background-color: #4f46e5; /* Lighter purple login button */
+      background-color: #3b82f6; /* Blue login button */
+      color: #ffffff;
     }
 
     #loginButton:hover {
-      background-color: #4338ca; /* Darker purple on hover */
+      background-color: #2563eb; /* Darker blue on hover */
     }
 
     #goToSiteButton {
       margin-top: 10px;
-      background-color: #8f48cd; /* Slightly different purple for "Go to site" */
+      background-color: #6d28d9; /* Purple "Go to site" button */
+      color: #ffffff;
     }
 
     #goToSiteButton:hover {
-      background-color: #6b1aa5; /* Darker purple on hover */
+      background-color: #551a8b; /* Darker purple on hover */
     }
-  }
-</style>
+
+    /* Dark mode */
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #1f2937; /* Dark background */
+        color: #f3f4f6; /* Light text */
+      }
+
+      .container {
+        background-color: #374151; /* Darker container */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+      }
+
+      #loginButton {
+        background-color: #4f46e5; /* Lighter purple login button */
+      }
+
+      #loginButton:hover {
+        background-color: #4338ca; /* Darker purple on hover */
+      }
+
+      #goToSiteButton {
+        margin-top: 10px;
+        background-color: #8f48cd; /* Slightly different purple for "Go to site" */
+      }
+
+      #goToSiteButton:hover {
+        background-color: #6b1aa5; /* Darker purple on hover */
+      }
+    }
+  </style>
+</html>
