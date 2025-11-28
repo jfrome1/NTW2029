@@ -10,7 +10,7 @@ export default async function middleware(request: Request) {
     return next();
   }
 
-  const COOKIE_NAME = "authUserV3";
+  const COOKIE_NAME = import.meta.env.COOKIE_NAME;
   const cookies = request.headers.get("cookie");
 
   const getCookie = (cookieName: string, cookieHeader: string | null) => {
