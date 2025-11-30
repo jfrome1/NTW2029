@@ -10,7 +10,7 @@ export default async function middleware(request: Request) {
     return next();
   }
 
-  const COOKIE_NAME = process.env.COOKIE_NAME;
+  const COOKIE_NAME = process.env.PUBLIC_COOKIE_NAME;
   const cookies = request.headers.get("cookie");
 
   const getCookie = (cookieName: string, cookieHeader: string | null) => {
