@@ -15,7 +15,7 @@
         const isBrave = "brave" in navigator;
         if (!isBrave) {
           const config = {
-            cookieName: process.env.COOKIE_NAME,
+            cookieName: import.meta.env.PUBLIC_COOKIE_NAME,
             loginEndpoint: "/api/auth",
           };
 
