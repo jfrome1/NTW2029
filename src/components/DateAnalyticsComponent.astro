@@ -57,7 +57,7 @@ function formatCommitDate(dateString: string | null) {
 import posthog from "posthog-js";
 
     const config = {
-      cookieName: import.meta.env.COOKIE_NAME,
+      cookieName: process.env.COOKIE_NAME,
       postHogConfig: {
         apiKey: 'phc_t4s4Co4gEm9fzWcHpFUF7zWLFIwv2sR9TiXiNnY74fh',
         apiHost: 'https://us.i.posthog.com',
