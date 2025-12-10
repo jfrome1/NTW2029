@@ -36,7 +36,7 @@ See sections below for detailed explanations.
 - Peer review assignments cannot be extended since delays affect classmates
 - Extensions apply to final papers
 - Any further extensions will be granted only for serious, documented circumstances
-- Any unauthorized late submissions may incur grade penalties up to one letter grade per day late [:late assignment fine print](#x-late assignment-fine-print)
+- Any unauthorized late submissions may incur grade penalties up to one letter grade per day late [:late assignment fine print](#x-late-assignment-fine-print)
 
 If you're struggling with workload, come talk to me early and check [NUSC pastoral care resources](https://tinyurl.com/nuscpastoralcare).
 
