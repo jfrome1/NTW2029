@@ -36,6 +36,7 @@ See sections below for detailed explanations.
 - Peer review assignments cannot be extended since delays affect classmates
 - Extensions apply to final papers
 - Any further extensions will be granted only for serious, documented circumstances
+- Any unauthorized late submissions may incur grade penalties up to one letter grade per day late [:late assignment fine print](#x-late assignment-fine-print)
 
 If you're struggling with workload, come talk to me early and check [NUSC pastoral care resources](https://tinyurl.com/nuscpastoralcare).
 
@@ -101,6 +102,10 @@ Remember that final papers (P03, P09) have additional formatting requirements (l
 If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search)
 
 There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, and I've been in this business a long time, so I can't help formatting from affecting how I view a paper. I find it really pleasant to see correct formatting and quite annoying to see incorrect formatting, so your formatting determines my mood when I start reading your paper. You may not care about formatting, and I wish I didn't, but I do!
+
+##### :x late-assignment-fine-print
+
+"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each addtional 24-hour day"
 
 ##### :x show-comments
 
