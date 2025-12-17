@@ -1,5 +1,5 @@
 ---
-title: Conferences
+ntitle: Conferences
 date: 2025-08-13
 draft: true
 sidebar:
@@ -33,7 +33,7 @@ If you don't meet these requirements, we won't be able to have the conference as
 
 ## Conference Booking
 
-- Book your conference through Microsoft Bookings when I send the link
+- Book your conference through the Zoom tool on Canvas when I send the link <span class="smaller-text"> [:instructions](#x-instructions) </span>
 - Check the times carefully - Bookings uses 24-hour time format
 - Schedule your conference when you can review feedback in the hour before [:why this timing matters](#x-timing-matters)
 
@@ -128,6 +128,10 @@ Vague questions ask for reassurance without identifying a problem or a solution 
 - "You said that I needed to explain what I meant by 'pleasure technology' or I should remove it. Does the following sentence explain it sufficiently, or do you still think I should remove it? [quotes draft sentence]"
 
 Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance. Often, specific questions also propose possible solutions. Formulating these questions builds writing skills.
+
+##### :x instructions
+
+[screenshots to be posted]
 
 ##### :x timing matters
 
