@@ -1,6 +1,7 @@
 ---
 title: Exercise 1 - Introductions
 date: 2025-08-12
+source_file: e01-introductions.md
 ---
 
 <!-- I've introduced myself to you on the "Meet your instructor" page. Now it's your turn! Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "Exercise 1 - introductions".

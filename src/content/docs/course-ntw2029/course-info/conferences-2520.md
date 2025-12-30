@@ -1,5 +1,5 @@
 ---
-ntitle: Conferences
+title: Conferences
 date: 2025-08-13
 draft: true
 sidebar:
