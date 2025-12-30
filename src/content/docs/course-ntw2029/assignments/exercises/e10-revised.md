@@ -1,6 +1,6 @@
 ---
 
-title: e10
+title: Exercise 10 - Paper 2 Writing Reflection
 date: 2025-09-03
 draft: true
 sidebar:
@@ -9,8 +9,6 @@ sidebar:
     variant: caution
 
 ---
-# Exercise 10 - Paper 2 Writing Reflection
-
 ## Purpose
 
 This exercise encourages you to critically reflect on how you approached Paper 2 and what you learned from writing this analytical paper. These reflections will help you identify your growth since Paper 1 and consolidate strategies for future academic writing.
