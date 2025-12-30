@@ -3,5 +3,5 @@ import { docsLoader } from '@astrojs/starlight/loaders';
 import { docsSchema } from '@astrojs/starlight/schema';
 
 export const collections = {
-	docs: defineCollection({ loader: docsLoader(), schema: (context) => docsSchema()(context).passthrough() }),
+	docs: defineCollection({ loader: docsLoader(), schema: docsSchema() }),
 };
