@@ -1,5 +1,5 @@
 ---
-title: P04 - Article Selection
+title: P04 - Article Selection - 2510
 date: 2025-10-17
 draft: true
 sidebar:
@@ -10,7 +10,7 @@ sidebar:
 
 ## Purpose
 
-This exercise helps you select a suitable pair of articles for Paper 2. By identifying and articulating a specific criticism early in your research process, you'll develop skills in recognizing substantive academic disagreements and distinguishing them from surface-level differences of opinion. This foundational work will help you write a more focused and analytically rigorous Paper 2.
+This exercise helps you select a suitable pair of articles for Paper 2.
 
 ## Overview
 
@@ -24,77 +24,23 @@ Your proposal must include:
 
 1. **Target article** - Which of the four BBS target articles you've chosen
 2. **Commentary article** - Which commentary you've selected from the recommended list below (or an alternative)
-3. **Main criticism** - What does the commentary claim is problematic about the target article? Quote a relevant passage from the article body (not its abstract) with page number, then paraphrase the criticism in 75-150 words.
+3. **Main criticism** - What does the commentary claim is problematic about the target article? Quote a relevant passage from the article (not its abstract) and paraphrase its criticism in 2-3 sentences. (You may refocus on a different criticism from the same commentary later, but article changes require instructor approval.)
 
 That's it. This is intended to be a short assignment.
 
 ## Guidelines
 
-### Understanding "Criticism"
+**Focus on one main criticism.** Commentary articles typically make several different criticisms. For P2, focus on ONE main criticism. (You may discuss related arguments, but maintain focus on one central criticism.)
 
-A criticism identifies a specific problem with the target article's argument - not simply a different view. Look for commentaries that claim the target article:
+**Read the article, not just the abstract.** I provide abstracts to make it easier for you to find commentaries that may interest you, but abstracts can be misleading. Once you find a few candidates, make sure to read the articles before choosing one.
 
-- Overlooks contradicting evidence
-- Makes predictions that don't hold
-- Defines key concepts too narrowly or broadly
-- Can't explain important cases within its proposed scope
-- Relies on flawed premises or reasoning
+**Avoid three common problems** (P05 will verify these):
 
-Commentaries that merely offer alternative theories without showing problems in the target article are less useful for this assignment.
+- Misrepresentation: Commentary criticizes something the target doesn't actually claim
+- Weak arguments: Commentary makes easily refuted points (limits your analysis depth)
+- Trivial criticism: Point is tangential to target's main argument (limits paper significance)
 
-### Selecting Your Quote
-
-Select a substantive quote (2-5 sentences) from the commentary's body text that directly states the criticism. Include the page number.
-
-Avoid:
-
-- Quotes from the abstract only
-- Entire paragraphs (too long)
-- General statements that don't specify what's problematic
-
-### Paraphrasing the Criticism
-
-Your paraphrase should not simply reword the quote. Instead, explain the criticism's significance:
-
-- **WHY** does this challenge or undermine the target article's theory?
-- **WHAT** theoretical consequences follow if this criticism is valid?
-- **HOW** does this differ from merely disagreeing about which theory is better?
-
-**Example of weak paraphrasing:**
-> "The commentary says the model is wrong about distancing and that it doesn't work for all cases."
-
-**Example of strong paraphrasing:**
-> "This criticism challenges the model's core premise by demonstrating that audiences experience similar emotional responses to nonfiction documentaries where the proposed distancing mechanisms cannot apply. If audiences don't need to activate fiction schemas to enjoy negative emotions in representation, then the model's scope is too narrow to explain the full range of aesthetic responses. This limitation suggests the theory may identify one pathway to enjoying negative emotions but misses other important mechanisms."
-
-The strong example explains why the problem matters for the theory, not just what the problem is.
-
-### Focus on One Main Criticism
-
-Commentary articles typically make several different criticisms. For P2, focus on ONE main criticism. (You may discuss related arguments, but maintain focus on one central criticism.)
-
-### Building Toward P2
-
-Choose a criticism substantial enough to support your full P2 analysis. This brief proposal will become the foundation of your Paper 2, where you will:
-
-- Explain the target article's argument in detail
-- Explain the commentary's full criticism with supporting reasoning
-- Evaluate whether the criticism succeeds
-
-A criticism that seems too obvious or simple at this stage may not provide enough material for 1800-2000 words of analysis.
-
-### Read the Article, Not Just the Abstract
-
-I provide abstracts to make it easier for you to find commentaries that may interest you, but abstracts can be misleading. Once you find a few candidates, make sure to read the articles before choosing one.
-
-### Avoid Three Common Problems
-
-P05 will verify these:
-
-- **Misrepresentation:** Commentary criticizes something the target doesn't actually claim
-- **Weak arguments:** Commentary makes easily refuted points (limits your analysis depth)
-- **Trivial criticism:** Point is tangential to target's main argument (limits paper significance)
-
-Avoid choosing a commentary that you feel is clearly wrong in hopes that it will be easier to refute, as these often limit what you can analyze and reduce the significance of your contribution to the academic conversation.
+Avoid choosing a commmentary that you feel is clearly wrong in hopes that it will be easier to refute, as these often limit what you can analyze and reduce the significance of your contribution to the academic conversation.
 
 ## Recommended Commentaries
 

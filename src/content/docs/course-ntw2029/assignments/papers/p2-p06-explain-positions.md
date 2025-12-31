@@ -1,5 +1,5 @@
 ---
-title: "P06 - Explain Positions"
+title: P06 - Explain Positions
 date: 2025-10-16
 ---
 

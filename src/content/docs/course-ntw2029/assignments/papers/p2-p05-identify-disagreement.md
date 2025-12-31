@@ -1,7 +1,11 @@
 ---
-title: "P05 - Identify the Criticism"
+title: P05 - Identify the Criticism
 date: 2025-10-15
 ---
+
+fixes for next time:
+
+- note in advance that feedback will ask questions that are not criticisms, but are intended to help students think through the issues
 
 ## Purpose
 

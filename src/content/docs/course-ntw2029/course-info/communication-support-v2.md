@@ -1,11 +1,6 @@
 ---
 title: Communication & Support
 date: 2025-10-13
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Quick Decision Guide
