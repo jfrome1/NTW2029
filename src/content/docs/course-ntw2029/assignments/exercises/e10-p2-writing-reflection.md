@@ -1,20 +1,19 @@
 ---
 
-title: Exercise 10 - Paper 2 writing reflection
-date: 2024-08-13
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
-
+title: Exercise 10 - Paper 2 Writing Reflection
+date: 2025-09-03
 ---
+## Purpose
 
-The purpose of this exercise is to encourage you to critically reflect on how you approached Paper 2 and what you learned from the writing process.
+This exercise encourages you to critically reflect on how you approached Paper 2 and what you learned from writing this analytical paper. These reflections will help you identify your growth since Paper 1 and consolidate strategies for future academic writing.
 
-Please answer the following questions. Don't try to use your answers to present a curated image of yourself as a writer; these answers will not affect your paper grade, and you will benefit most from honest reflection. Answers can be as long or short as needed (no word count requirements).
+## Overview
 
-Copy and paste the following questions into the Exercise 10 text box on Canvas. Don't delete the questions--keep them and type answers below each question:
+You'll answer ten questions about your writing process for Paper 2, from topic selection through final revisions. Submit your responses one day after your Paper 2 final is due. Answers can be as long or short as needed—there are no word count requirements.
+
+## Requirements
+
+Copy and paste the following questions into the Exercise 10 text box on Canvas. Don't delete the questions—keep them and type answers below each question:
 
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
@@ -27,8 +26,15 @@ Copy and paste the following questions into the Exercise 10 text box on Canvas. 
 9. What did you learn from writing this paper that you will apply to future writing assignments?
 10. Do you have any suggestions for improving the Paper 2 process for next time I teach the course?
 
-And the most important question:
+## Guidelines
 
-11. What were the most significant things you will take from this course?
+- Be honest in your self-assessment—these answers won't affect your paper grade
+- Don't try to present a curated image of yourself as a writer; you'll benefit most from genuine reflection
+- Compare your experience with Paper 2 to Paper 1—note areas of improvement
+- When discussing challenges, consider both the analytical complexity and the writing demands
+- For questions about tools and resources (4-6), provide enough detail that I can understand how you used them
+- Your suggestions in question 10 genuinely help improve the course for future students
 
-Please review and follow all [exercise guidelines](/course-ntw2029/assignments/general/exercise-guidelines).
+## Feedback
+
+You'll receive completion credit for thoughtful responses. While these reflections won't receive individual comments, I read them carefully to understand your writing development and to improve course design.
