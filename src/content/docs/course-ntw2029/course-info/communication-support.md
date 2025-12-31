@@ -1,94 +1,127 @@
 ---
-title: Communication & Support - 2510
-date: 2025-08-19
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+title: Communication & Support
+date: 2025-10-13
 ---
 
-## Quick Reference
+## Quick Decision Guide
 
-- **Telegram class chat**: Fastest for quick questions about course or assignments
-- **Email**: For anything requiring a record or more context (arranging a meeting, grade concerns, personal matters)
-- **Conferences**: For discussion of your writing or course content; I'm on campus most days
-- **Before class**: Not a good time; I'm prepping for class
-- **After class**: For brief clarifications (<5 minutes)
+**Do you need concrete information, like due dates, word count, etc.?**
+
+- Check course info, assignments, or FAQs first
+- Then TRY THE WEBSITE SEARCH BOX please!
+
+**Are you confused about potentially incorrect information on the website?**
+
+- Please contact me directly first so I can check and fix any errors before notifying the class.
+
+**Do you need help interpreting instructions, guidance, etc.?**
+
+- Please contact me; if instructions confuse you, they may confuse others, and I'd like to improve them. Just PLEASE carefully read the entire assignment first, as your question may be answered elsewhere in the assignment.
+
+**Is your question private?**
+
+- Email for things we should document (extensions, grades, special arrangements)
+- Telegram DM for quick private questions
+- Don't hesitate to ask for a conference for writing feedback or course issues
+
+**Can we talk after class?**
+
+- After class is great for short questions (<5 minutes), for longer questions better to set up a meeting time. I'm on campus most days.
+
+---
 
 ## Contact Information
 
-- Email: frome@nus.edu.sg
-- Office: RC3-02-04K (same hallway as CR23)
-- Office hours: By appointment
+- **Email**: frome@nus.edu.sg
+- **Office**: RC3-02-04K (same hallway as CR23)
+- **Office hours**: By appointment
 
-## Communication Channels
+It's fine to contact me anytime. You won't wake me with messages/emails (I use 'do not disturb').
 
-It's fine to contact me anytime. You won't wake me (I use 'do not disturb').
+---
 
-### Telegram
+## Communication Methods
 
-- Join class chat in first week
-- Check messages daily
-- It's fine to message me directly with questions
+### Telegram Class Chat
+
+**Best for**: Quick questions about course or assignments that might help classmates
+
+**How it works**:
+
+- Join in first week
+- Check daily / turn on notifications
+- I monitor regularly and respond quickly
+- DM me rather than posting in class chat
+
+**You can also**: Message me directly with quick questions
+
+---
 
 ### Email
 
+**Best for**: Anything requiring documentation or more context
+
+**Use email for**:
+
+- Arranging meetings
+- Extension requests
+- Grade concerns
+- Personal matters affecting coursework
+- Reporting website errors
+
+**Email guidelines**:
+
 - Always include "NTW2029" in subject line
-- Check email daily
-- I'll respond within one business day, email me a reminder if not (it's not rude, I give you permission because I can lose track of email)
-- I usually don't respond to email on weekends, so plan ahead (note deadlines are usually Sunday)
+- I respond within one business day
+- If I don't respond, send a reminder (it's not rude—I give you permission because I can lose track of my MANY emails)
+- I usually don't respond on weekends, so plan ahead (note: deadlines are usually Sunday)
 
-### Informal Conferences
+---
 
-- Feel free to ask for informal conferences, I'm happy to meet
-- Good for clarifying class material and for receiving more detailed feedback on assignments
-- Best to arrange via email
+### Conferences
+
+#### Informal Conferences (Anytime)
+
+**Best for**:
+
+- Clarifying class material
+- Getting detailed feedback on assignments
+- Discussing course content
+
+**How to arrange**:
+
+- Email me to request
 - We can meet in person or on Zoom
+- I'm on campus most days and happy to meet
 
-### Formal Conferences
+#### Formal Conferences (Weeks 6, 11, 13)
 
-- There are three formal conferences per semester (weeks 6, 11, 13)
-- See [Conferences](/course-ntw2029/course-info/conferences) page for details
+**Required conferences** for discussing your papers
 
-### After Class
+See [Conferences](/course-ntw2029/course-info/conferences) page for full details
 
-- Good for short discussions (<5 min)
+---
 
-## Do you need help?
+## When to Ask for Help
 
-If you want help, don't hesitate to ask. It's almost always better to ask for help early, even if you're not totally sure you need it, than it is to try to solve things yourself and then realize that you're totally overwhelmed.
+Reach out early if you're:
 
-Reach out for support when you're consistently struggling to meet deadlines, not understanding content despite attending class and doing the reading, feeling overwhelmed by coursework, or dealing with personal issues affecting your studies. The earlier you reach out, the more options we have to help.
+- Consistently struggling to meet deadlines
+- Not understanding content despite attending class and doing readings
+- Feeling overwhelmed by coursework
+- Dealing with personal issues affecting your studies
+
+The earlier you reach out, the more options we have to help.
+
+---
 
 ## Student Support Services
 
 ### Technical Support
 
-- Canvas Support: 24/7 through help menu
-- NUS IT Care: Login and technical problems
+- **Canvas Support**: 24/7 through help menu
+- **NUS IT Care**: Login and technical problems
 
 ### Wellbeing Support
 
 - [NUSC Pastoral Care](https://tinyurl.com/nuscpastoralcare)
-
-## Frequently Asked Questions
-
-### To get an answer, should I check the website, contact you directly, or post in the group chat?
-
-Always check the website first for:
-
-- due dates
-- assignments
-- course policies
-- formatting requirements
-- grading criteria
-- readings (soft copy download)
-
-Contact me directly for:
-
-- clarification of website info, course material, feedback, assignments
-- possible errors or problems with the website (it's best if I fix it before notifying the rest of the class)
-- letting me know when personal circumstances affect attendance or coursework
-
-Usually, it's best to contact me directly rather than posting to the class group chat, and I can post info for the whole class when I think it will be helpful for others.

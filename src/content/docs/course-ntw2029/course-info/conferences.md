@@ -1,106 +1,116 @@
 ---
 title: Conferences
 date: 2025-08-13
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
-## Booking
 
-This course uses Microsoft Bookings to schedule conferences. I'll send you a bookings link when conference times are made available.  Check the conference sign-up time carefully, as my Bookings page uses 24-hour time. If you see only strange times (like middle of the night), [:check your settings.](#x-checkyoursettings).
+## Conference Types and Timing
 
-If you do not book a conference, miss your scheduled conference, or fail to turn your assignment in on time, you should not expect draft feedback or a conference for this assignment.
+This course includes three required conferences:
 
-### Scheduling guidelines
+- **Week 6**: Paper 1 draft conference
+- **Week 11**: Paper 2 explain positions conference
+- **Week 13**: Paper 2 draft conference
 
-I sometimes (but not always) send feedback for you to review before our conference. If time is short, you may receive this feedback just an hour before the conference. Thus, try to schedule the conference at a time when you will be able to review feedback in the preceeding hour.
+## Requirements for Conferences
 
-## Conference logistics
+### Requirements for receiving assignment feedback:
 
-Conferences are conducted over Zoom at <https://nus-sg.zoom.us/my/jonathanfrome>. If you have difficulties joining the Zoom, email or message me to let me know what's going on. I usually record conferences to improve my teaching materials and to give students access to the [:recording and transcript](#x-recordingandtranscript). If you want to be sure your conference is recorded, you must tell me at the beginning of the conference.
+- Submit your assignment properly and on time
+- Book your conference on time
 
-Please follow these guidelines to avoid distractions (for me) during Zoom conferences:
+### Requirements for the conference:
 
-- Zoom
-    - Test your audio and video using Zoom settings before the conference begins
-    - Keep your video on
-    - Close other programs (Zoom hogs RAM)
-    - Plug in laptop / charge battery in advance
-- Other
-    - Find in a quiet, indoor space without wind noise or other people nearby
-    - Check your lighting (not dark, not bright backlight/window)
-    - Do not eat during the conference
-    - Make every effort to be on time, but if you are going to be late, email me before the scheduled time to let me know when to expect you
+- Don't miss your scheduled conference time (communicate in advance about any problems)
+- Be in a private, quiet room
+- Have working audio and video (test in advance)
 
-## Preparation
+If you don't meet these requirements, we won't be able to have the conference as scheduled. A reschedule at a mutually convenient time is possible but not assured.
 
-To make sure you get full benefit from the conference:
+## Conference Booking
 
-- Make sure to watch any video feedback I send you. If you don't, the conference will not be nearly as productive.
-    - If you don't receive a video by one hour before your scheduled conference, contact me to request it.
-- Come to the conference prepared with specific questions
-    - Although I'll give you feedback on important areas for improvement, I do not see it as my job to give you a list of tasks you need to complete to get an A paper
-    - Conferences are a time for you to use me as a resource, which requires effort on your part to ask for guidance on specific issues
-- Be prepared to take notes during the conference (if you type faster than you write, split the screen between Zoom and your notes, or use 2 monitors)
+- Book your conference through the Zoom tool on Canvas when I send the link <span class="smaller-text"> [:instructions](#x-instructions) </span>
+- Check the times carefully - Bookings uses 24-hour time format
+- Schedule your conference when you can review feedback in the hour before [:why this timing matters](#x-timing-matters)
 
-## Post-conference summaries
+## Conference Preparation
 
-- After the conference (same day), complete the assigned exercise to submit the conference summary
+- Watch the video feedback before your conference (if sent)
+- Contact me if you haven't received a video by 1 hour before your conference
+- Prepare specific questions about your draft
+- Bring materials for note-taking
 
-## Post-conference support
+## During Conference
 
-After your conference, continue working on your paper with targeted support from me.
+- Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
+- Email or message me if you have connection difficulties
+- Tell me at the start if you want the conference recorded [:about recordings](#x-about-recordings)
 
-**Available support**:
+### Zoom Setup
 
-- Answering specific questions about concepts, feedback, or writing strategies via email/Telegram.
-    - [What counts as a specific question?](/course-ntw2029/course-info/conferences/#what-counts-as-a-specific-question)
-- Scheduling additional meetings/conferences as time allows (note that conference weeks are busy, and I can't meet on weekends)
-- Clarifying conference feedback you didn't fully understand
+- Test your audio and video before the conference begins
+- Keep your video on throughout the conference
+- Close other programs before joining (Zoom uses significant RAM)
+- Charge your laptop in advance
 
-**Not available**:
+### Environment Setup
 
-- Reviewing emailed drafts or paper sections
-    - [Why can't you review emailed drafts?](/course-ntw2029/course-info/conferences/#why-cant-you-review-emailed-drafts)
+- Find a quiet, indoor space without wind noise or other people
+- Check your lighting (avoid darkness or bright backlights)
+- Do not eat during the conference
+- Email me before the scheduled time if you'll be late
 
-Remember: The conference gives you feedback on the most important issues with your draft. Additional support works best when you've already attempted to apply that feedback and hit specific obstacles. I suggest you first complete your post-conference reflection exercise to identify specific areas where you need help. Then, if needed, follow up with targeted questions about remaining uncertainties.
+## After Conference
 
-##### :x recording and transcript
+- Submit your conference summary exercise the same day
+- Ask specific questions about the feedback via email/Telegram. [What counts as a specific question?](#faq-specific-questions)
+- Request additional meetings if time allows
+- Request clarification of any conference feedback you didn't understand
+- Do not send draft sections for review between conferences
 
-I share the recording by forwarding students the Zoom email notification. IMPORTANT: do not click the "View Details" button, as only the host can see those details. You want to click the sharable link, which will take you to the recording and transcript.
+## FAQs
 
-Zoom also adds AI summaries and comments to these recordings. Zoom transcription is ok, but not great, so double-check anything important against the actual recording.
+### How do I access my conference recording?
+
+I share recordings by forwarding the Zoom email notification. Click the sharable link in the email (not the "View Details" button, which only hosts can access). The recording includes an automatic transcript and AI-generated summary.
 
 ![zoom-share-recording](/images/zoom_share_recording.png)
 
-##### :x check your settings.
+Note: Zoom transcription quality varies, so verify important details against the actual recording.
 
-The likely problem is that your Microsoft account and calendar are not both set to the Singapore time zone (even if your computer shows the correct time). To check:
+### What if I see strange conference times in Bookings?
 
-1. sign into webmail at https://exchange.nus.edu.sg/
-2. press the settings (1) button (the gear) on the top right of the page
-3. under General (2) → Language and time (3), confirm that your time zone is UTC+08:00
-   - if the time zone isn't Singapore, click on change (4) and choose the Singapore timezone
-   - if the time zone is Singapore, change it to another time zone, and then change it back
-4. under Calendar → View, check the "Display my calendar in time zone" and look for a "Yes, update" button to sync the calendar with the General time zone setting
+If you only see middle-of-night times, your Microsoft account timezone likely differs from Singapore time. To fix this:
+
+1. Sign into webmail at https://exchange.nus.edu.sg/
+2. Click the settings gear (top right)
+3. Navigate to General → Language and time
+4. Confirm that the timezone is UTC+08:00 Singapore
+   - If not Singapore: change to Singapore timezone
+   - If already Singapore: change to another timezone, then back to Singapore
+5. Under Calendar → View, check "Display my calendar in time zone"
+6. Click "Yes, update" if the button appears
 
 ![timezone](/images/timezone.png)
 ![yes-update](/images/yes-update.png)
 
----
+### Why can't you review drafts between conferences?
 
-## FAQs
+I review drafts at scheduled checkpoints as part of the normal course assignments. I cannot review additional drafts because:
 
-### Why can't you review emailed drafts?
+- Students can email drafts instantly, creating an unsustainable workload
+- The current feedback schedule already requires my full-time commitment
+- 10 minutes per extra draft × all students = 6+ hours of additional work
 
-While I do review drafts as part of the normal course assignments, I can't review additional emailed drafts (in part or in whole) for practical and pedagogical reasons.
-
-- it takes just 10 seconds to email me a draft, so many students would ask for extra feedback
-- the existing feedback schedule already occupies almost all of my time
-- even short additional reviews would require many hours of additional work (it's hard to believe, but just 10 minutes per draft for all students adds up to roughly 6 hours work in reality)
-
-Instead, submit complete work at designated checkpoints, prepare for conferences to take full advantage of them, and make appointments for additional help.
+Instead: Submit work at designated checkpoints, prepare thoroughly for conferences, and request meetings for specific help.
 
 ### What counts as a specific question?
 
-Vague questions ask for reassurance without identifying a specific problem, or ask for solutions without showing you've reflected on the guidance you've already received. Specific questions show you've identified what you're trying to achieve and where/why you're stuck. They show that you are taking ownership for developing your writing skills.
+Vague questions ask for reassurance without identifying a problem or a solution without showing that you've reflected on the guidance you've already received. Specific questions show you've identified what you're trying to achieve and where/why you're stuck. They show that you are taking ownership for developing your writing skills.
 
 **Vague questions (avoid):**
 
@@ -118,3 +128,15 @@ Vague questions ask for reassurance without identifying a specific problem, or a
 - "You said that I needed to explain what I meant by 'pleasure technology' or I should remove it. Does the following sentence explain it sufficiently, or do you still think I should remove it? [quotes draft sentence]"
 
 Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance. Often, specific questions also propose possible solutions. Formulating these questions builds writing skills.
+
+##### :x instructions
+
+[screenshots to be posted]
+
+##### :x timing matters
+
+Feedback sometimes arrives just an hour before your conference. Scheduling when you can review it immediately before we meet ensures you get maximum benefit from our discussion.
+
+##### :x about recordings
+
+Recordings help you review feedback later and help me improve my teaching materials. Recordings are not guaranteed unless you request them at the start.
