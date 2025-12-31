@@ -3,32 +3,26 @@ title: Communication & Support
 date: 2025-10-13
 ---
 
-## Quick Decision Guide
+## Before You Contact Me
 
-**Do you need concrete information, like due dates, word count, etc.?**
+I'm always happy to help, but if you're looking for basic course info you don't have (such as assignment requirements, class meeting dates, etc.) , first check the website.
 
-- Check course info, assignments, or FAQs first
-- Then TRY THE WEBSITE SEARCH BOX please!
+Please use the website search box!
 
 ![Website search box location](/images/website-search-box-arrow.png)
 
-**Are you confused about potentially incorrect information on the website?**
+## When To Contact Me
 
-- Please contact me directly first so I can check and fix any errors before notifying the class.
+- If you have information I've provided but need clarification or suspect an error, contact me.
+- If your question is non-basic (topics you don't understand, how to write/revise), contact me.
+- Always contact/email/message me directly rather than posting in the class chat. Class chat is for talking to other students.
+- It's fine to contact me anytime. You won't wake me with messages/emails (I use 'do not disturb').
 
-**Do you need help interpreting instructions, guidance, etc.?**
+**Choose your channel:**
 
-- Please contact me; if instructions confuse you, they may confuse others, and I'd like to improve them. Just PLEASE carefully read the entire assignment first, as your question may be answered elsewhere in the assignment.
-
-**Is your question private?**
-
-- Email for things we should document (extensions, grades, special arrangements)
-- Telegram DM for quick private questions
-- Don't hesitate to ask for a conference for writing feedback or course issues
-
-**Can we talk after class?**
-
-- After class is great for short questions (<5 minutes), for longer questions better to set up a meeting time. I'm on campus most days.
+- **Telegram DM**: Quick, informal questions
+- **Email**: Extensions, grades, special arrangements [:why email?](#x-why-email)
+- **Informal meetings**: Writing feedback, course issues—request via Telegram, email, or in person
 
 ---
 
@@ -36,48 +30,19 @@ date: 2025-10-13
 
 - **Email**: frome@nus.edu.sg
 - **Office**: RC3-02-04K (same hallway as CR23)
-- **Office hours**: By appointment
-
-It's fine to contact me anytime. You won't wake me with messages/emails (I use 'do not disturb').
+- **Office hours**: By appointment; I'm on campus most days.
 
 ---
 
-## Communication Methods
-
-### Telegram Class Chat
-
-**Best for**: Quick questions about course or assignments that might help classmates
-
-- Join in first week
-- Check daily / turn on notifications
-- I monitor regularly and respond quickly
-- DM me for quick private questions rather than posting in class chat
-
----
-
-### Email
-
-**Best for**: Anything requiring documentation or more context (arranging meetings, extension requests, grade concerns, personal matters, reporting website errors)
+## Email Expectations
 
 - Always include "NTW2029" in subject line
 - I respond within one business day (usually not on weekends—plan ahead since deadlines are usually Sunday)
 - If I don't respond, send a reminder (it's not rude—I give you permission because I can lose track of my MANY emails)
-
-For tips on writing effective emails, see [How to Succeed](/course-ntw2029/course-info/how-to-succeed).
-
----
-
-### Conferences
-
-#### Informal Conferences (Anytime)
-
-Request via email for clarifying class material, getting detailed feedback, or discussing course content. We can meet in person or on Zoom.
-
-#### Formal Conferences (Weeks 6, 11, 13)
-
-Required conferences for discussing your papers. See [Conferences](/course-ntw2029/course-info/conferences) page for full details.
-
-For tips on preparing for conferences, see [How to Succeed](/course-ntw2029/course-info/how-to-succeed).
+- Email etiquette - professional emails get faster, better responses. Here's what works:
+    - Subject line: Always include "NTW2029" so I can find your email
+    - Opening: Use both your formal name and what I call you in class, if different
+    - Tone: Write like you're asking permission from a professor, not messaging your Grab driver. "May I meet with you after class?" works better than "I'll come see you after class." "Is it ok for me to leave class early due to an exam?" works better than "Just letting you know I'm leaving class 45 min early because I have an exam."
 
 ---
 
@@ -104,3 +69,7 @@ The earlier you reach out, the more options we have to help.
 ### Wellbeing Support
 
 - [NUSC Pastoral Care](https://tinyurl.com/nuscpastoralcare)
+
+##### :x why email
+
+Email creates documentation we can both reference later—useful if questions arise about what was agreed.
