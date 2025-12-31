@@ -140,3 +140,16 @@ Feedback sometimes arrives just an hour before your conference. Scheduling when 
 ##### :x about recordings
 
 Recordings help you review feedback later and help me improve my teaching materials. Recordings are not guaranteed unless you request them at the start.
+
+---
+
+## TO INCORPORATE LATER
+
+The following content from how-to-succeed.md is missing from this page:
+
+**Conference Preparation (add to existing section):**
+- Review the assignment and your submission before the conference
+- Identify the hardest part for you
+
+**During Conference (note-taking tip):**
+- Take notes actively—split screen or use two devices
