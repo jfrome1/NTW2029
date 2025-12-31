@@ -10,6 +10,8 @@ date: 2025-10-13
 - Check course info, assignments, or FAQs first
 - Then TRY THE WEBSITE SEARCH BOX please!
 
+![Website search box location](/images/website-search-box-arrow.png)
+
 **Are you confused about potentially incorrect information on the website?**
 
 - Please contact me directly first so I can check and fix any errors before notifying the class.
@@ -46,35 +48,22 @@ It's fine to contact me anytime. You won't wake me with messages/emails (I use '
 
 **Best for**: Quick questions about course or assignments that might help classmates
 
-**How it works**:
-
 - Join in first week
 - Check daily / turn on notifications
 - I monitor regularly and respond quickly
-- DM me rather than posting in class chat
-
-**You can also**: Message me directly with quick questions
+- DM me for quick private questions rather than posting in class chat
 
 ---
 
 ### Email
 
-**Best for**: Anything requiring documentation or more context
-
-**Use email for**:
-
-- Arranging meetings
-- Extension requests
-- Grade concerns
-- Personal matters affecting coursework
-- Reporting website errors
-
-**Email guidelines**:
+**Best for**: Anything requiring documentation or more context (arranging meetings, extension requests, grade concerns, personal matters, reporting website errors)
 
 - Always include "NTW2029" in subject line
-- I respond within one business day
+- I respond within one business day (usually not on weekends—plan ahead since deadlines are usually Sunday)
 - If I don't respond, send a reminder (it's not rude—I give you permission because I can lose track of my MANY emails)
-- I usually don't respond on weekends, so plan ahead (note: deadlines are usually Sunday)
+
+For tips on writing effective emails, see [How to Succeed](/course-ntw2029/course-info/how-to-succeed).
 
 ---
 
@@ -82,23 +71,13 @@ It's fine to contact me anytime. You won't wake me with messages/emails (I use '
 
 #### Informal Conferences (Anytime)
 
-**Best for**:
-
-- Clarifying class material
-- Getting detailed feedback on assignments
-- Discussing course content
-
-**How to arrange**:
-
-- Email me to request
-- We can meet in person or on Zoom
-- I'm on campus most days and happy to meet
+Request via email for clarifying class material, getting detailed feedback, or discussing course content. We can meet in person or on Zoom.
 
 #### Formal Conferences (Weeks 6, 11, 13)
 
-**Required conferences** for discussing your papers
+Required conferences for discussing your papers. See [Conferences](/course-ntw2029/course-info/conferences) page for full details.
 
-See [Conferences](/course-ntw2029/course-info/conferences) page for full details
+For tips on preparing for conferences, see [How to Succeed](/course-ntw2029/course-info/how-to-succeed).
 
 ---
 
