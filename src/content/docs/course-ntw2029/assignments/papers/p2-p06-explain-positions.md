@@ -60,11 +60,11 @@ Provide whatever context your specific criticism requires. Depending on your cri
 
 For example: If the commentary challenges empirical evidence, explain the target's main theory briefly, then detail the specific empirical claims at issue. If the commentary challenges an implicit assumption, explain enough of the target's argument to reveal what it takes for granted.
 
-### Explaining What the Commentary Challenges (Requirement #2)
+### Explaining What the Commentary Challenges (Requirement #5)
 
 Show what the target article claims or assumes. For explicit criticisms, quote the target's claim directly. For implicit criticisms, explain what the target takes for granted that the commentary questions.
 
-### Explaining the Commentary's Position (Requirement #3)
+### Explaining the Commentary's Position (Requirement #6)
 
 Support your explanation with specific evidence from both texts:
 
@@ -72,7 +72,7 @@ Support your explanation with specific evidence from both texts:
 - Use page numbers or paragraph citations
 - Explain quotes in your own words to show understanding
 
-### Explaining Where Positions Conflict (Requirement #4)
+### Explaining Where Positions Conflict (Requirement #7)
 
 Show where their conclusions differ, but don't yet analyze what underlies this disagreement or divergence—that's the work for P07.
 
