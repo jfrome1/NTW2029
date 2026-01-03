@@ -63,10 +63,9 @@ Pick something that you know how to do but that most people in this class won't 
 
 Watch for these phrases in your writing - they often signal you're assuming too much reader knowledge:
 
-- "Simply" or "just" (as in "just fold the paper")
-- Directional terms without clear reference points ("the right side," "turn it over")
+- Directional terms without clear reference points ("the right side," "turn it over", "cut in half")
 - Technical terms without definitions
-- "As usual" or "normally"
+- References to judgements ("until it's done", "don't wait too long")
 
 ### Think of Your Reader
 
