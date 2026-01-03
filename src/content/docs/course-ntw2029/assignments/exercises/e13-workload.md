@@ -1,6 +1,6 @@
 ---
 title: Exercise 13 - Workload report
-date: 2025-08-18
+date: 2026-01-12
 ---
 
 ## Assignment
@@ -13,7 +13,7 @@ No GenAI link or word count needed on this exercise.
 
 ## Requirements
 
-- Download the [workload report template](/downloads/2510-NTW2029workload.docx)
+- Download the [workload report template](/downloads/2520-NTW2029workload.docx)
 - Record time spent on this course each week
 - Enter hours as numbers only (use `2` not `2 h`)
 - Round to the nearest half hour (0.5)
