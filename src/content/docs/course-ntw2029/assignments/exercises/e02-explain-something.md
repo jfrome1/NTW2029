@@ -5,7 +5,12 @@ date: 2024-08-14
 
 ## Purpose
 
-This assignment gives you practice thinking about your writing from a reader's perspective. You'll learn to identify where readers might struggle with your explanations and test your assumptions about reader knowledge against actual reader feedback.
+Almost every piece of writing advice I will give you in this course relates to one of two ideas:
+
+- academic writing can be thought of as a conversation
+- the writer's job is to make their reader's job as effortless as possible
+
+This assignment relates to the latter idea and will give you practice thinking about your writing from a reader's perspective.
 
 ## Overview
 
@@ -35,7 +40,7 @@ Format this as:
 
 ### Part 3: Actual Reader Feedback
 
-Show your explanation to a friend who is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Then, ask them to identify 1-3 specific places where they might be confused about what to do or how to do it.
+Show your explanation to a friend (an actual, living person, not a chatbot) who is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Then, ask them to identify 1-3 specific places where they might be confused about what to do or how to do it.
 
 Report their feedback exactly as given. Format this like the above, using direct quotes and reporting your friend's feedback.
 
