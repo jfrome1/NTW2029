@@ -74,7 +74,47 @@ With calibrated understanding, draft specific additions to P08 assignment.
 - Jordan: Bottom of mid range; also noted in original tasks as example of descriptive topic sentences
 - Portia: Only "normal" low-tier student (Yi Fan's issues are compliance, not necessarily writing)
 
-**Next: Phase 2 — Analyze submissions for paragraph count, outline formatting, thesis placement, topic sentence quality**
+#### Phase 2 Results: Pattern Identification (Completed 2025-01-03)
+
+**Outline Item Counts:**
+
+| Student | Tier | P09 | Outline Items | Format |
+|---------|------|-----|---------------|--------|
+| Shannon | High | 84 | 21 (with headers) | Hierarchical — non-compliant |
+| Jia Qi | High | 81 | 18 | Flat numbered |
+| Krishna | High | 81 | 11 | Flat numbered |
+| Yuning | High | 82 | 12 | Flat numbered |
+| Aanya | High | 79 | 8 | Flat numbered |
+| An Xiao | Mid | 77 | 7 | Flat numbered |
+| Soham | Mid | 72 | 8 | Flat numbered (thesis at top) |
+| Ki-En | Mid | 71 | 9 | Flat numbered |
+| Jordan | Mid | 70 | 9 | Flat numbered |
+| Portia | Low | 68 | 10 | Flat numbered (thesis at top) |
+
+**Key findings:**
+- Range: 7-18 items (excluding Shannon's hierarchical format)
+- No clear correlation between outline length and grade
+- Only 2/10 students included thesis in outline
+- Shannon's hierarchical format (section headers) non-compliant with intended flat list format
+- Jordan's topic sentences exemplify descriptive (vs. analytical) pattern
+
+**Calibration decisions:**
+1. Shannon's 21 items acceptable in count but hierarchical format non-compliant
+2. Thesis placement in outline: Required
+3. Jordan's descriptive topic sentences: Problem to address (deferred to separate teaching intervention)
+
+#### Phase 4 Results: Revisions Implemented (2025-01-03)
+
+**Completed (commits 91641e6, ee88c9c):**
+- [x] Outline format: Flat numbered list, no headers/sub-numbering
+- [x] Thesis placement: Required at top of outline
+- [x] Paragraph count: "10-15 body paragraphs; if more/fewer, check 'one idea per paragraph'"
+- [x] Example outline: Placeholder added for download link
+- [x] Student reflection: Added to P08 and P02 (P1 draft)
+
+**Deferred:**
+- Descriptive vs analytical topic sentences — needs broader pedagogical intervention
+- Short first sentence guidance — needs review of other course materials
 
 ### P06 Revisions
 
