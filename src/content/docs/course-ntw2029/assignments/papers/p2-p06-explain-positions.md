@@ -17,15 +17,23 @@ Do not include your own thesis or evaluation of the positions at this point; foc
 
 Your explanation must enable a reader to understand:
 
-1. **What the target argues**: Explain the target article's argument with enough context for a reader to understand the specific criticism you're analyzing.
+Copy and paste the below headers (keep numbering) into a document, writing your paragraphs under each heading. You can have more than one paragraph per heading if needed:
 
-2. **What the commentary challenges**: Identify and explain what the commentary responds to. Quote the target article to show what claim, assumption, approach, or interpretation the commentary criticizes.
+1. **Phenomenon**: What phenomenon (or phenomena, if several) does the target article claim to explain? Be specific.
 
-3. **What the commentary argues**: Explain the commentary's position with quotes and reasoning.
+2. **Basic argument**: What explanation does the target offer for the phenomenon? Can the explanation accurately be expressed in the form "[The phenomenon] happens because [the cause]"? If not, why not?
 
-4. **Where positions conflict**: Explain how these positions reach different conclusions about the specific issue you're discussing.
+3. **Scope**: Does the target claim to explain every instance of the phenomenon in every context? Typical examples of the phenomenon? How broad or narrow is the target's claim?
 
-5. **(Optional) Author's response**: If the target article's authors address this specific criticism in their response, you may include what they say.
+4. **Contribution**: What do the target authors claim is new or different about their approach compared to existing theories?
+
+5. **What the commentary challenges**: Identify and explain what the commentary responds to. Quote the target article to show what claim, assumption, approach, or interpretation the commentary criticizes.
+
+6. **What the commentary argues**: Explain the commentary's position with quotes and reasoning.
+
+7. **Where positions conflict**: Explain how these positions reach different conclusions about the specific issue you're discussing.
+
+8. **Author's response**: Explain how the target article's authors respond to this specific criticism. If the authors do not address this criticism in their response, state that explicitly.
 
 ### What You Must NOT Include
 
@@ -41,11 +49,7 @@ Save these moves for P07 and later assignments. Your only job in P06 is to expla
 
 ## Guidelines
 
-### Organization
-
-Use the five numbered requirement headings as section headers in your submission. This structured format ensures you address each requirement and makes it easier to provide targeted feedback in your conference. You'll develop a more integrated essay structure later.
-
-### Explaining the Target's Argument (Requirement #1)
+### Explaining the Target's Argument (Requirements #1-4)
 
 Provide whatever context your specific criticism requires. Depending on your criticism, you might focus on:
 
