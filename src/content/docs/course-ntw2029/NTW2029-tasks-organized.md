@@ -126,6 +126,18 @@ With calibrated understanding, draft specific additions to P08 assignment.
 - move from Guidelines to Requirements: "Use the five numbered requirement headings as section headers in your submission. This structured format ensures you address each requirement and makes it easier to provide targeted feedback in your conference."
 - clarify that early in the analysis, students should use long quotes to provide fuller context, since it's too early to evaluate what's important
 
+#### P06 Revision Workflow
+
+**Data Sources:**
+- Current assignment: `C:\Dev\repos\NTW2029\src\content\docs\course-ntw2029\assignments\papers\p2-p06-explain-positions.md`
+- Submissions: `G:\Dropbox (Personal)\JD\90-99 teaching courses\93 current courses\2510 NTW Evolution\submitted assignments\p2-p06-explain-positions\markdown`
+- Margin comments: `G:\Dropbox (Personal)\JD\90-99 teaching courses\93 current courses\2510 NTW Evolution\submitted assignments\p2-p06-explain-positions\original`
+- Audio feedback (.vtt): `G:\Dropbox (Personal)\JD\90-99 teaching courses\93 current courses\2510 NTW Evolution\recordings\2510 P06 feedback`
+- Conference transcripts: `G:\Dropbox (Personal)\JD\90-99 teaching courses\93 current courses\2510 NTW Evolution\recordings\2510 P06 conference`
+- Quality proxy: Use P09 grade tiers from P08 analysis
+
+**Status:** Not started
+
 ### Thesis Structure Clarification
 
 - p2 final thesis should start with 'authors disagree about X, [describe 2 contrasting positions]', not start with 'the authors disagree because...'
