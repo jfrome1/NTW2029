@@ -45,6 +45,37 @@ Present patterns to instructor for calibration:
 **Phase 4: Draft Revisions**
 With calibrated understanding, draft specific additions to P08 assignment.
 
+#### Phase 1 Results: Quality Stratification (Completed 2025-01-03)
+
+**P09 Grade Tiers:**
+
+| Tier | Grade Range | Count | Students |
+|------|-------------|-------|----------|
+| High | A/A- (78+) | 9 | Shannon (84), Yuning (82), Krishna (81), Jia Qi (81), Aanya (79), Xin Jie (79), Danelle (78), Ashley (78), Lauren (78) |
+| Mid | B+ (70-77) | 13 | An Xiao (77), Reiner (76), Tony (75), Zhao Wu (74), Abhishek (73), Zi Yong (73), Soham (72), Minh (72), Jia Yang (71), Colby (71), Ki-En (71), Ziduan (70), Jordan (70) |
+| Low | B or below (<70) | 2 | Portia (68), Yi Fan (50)* |
+
+*Yi Fan excluded from sample due to documented compliance issues (late submissions, missed highlighting requirements) and missing P08 submission.
+
+**Selected Sample (5 students):**
+
+| Tier | Student | P09 | P08 File |
+|------|---------|-----|----------|
+| High | Shannon Lam Shan Ning | A (84) | shannonlamshanning_132174_7940828_P08 Full Draft.md |
+| High | Aanya Agarwal | A- (79) | aanyaagarwal_271281_7934565_Aanya Agarwal E1 Paper 2 Draft.md |
+| Mid | An Xiao | A- (77) | anxiao_189051_7946605_NTW2029 An Xiao P08.md |
+| Mid | Jordan Khong Jun Wei | B+ (70) | jordankhongjunwei_249544_7947376_P08 - Full Draft + Outline-2.md |
+| Low | Portia Tan Hui Man | B (68) | portiatanhuiman_LATE_257343_7948913_NTW2029 P08-1.md |
+
+**Rationale for sample:**
+- Shannon: Top performer, establishes upper bound
+- Aanya: High tier at different score point
+- An Xiao: Top of mid range (77 vs 70-76)
+- Jordan: Bottom of mid range; also noted in original tasks as example of descriptive topic sentences
+- Portia: Only "normal" low-tier student (Yi Fan's issues are compliance, not necessarily writing)
+
+**Next: Phase 2 — Analyze submissions for paragraph count, outline formatting, thesis placement, topic sentence quality**
+
 ### P06 Revisions
 
 - does it say to keep paragraphs separate? maybe an old version didn't?
