@@ -35,6 +35,8 @@ Check guidelines on the [Citations](https://ntw-2029.vercel.app/course-ntw2029/r
 
 3. **Simplified outline**: Create an outline of your draft's topic sentences. [:How to create and use your outline](#x-how-to-create-and-use-your-outline)
 
+4. **Reflection**: After your outline, briefly describe: (a) questions you have about your draft, and (b) aspects you're having trouble with or feel uncertain about.
+
 ## Guidelines
 
 ### Developing Depth
@@ -170,7 +172,11 @@ Keep focus on analyzing the disagreement between target and commentary, using ad
 
 ##### :x How to create and use your outline
 
-Create your outline by extracting all topic sentences from your draft in order. List them in a numbered list on a new page after your Reference list. You don't need to highlight the sentences.
+Create your outline by extracting your thesis and all topic sentences from your draft in order. Use a flat numbered list—no section headers, no sub-numbering. Start with your thesis statement, then list your body paragraph topic sentences in order of appearance. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
+
+Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
+
+[PLACEHOLDER: Add download link to correctly formatted example outline]
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 
