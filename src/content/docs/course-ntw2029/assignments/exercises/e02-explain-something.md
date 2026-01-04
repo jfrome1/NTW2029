@@ -65,7 +65,7 @@ Watch for these phrases in your writing - they often signal you're assuming too 
 
 - Directional terms without clear reference points ("the right side," "turn it over", "cut in half")
 - Technical terms without definitions
-- References to judgements ("until it's done", "don't wait too long")
+- References to judgements ("until it's done", "don't wait too long")d
 
 ### Think of Your Reader
 
