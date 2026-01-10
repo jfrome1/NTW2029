@@ -11,6 +11,8 @@ This assignment develops your ability to understand and articulate a scholarly a
 
 Select one of the four target articles and explain its main argument. You'll address four elements of the argument, providing your own explanation, a supporting quotation, and notes on any ambiguities for each.
 
+Note: For peer review to work well, I need a reasonably even distribution of target article choices across each section. After you've selected your article, post your choice on the section Telegram channel. If you see that many students have already chosen a particular article, consider selecting a different one. You don't need to change if you have a strong preference, but aim for balance where possible.
+
 ## Requirements
 
 ### 1. Select Your Target Article
