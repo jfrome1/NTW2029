@@ -1,6 +1,11 @@
 ---
 title: P05 - Identify the Criticism
 date: 2026-01-10
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
@@ -273,7 +278,7 @@ For example, the Konečni (2017) commentary on Menninghaus et al. addresses mult
 
 ### What This Assignment Doesn't Ask
 
-Don't evaluate whether the commentary is right—that's P06 work. Your job here is to understand what each article says and gather the relevant passages.
+Don't try to determine whether the commentary's criticism is right or wrong. You need to reserve judgment until after you actually analyze the articles and gain a deep understanding of them. Your job here is to take the first step in getting a general understanding what each article says and to gather the relevant passages.
 
 ## Feedback
 

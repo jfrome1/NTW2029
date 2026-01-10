@@ -1,6 +1,11 @@
 ---
 title: P07 - Working Draft
 date: 2026-01-10
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
@@ -134,6 +139,43 @@ Your working thesis should explain what prevents these positions from being comp
 
 Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement—the assumption, definition, or methodological commitment that produces the conflict.
 
+[:How theses develop through P07-P08](#x-how-theses-develop-through-p07-p08)
+
+##### :x How theses develop through P07-P08
+
+For students interested in understanding the developmental process: Your thesis will likely evolve through stages. A changing thesis is expected, not a sign of problems.
+
+**Starting point** (what P06 gave you):
+
+- Understanding what each position argues
+- Identifying the commentary's main criticism
+- Verifying accuracy of the commentary's characterization
+
+**P07 working thesis** (what analysis reveals):
+
+- "They disagree because the target focuses on X while the commentary focuses on Y"
+- "The apparent conflict stems from commentary's mischaracterization of Z"
+- "They agree on explicit claims but differ on implicit assumption A"
+
+**Deeper thesis** (develops in P08):
+
+For theoretical/definitional disagreements, deeper theses often:
+
+- Identify implicit assumptions or commitments neither author states
+- Reveal structural constraints in theoretical frameworks
+- Show why theoretical positions logically exclude each other
+
+For empirical disagreements, deeper theses often:
+
+- Reveal evidentiary standards and what each treats as sufficient proof
+- Explain patterns in how data or predictions get evaluated differently
+- Identify who bears burden of proof and why that matters
+- Show what methodological commitments drive different interpretations
+
+Your analysis determines which aspects matter for your case. You might address one of these or several, depending on what you discover.
+
+Peer review will help you identify whether your working thesis explains what you discovered. Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08.
+
 ##### :x why going beneath test matters
 
 Students often state a thesis that one of the authors already says explicitly. If your thesis is "The commentary argues the target overlooks developmental factors," you've described the commentary, not analyzed the disagreement.
@@ -149,34 +191,57 @@ If you search both articles and find your claim stated explicitly, that's useful
 
 ##### :x diagnostic patterns
 
-Answer whichever questions fit your case. You don't need to address patterns that don't apply:
+Develop your thesis with specific evidence and reasoning. Answer whichever diagnostic questions fit your case—most commentaries will match one or two patterns. Your analysis should explain how these issues produce the incompatibility you identified in your thesis. Use specific evidence from both articles to develop your claims.
+
+To identify why the positions reach different conclusions, answer whichever questions apply to your case. You don't need to answer questions that don't fit your disagreement:
+
+- [:Pattern 1: Claims don't match evidence](#x-pattern-1)
+- [:Pattern 2: Missing important factors](#x-pattern-2)
+- [:Pattern 3: Definitions don't match](#x-pattern-3)
+- [:Pattern 4: Wrong question or framework](#x-pattern-4)
+- [:Pattern 5: Logical problems or scientific standards](#x-pattern-5)
+
+##### :x pattern-1
 
 **Pattern 1: Claims don't match evidence**
 
 - Does the commentary show the target's prediction failed?
 - Are there counterexamples to the target's universal claim?
 - Does the target cherry-pick supporting cases while ignoring contradictory evidence?
+- *Example: Verpooten & Eens argue that singing doesn't correlate with social complexity as predicted*
+
+##### :x pattern-2
 
 **Pattern 2: Missing important factors**
 
 - What does the commentary say the target overlooked?
 - Why does that missing factor matter for understanding the phenomenon?
+- *Example: Goldstein argues that theatre lacks representational distance that target's theory requires*
+
+##### :x pattern-3
 
 **Pattern 3: Definitions don't match**
 
 - Do target and commentary define key terms differently?
 - If they used the commentary's definition, would the disagreement dissolve or remain?
+- *Example: Norman defines "exploration" to include all non-real worlds, not just fantastical ones*
+
+##### :x pattern-4
 
 **Pattern 4: Wrong question or framework**
 
 - Does the commentary say the target asked the wrong question?
 - Does the commentary claim the target's approach can't work for this type of phenomenon?
+- *Example: Killin argues adaptation/byproduct framework can't handle complex coevolved traits like music*
+
+##### :x pattern-5
 
 **Pattern 5: Logical problems or scientific standards**
 
 - Does the commentary say the target's argument is circular or logically invalid?
-- Does the commentary say the theory is too vague to test?
-- Does the commentary challenge what evidence threshold is needed?
+- Does the commentary say the theory is too vague to test or makes no testable predictions?
+- Does the commentary challenge what evidence threshold is needed (burden of proof, parsimony, defaults)?
+- *Example: Stewart-Williams argues evidence is ambiguous between adaptation and byproduct; when evidence doesn't discriminate, the default should be simpler explanation*
 
 ##### :x what sources to identify
 
