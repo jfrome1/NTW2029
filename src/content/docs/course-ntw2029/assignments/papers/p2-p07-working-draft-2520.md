@@ -14,7 +14,7 @@ This assignment develops your analytical contribution—your thesis about what u
 
 ## Overview
 
-Write a working draft in the form of separate sections that you'll later combine in your full draft. Since you've verified the disagreement in P06, you can focus on developing your thesis and analysis rather than establishing basic understanding.
+Write a working draft (approximately 1200-1500 words) in the form of separate sections that you'll later combine in your full draft. Since you've verified the disagreement in P06, you can focus on developing your thesis and analysis rather than establishing basic understanding.
 
 ## Requirements
 
@@ -141,7 +141,7 @@ Don't argue that one scholar is right and the other wrong. Instead, explain what
 
 [:How theses develop through P07-P08](#x-how-theses-develop-through-p07-p08)
 
-##### :x How theses develop through P07-P08
+##### :x how theses develop through p07-p08
 
 For students interested in understanding the developmental process: Your thesis will likely evolve through stages. A changing thesis is expected, not a sign of problems.
 

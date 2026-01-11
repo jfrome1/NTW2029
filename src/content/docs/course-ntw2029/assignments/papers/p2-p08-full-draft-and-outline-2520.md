@@ -76,7 +76,7 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 ## Feedback
 
-You'll receive recorded feedback on P08 to discuss in a conference during Week 13.
+I'll provide recorded feedback on P08, which we'll discuss in a conference during Week 13.
 
 ##### :x using writing from earlier assignments
 
@@ -137,7 +137,7 @@ Your paper should reference significance twice:
 
 The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
 
-###### :x Example showing different levels of thesis and significance
+##### :x example showing different levels of thesis and significance
 
 **Limited thesis and significance:**
 
@@ -173,13 +173,13 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 
 Keep focus on analyzing the disagreement between target and commentary, using additional sources to support that analysis.
 
-##### :x How to create and use your outline
+##### :x how to create and use your outline
 
 Create your outline by extracting your thesis and all topic sentences from your draft in order. Use a flat numbered list—no section headers, no sub-numbering. Start with your thesis statement, then list your body paragraph topic sentences in order of appearance. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
-[PLACEHOLDER: Add download link to correctly formatted example outline]
+<!-- TODO: Add download link to correctly formatted example outline -->
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 

@@ -14,7 +14,7 @@ This assignment develops your ability to verify whether a commentary accurately 
 
 ## Overview
 
-Restate the disagreement between target and commentary, then verify whether the commentary accurately represents the target's position. Finally, articulate why these positions are incompatible. This is detailed verification work—you're checking accuracy, not yet developing your thesis about what underlies the disagreement.
+Restate the disagreement between target and commentary, then verify whether the commentary accurately represents the target's position. Finally, articulate why these positions are incompatible (approximately 700-1000 words total). This is detailed verification work—you're checking accuracy, not yet developing your thesis about what underlies the disagreement.
 
 ## Requirements
 
@@ -31,10 +31,12 @@ In 2-3 sentences, summarize the main criticism the commentary makes of the targe
 **A2. How does the target respond?** [:How do I find the author's response?](#x-how-do-i-find-the-authors-response)
 
 If the target authors address this criticism in their response:
+
 - Summarize their response in 2-3 sentences
 - Quote the key passage (with page number)
 
 If the target authors do not address this criticism:
+
 - State that they don't address it
 - Write 2-3 sentences describing how you think the target authors *might* respond, based on their article. What would they likely say if asked about this criticism?
 
@@ -210,8 +212,8 @@ Come to conference ready to:
 
 ## Feedback
 
-You'll discuss your verification findings in conference. Come prepared to explain your evidence and reasoning.
+We'll discuss your verification findings in conference. Come prepared to explain your evidence and reasoning.
 
-##### :x How do I find the author's response?
+##### :x how do i find the authors response
 
 To find passages relevant to your specific commentary: (1) Open the file with the target and commentary articles, (2) Search (Ctrl+F or Cmd+F) for your commentary author's last name, (3) Read any passages in the author's response where they cite or discuss your commentary.
