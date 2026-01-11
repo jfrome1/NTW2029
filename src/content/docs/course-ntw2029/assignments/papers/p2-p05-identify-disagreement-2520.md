@@ -76,7 +76,7 @@ Then, quote 1-2 key passages (with page numbers) that show the commentary's reas
 
 **Question 7: Does the author respond to this criticism?**
 
-The target article's authors respond to the commentaries as a group. Does their response address this specific criticism? [:How do I find the author's response?](#x-how-find-response)
+The target article's authors respond to the commentaries as a group. Does their response address this specific criticism? [:How do I find the author's response?](#x-how-do-i-find-the-authors-response)
 
 First, state whether the authors address your criticism or not.
 
@@ -282,7 +282,7 @@ Don't try to determine whether the commentary's criticism is right or wrong. You
 
 ## Feedback
 
-You'll receive brief written feedback identifying any clear misunderstandings, plus peer review discussion about whether your chosen criticism is workable.
+I'll provide brief written feedback identifying any clear misunderstandings, plus peer review discussion about whether your chosen criticism is workable.
 
 ##### :x Why both?
 
@@ -292,6 +292,6 @@ The quotation lets me see exactly what the article states without having to sear
 
 These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.
 
-##### :x How find response?
+##### :x how do i find the authors response
 
 To find passages relevant to your specific commentary: (1) Open the file with the target and commentary articles, (2) Search (Ctrl+F or Cmd+F) for your commentary author's last name, (3) Read any passages in the author's response where they cite or discuss your commentary.

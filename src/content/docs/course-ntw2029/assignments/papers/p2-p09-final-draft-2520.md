@@ -107,4 +107,4 @@ Sophisticated analysis moves beyond identifying what drives disagreement to exam
 
 ## Feedback
 
-I'll provide a grade and written or recorded feedback on your final paper. Your grade will be based on how the assessment questions and the depth and sophistication of your analysis.
+I'll provide a grade and written or recorded feedback on your final paper. Your grade will be based on the assessment criteria above and the depth and sophistication of your analysis.
