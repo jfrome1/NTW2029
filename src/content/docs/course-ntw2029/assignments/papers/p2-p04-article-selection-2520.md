@@ -1,11 +1,6 @@
 ---
 title: P04 - Article Selection
 date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
