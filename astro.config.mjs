@@ -61,6 +61,10 @@ export default defineConfig({
           link: "course-ntw2029/schedule",
           label: "Course schedule",
         },
+        {
+          link: "course-ntw2029/assignments/exercises/e01-introductions",
+          label: "Exercise 1",
+        },
         // Temporarily hidden for initial deployment - uncomment to restore:
         // {
         //   label: "Course information",
