@@ -1,11 +1,6 @@
 ---
 title: P07 - Working Draft
 date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose

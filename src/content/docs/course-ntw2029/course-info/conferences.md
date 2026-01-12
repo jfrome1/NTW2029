@@ -1,11 +1,6 @@
 ---
 title: Conferences
 date: 2025-08-13
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Conference Types and Timing
@@ -67,7 +62,7 @@ If you don't meet these requirements, we won't be able to have the conference as
 ## After Conference
 
 - Submit your conference summary exercise the same day
-- Ask specific questions about the feedback via email/Telegram. [What counts as a specific question?](#faq-specific-questions)
+- Ask specific questions about the feedback via email/Telegram. [What counts as a specific question?](#what-counts-as-a-specific-question)
 - Request additional meetings if time allows
 - Request clarification of any conference feedback you didn't understand
 - Do not send draft sections for review between conferences
