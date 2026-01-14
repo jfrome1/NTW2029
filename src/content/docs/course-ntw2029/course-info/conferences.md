@@ -34,10 +34,11 @@ If you don't meet these requirements, we won't be able to have the conference as
 
 ## Conference Preparation
 
-- Watch the video feedback before your conference (if sent)
+- Review the assignment and your submission before the conference
+- Watch the video feedback before your conference
 - Contact me if you haven't received a video by 1 hour before your conference
+- Identify your biggest obstacle (if any)
 - Prepare specific questions about your draft
-- Bring materials for note-taking
 
 ## During Conference
 
@@ -61,7 +62,7 @@ If you don't meet these requirements, we won't be able to have the conference as
 
 ## After Conference
 
-- Submit your conference summary exercise the same day
+- Submit your conference report the same day
 - Ask specific questions about the feedback via email/Telegram. [What counts as a specific question?](#what-counts-as-a-specific-question)
 - Request additional meetings if time allows
 - Request clarification of any conference feedback you didn't understand
@@ -136,15 +137,3 @@ Feedback sometimes arrives just an hour before your conference. Scheduling when 
 
 Recordings help you review feedback later and help me improve my teaching materials. Recordings are not guaranteed unless you request them at the start.
 
----
-
-## TO INCORPORATE LATER
-
-The following content from how-to-succeed.md is missing from this page:
-
-**Conference Preparation (add to existing section):**
-- Review the assignment and your submission before the conference
-- Identify the hardest part for you
-
-**During Conference (note-taking tip):**
-- Take notes actively—split screen or use two devices

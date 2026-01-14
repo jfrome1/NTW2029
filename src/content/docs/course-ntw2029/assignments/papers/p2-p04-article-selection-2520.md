@@ -1,7 +1,14 @@
 ---
 title: P04 - Article Selection
 date: 2026-01-10
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
+
+<!-- TO FIX: The weak/strong explanation examples need to be rewritten. Original P04 deliberately used examples not from articles students would actually read. New examples should follow that same approach - generic enough to teach the principle without using the actual course articles. -->
 
 ## Purpose
 
@@ -19,18 +26,18 @@ Note: For peer review to work well, I need a reasonably even distribution of tar
 
 Choose one of the following BBS target articles:
 
-- Dubourg & Baumard (2022) - "Why Imaginary Worlds?"
-- Menninghaus et al. (2017) - "Negative Emotions in Art"
-- Savage et al. (2021) - "Music as Social Bonding"
-- Mehr et al. (2021) - "Music as Credible Signaling"
+- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. *Behavioral and Brain Sciences*, 45, e276: 1-72.
+- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. *Behavioral and Brain Sciences*, 40, e347: 1-63.
+- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. *Behavioral and Brain Sciences*, 44, e59: 1-77.
+- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. *Behavioral and Brain Sciences*, 44, e60: 1-87.
 
 ### 2. Explain the Target's Argument
 
 For each of the four elements below, do three things:
 
-- **(a)** Explain in your own words
-- **(b)** Provide one supporting quotation with page number
-- **(c)** Note any ambiguities (places where the article is unclear or could mean multiple things)
+- **(a)** Explain it in your own words
+- **(b)** Provide a supporting quotation with page number (more than one sentence is OK)
+- **(c)** State whether the article's meaning is clear or unclear on this element. If unclear, note the ambiguity (places where the article could mean multiple things).
 
 **Element 1: Phenomenon**
 
@@ -48,11 +55,23 @@ What main evidence or reasoning supports the target's explanation? What do the a
 
 What do the target authors claim is new or different about their approach compared to existing theories?
 
+Detailed guidance below.
+
 ## Guidelines
 
 ### Writing Your Explanations
 
 Your own-words explanations should demonstrate understanding, not just reword the source. I'm looking for explanations that could help someone unfamiliar with the article understand the concept.
+
+**[TO FIX: Replace with better examples]**
+
+**Example of weak explanation (rewording):**
+> "The model proposes that the phenomenon occurs because of an evolved mechanism that was adaptive in ancestral environments."
+
+**Example of strong explanation (demonstrating understanding):**
+> "The model proposes that this behavior exists because ancestors who engaged in it were more likely to survive and reproduce. Specifically, the behavior helped them form stronger social bonds with group members, which provided protection and resource-sharing advantages. Over many generations, individuals with a psychological tendency toward this behavior outcompeted those without it, so the tendency became widespread in the population."
+
+The strong example explains *why* the mechanism would have been adaptive and *how* the evolutionary process works, not just that it was adaptive. It shows you understand the logic connecting the behavior to the proposed evolutionary outcome.
 
 If you find yourself unable to explain something in your own words, that's useful information—note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
 
@@ -60,15 +79,17 @@ If you find yourself unable to explain something in your own words, that's usefu
 
 Choose quotations that directly support your explanation. Brief quotations (1-2 sentences) are usually more useful than long passages. Include page numbers so I can locate the passage if needed.
 
-### Noting Ambiguities
+### Noting Clarity or Ambiguity
 
-Ambiguities might include:
+For each element, state whether the article's meaning seems clear or unclear to you. It's fine if most elements are clear—that's useful information too.
+
+If something is unclear, ambiguities might include:
 
 - Terms the article uses without defining
 - Claims that could mean different things
 - Scope that isn't clearly specified (e.g., does the article claim this is always true, usually true, or sometimes true?)
 
-Note that identifying ambiguities isn't a sign of failure—it's valuable preparation for later assignments where you'll need to pin down exactly what the target claims.
+Identifying ambiguities isn't a sign of failure—it's valuable preparation for later assignments where you'll need to pin down exactly what the target claims.
 
 ### Building Toward P05
 
