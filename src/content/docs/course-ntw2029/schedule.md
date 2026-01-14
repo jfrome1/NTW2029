@@ -151,7 +151,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 6.1 and 6.2 (16 and 19 Feb 2026) no class meetings, student conferences
 
-###### Due day of conference: Exercise 5 - Paper 1 draft conference summary
+###### Due day of conference: Exercise 5 - Paper 1 draft conference report
 >
 ###### Due four days after conference: P03 Paper 1 final
 >
@@ -249,7 +249,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
 
-###### Due day of conference: Exercise 10 - Paper 2 explain positions conference summary
+###### Due day of conference: Exercise 10 - Paper 2 explain positions conference report
 >
 ###### Due Sun 5 Apr 2026: Exercise 13 - Workload report, Mar
 >
@@ -270,9 +270,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
 
-###### Due day of conference: Exercise 11 - Paper 2 draft conference summary
+###### Due day of conference: Exercise 11 - Paper 2 draft conference report
 >
-###### Due five days after conference: P09 Paper 2 Final
+###### Due six days after conference: P09 Paper 2 Final
 >
 ###### Due one day after Paper 2: Exercise 12 - Paper 2 writing reflection
 >

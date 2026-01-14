@@ -1,11 +1,6 @@
 ---
 title: How to Succeed in This Course
 date: 2025-08-14
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Email Etiquette That Works

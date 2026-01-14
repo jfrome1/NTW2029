@@ -1,5 +1,5 @@
 ---
-title: Exercise 5 - Paper 1 conference summary
+title: Exercise 5 - Paper 1 conference report
 date: 2024-08-13
 ---
 ## Purpose
