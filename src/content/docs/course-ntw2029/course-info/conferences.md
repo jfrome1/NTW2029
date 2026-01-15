@@ -106,7 +106,7 @@ Instead: Submit work at designated checkpoints, prepare thoroughly for conferenc
 
 ### What counts as a specific question?
 
-Vague questions ask for reassurance without identifying a problem or a solution without showing that you've reflected on the guidance you've already received. Specific questions show you've identified what you're trying to achieve and where/why you're stuck. They show that you are taking ownership for developing your writing skills.
+Vague questions ask for reassurance without identifying a specific problem. They can also occur when you haven't reflected on guidance you've already received. Specific questions show you've identified what you're trying to achieve and where you're stuck. Formulating them is part of developing your writing skills.
 
 **Vague questions (avoid):**
 
