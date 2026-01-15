@@ -62,38 +62,29 @@ export default defineConfig({
           label: "Course schedule",
         },
         {
-          link: "course-ntw2029/assignments/exercises/e01-introductions",
-          label: "Exercise 1",
+          label: "Course information",
+          collapsed: true,
+          autogenerate: { directory: "course-ntw2029/course-info" },
         },
-        // Temporarily hidden for initial deployment - uncomment to restore:
-        // {
-        //   label: "Course information",
-        //   collapsed: true,
-        //   autogenerate: { directory: "course-ntw2029/course-info" },
-        // },
-        // {
-        //   label: "Assignments",
-        //   collapsed: true,
-        //   items: [
-        //     {
-        //       label: "Exercises",
-        //       collapsed: true,
-        //       autogenerate: {
-        //         directory: "course-ntw2029/assignments/exercises",
-        //       },
-        //     },
-        //     {
-        //       label: "Papers",
-        //       collapsed: true,
-        //       autogenerate: { directory: "course-ntw2029/assignments/papers" },
-        //     },
-        //   ],
-        // },
-        // {
-        //   label: "Resources",
-        //   collapsed: true,
-        //   autogenerate: { directory: "course-ntw2029/resources" },
-        // },
+        {
+          label: "Assignments",
+          collapsed: true,
+          items: [
+            {
+              label: "Exercises",
+              collapsed: true,
+              autogenerate: {
+                directory: "course-ntw2029/assignments/exercises",
+              },
+            },
+            {
+              label: "Papers",
+              collapsed: true,
+              autogenerate: { directory: "course-ntw2029/assignments/papers" },
+            },
+          ],
+        },
+        // Hidden sections (faqs, hidden, resources) - not included in sidebar
       ],
     }),
     compress({

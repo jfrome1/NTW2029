@@ -16,7 +16,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due Tue 13 Jan 2026: Exercise 1 - introductions
+###### Due Tue 13 Jan 2026: E01 - Introductions
 
 ## 1.2 Thu 15 Jan 2026
 
@@ -37,7 +37,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
     - [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
     - [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
  -->
-###### Due Sun 18 Jan 2026: Exercise 2 - explain something
+###### Due Sun 18 Jan 2026: E02 - Explain something
 
 ## 2.1 Mon 19 Jan 2026
 
@@ -74,7 +74,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 <!-- NOTE: add class media links -->
 
 
-###### Due Sun 25 Jan 2026: Exercise 3 - explain Boyd reading intro
+###### Due Sun 25 Jan 2026: E03 - Explain Boyd
 >
 ###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like)
 
@@ -99,11 +99,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
  -->
 
-###### Due Sun 1 Feb 2026: Exercise 4 - explain Goldfinch section
+###### Due Sun 1 Feb 2026: E04 - Explain Goldfinch
 >
 ###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like)
 >
-###### Due Sun 1 Feb 2026: Exercise 13 - Workload report, Jan
+###### Due Sun 1 Feb 2026: E13 - Workload report, Jan
 
 ## 4.1 Mon 2 Feb 2026
 
@@ -124,7 +124,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due Sun 8 Feb 2026: P01 Paper 1 option to submit drafted material (honestly optional, P01 is not graded, required, or expected)
+###### Due Sun 8 Feb 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
 
 ## 5.1 Mon 9 Feb 2026
 
@@ -147,17 +147,17 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 <!--Class media: -->
 
-###### Due Sun 15 Feb 2026: P02 Paper 1 Draft
+###### Due Sun 15 Feb 2026: P02 - Paper 1 Draft
 
 ## 6.1 and 6.2 (16 and 19 Feb 2026) no class meetings, student conferences
 
-###### Due day of conference: Exercise 5 - Paper 1 draft conference report
+###### Due day of conference: E05 - Paper 1 Conference report
 >
-###### Due four days after conference: P03 Paper 1 final
+###### Due six days after conference: P03 - Paper 1 Final
 >
-###### Due one day after Paper 1 final: Exercise 6 - Paper 1 writing reflection
+###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
 >
-###### Due Sun 1 Mar 2026: Exercise 13 - Workload report, Feb
+###### Due Sun 1 Mar 2026: E13 - Workload report, Feb
 
 ## 7.1 Mon 2 Mar 2026
 
@@ -168,7 +168,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 <!-- ###### Mid-semester course evaluation -->
 
-###### Due Wed 4 Mar 2026: Exercise 7 - reading questions
+###### Due Wed 4 Mar 2026: E07 - Reading questions
 
 ## 7.2 Thu 5 Mar 2026
 
@@ -186,7 +186,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 
 
-###### Due Sun 8 Mar 2026: Exercise 8 - reading questions
+###### Due Sun 8 Mar 2026: E08 - Reading questions
 
 ## 8.1 Mon 9 Mar 2026
 
@@ -197,7 +197,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 
 
-###### Due Wed 11 Mar 2026: Exercise 9 - reading questions
+###### Due Wed 11 Mar 2026: E09 - Reading questions
 
 ## 8.2 Thu 12 Mar 2026
 
@@ -225,9 +225,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Sun 22 Mar 2026: P04 Paper 2 Article Selection
+###### Due Wed 18 Mar 2026: P04 - Paper 2 Article selection
 
-###### Due Wed 25 Mar 2026, 6pm: P05 Paper 2 Identify the Criticism (peer review checkpoint)
+###### Due Sun 22 Mar 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
 
 ## 10.1 Mon 23 Mar 2026
 
@@ -235,48 +235,49 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: peer review
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
-- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
+- NOTE: Bring at least three hardcopies of your P05 to be reviewed.
 
 ## 10.2 Thu 26 Mar 2026
 
-- [:Peer review groups](#x-peer-review-groups)
 - EP and art topic: peer review
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
-- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
+- NOTE: Bring at least three hardcopies of your P05 to be reviewed.
 
-###### Due Sun 29 Mar 2026: P06 Paper 2 Explain Positions
+###### Due Sun 29 Mar 2026: P06 - Paper 2 Verify positions
 
 ## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
 
-###### Due day of conference: Exercise 10 - Paper 2 explain positions conference report
+###### Due day of conference: E10 - Paper 2 Conference report (positions)
 >
-###### Due Sun 5 Apr 2026: Exercise 13 - Workload report, Mar
+###### Due Sun 5 Apr 2026: E13 - Workload report, Mar
 >
-###### Due Sun 5 Apr 2026, 6pm: P07 Paper 2 Working Draft (peer review checkpoint)
+###### Due Sun 5 Apr 2026, 6pm: P07 - Paper 2 Working document (for peer review)
 
 ## 12.1 Mon 6 Apr 2026
 
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
+- NOTE: Bring at least three hardcopies of your P07 to be reviewed.
 
 ## 12.2 Thu 9 Apr 2026
 
 - Last in-person class meeting
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
+- NOTE: Bring at least three hardcopies of your P07 to be reviewed.
 
-###### Due Sun 12 Apr 2026: P08 Paper 2 Full Draft and Outline
+###### Due Sun 12 Apr 2026: P08 - Paper 2 Full draft and outline
 
 ## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
 
-###### Due day of conference: Exercise 11 - Paper 2 draft conference report
+###### Due day of conference: E11 - Paper 2 Conference report (draft)
 >
-###### Due six days after conference: P09 Paper 2 Final
+###### Due six days after conference: P09 - Paper 2 Final
 >
-###### Due one day after Paper 2: Exercise 12 - Paper 2 writing reflection
+###### Due one day after Paper 2: E12 - Paper 2 Writing reflection
 >
-###### Due one day after Paper 2: Exercise 13 - Workload report, Apr (final)
+###### Due one day after Paper 2: E13 - Workload report, Apr (final)
 
 ##### :x assigned videos
 

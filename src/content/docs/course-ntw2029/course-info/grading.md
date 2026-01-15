@@ -3,6 +3,13 @@ title: Grading
 date: 2025-08-14
 ---
 
+## Grade Overview
+
+| | Writing Development | Final Papers |
+|---|---|---|
+| Grading | Complete/Incomplete | Letter grade |
+| Weight | 15% (cumulative) | Paper 1, 30%<br>Paper 2, 40% |
+
 ## Final Grade Components
 
 - Class Participation: 15%
@@ -14,7 +21,7 @@ date: 2025-08-14
 
 I evaluate your engagement during class meetings based on:
 
-- Timely, regular attendence and notifying me about absences in advance
+- Timely, regular attendance and notifying me about absences in advance
 - Completing readings before class and coming ready to discuss them
 - Engaging actively in discussions and small group work (including peer review)
 - Helping the class develop understanding through your contributions
@@ -23,7 +30,7 @@ I evaluate your engagement during class meetings based on:
 
 ## Writing Development Work (15%)
 
-This category includes all exercises (E01-E11) and paper prep work (P01-02, P04-08). Everything here is graded complete/incomplete.
+This category includes all exercises, paper prep, and drafts (E01-E13, P01-02, P04-08). Everything here is graded complete/incomplete.
 
 ### Grading Individual Submissions
 
