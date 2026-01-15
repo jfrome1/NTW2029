@@ -62,33 +62,38 @@ export default defineConfig({
           label: "Course schedule",
         },
         {
-          label: "Course information",
-          collapsed: true,
-          autogenerate: { directory: "course-ntw2029/course-info" },
+          link: "course-ntw2029/assignments/exercises/e01-introductions",
+          label: "Exercise 1",
         },
-        {
-          label: "Assignments",
-          collapsed: true,
-          items: [
-            {
-              label: "Exercises",
-              collapsed: true,
-              autogenerate: {
-                directory: "course-ntw2029/assignments/exercises",
-              },
-            },
-            {
-              label: "Papers",
-              collapsed: true,
-              autogenerate: { directory: "course-ntw2029/assignments/papers" },
-            },
-          ],
-        },
-        {
-          label: "Resources",
-          collapsed: true,
-          autogenerate: { directory: "course-ntw2029/resources" },
-        },
+        // Temporarily hidden for initial deployment - uncomment to restore:
+        // {
+        //   label: "Course information",
+        //   collapsed: true,
+        //   autogenerate: { directory: "course-ntw2029/course-info" },
+        // },
+        // {
+        //   label: "Assignments",
+        //   collapsed: true,
+        //   items: [
+        //     {
+        //       label: "Exercises",
+        //       collapsed: true,
+        //       autogenerate: {
+        //         directory: "course-ntw2029/assignments/exercises",
+        //       },
+        //     },
+        //     {
+        //       label: "Papers",
+        //       collapsed: true,
+        //       autogenerate: { directory: "course-ntw2029/assignments/papers" },
+        //     },
+        //   ],
+        // },
+        // {
+        //   label: "Resources",
+        //   collapsed: true,
+        //   autogenerate: { directory: "course-ntw2029/resources" },
+        // },
       ],
     }),
     compress({

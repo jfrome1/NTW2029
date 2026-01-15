@@ -1,6 +1,11 @@
 ---
 title: P09-Final Draft
 date: 2025-10-19
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

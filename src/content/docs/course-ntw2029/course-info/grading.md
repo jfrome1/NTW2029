@@ -15,8 +15,8 @@ date: 2025-08-14
 I evaluate your engagement during class meetings based on:
 
 - Timely, regular attendence and notifying me about absences in advance
-- Engaging actively in discussions and small group work
 - Completing readings before class and coming ready to discuss them
+- Engaging actively in discussions and small group work (including peer review)
 - Helping the class develop understanding through your contributions
 
 [:What good participation looks like](#x-what-good-participation-looks-like)

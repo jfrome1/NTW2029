@@ -1,6 +1,6 @@
 ---
 title: P08 - Full Draft and Outline
-date: 2025-10-18
+date: 2026-01-10
 ---
 
 ## Purpose
@@ -27,7 +27,7 @@ Your draft should include:
 
 - **Use of at least 4 academic sources**: The target article, commentary, and author's response can each count as one source. "Use of" means that all sources must be cited in the essay text. [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
 
-Read guidelines on [:using writing from P07](#x-using-writing-from-p07)
+Read guidelines on [:using writing from earlier assignments](#x-using-writing-from-earlier-assignments)
 
 2. **Reference list**
 
@@ -71,19 +71,19 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 ## Feedback
 
-You'll receive recorded feedback on P08 to discuss in a conference during Week 13.
+I'll provide recorded feedback on P08, which we'll discuss in a conference during Week 13.
 
-##### :x using writing from P07
+##### :x using writing from earlier assignments
 
-P07 developed your analytical understanding through verification and thesis development. P08 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how P07 work carries forward into P08:
+Earlier assignments developed your analytical understanding through verification and thesis development. P08 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how earlier work carries forward into P08:
 
 - Thesis
-    - Your working thesis from P07 should evolve as you continue your analysis.
+    - Your working thesis should evolve as you continue your analysis.
     - Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
 - Explanation of both positions
     - A very brief version of your explanation will go in your introduction above your thesis--just enough to set context and make your thesis understandable. The essay body will contain a more detailed version.
-- Verification of disagreement
-    - Your thesis should state what verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
+- Accuracy of characterization
+    - Your thesis should state what your verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
     - If the verification was straightforward (i.e. target and commentary's claims were both clear and accurate), your explanation will include the verified claims.
     - If the verification was complicated or nuanced, your explanation will likely present a simple version of the claims, and your analysis will use verification evidence (specific quotes, characterization checks) to support claims about the disagreement.
 - Continuing analysis
@@ -103,7 +103,7 @@ Your analysis determines which aspects matter for your case. Not all papers need
 
 ##### :x how to write your introduction
 
-P07 focused on verification and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
+P07 focused on analysis and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
 
 - Introduces your reader to the academic conversation (the introduction to the puzzle in P2 can be shorter, with less explanation, than in P1)
 - Briefly states the target article's thesis/main conclusion in a way that addresses the puzzle
@@ -115,9 +115,7 @@ Choose your introduction details carefully, with an aim to not overwhelm the rea
 
 ##### :x developing your significance discussion
 
-In P05, you answered a question about the significance of the criticism for the target article's argument: what would be the consequences if the commentary is correct? That question focused on whether the commentary's criticism mattered.
-
-Now you must address a _different_ type of significance: what your analysis of why they disagree reveals about how scholars approach this phenomenon, methodology, or the field.
+Earlier, you considered how significant this criticism is for the target's argument (i.e., what it would mean for the target's argument if the commentary's criticism were correct). Now, you need to explain the significance of your paper. If your thesis is true, how does that contribute to the academic conversation about this topic? What will the reader learn by reading your paper that they wouldn't learn just by reading the two articles you discuss?
 
 **The connection between thesis and significance:**
 
@@ -134,7 +132,7 @@ Your paper should reference significance twice:
 
 The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
 
-###### :x Example showing different levels of thesis and significance
+##### :x example showing different levels of thesis and significance
 
 **Limited thesis and significance:**
 
@@ -170,13 +168,13 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 
 Keep focus on analyzing the disagreement between target and commentary, using additional sources to support that analysis.
 
-##### :x How to create and use your outline
+##### :x how to create and use your outline
 
 Create your outline by extracting your thesis and all topic sentences from your draft in order. Use a flat numbered list—no section headers, no sub-numbering. Start with your thesis statement, then list your body paragraph topic sentences in order of appearance. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
-[PLACEHOLDER: Add download link to correctly formatted example outline]
+<!-- TODO: Add download link to correctly formatted example outline -->
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 
