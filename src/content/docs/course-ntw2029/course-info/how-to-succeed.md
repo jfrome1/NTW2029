@@ -3,14 +3,6 @@ title: How to Succeed in This Course
 date: 2025-08-14
 ---
 
-## Email Etiquette That Works
-
-Professional emails get faster, better responses. Here's what works:
-
-**Subject line**: Always include "NTW2029" so I can find your email
-**Opening**: Use both your formal name and what I call you in class, if different
-**Tone**: Write like you're asking permission from a professor, not talking to your Grab driver. "May I meet with you after class?" works better than "I'll come see you after class." "Is it ok for me to leave class early due to an exam?" works better than "I'm leaving class 45 min early because I have an exam."
-
 ## Making Conferences Count
 
 Good conferences happen when you come prepared. Before we meet:
