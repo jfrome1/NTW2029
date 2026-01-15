@@ -1,6 +1,11 @@
 ---
 title: P06 - Explain Positions
 date: 2025-10-16
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

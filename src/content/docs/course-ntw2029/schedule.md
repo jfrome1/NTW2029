@@ -29,14 +29,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Class media:
+<!-- - Class media:
     - [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
     - [Peacock Spider](https://www.youtube.com/watch?v=d_yYC5r8xMI)
     - [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
 - Additional resources:
     - [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
     - [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
-
+ -->
 ###### Due Sun 18 Jan 2026: Exercise 2 - explain something
 
 ## 2.1 Mon 19 Jan 2026
@@ -49,7 +49,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
 		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research. 4th ed._ Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
-- Class media:
+<!-- - Class media:
 	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
 	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
 	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
@@ -58,7 +58,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
     - [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
         - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
-
+ -->
 ## 2.2 Thu 22 Jan 2026
 
 - EP and art topic: social cooperation & free-riders
@@ -151,7 +151,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 6.1 and 6.2 (16 and 19 Feb 2026) no class meetings, student conferences
 
-###### Due day of conference: Exercise 5 - Paper 1 draft conference summary
+###### Due day of conference: Exercise 5 - Paper 1 draft conference report
 >
 ###### Due four days after conference: P03 Paper 1 final
 >
@@ -249,7 +249,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
 
-###### Due day of conference: Exercise 10 - Paper 2 explain positions conference summary
+###### Due day of conference: Exercise 10 - Paper 2 explain positions conference report
 >
 ###### Due Sun 5 Apr 2026: Exercise 13 - Workload report, Mar
 >
@@ -270,9 +270,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
 
-###### Due day of conference: Exercise 11 - Paper 2 draft conference summary
+###### Due day of conference: Exercise 11 - Paper 2 draft conference report
 >
-###### Due five days after conference: P09 Paper 2 Final
+###### Due six days after conference: P09 Paper 2 Final
 >
 ###### Due one day after Paper 2: Exercise 12 - Paper 2 writing reflection
 >

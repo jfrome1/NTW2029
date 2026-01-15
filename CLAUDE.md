@@ -1,0 +1,62 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+NTW2029 is a course website built with Astro and Starlight, deployed on Vercel with Neon Postgres for analytics.
+
+## Commands
+
+```bash
+npm run dev       # Start dev server at localhost:4321
+npm run build     # Run astro check && astro build to ./dist/
+npm run preview   # Preview production build locally
+```
+
+## Architecture
+
+- **Framework**: Astro 5 with Starlight documentation theme
+- **Content**: Markdown/MDX files in `src/content/docs/`
+- **Styling**: Custom CSS in `src/styles/custom.css`
+- **Components**: Custom Astro components in `src/components/`
+
+### Key Plugins
+
+- `starlight-links-validator`: Validates internal links at build time
+- `starlight-nutshell`: Expandable inline content (`:link text` syntax)
+- `starlight-auto-drafts`: Draft content management
+- `rehype-external-links`: Adds external link indicators
+
+### Custom Components
+
+- `CustomTableOfContents.astro`: Modified TOC behavior
+- `CustomPagination.astro`: Modified pagination
+- `Mermaid.astro`: Mermaid diagram support (MDX files only)
+
+## Content Structure
+
+Content lives in `src/content/docs/course-ntw2029/`:
+- `schedule.md`: Course schedule (sidebar root)
+- `course-info/`: Course information pages
+- `assignments/exercises/`: Exercise assignments
+- `assignments/papers/`: Paper assignments
+- `resources/`: Course resources
+
+## Link Formats
+
+For internal links use absolute paths from site root:
+- Page: `[text](/course-ntw2029/path/to/page)`
+- Heading: `[text](/course-ntw2029/path/to/page/#heading-id)`
+- Nutshell expandable: `[:text](/course-ntw2029/path/to/page)`
+
+## Utilities
+
+- `checkNutshellLinks.js`: Validates Nutshell links in markdown files
+  ```bash
+  node checkNutshellLinks.js src/content/docs
+  ```
+
+## Analytics
+
+Course analytics stored in Vercel/Neon Postgres. Access via Vercel dashboard > Storage > Open in Neon.
