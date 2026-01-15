@@ -1,6 +1,11 @@
 ---
 title: P05 - Identify the Criticism
 date: 2026-01-10
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
