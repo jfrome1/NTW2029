@@ -225,7 +225,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Sat 21 Mar 2026: P04 Paper 2 Article Selection
+###### Due Sun 22 Mar 2026: P04 Paper 2 Article Selection
 
 ###### Due Wed 25 Mar 2026, 6pm: P05 Paper 2 Identify the Criticism (peer review checkpoint)
 
