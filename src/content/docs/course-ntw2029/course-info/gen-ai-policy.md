@@ -1,24 +1,35 @@
 ---
 title: GenAI policy
-date: 2025-08-18
+date: 2026-01-14
 ---
 
 GenAI is a tool we'll all be using more and more, so this course lets you explore its capabilities and limitations without penalty. The key is transparency—I need to see how you're using it to understand what helps or hinders your learning.
 
 ## GenAI Policy Requirements
 
-You may use ChatGPT for any coursework with no grade penalty if you follow these requirements:
+You may use GenAI chatbots for any coursework with no grade penalty if you follow these requirements:
 
 - For each submitted assignment:
     - If you use GenAI, submit links to all relevant chat transcripts
     - If you don't use GenAI, submit the statement "I did not use GenAI in any way for this assignment"
 - Submit links/non-use statements at the top of the assignment, above the title
-- Copy links from the share function, not browser URLs
+- Copy links using the share function, not browser URLs
 - Use only text-based chatbot interactions (prompts and responses)
 - Create a non-shared ChatGPT account and stay logged in when using it to enable link sharing
 - Don't delete any course chats
 
-If you want to use an AI tool other than ChatGPT, come talk to me first to see if I can accommodate you.
+Additional essential details below.
+
+## Content Responsibility
+
+You are responsible for all content you submit, regardless of its source. GenAI tools frequently fabricate citations, misrepresent arguments, and invent information that sounds plausible but is false. Assume GenAI is wrong about factual claims.
+
+If you use information from GenAI in your work, you must:
+
+1. Verify the information with a reputable published source
+2. Cite that source in your work
+
+Do not cite GenAI as a source for factual claims.
 
 ### Grade Impact
 
@@ -31,6 +42,8 @@ If you want to use an AI tool other than ChatGPT, come talk to me first to see i
 :::danger
 Browser URLs do not work. You must use the share function to create public links.
 :::
+
+Below are instructions for sharing ChatGPT links; others are similar. Check that your share links work by opening an incognito or private browser window and visiting the link.
 
 ### ChatGPT Shared Link Instructions
 
@@ -45,8 +58,8 @@ Browser URLs do not work. You must use the share function to create public links
 
 - Uploading or downloading files to/from GenAI tools
 - Using GenAI integrated into other apps, such as Microsoft Office, Google Docs, or custom IDEs
-- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function)
-- GenAI models that can't create special links to share conversations
+- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function, NotebookLM)
+- GenAI models that are not confirmed to create special links that allow me to download conversations (ChatGPT, Claude, Gemini are approved)
 
 ### New Chat Guidelines
 
