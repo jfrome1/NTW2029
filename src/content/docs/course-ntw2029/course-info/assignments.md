@@ -7,19 +7,15 @@ This page describes how to write and submit assignments. For grading criteria, s
 
 ## Assignment Requirements Overview
 
-This table shows which requirements apply to different assignment types.
->
-See sections below for detailed explanations.
+This table shows which requirements apply to different assignment types. See sections below for detailed explanations.
 
-| | **Exercises** | **Preliminary Writing**<br>P01, 02, 04-08 | **Final Papers**<br>P03, 09 |
-|---|---|---|---|
-| **Grading** | Complete/Incomplete | Complete/Incomplete | Letter grade |
-| **Counts toward** | 15% (Writing Dev) | 15% (Writing Dev) | 30% or 40% |
-| **Formatting** | Simple Word doc | Follow paper template | Follow paper template |
-| **Highlighting** | None | Thesis & topic sentences (drafts only) | Thesis & topic sentences |
-| **Citations** | Only if requested | As needed | In-text & reference list |
-| **Word count** | Required | Required | Required |
-| **GenAI link/non-use statement** | Required | Required | Required |
+| | Exercises (E01-E13) &<br>Paper Prep (P01, P04-P07) | Drafts (P02, P08) &<br>Final Papers (P03, P09) |
+|---|---|---|
+| Formatting | Simple Word doc | Follow paper template |
+| Highlighting | None | Thesis & topic sentences |
+| Citations | Only if requested | In-text & reference list |
+| Word count | Required | Required |
+| GenAI statement | Required | Required |
 
 ## Submission Basics
 
@@ -44,24 +40,22 @@ If you're struggling with workload, come talk to me early and check [NUSC pastor
 
 ### For All Assignments
 
-Follow my formatting guidelines for all assignments (except E13, worload log). The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" in that template to format your paper if that's easy for you.
+Follow my formatting guidelines for all assignments (except E13, workload log). The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" in that template to format your paper if that's easy for you.
 
 If you use the template, or if you use margin comments as part of your editing process, remember to remove the comments before submitting the assignment.
 
 You can also read the [:full formatting details](#x-full-formatting-details), which includes detailed instructions for how to set your settings for MS Word.
 
-### Additional Formatting Requirements for Drafts and Final Papers  (P02-03, P07-09)
+### Additional Formatting Requirements for Drafts and Final Papers
 
 - Highlight your thesis statement in yellow (2 consecutive sentences maximum)
 - Highlight all topic sentences in light blue
 - Include reference list, start it on a new page at the end
 - Italicize all titles in both body text and reference list
 
-## Exercises (E01-E11)
+## Exercises
 
-**Counts toward**: Writing Development Work (15%) - graded complete/incomplete
-
-Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you
+Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you.
 
 ### Content Requirements
 
@@ -72,18 +66,6 @@ Please don't spend more than two hours on any exercise (excluding reading time);
 - Skip introductions and conclusions (exercises aren't full essays)
 - Don't quote or cite sources unless specifically requested
 - Don't do outside research
-
-## Paper Assignments (P01-P09) Preliminary Writing (P01-02, P04-08)
-
-**Counts toward**: Writing Development Work (15%) - graded complete/incomplete
-
-Remember that drafts (P02, P07, P08) have additional formatting requirements (listed above).
-
-## Final Papers (P03, P09)
-
-**Counts toward**: Paper 1 (30%) or Paper 2 (40%) - graded with letter grades
-
-Remember that final papers (P03, P09) have additional formatting requirements (listed above).
 
 ##### :x full-formatting-details
 
@@ -101,7 +83,7 @@ Remember that final papers (P03, P09) have additional formatting requirements (l
 
 If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search)
 
-There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, and I've been in this business a long time, so I can't help formatting from affecting how I view a paper. I find it really pleasant to see correct formatting and quite annoying to see incorrect formatting, so your formatting determines my mood when I start reading your paper. You may not care about formatting, and I wish I didn't, but I do!
+There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, so I can't help formatting from affecting how I view a paper. It irks me to see incorrect formatting, even though I realize that it's not the most important thing, so your formatting determines my mood when I start reading your paper.
 
 ##### :x late-assignment-fine-print
 
@@ -159,26 +141,22 @@ Microsoft Word automatically adds extra space between paragraphs by default, but
 
 The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph formatting settings](#x-extra-space-formatting-settings).
 
-##### :x why do I need to remove comments
+##### :x why-do-i-need-to-remove-comments
 
-Comments are like personal notes; they're for you, not your reader. It's professional to remove them. They are distracting if I want to add my own margin comments. Comments also [:make it hard for me to read submissions on Canvas](#x-make-it-hard-for-me-to-read-submissions-on-canvas).
+Comments are like personal notes; they're for you, not your reader. It's professional to remove them. They are distracting if I want to add my own margin comments. Comments also [:make it hard for me to read submissions on Canvas](#x-canvas-comments-issue).
 
-##### :x make it hard for me to read submissions on canvas
+##### :x canvas-comments-issue
 
 ![canvas comments blurred](/images/canvas-comments-blurred.jpg)
 
-##### :x delete all comments in document
+##### :x delete-all-comments-in-document
 
 ![delete comments](/images/delete-comments.jpg)
 
-##### :x extra space between paragraphs
+##### :x extra-space-between-paragraphs
 
 ![extra space between paragraphs](/images/extra-space-between-paragraphs.jpg)
 
-##### :x extra space formatting settings
+##### :x extra-space-formatting-settings
 
 ![extra space formatting settings](/images/extra-space-formatting-settings.jpg)
-
-##### :x make it hard for me to read submissions on canvas
-
-![Canvas submission with comments](/images/canvas-submission-with-comments.jpg)
