@@ -1,5 +1,5 @@
 ---
-title: Exercise 11 - P08 Conference Notes
+title: Exercise 11 - P08 Conference report
 date: 2025-11-10
 ---
 
