@@ -8,8 +8,6 @@ sidebar:
     variant: caution
 ---
 
-<!-- TO FIX: The weak/strong explanation examples need to be rewritten. Original P04 deliberately used examples not from articles students would actually read. New examples should follow that same approach - generic enough to teach the principle without using the actual course articles. -->
-
 ## Purpose
 
 This assignment develops your ability to understand and articulate a scholarly argument before encountering criticism of it. By explaining the target's argument in your own words, you'll identify what you understand clearly and where ambiguities remain—essential groundwork for evaluating criticisms in P05.
@@ -61,15 +59,13 @@ What do the target authors claim is new or different about their approach compar
 
 Your own-words explanations should demonstrate understanding, not just reword the source. I'm looking for explanations that could help someone unfamiliar with the article understand the concept.
 
-**[TO FIX: Replace with better examples]**
-
 **Example of weak explanation (rewording):**
-> "The model proposes that the phenomenon occurs because of an evolved mechanism that was adaptive in ancestral environments."
+> "The authors argue that humans have an evolved predisposition to fear snakes because this fear was adaptive in our ancestral environment, where snakes posed a significant threat to survival."
 
 **Example of strong explanation (demonstrating understanding):**
-> "The model proposes that this behavior exists because ancestors who engaged in it were more likely to survive and reproduce. Specifically, the behavior helped them form stronger social bonds with group members, which provided protection and resource-sharing advantages. Over many generations, individuals with a psychological tendency toward this behavior outcompeted those without it, so the tendency became widespread in the population."
+> "The authors argue that humans are predisposed to fear snakes because our ancestors who noticed and avoided snakes were less likely to be bitten and more likely to survive to have children. Over thousands of generations, this created a psychological bias: we're not born afraid of snakes, but we learn to fear them faster than we learn to fear other dangers like electrical outlets. The mechanism isn't 'automatic fear' but 'prepared learning'—our brains are wired to acquire snake-fear quickly from even minimal cues, which explains why snake phobias are common even in places where most people never encounter dangerous snakes."
 
-The strong example explains *why* the mechanism would have been adaptive and *how* the evolutionary process works, not just that it was adaptive. It shows you understand the logic connecting the behavior to the proposed evolutionary outcome.
+The weak example uses the article's language ("evolved predisposition," "adaptive," "ancestral environment") without explaining the underlying logic. The strong example explains *why* the mechanism would have been adaptive (ancestors survived), *what* the mechanism actually is (prepared learning, not automatic fear), and *how* this explains observable patterns (phobias in snake-free regions).
 
 If you find yourself unable to explain something in your own words, that's useful information—note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
 
