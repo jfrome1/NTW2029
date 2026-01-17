@@ -98,7 +98,3 @@ I'll provide brief feedback to guide any students who are on the wrong track bac
 ##### :x Why both?
 
 The quotation lets me see exactly what the article states without having to follow every student's in-text citations and look in the articles for the original. The paraphrase helps me see if you are correctly interpreting what the quotation says.
-
-##### :x Why gather these passages?
-
-These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.
