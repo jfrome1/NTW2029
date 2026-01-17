@@ -43,6 +43,10 @@ Content lives in `src/content/docs/course-ntw2029/`:
 - `assignments/papers/`: Paper assignments
 - `resources/`: Course resources
 
+### Schedule Page Formatting
+
+In `schedule.md`, every line starting with `###### Due` must be followed by a line containing just `>` for proper spacing on the rendered page.
+
 ## Example EP Topics
 
 When creating assignment instructions or lecture examples that reference evolutionary psychology arguments about art/media, avoid topics covered in assigned P1 and P2 readings. A table of safe example topics from past student papers is maintained at:
