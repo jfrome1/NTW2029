@@ -1,6 +1,6 @@
 ---
 title: How to Succeed in This Course
-date: 2025-08-14
+date: .2026-01-17
 ---
 
 ## Making Conferences Count
@@ -20,24 +20,34 @@ During our Zoom conference:
 
 I can record conferences if you ask at the beginning. You'll get the recording and transcript to review later.
 
+### Read the Details
+
+Class discussion helps you understand ideas, but the assignments contain much more than what we cover in class. Don't assume that understanding the lecture means you've fully understood the assignment. There isn't time to provide the same level of guidance in class as on the website.
+
+Don't assume that your former teachers and I use the same words to mean the same things. Read assignments carefully rather than trusting that you've got the basic idea. Most of what I point out in feedback is already covered in the written guidance—time spent with the details is time well spent.
+
 ## Taking Ownership of Your Learning
 
-The difference between B and A students isn't intelligence - it's engagement with the resources I provide.
+The students that get the most out of the course are those that really engage with the resources I provide.
 
-75% of things I suggest to students in feedback are things I provided guidance on in the assignment. Read it carefully, don't trust that you got the gist of things in class.
+Use feedback intelligently. When I identify a pattern in your writing (like comma errors), I'll usually give you a resource to learn more, and you're always welcome to follow up with me. If Paper 2 has the same issues as Paper 1, that tells me you didn't use the resource and suggests lower engagement.
 
-Use feedback intelligently. When I identify a pattern in your writing (like comma errors), I'll give you a resource. If Paper 2 has the same issues as Paper 1, that tells me you didn't use the resource. That affects your grade.
+Strong students take ownership of improving their skills. Weaker students want me to tell them exactly what to do to fix all of the "problems" in their paper.
 
-After conferences, strong students synthesize feedback into action plans. Weaker students just list what we discussed. Ask yourself: "What will I actually do differently?"
+### Asking the Right Questions at the Right Time
 
-## Why No Electronics?
+When I teach writing, I often explain general principles for writing clearly. I explain why the principles work and illustrate them with concrete examples. Abstract questions about these princples are welcomed.
 
-This isn't about being old-fashioned. The ideas we discuss are genuinely complicated, and devices promise easy answers that usually aren't there. The temptation to Google instead of think disrupts the kind of deep focus these topics need.
+However, students who want to avoid mistakes will sometimes follow up by asking for detailed information about how to apply these principles or how balance one principle against another before they even have a draft to discuss. Actual examples:
 
-I provide printed notes so you can engage fully without worrying about missing information.
+- "Is there a rule for how many examples we should have per paragraph?"
+- "Should we use the old vs new technique to make our quotes flow better in our explanations?"
+- "How strongly should I state my claims in my paper 2?"
 
-## The Real Secret
+While these questions are very understandable, it's usually not possible to answer these types of questions.
 
-Most students think good grades come from following rules perfectly. Actually, they come from genuine engagement with the material and using feedback to improve.
+Writing is a situated, contextual activity, meaning that you write about a specific topic in a specific way for a specific kind of reader. While it's important to understand basic writing principles, you really can't discuss details about those principles outside of a concrete example, such as a paper draft.
 
-Show me you're thinking about your writing, not just completing assignments. When you ask "How can I make this clearer?" instead of "What do you want?", you're on the right track.
+Questions about specific choices require something concrete to look at. I can't tell you in the absract whether it's more important to include additional examples or to keep a paragraph brief and simple. Yet, I'm happy to look at an draft paragraph and tell you what I think works best in one particular instance.
+
+That's why conferences happen after you've written something. When you ask "How can I make this clearer?" you're working with the material. When you ask "What exactly do you want?" before writing, you're trying to skip that process—and it doesn't work.

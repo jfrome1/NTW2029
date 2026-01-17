@@ -1,11 +1,6 @@
 ---
-title: P09-Final Draft
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+title: P09 - Final Draft
+date: 2026-01-17
 ---
 
 ## Purpose

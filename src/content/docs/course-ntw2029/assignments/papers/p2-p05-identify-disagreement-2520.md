@@ -1,11 +1,6 @@
 ---
 title: P05 - Identify the Criticism
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
 
 ## Purpose
@@ -14,7 +9,7 @@ This assignment helps you select a commentary and develop a clear understanding 
 
 ## Overview
 
-Select a commentary article that criticizes your target, then answer questions about the criticism and locate the relevant passages in the target article. This is comprehension work, not analysis—your goal is to understand what each article says.
+Select a commentary article that criticizes your target, then answer questions about the criticism and locate the relevant passages in the target article. This is comprehension work, not analysis—your goal is to understand what each article says. No word count requirement.
 
 Note: Since you'll discuss each other's topics in detail during peer review, I'd like all students in each section to write about different article pairs. I don't think this will be an issue, and I'm fine if a few students choose the same pair but write about different criticisms.
 
@@ -256,7 +251,7 @@ Stewart-Williams, S. (2021). Making music: Let's not be too quick to abandon the
 
 ### Choosing Your Commentary
 
-Look for commentaries that identify a specific problem with the target's argument, not just different views. Strong criticisms typically claim the target:
+Look for commentaries that identify a specific problem with the target's argument. Strong criticisms typically claim the target does things like:
 
 - Overlooks contradicting evidence
 - Makes predictions that don't hold
@@ -268,7 +263,7 @@ Avoid commentaries that merely offer alternative theories without showing proble
 
 ### Reading the Full Commentary
 
-Abstracts can be misleading. Once you identify candidates, read the full articles before choosing. A commentary that seems promising from its abstract may turn out to be less substantive than expected.
+Abstracts can be misleading. Once you identify candidates, read the full articles before choosing. A commentary that seems promising from its abstract may turn out to be less critical than expected.
 
 ### Focusing on One Criticism
 

@@ -65,6 +65,15 @@ For internal links use absolute paths from site root:
   node checkNutshellLinks.js src/content/docs
   ```
 
+## Writing Style
+
+When creating or revising documents, don't use "this" by itself as the subject of a sentence. "This" must be followed by a noun that clarifies what it refers to.
+
+- Not OK: "This is when your analysis begins."
+- OK: "This assignment is when your analysis begins."
+- Not OK: "This prevents premature conclusions."
+- OK: "This step prevents premature conclusions."
+
 ## Analytics
 
 Course analytics stored in Vercel/Neon Postgres. Access via Vercel dashboard > Storage > Open in Neon.

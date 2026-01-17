@@ -1,11 +1,6 @@
 ---
 title: P07 - Working Draft
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
 
 ## Purpose
@@ -28,7 +23,7 @@ State what prevents these positions from being compatible. Your thesis should:
 - Identify what drives the disagreement (an assumption, definition, methodological commitment, or evidentiary standard)
 - Explain WHY the positions conflict, not just that they do
 
-[:How to formulate your working thesis](#x-how-to-formulate-your-thesis)
+[:How to formulate your working thesis](#x-how-to-formulate-your-working-thesis)
 
 ### 2. "Going Beneath" Test
 
