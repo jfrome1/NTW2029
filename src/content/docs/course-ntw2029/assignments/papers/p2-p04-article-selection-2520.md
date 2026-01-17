@@ -16,7 +16,7 @@ This assignment develops your ability to understand and articulate a scholarly a
 
 ## Overview
 
-Select one of the four target articles and explain its main argument (approximately 400-500 words). You'll address four elements of the argument, providing your own explanation, a supporting quotation, and notes on any ambiguities for each.
+Select one of the four target articles and explain its main argument. You'll address four elements of the argument, providing your own explanation, a supporting quotation, and notes on any ambiguities for each. No word count requirement.
 
 Note: For peer review to work well, I need a reasonably even distribution of target article choices across each section. After you've selected your article, post your choice on the section Telegram channel. If you see that many students have already chosen a particular article, consider selecting a different one. You don't need to change if you have a strong preference, but aim for balance where possible.
 
@@ -37,7 +37,7 @@ For each of the four elements below, do three things:
 
 - **(a)** Explain it in your own words
 - **(b)** Provide a supporting quotation with page number (more than one sentence is OK)
-- **(c)** State whether the article's meaning is clear or unclear on this element. If unclear, note the ambiguity (places where the article could mean multiple things).
+- **(c)** State whether the article's meaning seems clear or unclear. If unclear, explain what's not clear about it (e.g. "The article doesn't explain if they are saying that X explains only some Ys or every Y").
 
 **Element 1: Phenomenon**
 
@@ -54,8 +54,6 @@ What main evidence or reasoning supports the target's explanation? What do the a
 **Element 4: Contribution**
 
 What do the target authors claim is new or different about their approach compared to existing theories?
-
-Detailed guidance below.
 
 ## Guidelines
 
