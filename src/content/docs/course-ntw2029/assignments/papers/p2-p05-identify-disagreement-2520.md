@@ -287,3 +287,7 @@ I'll provide brief written feedback identifying any clear misunderstandings, plu
 ##### :x how do i find the authors response
 
 To find passages relevant to your specific commentary: (1) Open the file with the target and commentary articles, (2) Search (Ctrl+F or Cmd+F) for your commentary author's last name, (3) Read any passages in the author's response where they cite or discuss your commentary.
+
+##### :x Why gather so many quotations?
+
+These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.

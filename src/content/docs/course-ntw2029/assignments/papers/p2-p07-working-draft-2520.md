@@ -137,6 +137,8 @@ Your working thesis should explain what prevents these positions from being comp
 - "Their disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
 - "The commentary criticizes a position stronger than what the target claims, but there's still genuine tension about [what remains once qualifiers are restored]"
 
+These templates cover different types of underlying issues. Definitional and methodological differences are typically theoretical disagreements—different ways of framing or studying the phenomenon. Evidentiary differences are empirical disagreements about what evidence is sufficient or what standards should apply. The distinction matters because your analysis will develop differently depending on which type of disagreement you're working with.
+
 Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement—the assumption, definition, or methodological commitment that produces the conflict.
 
 [:How theses develop through P07-P08](#x-how-theses-develop-through-p07-p08)
