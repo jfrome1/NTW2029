@@ -7,7 +7,7 @@ date: 2025-08-17
 
 ### In Class
 
-Keep electronic devices out of site during class (except for disability accommodations) to encourage focused thinking and discussion. I'll let you know when you can use devices during class activities. I provide printed lecture notes every class so don't have to worry about missing anything.
+Keep electronic devices out of sight during class (except for disability accommodations). [:Why no electronics?](#x-why-no-electronics) I'll let you know when you can use devices during class activities. I provide printed lecture notes every class so you don't have to worry about missing anything.
 
 ### Digital Setup
 
@@ -50,3 +50,7 @@ Although I rarely use Announcements, Deadline notifications have saved many stud
 ##### :x why you should ignore the canvas gradebook
 
 Canvas gradebook tries to calculate your final grade, but I track grades separately in my own spreadsheet. Canvas might show you have 50% when you actually have an A. Ignore it.
+
+##### :x why no electronics
+
+The ideas we discuss are genuinely complicated, and devices promise easy answers that usually aren't there. The temptation to Google instead of think disrupts the kind of deep focus these topics need.
