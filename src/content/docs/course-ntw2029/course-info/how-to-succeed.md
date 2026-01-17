@@ -20,7 +20,7 @@ During our Zoom conference:
 
 I can record conferences if you ask at the beginning. You'll get the recording and transcript to review later.
 
-### Read the Details
+## Read the Details
 
 Class discussion helps you understand ideas, but the assignments contain much more than what we cover in class. Don't assume that understanding the lecture means you've fully understood the assignment. There isn't time to provide the same level of guidance in class as on the website.
 
@@ -34,7 +34,7 @@ Use feedback intelligently. When I identify a pattern in your writing (like comm
 
 Strong students take ownership of improving their skills. Weaker students want me to tell them exactly what to do to fix all of the "problems" in their paper.
 
-### Asking the Right Questions at the Right Time
+## Asking the Right Questions at the Right Time
 
 When I teach writing, I often explain general principles for writing clearly. I explain why the principles work and illustrate them with concrete examples. Abstract questions about these princples are welcomed.
 
