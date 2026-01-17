@@ -43,6 +43,14 @@ Content lives in `src/content/docs/course-ntw2029/`:
 - `assignments/papers/`: Paper assignments
 - `resources/`: Course resources
 
+## Example EP Topics
+
+When creating assignment instructions or lecture examples that reference evolutionary psychology arguments about art/media, avoid topics covered in assigned P1 and P2 readings. A table of safe example topics from past student papers is maintained at:
+
+`{AI_PROJECTS}/.planning/scan-past-ntw2029-papers/findings.md`
+
+This table includes topic, source paper with DOI, and student thesis for 17 past P2 papers that don't overlap with current assignments.
+
 ## Link Formats
 
 For internal links use absolute paths from site root:
