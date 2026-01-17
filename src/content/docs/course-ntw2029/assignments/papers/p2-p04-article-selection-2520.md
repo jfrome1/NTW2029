@@ -34,7 +34,7 @@ Choose one of the following BBS target articles:
 For each of the four elements below, do three things:
 
 - **(a)** Explain it in your own words
-- **(b)** Provide a supporting quotation with page number (more than one sentence is OK)
+- **(b)** Provide a supporting quotation with page number (more than one sentence is OK) <span class="smaller-text">[:Why both paraphrase and quotation?](#x-why-both)</span>
 - **(c)** State whether the article's meaning seems clear or unclear. If unclear, explain what's not clear about it (e.g. "The article doesn't explain if they are saying that X explains only some Ys or every Y").
 
 **Element 1: Phenomenon**
@@ -60,12 +60,14 @@ What do the target authors claim is new or different about their approach compar
 Your own-words explanations should demonstrate understanding, not just reword the source. I'm looking for explanations that could help someone unfamiliar with the article understand the concept.
 
 **Example of weak explanation (rewording):**
-> "The authors argue that humans have an evolved predisposition to fear snakes because this fear was adaptive in our ancestral environment, where snakes posed a significant threat to survival."
+> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes, which is an adaptation from our ancestral environment, where snakes posed a significant threat to survival."
+
+This weak example uses the article's language ("evolved predisposition," "adaptive," "ancestral environment") without explaining the underlying logic. You don't really need to understand the article's argument to produce this example.
 
 **Example of strong explanation (demonstrating understanding):**
-> "The authors argue that humans are predisposed to fear snakes because our ancestors who noticed and avoided snakes were less likely to be bitten and more likely to survive to have children. Over thousands of generations, this created a psychological bias: we're not born afraid of snakes, but we learn to fear them faster than we learn to fear other dangers like electrical outlets. The mechanism isn't 'automatic fear' but 'prepared learning'—our brains are wired to acquire snake-fear quickly from even minimal cues, which explains why snake phobias are common even in places where most people never encounter dangerous snakes."
+> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes. This trait, they argue, evolved because our ancestors who feared snakes were less likely to be bitten and thus more likely to survive and have children. The fear was thus fitness-enhancing, and their children, who inherited their fear, were more likely to reproduce, and the fear because a universal human trait. Thus, viewers who see snakes in the film fear them almost as a reflex."
 
-The weak example uses the article's language ("evolved predisposition," "adaptive," "ancestral environment") without explaining the underlying logic. The strong example explains *why* the mechanism would have been adaptive (ancestors survived), *what* the mechanism actually is (prepared learning, not automatic fear), and *how* this explains observable patterns (phobias in snake-free regions).
+This strong example names the phenomenon (film is scary), the mechanism that explains the phenomenon (fear of snakes), and how this mechanism causes the phenomenon.
 
 If you find yourself unable to explain something in your own words, that's useful information—note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
 
@@ -91,4 +93,12 @@ Your understanding of the target article will inform your commentary selection i
 
 ## Feedback
 
-I'll provide group feedback organized by target article, with brief individual comments where needed.
+I'll provide brief feedback to guide any students who are on the wrong track back towards the correct approach.
+
+##### :x Why both?
+
+The quotation lets me see exactly what the article states without having to follow every student's in-text citations and look in the articles for the original. The paraphrase helps me see if you are correctly interpreting what the quotation says.
+
+##### :x Why gather these passages?
+
+These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.

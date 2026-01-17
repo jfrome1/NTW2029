@@ -28,7 +28,7 @@ Choose one commentary from the recommended list below (or propose an alternative
 
 ### Part 2: Answer These Questions
 
-For each question, first explain in your own words, then provide the quotation that supports your explanation. [:Why both?](#x-why-both)
+For each question, first explain in your own words, then provide the quotation that supports your explanation. <span class="smaller-text"> [:Why gather so many quotations?](#x-why-gather-so-many-quotations) </span>
 
 ---
 
@@ -56,7 +56,7 @@ Then, quote a passage (2-4 sentences with page number) where the commentary stat
 
 **Question 4: Which target passages are relevant to this criticism?**
 
-Quote 2-3 passages from the target article that discuss the topic the commentary criticizes. Include page numbers. [:Why gather these passages?](#x-why-gather-passages)
+Quote 2-3 passages from the target article that discuss the topic the commentary criticizes. Include page numbers.
 
 ---
 
@@ -283,14 +283,6 @@ Don't try to determine whether the commentary's criticism is right or wrong. You
 ## Feedback
 
 I'll provide brief written feedback identifying any clear misunderstandings, plus peer review discussion about whether your chosen criticism is workable.
-
-##### :x Why both?
-
-The quotation lets me see exactly what the article states without having to search it up myself for every student. The paraphrase helps me see if you are correctly interpreting what the article says.
-
-##### :x Why gather these passages?
-
-These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.
 
 ##### :x how do i find the authors response
 
