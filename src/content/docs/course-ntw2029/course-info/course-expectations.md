@@ -43,6 +43,12 @@ Using GenAI without submitting transcripts or failing to include the non-use sta
 
 I may use anonymized examples from student work to teach writing concepts in future classes. Your name and identifying information will never be included. Let me know if you prefer your work not be used this way.
 
+## FAQs
+
+### What if I miss class?
+
+Let me know in advance if possible—a brief message is fine. Get notes from a classmate, review any posted materials, and ask me if you have questions about what you missed.
+
 ##### :x why these settings matter
 
 Although I rarely use Announcements, Deadline notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.

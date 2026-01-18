@@ -141,6 +141,10 @@ Microsoft Word automatically adds extra space between paragraphs by default, but
 
 The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph formatting settings](#x-extra-space-formatting-settings).
 
+### Should I include citations and references in the word count?
+
+Word count includes in-text citations but excludes the reference list.
+
 ##### :x why-do-i-need-to-remove-comments
 
 Comments are like personal notes; they're for you, not your reader. It's professional to remove them. They are distracting if I want to add my own margin comments. Comments also [:make it hard for me to read submissions on Canvas](#x-canvas-comments-issue).
