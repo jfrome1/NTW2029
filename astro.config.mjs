@@ -84,7 +84,17 @@ export default defineConfig({
             },
           ],
         },
-        // Hidden sections (faqs, hidden, resources) - not included in sidebar
+{
+          label: "Resources",
+          collapsed: true,
+          items: [
+            { link: "course-ntw2029/resources/ev-religion", label: "Evolution and Religion" },
+            { link: "course-ntw2029/resources/ev-resources", label: "Evolution resources" },
+            { link: "course-ntw2029/resources/questions-about-evolution", label: "Questions about evolution" },
+          ],
+        },
+        // Hidden sections (faqs, hidden) - not included in sidebar
+        // Other resources marked draft - shown later in semester
       ],
     }),
     compress({
