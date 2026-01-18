@@ -41,6 +41,7 @@ When I teach writing, I often explain general principles for writing clearly. I 
 However, students who want to avoid mistakes will sometimes follow up by asking for detailed information about how to apply these principles or how balance one principle against another before they even have a draft to discuss. Actual examples:
 
 - "Is there a rule for how many examples we should have per paragraph?"
+- "How do I know if my argument is strong enough?"
 - "Should we use the old vs new technique to make our quotes flow better in our explanations?"
 - "How strongly should I state my claims in my paper 2?"
 
