@@ -28,6 +28,10 @@ npm run preview   # Preview production build locally
 - `starlight-auto-drafts`: Draft content management
 - `rehype-external-links`: Adds external link indicators
 
+### Rehype Plugin Configuration
+
+Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`—putting `rehypePlugins` there has no effect.
+
 ### Custom Components
 
 - `CustomTableOfContents.astro`: Modified TOC behavior
@@ -77,6 +81,10 @@ When creating or revising documents, don't use "this" by itself as the subject o
 - OK: "This assignment is when your analysis begins."
 - Not OK: "This prevents premature conclusions."
 - OK: "This step prevents premature conclusions."
+
+## Custom Code Restrictions
+
+Do not create custom Starlight plugins, custom Astro integrations, or other custom components without explicit user approval first. Prefer using existing plugins and standard configuration options.
 
 ## Analytics
 
