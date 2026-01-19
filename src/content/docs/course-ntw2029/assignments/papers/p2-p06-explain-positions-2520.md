@@ -1,11 +1,6 @@
 ---
 title: P06 - Verify Positions
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
 
 ## Purpose
@@ -87,15 +82,22 @@ Side by side, provide:
 
 **C2. Room test**
 
-Imagine the target authors and commentary authors in a room together. The commentary says "You claim X."
+Imagine the target authors and commentary authors in a room together with a whiteboard. The commentary says "You claim X."
 
 Would the target respond:
 
 - "Yes, we do claim X" (accurate characterization)
 - "No, we actually claim Y" (mischaracterization)
-- "Sort of—we don't say 'always X', we say 'X in certain contexts'" (over-reading)
+- "Well, sort of—we don't say 'always X', we say 'X tends to be true, but in certain contexts'" (over-reading)
 
-Explain which response fits and why, based on your textual evidence.
+Check the commentary's characterization against the target's actual claims:
+
+- Does the commentary accurately represent what the target says?
+- Does it preserve the target's qualifiers (must/should/can/usually/always)?
+- Does it strengthen claims beyond what the target stated?
+- Does it attribute claims the target doesn't make?
+
+Explain which response fits and why. Use quotations from both articles to show why you think the commentary's description of the target claim is accurate or inaccurate.
 
 **C3. Author's response analysis**
 
@@ -105,14 +107,22 @@ If they didn't respond, explain whether your hypothetical response (from A2) ali
 
 **C4. Verification finding**
 
-State your finding:
+Your verification might reveal:
 
 - **Match:** Commentary accurately represents target's position
-- **Over-reading:** Commentary strengthens target's claim beyond what target states
+- **Over-reading:** Commentary strengthens target's claim beyond what target states (e.g. "X causes Y" becomes "only X causes Y")
+- **Target ambiguity:** Target's statements are vague or could mean multiple things; commentary picks one interpretation
+- **Terminological confusion:** Same words, different definitions
 - **Mischaracterization:** Commentary attributes claims the target doesn't make
-- **Other:** Describe the discrepancy
 
-Explain the finding with specific textual evidence.
+If you're using the author's response, also check whether the target accurately represents the commentary's claims. You might find:
+
+- **Mutual misreading:** Articles mischaracterize each other
+- **Selective engagement:** Commentary describes target as claiming X and Y; target replies about X but ignores Y
+
+Or something else entirely. Don't force your case into these patterns—they're examples, not requirements.
+
+Explain your finding with specific textual evidence.
 
 ---
 

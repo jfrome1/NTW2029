@@ -1,14 +1,7 @@
 ---
 title: P04 - Article Selection
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
-
-<!-- TO FIX: The weak/strong explanation examples need to be rewritten. Original P04 deliberately used examples not from articles students would actually read. New examples should follow that same approach - generic enough to teach the principle without using the actual course articles. -->
 
 ## Purpose
 
@@ -16,7 +9,7 @@ This assignment develops your ability to understand and articulate a scholarly a
 
 ## Overview
 
-Select one of the four target articles and explain its main argument (approximately 400-500 words). You'll address four elements of the argument, providing your own explanation, a supporting quotation, and notes on any ambiguities for each.
+Select one of the four target articles and explain its main argument. You'll address four elements of the argument, providing your own explanation, a supporting quotation, and notes on any ambiguities for each. No word count requirement.
 
 Note: For peer review to work well, I need a reasonably even distribution of target article choices across each section. After you've selected your article, post your choice on the section Telegram channel. If you see that many students have already chosen a particular article, consider selecting a different one. You don't need to change if you have a strong preference, but aim for balance where possible.
 
@@ -36,8 +29,8 @@ Choose one of the following BBS target articles:
 For each of the four elements below, do three things:
 
 - **(a)** Explain it in your own words
-- **(b)** Provide a supporting quotation with page number (more than one sentence is OK)
-- **(c)** State whether the article's meaning is clear or unclear on this element. If unclear, note the ambiguity (places where the article could mean multiple things).
+- **(b)** Provide a supporting quotation with page number (more than one sentence is OK) <span class="smaller-text">[:Why both paraphrase and quotation?](#x-why-both)</span>
+- **(c)** State whether the article's meaning seems clear or unclear. If unclear, explain what's not clear about it (e.g. "The article doesn't explain if they are saying that X explains only some Ys or every Y").
 
 **Element 1: Phenomenon**
 
@@ -55,23 +48,21 @@ What main evidence or reasoning supports the target's explanation? What do the a
 
 What do the target authors claim is new or different about their approach compared to existing theories?
 
-Detailed guidance below.
-
 ## Guidelines
 
 ### Writing Your Explanations
 
 Your own-words explanations should demonstrate understanding, not just reword the source. I'm looking for explanations that could help someone unfamiliar with the article understand the concept.
 
-**[TO FIX: Replace with better examples]**
-
 **Example of weak explanation (rewording):**
-> "The model proposes that the phenomenon occurs because of an evolved mechanism that was adaptive in ancestral environments."
+> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes, which is an adaptation from our ancestral environment, where snakes posed a significant threat to survival."
+
+This weak example uses the article's language ("evolved predisposition," "adaptive," "ancestral environment") without explaining the underlying logic. You don't really need to understand the article's argument to produce this example.
 
 **Example of strong explanation (demonstrating understanding):**
-> "The model proposes that this behavior exists because ancestors who engaged in it were more likely to survive and reproduce. Specifically, the behavior helped them form stronger social bonds with group members, which provided protection and resource-sharing advantages. Over many generations, individuals with a psychological tendency toward this behavior outcompeted those without it, so the tendency became widespread in the population."
+> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes. This trait, they argue, evolved because our ancestors who feared snakes were less likely to be bitten and thus more likely to survive and have children. The fear was thus fitness-enhancing, and their children, who inherited their fear, were more likely to reproduce, and the fear because a universal human trait. Thus, viewers who see snakes in the film fear them almost as a reflex."
 
-The strong example explains *why* the mechanism would have been adaptive and *how* the evolutionary process works, not just that it was adaptive. It shows you understand the logic connecting the behavior to the proposed evolutionary outcome.
+This strong example names the phenomenon (film is scary), the mechanism that explains the phenomenon (fear of snakes), and how this mechanism causes the phenomenon.
 
 If you find yourself unable to explain something in your own words, that's useful information—note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
 
@@ -97,4 +88,8 @@ Your understanding of the target article will inform your commentary selection i
 
 ## Feedback
 
-I'll provide group feedback organized by target article, with brief individual comments where needed.
+I'll provide brief feedback to guide any students who are on the wrong track back towards the correct approach.
+
+##### :x Why both?
+
+The quotation lets me see exactly what the article states without having to follow every student's in-text citations and look in the articles for the original. The paraphrase helps me see if you are correctly interpreting what the quotation says.
