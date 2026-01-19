@@ -31,7 +31,7 @@ Read guidelines on [:using writing from earlier assignments](#x-using-writing-fr
 
 2. **Reference list**
 
-Check guidelines on the [Citations](https://ntw-2029.vercel.app/course-ntw2029/resources/citations/#part-2-reference-list)  page.
+Check guidelines on the Citations page (see Resources section).
 
 3. **Simplified outline**: Create an outline of your draft's topic sentences. [:How to create and use your outline](#x-how-to-create-and-use-your-outline)
 
