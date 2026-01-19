@@ -43,6 +43,18 @@ Content lives in `src/content/docs/course-ntw2029/`:
 - `assignments/papers/`: Paper assignments
 - `resources/`: Course resources
 
+### Schedule Page Formatting
+
+In `schedule.md`, every line starting with `###### Due` must be followed by a line containing just `>` for proper spacing on the rendered page.
+
+## Example EP Topics
+
+When creating assignment instructions or lecture examples that reference evolutionary psychology arguments about art/media, avoid topics covered in assigned P1 and P2 readings. A table of safe example topics from past student papers is maintained at:
+
+`{AI_PROJECTS}/.planning/scan-past-ntw2029-papers/findings.md`
+
+This table includes topic, source paper with DOI, and student thesis for 17 past P2 papers that don't overlap with current assignments.
+
 ## Link Formats
 
 For internal links use absolute paths from site root:
@@ -56,6 +68,15 @@ For internal links use absolute paths from site root:
   ```bash
   node checkNutshellLinks.js src/content/docs
   ```
+
+## Writing Style
+
+When creating or revising documents, don't use "this" by itself as the subject of a sentence. "This" must be followed by a noun that clarifies what it refers to.
+
+- Not OK: "This is when your analysis begins."
+- OK: "This assignment is when your analysis begins."
+- Not OK: "This prevents premature conclusions."
+- OK: "This step prevents premature conclusions."
 
 ## Analytics
 

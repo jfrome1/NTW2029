@@ -125,6 +125,10 @@ Vague questions ask for reassurance without identifying a specific problem. They
 
 Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance. Often, specific questions also propose possible solutions. Formulating these questions builds writing skills.
 
+<!-- ### Can I reschedule my conference?
+
+Rescheduling is possible but not guaranteed. Contact me as early as possible via email or Telegram with your reason and alternative times. I'll do my best to accommodate, but my schedule fills quickly during conference weeks. If you miss your slot without advance notice, a reschedule may not be available. -->
+
 ##### :x instructions
 
 [screenshots to be posted]

@@ -67,6 +67,12 @@ Final paper grading criteria will be discussed in future classes.
 
 Although you are allowed to miss exercises, all paper prep assignments must be submitted on time at minimum acceptable quality to pass the course.
 
+## FAQs
+
+### Can I revise and resubmit?
+
+Before the deadline: Yes, as many times as you want. I only grade the most recent version. After the deadline: For exercises and paper prep (15% category), if you submitted on time but received "incomplete," you have one week and one attempt to fix issues and earn 0.5 points. For final papers (P03, P09): No resubmission after the deadline. Use conferences and peer review to improve drafts before submitting finals.
+
 ##### :x what-good-participation-looks-like
 
 **Preparation**: Actually read the material (not just skim), come with opinions and/or questions, bring your materials.

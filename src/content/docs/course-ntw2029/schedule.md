@@ -226,7 +226,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 
 ###### Due Wed 18 Mar 2026: P04 - Paper 2 Article selection
-
+>
 ###### Due Sun 22 Mar 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
 
 ## 10.1 Mon 23 Mar 2026
@@ -245,7 +245,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - NOTE: Bring at least three hardcopies of your P05 to be reviewed.
 
 ###### Due Sun 29 Mar 2026: P06 - Paper 2 Verify positions
-
+>
 ## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
 
 ###### Due day of conference: E10 - Paper 2 Conference report (positions)
@@ -253,7 +253,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due Sun 5 Apr 2026: E13 - Workload report, Mar
 >
 ###### Due Sun 5 Apr 2026, 6pm: P07 - Paper 2 Working document (for peer review)
-
+>
 ## 12.1 Mon 6 Apr 2026
 
 - Writing topic: peer review
@@ -268,7 +268,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - NOTE: Bring at least three hardcopies of your P07 to be reviewed.
 
 ###### Due Sun 12 Apr 2026: P08 - Paper 2 Full draft and outline
-
+>
 ## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
 
 ###### Due day of conference: E11 - Paper 2 Conference report (draft)

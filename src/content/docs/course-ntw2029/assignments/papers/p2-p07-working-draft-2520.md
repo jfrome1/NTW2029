@@ -1,11 +1,6 @@
 ---
 title: P07 - Working Draft
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
 
 ## Purpose
@@ -28,7 +23,7 @@ State what prevents these positions from being compatible. Your thesis should:
 - Identify what drives the disagreement (an assumption, definition, methodological commitment, or evidentiary standard)
 - Explain WHY the positions conflict, not just that they do
 
-[:How to formulate your working thesis](#x-how-to-formulate-your-thesis)
+[:How to formulate your working thesis](#x-how-to-formulate-your-working-thesis)
 
 ### 2. "Going Beneath" Test
 
@@ -136,6 +131,8 @@ Your working thesis should explain what prevents these positions from being comp
 
 - "Their disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
 - "The commentary criticizes a position stronger than what the target claims, but there's still genuine tension about [what remains once qualifiers are restored]"
+
+These templates cover different types of underlying issues. Definitional and methodological differences are typically theoretical disagreements—different ways of framing or studying the phenomenon. Evidentiary differences are empirical disagreements about what evidence is sufficient or what standards should apply. The distinction matters because your analysis will develop differently depending on which type of disagreement you're working with.
 
 Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement—the assumption, definition, or methodological commitment that produces the conflict.
 
