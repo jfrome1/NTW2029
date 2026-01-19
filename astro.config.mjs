@@ -2,11 +2,23 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
 import starlightNutshell from "starlight-nutshell";
-import rehypeExternalLinks from "rehype-external-links";
 import compress from "astro-compress";
 import starlightAutoDrafts from "starlight-auto-drafts";
+import rehypeExternalLinks from "rehype-external-links";
 
 export default defineConfig({
+  markdown: {
+    rehypePlugins: [
+      [
+        rehypeExternalLinks,
+        {
+          content: { type: "text", value: " ↗" },
+          target: "_blank",
+          rel: ["noopener", "noreferrer"],
+        },
+      ],
+    ],
+  },
   integrations: [
     starlight({
       head: [
@@ -33,16 +45,6 @@ export default defineConfig({
       ],
       markdown: {
         headingLinks: false,
-        rehypePlugins: [
-          [
-            rehypeExternalLinks,
-            {
-              content: { type: "text", value: " 🡕" },
-              target: "_blank",
-              rel: ["noopener", "noreferrer"],
-            },
-          ],
-        ],
       },
       tableOfContents: {
         minHeadingLevel: 1,

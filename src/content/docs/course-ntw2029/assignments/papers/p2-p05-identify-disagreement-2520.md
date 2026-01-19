@@ -5,7 +5,7 @@ date: 2026-01-17
 
 ## Purpose
 
-This assignment helps you select a commentary and develop a clear understanding of its criticism before detailed analysis begins. By identifying relevant target passages now, you'll have the raw material needed for verification work in P06.
+This assignment helps you select a commentary and develop a clear understanding of its criticism before beginning detailed analysis. By identifying relevant target passages now, you'll have the raw material needed to verify your understanding in P06.
 
 ## Overview
 
@@ -277,7 +277,7 @@ Don't try to determine whether the commentary's criticism is right or wrong. You
 
 ## Feedback
 
-I'll provide brief written feedback identifying any clear misunderstandings, plus peer review discussion about whether your chosen criticism is workable.
+I'll provide brief written feedback. Note that when I ask questions in the feedback, I'm encouraging you to ask yourself these questions to better understand and analyze the articles. They are not implicit criticisms! You'll also discuss your chosen criticism in peer review.
 
 ##### :x how do i find the authors response
 
