@@ -21,7 +21,7 @@ Submit a final paper of 2250-2750 words that includes:
 
 **Conclusion** discussing what understanding why they reach different conclusions contributes to the academic conversation
 
-**Reference list** formatted according to the [Citations](/course-ntw2029/resources/citations/#part-2-reference-list) page
+**Reference list** formatted according to the Citations page (see Resources section)
 
 **Use at least 4 academic sources:** target article, commentary, author's response (if applicable), and at least 1 additional source
 

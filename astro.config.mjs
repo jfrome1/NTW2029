@@ -90,7 +90,6 @@ export default defineConfig({
           label: "Resources",
           collapsed: true,
           items: [
-            { link: "course-ntw2029/resources/citations", label: "Citations" },
             { link: "course-ntw2029/resources/ev-religion", label: "Evolution and Religion" },
             { link: "course-ntw2029/resources/ev-resources", label: "Evolution resources" },
             { link: "course-ntw2029/resources/questions-about-evolution", label: "Questions about evolution" },
