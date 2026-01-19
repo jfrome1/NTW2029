@@ -1,6 +1,11 @@
 ---
 title: Citations
 date: 2025-09-03
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## How Academic Citation Works
