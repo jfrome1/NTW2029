@@ -29,14 +29,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-<!-- - Class media:
+- Class media:
     - [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
     - [Peacock Spider](https://www.youtube.com/watch?v=d_yYC5r8xMI)
     - [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
 - Additional resources:
     - [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
     - [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
- -->
+
 ###### Due Sun 18 Jan 2026: E02 - Explain something
 
 ## 2.1 Mon 19 Jan 2026
@@ -49,8 +49,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
 		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research. 4th ed._ Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
-<!-- - Class media:
-	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
+- Class media:
 	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
 	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
 - Additional resources:
@@ -58,7 +57,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
     - [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
         - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
- -->
+
 ## 2.2 Thu 22 Jan 2026
 
 - EP and art topic: social cooperation & free-riders
@@ -70,14 +69,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-
-<!-- NOTE: add class media links -->
-
+- Class media:
+    - [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg) (7 min)
+    - [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
+    - [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
 ###### Due Sun 25 Jan 2026: E03 - Explain Boyd
 >
-###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like)
-
 ## 3.1 Mon 26 Jan 2026
 
 - EP and art topic: criticisms of EP
@@ -100,8 +98,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
  -->
 
 ###### Due Sun 1 Feb 2026: E04 - Explain Goldfinch
->
-###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like)
 >
 ###### Due Sun 1 Feb 2026: E13 - Workload report, Jan
 
@@ -185,7 +181,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: none
 	- Read before class (recommended): none
 
-
 ###### Due Sun 8 Mar 2026: E08 - Reading questions
 
 ## 8.1 Mon 9 Mar 2026
@@ -195,7 +190,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309  [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: introductions framing your argument, creating and refining your thesis
 	- Read before class (recommended): none
-
 
 ###### Due Wed 11 Mar 2026: E09 - Reading questions
 
@@ -209,7 +203,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-
 ## 9.1 Mon 16 Mar 2026
 
 - EP and art topic: none
@@ -218,7 +211,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 - Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
-
 
 ## 9.2 Thu 19 Mar 2026
 
