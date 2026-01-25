@@ -29,14 +29,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-<!-- - Class media:
+- Class media:
     - [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
     - [Peacock Spider](https://www.youtube.com/watch?v=d_yYC5r8xMI)
     - [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
 - Additional resources:
     - [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
     - [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
- -->
+
 ###### Due Sun 18 Jan 2026: E02 - Explain something
 
 ## 2.1 Mon 19 Jan 2026
@@ -49,15 +49,16 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
 		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research. 4th ed._ Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
-<!-- - Class media:
-	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
+- Class media:
 	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
 	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
 - Additional resources:
-    - short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
+    - short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
     - [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
-    - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
-        - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
+        -  This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's a very interesting, advanced deep dive for those who want to go into more details than we can in class._
+
+<!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
+     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
  -->
 ## 2.2 Thu 22 Jan 2026
 
@@ -76,7 +77,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 25 Jan 2026: E03 - Explain Boyd
 >
-###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like)
+<!-- ###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like) -->
 
 ## 3.1 Mon 26 Jan 2026
 
@@ -101,7 +102,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 1 Feb 2026: E04 - Explain Goldfinch
 >
-###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like)
+<!-- ###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like) -->
 >
 ###### Due Sun 1 Feb 2026: E13 - Workload report, Jan
 
@@ -305,7 +306,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ##### :x goldfinch conclusion discussion questions
 
-1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism." Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
+1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism" (200). Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
 
 2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
 
