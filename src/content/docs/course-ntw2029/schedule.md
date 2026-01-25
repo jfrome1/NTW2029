@@ -55,12 +55,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Additional resources:
     - short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
     - [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
-        -  This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's a very interesting, advanced deep dive for those who want to go into more details than we can in class._
-
-<!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs)
-     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
- -->
-## 2.2 Thu 22 Jan 2026
+    - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
+        - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
+ <!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) -->
+ ## 2.2 Thu 22 Jan 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
@@ -71,9 +69,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-
-<!-- NOTE: add class media links -->
-
+- Class media:
+    - [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg) (7 min)
+    - [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
+    - [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
 ###### Due Sun 25 Jan 2026: E03 - Explain Boyd
 >
@@ -186,7 +185,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: none
 	- Read before class (recommended): none
 
-
 ###### Due Sun 8 Mar 2026: E08 - Reading questions
 
 ## 8.1 Mon 9 Mar 2026
@@ -196,7 +194,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309  [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: introductions framing your argument, creating and refining your thesis
 	- Read before class (recommended): none
-
 
 ###### Due Wed 11 Mar 2026: E09 - Reading questions
 
@@ -210,7 +207,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-
 ## 9.1 Mon 16 Mar 2026
 
 - EP and art topic: none
@@ -219,7 +215,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 - Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
-
 
 ## 9.2 Thu 19 Mar 2026
 
