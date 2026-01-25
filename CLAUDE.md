@@ -6,6 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 NTW2029 is a course website built with Astro and Starlight, deployed on Vercel with Neon Postgres for analytics.
 
+This repository contains only the course website. Course design work, class meeting transcripts, and other course materials are stored separately in:
+`C:\Dev\repos\AI-projects\ntw2029 course design\`
+
+Transcripts are organized by semester in:
+`C:\Dev\repos\AI-projects\ntw2029 course design\tasks\transcript-analysis\transcripts organized\`
+
 ## Commands
 
 ```bash
@@ -25,7 +31,7 @@ npm run preview   # Preview production build locally
 
 - `starlight-links-validator`: Validates internal links at build time
 - `starlight-nutshell`: Expandable inline content (`:link text` syntax)
-- `starlight-auto-drafts`: Draft pages with `draft: true` frontmatter appear in dev mode with a badge but are excluded from production builds. Sidebar links to draft pages are also automatically removed in production.
+- `starlight-auto-drafts`: Draft content management
 - `rehype-external-links`: Adds external link indicators
 
 ### Rehype Plugin Configuration

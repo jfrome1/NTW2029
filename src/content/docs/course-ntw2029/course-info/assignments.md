@@ -11,7 +11,7 @@ This table shows which requirements apply to different assignment types. See sec
 
 | | Exercises (E01-E13) &<br>Paper Prep (P01, P04-P07) | Drafts (P02, P08) &<br>Final Papers (P03, P09) |
 |---|---|---|
-| Formatting | Simple Word doc | Follow paper template |
+| Formatting | Follow paper template | Follow paper template |
 | Highlighting | None | Thesis & topic sentences |
 | Citations | Only if requested | In-text & reference list |
 | Word count | Required | Required |
