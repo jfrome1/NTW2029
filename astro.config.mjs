@@ -64,6 +64,10 @@ export default defineConfig({
           label: "Course schedule",
         },
         {
+          link: "course-ntw2029/schedule-export",
+          label: "Schedule (draft export)",
+        },
+        {
           label: "Course information",
           collapsed: true,
           autogenerate: { directory: "course-ntw2029/course-info" },

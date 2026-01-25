@@ -25,7 +25,7 @@ npm run preview   # Preview production build locally
 
 - `starlight-links-validator`: Validates internal links at build time
 - `starlight-nutshell`: Expandable inline content (`:link text` syntax)
-- `starlight-auto-drafts`: Draft content management
+- `starlight-auto-drafts`: Draft pages with `draft: true` frontmatter appear in dev mode with a badge but are excluded from production builds. Sidebar links to draft pages are also automatically removed in production.
 - `rehype-external-links`: Adds external link indicators
 
 ### Rehype Plugin Configuration
