@@ -191,7 +191,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: enjoyment of negative emotions in art
 	- Read before class: (pages TBD)
-		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309  [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
+		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: introductions framing your argument, creating and refining your thesis
 	- Read before class (recommended): none
 
