@@ -52,7 +52,7 @@ Below are instructions for sharing ChatGPT links; others are similar. Check that
 3. Copy the generated link (not the browser URL)
 4. Paste this link at the top of your assignment, above any titles
 
-[:See detailed walkthrough with images](#x-walkthrough)
+[:walkthrough with images](#x-walkthrough-with-images)
 
 ### Non-Approved GenAI Uses
 
@@ -139,7 +139,27 @@ NUS provides guidance on:
 
 The key principle: you must be transparent about any assistance you receive, whether from humans or AI. This course requires that transparency through chat transcript submission.
 
-##### :x walkthrough
+### Is there really no penalty for using GenAI?
+
+That's right - no grade penalty as long as you submit your chat transcript links. Your learning may suffer if you rely too heavily on it, but there's no policy violation.
+
+### Can I upload files to ChatGPT?
+
+File uploads and downloads are not allowed under course policy. You can copy-paste text into the chat, but no file uploads. This includes ChatGPT Canvas and Claude artifacts.
+
+### What if I forget my GenAI declaration?
+
+Every assignment must include either a GenAI link or statement of non-use to earn credit. Since there's no penalty for use, please don't risk getting a zero by forgetting the disclosure.
+
+For exercises, if the declaration is missing, the assignment will be marked "incomplete" and you can resubmit with a working link within a week to get half credit. If not, no credit.
+
+For papers, DON'T FORGET your declaration and check all links, because lack of declaration is an academic honesty violation.
+
+### Do I have to use GenAI?
+
+No, you're not expected to use GenAI. If you don't use it, just end your submission with: "I did not use GenAI in any way for this assignment."
+
+##### :x walkthrough with images
 
 First, click the share link icon:
 

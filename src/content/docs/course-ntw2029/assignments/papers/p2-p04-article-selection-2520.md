@@ -29,7 +29,7 @@ Choose one of the following BBS target articles:
 For each of the four elements below, do three things:
 
 - **(a)** Explain it in your own words
-- **(b)** Provide a supporting quotation with page number (more than one sentence is OK) <span class="smaller-text">[:Why both paraphrase and quotation?](#x-why-both)</span>
+- **(b)** Provide a supporting quotation with page number (more than one sentence is OK) <span class="smaller-text">[:Why both paraphrase and quotation?](#x-why-both-paraphrase-and-quotation)</span>
 - **(c)** State whether the article's meaning seems clear or unclear. If unclear, explain what's not clear about it (e.g. "The article doesn't explain if they are saying that X explains only some Ys or every Y").
 
 **Element 1: Phenomenon**
@@ -90,6 +90,6 @@ Your understanding of the target article will inform your commentary selection i
 
 I'll provide brief feedback to guide any students who are on the wrong track back towards the correct approach.
 
-##### :x Why both?
+##### :x Why both paraphrase and quotation?
 
 The quotation lets me see exactly what the article states without having to follow every student's in-text citations and look in the articles for the original. The paraphrase helps me see if you are correctly interpreting what the quotation says.
