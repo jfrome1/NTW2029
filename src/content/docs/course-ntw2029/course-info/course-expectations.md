@@ -49,6 +49,14 @@ I may use anonymized examples from student work to teach writing concepts in fut
 
 Let me know in advance if possible—a brief message is fine. Get notes from a classmate, review any posted materials, and ask me if you have questions about what you missed.
 
+### When are the readings due?
+
+Readings are listed on the day they will be discussed in class. For example, you should read Badcock 11-13 before class 2.1, and we will discuss it in that class. Check the [Schedule page](/course-ntw2029/schedule/) for all readings.
+
+### Is attendance mandatory?
+
+Yes, attendance is part of your participation grade (15%). Please sign the attendance sheet every class.
+
 ##### :x why these settings matter
 
 Although I rarely use Announcements, Deadline notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.

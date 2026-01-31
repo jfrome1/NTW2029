@@ -30,7 +30,7 @@ Include a GenAI link/non-use statement (required) but not a word count.
 ### Getting help
 
 - Don't ask me questions in this assignment; if you want me to answer, email or message me separately
-- After this conference, I encourage questions about your revision process. See [what kinds of questions I can answer](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question) and [why I can't review emailed draft sections](/course-ntw2029/course-info/conferences#why-cant-you-review-drafts-between-conferences).
+- After this conference, I encourage questions about your revision process. See [what kinds of questions I can answer](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question) and [why I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-my-revisions-for-more-feedback).
 
 ## Feedback
 

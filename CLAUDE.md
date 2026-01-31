@@ -65,6 +65,18 @@ When creating assignment instructions or lecture examples that reference evoluti
 
 This table includes topic, source paper with DOI, and student thesis for 17 past P2 papers that don't overlap with current assignments.
 
+## Topic-Triggered References
+
+Before responding, check if the prompt involves these topics. If so, load the corresponding reference file.
+
+| Topic triggers | Load file |
+|----------------|-----------|
+| FAQ, nutshell, anchor link, content placement | `{AI_PROJECTS}/ntw2029 course design/shared/standards/nutshell-vs-anchor-links.md` |
+| link syntax, markdown links, heading ID | `{AI_PROJECTS}/ntw2029 course design/shared/standards/link-syntax-quick-reference.md` |
+| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/shared/standards/JF_Frome_writing_style.md` |
+| assignment structure, assignment template, creating assignment | `{AI_PROJECTS}/ntw2029 course design/shared/standards/assignment-template.md` |
+| page criteria, page evaluation, requirements page, resource page | `{AI_PROJECTS}/ntw2029 course design/shared/standards/course-page-criteria.md` |
+
 ## Link Formats
 
 For internal links use absolute paths from site root:

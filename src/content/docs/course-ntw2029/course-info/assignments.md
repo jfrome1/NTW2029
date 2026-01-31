@@ -123,7 +123,17 @@ In Metric:
 
 ## FAQs
 
-### How do I remove comments from my Word document?
+### What if I have technical problems during submission?
+
+Take a screenshot of any error message, try submitting again, and if it still doesn't work, email me immediately with the screenshot and your assignment attached.
+
+### Should I include citations and references in the word count?
+
+Word count includes in-text citations but excludes the reference list.
+
+### Formatting FAQs
+
+#### How do I remove comments from my Word document?
 
 If your submission has comments, you must remove them before submitting your paper. <span class="smaller-text">  [:Why do I need to remove comments?](#x-why-do-i-need-to-remove-comments) </span>
 
@@ -133,23 +143,39 @@ To remove all comments:
 2. In the Comments section, click the arrow under "Delete"
 3. Select [:"Delete All Comments in Document"](#x-delete-all-comments-in-document)
 
-### What does "Remove extra space/blank line between paragraphs" mean? How do I do that?
+#### What does "Remove extra space/blank line between paragraphs" mean? How do I do that?
 
 Click to see what [:extra space between paragraphs](#x-extra-space-between-paragraphs) means.
 
 Microsoft Word automatically adds extra space between paragraphs by default, but academic papers should not have these blank lines.
 
-The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:paragraph formatting settings](#x-extra-space-formatting-settings).
+The provided template doesn't have them. You can remove them by highlighting the paragraphs and changing your [:extra space formatting settings](#x-extra-space-formatting-settings).
 
-### Should I include citations and references in the word count?
+#### Why is my Word document file so large?
 
-Word count includes in-text citations but excludes the reference list.
+If you've been directed here, your submitted document is larger than expected. This usually happens when Word's "embed fonts" option is turned on, which bundles fonts into the file. For course submissions, embedded fonts aren't necessary. You don't need to resubmit, but please turn this off for future assignments.
+
+To turn off font embedding:
+
+1. Open your document in Microsoft Word
+2. Open settings:
+   - **Windows**: Go to **File > Options** (Options is near the bottom), then select **Save** from the left sidebar
+   - **Mac**: Go to **Word > Preferences**, then click **Save**
+3. Look for "Preserve fidelity when sharing this document" near the bottom
+4. Uncheck **Embed fonts in the file** [:embed fonts screenshot](#x-embed-fonts-screenshot)
+5. Click **OK**, then save your document again
+
+Your file sizes should now be back to normal.
+
+#### What's the paper template?
+
+The paper template is a pre-formatted Word document that has all the correct formatting already set up for you - double-spacing, margins, indentation, font, and heading styles. Just download it, save it with a new name for your assignment, and start typing. The template handles first-line indentation, proper spacing between paragraphs, correct font and size, and title and reference list formatting. Download it from the link above and use it for all your papers.
 
 ##### :x why-do-i-need-to-remove-comments
 
-Comments are like personal notes; they're for you, not your reader. It's professional to remove them. They are distracting if I want to add my own margin comments. Comments also [:make it hard for me to read submissions on Canvas](#x-canvas-comments-issue).
+Comments are like personal notes; they're for you, not your reader. It's professional to remove them. They are distracting if I want to add my own margin comments. Comments also make the text small and hard to read on Canvas. [:See the Canvas display issue](#x-see-the-canvas-display-issue)
 
-##### :x canvas-comments-issue
+##### :x see-the-canvas-display-issue
 
 ![canvas comments blurred](/images/canvas-comments-blurred.jpg)
 
@@ -164,3 +190,7 @@ Comments are like personal notes; they're for you, not your reader. It's profess
 ##### :x extra-space-formatting-settings
 
 ![extra space formatting settings](/images/extra-space-formatting-settings.jpg)
+
+##### :x embed-fonts-screenshot
+
+![Word Options showing Embed fonts checkbox](/images/embed-fonts.PNG)
