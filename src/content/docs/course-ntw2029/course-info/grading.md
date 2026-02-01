@@ -79,7 +79,11 @@ Don't panic about Canvas grades - I track grades separately in my own spreadshee
 
 ### What if I get an incomplete on an exercise?
 
-Don't worry too much - each exercise is a very small part of your final grade. However, all paper prep assignments must be submitted at minimum acceptable quality to pass the course.
+Don't worry - each exercise is a very small part of your final grade.
+
+### What if I get an incomplete on a paper prep assignment?
+
+If you get an incomplete because you failed to include a key element, just add it and resubmit. But please submit something by the deadline, because all paper prep assignments must be submitted by the (extended) deadline at minimum acceptable quality to pass the course.
 
 ##### :x what-good-participation-looks-like
 
