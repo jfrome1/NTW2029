@@ -2,11 +2,23 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
 import starlightNutshell from "starlight-nutshell";
-import rehypeExternalLinks from "rehype-external-links";
 import compress from "astro-compress";
 import starlightAutoDrafts from "starlight-auto-drafts";
+import rehypeExternalLinks from "rehype-external-links";
 
 export default defineConfig({
+  markdown: {
+    rehypePlugins: [
+      [
+        rehypeExternalLinks,
+        {
+          content: { type: "text", value: " ↗" },
+          target: "_blank",
+          rel: ["noopener", "noreferrer"],
+        },
+      ],
+    ],
+  },
   integrations: [
     starlight({
       head: [
@@ -33,16 +45,6 @@ export default defineConfig({
       ],
       markdown: {
         headingLinks: false,
-        rehypePlugins: [
-          [
-            rehypeExternalLinks,
-            {
-              content: { type: "text", value: " 🡕" },
-              target: "_blank",
-              rel: ["noopener", "noreferrer"],
-            },
-          ],
-        ],
       },
       tableOfContents: {
         minHeadingLevel: 1,
@@ -62,38 +64,43 @@ export default defineConfig({
           label: "Course schedule",
         },
         {
-          link: "course-ntw2029/assignments/exercises/e01-introductions",
-          label: "Exercise 1",
+          link: "course-ntw2029/schedule-export",
+          label: "Schedule (draft export)",
         },
-        // Temporarily hidden for initial deployment - uncomment to restore:
-        // {
-        //   label: "Course information",
-        //   collapsed: true,
-        //   autogenerate: { directory: "course-ntw2029/course-info" },
-        // },
-        // {
-        //   label: "Assignments",
-        //   collapsed: true,
-        //   items: [
-        //     {
-        //       label: "Exercises",
-        //       collapsed: true,
-        //       autogenerate: {
-        //         directory: "course-ntw2029/assignments/exercises",
-        //       },
-        //     },
-        //     {
-        //       label: "Papers",
-        //       collapsed: true,
-        //       autogenerate: { directory: "course-ntw2029/assignments/papers" },
-        //     },
-        //   ],
-        // },
-        // {
-        //   label: "Resources",
-        //   collapsed: true,
-        //   autogenerate: { directory: "course-ntw2029/resources" },
-        // },
+        {
+          label: "Course information",
+          collapsed: true,
+          autogenerate: { directory: "course-ntw2029/course-info" },
+        },
+        {
+          label: "Assignments",
+          collapsed: true,
+          items: [
+            {
+              label: "Exercises",
+              collapsed: true,
+              autogenerate: {
+                directory: "course-ntw2029/assignments/exercises",
+              },
+            },
+            {
+              label: "Papers",
+              collapsed: true,
+              autogenerate: { directory: "course-ntw2029/assignments/papers" },
+            },
+          ],
+        },
+{
+          label: "Resources",
+          collapsed: true,
+          items: [
+            { link: "course-ntw2029/resources/ev-religion", label: "Evolution and Religion" },
+            { link: "course-ntw2029/resources/ev-resources", label: "Evolution resources" },
+            { link: "course-ntw2029/resources/questions-about-evolution", label: "Questions about evolution" },
+          ],
+        },
+        // Hidden sections (faqs, hidden) - not included in sidebar
+        // Other resources marked draft - shown later in semester
       ],
     }),
     compress({

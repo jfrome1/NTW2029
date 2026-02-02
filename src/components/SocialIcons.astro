@@ -30,7 +30,7 @@ import Default from '@astrojs/starlight/components/SocialIcons.astro';
     }).join(' ');
   }
 
-  const authUserCookie = getCookie("authUser");
+  const authUserCookie = getCookie(import.meta.env.PUBLIC_COOKIE_NAME);
   const welcomeDiv = document.getElementById("username-display") as HTMLDivElement;
 
   if (authUserCookie) {
