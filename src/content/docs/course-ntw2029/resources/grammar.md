@@ -1,11 +1,6 @@
 ---
 title: Grammar and style
 date: 2025-09-23
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 This page provides grammar and style information that I can quickly refer to when providing feedback.

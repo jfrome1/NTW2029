@@ -34,6 +34,10 @@ npm run preview   # Preview production build locally
 - `starlight-auto-drafts`: Draft content management
 - `rehype-external-links`: Adds external link indicators
 
+### Troubleshooting Missing Pages
+
+When a page doesn't appear in the sidebar or on the live site, check the page's frontmatter for `draft: true`. The `starlight-auto-drafts` plugin hides draft pages from the sidebar in production, even if they're explicitly listed in the sidebar config in `astro.config.mjs`.
+
 ### Rehype Plugin Configuration
 
 Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`—putting `rehypePlugins` there has no effect.
