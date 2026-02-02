@@ -95,21 +95,15 @@ Strong arguments have clear connections between claims, reasons, and evidence. E
 
 ### When should I ask for help with writing?
 
-Ask early when you're confused about concepts or requirements. Don't wait until just before the deadline. I'm happy to clarify assignments or discuss your approach, but I can't review drafts outside of formal submissions.
+Ask early when you're confused about concepts or requirements. Don't wait until just before the deadline. I'm happy to clarify assignments or discuss your approach.
 
-### What resources are available for writing help?
-
-Beyond these FAQ pages, check the full [Writing Resources section](/course-ntw2029/resources/writing) for detailed guides. You can also use university writing centers and librarians for citation help.
-
+<!--
 ### Can I see examples of good writing?
 
 I provide anonymized examples on the website and discuss them in class. Pay attention to the examples we analyze together - they show what I'm looking for in your papers.
+-->
 
 ## Writing Questions
-
-### How much should I quote versus paraphrase?
-
-Most of your paper should be paraphrasing with citations. Quote only when the exact wording matters or the phrasing is particularly elegant. I'll show you examples of good balance in class.
 
 ### What's the difference between Paper 1 and Paper 2?
 
@@ -119,10 +113,6 @@ Paper 1 asks you to explain (and optionally analyze) Pinker's arguments about wh
 
 It means saying something that hasn't already been explicitly said in a publication. It doesn't require proposing an original theory about the research question; you can add by commenting on what other people have said. You might point out unstated assumptions, identify missing evidence, show logical gaps, or explain implications the author didn't discuss.
 
-### How should I structure my introduction?
-
-Start broad by introducing the general topic, narrow to your specific focus, make sure the reader understands why people are discussing this specific topic, provide context for why the discussion matters, then state your thesis. The introduction for course papers should be one to two paragraphs, and should end before the mid-point of page two. See course materials on introductions for more guidance.
-
 ### How many sources do I need for papers?
 
 Paper 1 uses just one source. Paper 2 needs one target source, one commentary source, and at least two other sources for context.
@@ -130,7 +120,3 @@ Paper 1 uses just one source. Paper 2 needs one target source, one commentary so
 ### What citation style should I use?
 
 Use APA style for all papers. See the Citations resources page for detailed guidance and examples.
-
-### Should we include in-text citations or the reference list in the word count?
-
-Include in-text citations in your word count, but not the reference list at the end.
