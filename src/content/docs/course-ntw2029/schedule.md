@@ -53,12 +53,12 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
 	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
 - Additional resources:
-    - short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
+    - short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
     - [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
         - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
-
-## 2.2 Thu 22 Jan 2026
+ <!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) -->
+ ## 2.2 Thu 22 Jan 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
@@ -76,6 +76,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due Sun 25 Jan 2026: E03 - Explain Boyd
 >
+<!-- ###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like) -->
+
 ## 3.1 Mon 26 Jan 2026
 
 - EP and art topic: criticisms of EP
@@ -86,7 +88,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 3.2 Thu 29 Jan 2026
 
 - EP and art topic: scientific research and EP research
-	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), <!-- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion-questions).-->
+	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion-questions)
 	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-114-122.pdf)
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
@@ -98,6 +100,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
  -->
 
 ###### Due Sun 1 Feb 2026: E04 - Explain Goldfinch
+>
+<!-- ###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like) -->
 >
 ###### Due Sun 1 Feb 2026: E13 - Workload report, Jan
 
@@ -187,7 +191,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: enjoyment of negative emotions in art
 	- Read before class: (pages TBD)
-		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309  [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
+		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: introductions framing your argument, creating and refining your thesis
 	- Read before class (recommended): none
 
@@ -297,8 +301,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ##### :x goldfinch conclusion discussion questions
 
-- What responses does the author provide for the objections he described in the earlier readings?
-- Do you think these responses are sufficient?
+1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism" (200). Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
+
+2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
+
+3. On page 200, Goldfinch says "This is the positive case for evolutionary psychology. The streamlined case." What is this positive case? What does Goldfinch argue EP can legitimately do?
 
 ##### :x pinker discussion questions
 

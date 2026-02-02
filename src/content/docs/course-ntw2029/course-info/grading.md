@@ -73,6 +73,18 @@ Although you are allowed to miss exercises, all paper prep assignments must be s
 
 Before the deadline: Yes, as many times as you want. I only grade the most recent version. After the deadline: For exercises and paper prep (15% category), if you submitted on time but received "incomplete," you have one week and one attempt to fix issues and earn 0.5 points. For final papers (P03, P09): No resubmission after the deadline. Use conferences and peer review to improve drafts before submitting finals.
 
+### Why is Canvas showing the wrong grade?
+
+Don't panic about Canvas grades - I track grades separately in my own spreadsheet. Canvas might show confusing numbers that don't reflect your actual grade.
+
+### What if I get an incomplete on an exercise?
+
+Don't worry - each exercise is a very small part of your final grade.
+
+### What if I get an incomplete on a paper prep assignment?
+
+If you get an incomplete because you failed to include a key element, just add it and resubmit. But please submit something by the deadline, because all paper prep assignments must be submitted by the (extended) deadline at minimum acceptable quality to pass the course.
+
 ##### :x what-good-participation-looks-like
 
 **Preparation**: Actually read the material (not just skim), come with opinions and/or questions, bring your materials.

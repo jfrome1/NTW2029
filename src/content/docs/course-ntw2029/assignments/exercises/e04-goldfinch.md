@@ -9,7 +9,7 @@ This assignment continues your practice in explaining complex texts, now with ac
 
 ## Overview
 
-You'll explain section 2.7.4 of Goldfinch's critique of evolutionary psychology in under 300 words. Your explanation should help a general reader understand his arguments without needing specialized knowledge of EP methodology.
+You'll explain section 2.7.4 of Goldfinch's critique of evolutionary psychology in under 500 words. Your explanation should help a general reader understand his arguments without needing specialized knowledge of EP methodology.
 
 ## Instructions
 
@@ -41,7 +41,7 @@ For this exercise, after the submission deadline, I'll post an example explanati
 
 ## Example Explanations
 
-Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted here after class 3.1.
+Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted [here](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3) after class 3.1.
 <!-- [here](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3) -->
 
 An example explanation of 2.7.4 will be posted here after the exercise 4 deadline.
