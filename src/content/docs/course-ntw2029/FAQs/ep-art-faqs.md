@@ -103,20 +103,6 @@ You will be okay! Just ask me if you have questions. If you're confused about so
 
 The concept of EEA may be controversial among critics of EP, but it isn't among EP proponents. Thus, we will use it to discuss EP, but should be aware of its potential limitations. Although I have some reservations about many types of EP research, I don't think that the concept of an EEA is something that can be dismissed - it's a coherent concept that can be useful in discussing human evolution.
 
-## Evolution and Religion
-
-### Are evolution and religion incompatible?
-
-Not necessarily! Many people believe in both God and evolution. Some see evolution as the mechanism God used to create the diversity of life, just as they accept gravity as a mechanism God created for planetary motion. The disagreement occurs between those who read the Bible literally versus metaphorically. Full discussion on the [Evolution and Religion page](/course-ntw2029/resources/evolution/ev-religion).
-
-### How can I tell if someone rejects evolution?
-
-The best indicator isn't whether someone believes in God - it's their stance on the age of the Earth. Young Earth creationists believe it's less than 10,000 years old based on Biblical genealogies. Scientists say it's about 4.5 billion years old based on multiple forms of evidence. If you accept an old Earth, evolution and religion are fairly compatible.
-
-### What if I believe in a young Earth?
-
-There are serious conflicts to resolve since evolution requires millions of years. Some argue the science is wrong, others that evidence was created to appear old, or that evolution happens much faster than scientists think. The [Evolution and Religion page](/course-ntw2029/resources/evolution/ev-religion) discusses these positions in detail.
-
 ## Common Evolution Questions
 
 ### Isn't evolution "just a theory"?
@@ -130,10 +116,6 @@ Yes! We've observed evolution in our lifetimes, including new species arising. T
 ### If we evolved from monkeys, why are there still monkeys?
 
 We didn't evolve FROM modern monkeys - we share a common ancestor WITH them. It's like asking "if you descended from your grandparents, why do you still have cousins?" Different branches evolved in different directions.
-
-### Are humans still evolving?
-
-Biologically, very slowly and unpredictably. Cultural evolution has largely replaced biological evolution for humans - we solve problems with technology and social changes rather than waiting for genetic changes. More on the [Questioning Evolution page](/course-ntw2029/resources/evolution/questioning-evolution).
 
 ## Nature vs. Nurture
 
@@ -154,6 +136,10 @@ Innate doesn't mean present at birth or existing in every member without excepti
 ### Why do organisms cooperate if evolution is about competition?
 
 Cooperation can increase survival! The Prisoner's Dilemma shows how cooperation strategies can evolve even when cheating seems advantageous. We cooperate with kin who share our genes, and with non-kin when reciprocal benefits exist. Videos and explanations on the [Cooperation page](/course-ntw2029/resources/evolution/cooperation).
+
+### Can you explain the part about kin selection in bees in [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4&t=119s)?
+
+That part in the video is confusing because it doesn't really explain the part about "a strange fact about honey bee genetics..."  the queen and the female drones have two sets of bars while the male drones have only one set of bars? The bars are their genes--female bees have 2x the number of genes as male bees. Because male and female be have different amounts of genes, female bees share on average 75% of their genes with their sisters, but would share only 50% of genes on average with their own children, if they had children. This difference is supposed to explain why female bees evolved do not have their own children, but instead help the queen reproduce have children. The female bees "altruistically "don't spend time creating children or raising them, instead helping the Queen create and raise children (their "sisters"). The video suggests that this behavior evolved because it, on average, produces more copies of the female bees' genes.
 
 ### What's the free-rider problem?
 
