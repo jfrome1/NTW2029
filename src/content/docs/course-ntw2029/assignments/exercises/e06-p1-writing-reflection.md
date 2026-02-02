@@ -17,7 +17,7 @@ Copy and paste the questions below into a document and type your answer below ea
 
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
-3. What major changes did you make on your draft after our conference?
+3. What were the two or three biggest changes you made on your draft after our conference?
 4. Did you use ChatGPT? If yes, how did you do so and how helpful was it?
 5. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
 6. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?

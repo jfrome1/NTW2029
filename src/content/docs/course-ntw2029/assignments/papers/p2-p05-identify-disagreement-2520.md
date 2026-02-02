@@ -1,20 +1,15 @@
 ---
 title: P05 - Identify the Criticism
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
 
 ## Purpose
 
-This assignment helps you select a commentary and develop a clear understanding of its criticism before detailed analysis begins. By identifying relevant target passages now, you'll have the raw material needed for verification work in P06.
+This assignment helps you select a commentary and develop a clear understanding of its criticism before beginning detailed analysis. By identifying relevant target passages now, you'll have the raw material needed to verify your understanding in P06.
 
 ## Overview
 
-Select a commentary article that criticizes your target, then answer questions about the criticism and locate the relevant passages in the target article. This is comprehension work, not analysis—your goal is to understand what each article says.
+Select a commentary article that criticizes your target, then answer questions about the criticism and locate the relevant passages in the target article. This is comprehension work, not analysis—your goal is to understand what each article says. No word count requirement.
 
 Note: Since you'll discuss each other's topics in detail during peer review, I'd like all students in each section to write about different article pairs. I don't think this will be an issue, and I'm fine if a few students choose the same pair but write about different criticisms.
 
@@ -28,7 +23,7 @@ Choose one commentary from the recommended list below (or propose an alternative
 
 ### Part 2: Answer These Questions
 
-For each question, first explain in your own words, then provide the quotation that supports your explanation. [:Why both?](#x-why-both)
+For each question, first explain in your own words, then provide the quotation that supports your explanation. <span class="smaller-text"> [:Why gather so many quotations?](#x-why-gather-so-many-quotations) </span>
 
 ---
 
@@ -56,7 +51,7 @@ Then, quote a passage (2-4 sentences with page number) where the commentary stat
 
 **Question 4: Which target passages are relevant to this criticism?**
 
-Quote 2-3 passages from the target article that discuss the topic the commentary criticizes. Include page numbers. [:Why gather these passages?](#x-why-gather-passages)
+Quote 2-3 passages from the target article that discuss the topic the commentary criticizes. Include page numbers.
 
 ---
 
@@ -256,7 +251,7 @@ Stewart-Williams, S. (2021). Making music: Let's not be too quick to abandon the
 
 ### Choosing Your Commentary
 
-Look for commentaries that identify a specific problem with the target's argument, not just different views. Strong criticisms typically claim the target:
+Look for commentaries that identify a specific problem with the target's argument. Strong criticisms typically claim the target does things like:
 
 - Overlooks contradicting evidence
 - Makes predictions that don't hold
@@ -268,7 +263,7 @@ Avoid commentaries that merely offer alternative theories without showing proble
 
 ### Reading the Full Commentary
 
-Abstracts can be misleading. Once you identify candidates, read the full articles before choosing. A commentary that seems promising from its abstract may turn out to be less substantive than expected.
+Abstracts can be misleading. Once you identify candidates, read the full articles before choosing. A commentary that seems promising from its abstract may turn out to be less critical than expected.
 
 ### Focusing on One Criticism
 
@@ -282,16 +277,12 @@ Don't try to determine whether the commentary's criticism is right or wrong. You
 
 ## Feedback
 
-I'll provide brief written feedback identifying any clear misunderstandings, plus peer review discussion about whether your chosen criticism is workable.
-
-##### :x Why both?
-
-The quotation lets me see exactly what the article states without having to search it up myself for every student. The paraphrase helps me see if you are correctly interpreting what the article says.
-
-##### :x Why gather these passages?
-
-These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.
+I'll provide brief written feedback. Note that when I ask questions in the feedback, I'm encouraging you to ask yourself these questions to better understand and analyze the articles. They are not implicit criticisms! You'll also discuss your chosen criticism in peer review.
 
 ##### :x how do i find the authors response
 
 To find passages relevant to your specific commentary: (1) Open the file with the target and commentary articles, (2) Search (Ctrl+F or Cmd+F) for your commentary author's last name, (3) Read any passages in the author's response where they cite or discuss your commentary.
+
+##### :x Why gather so many quotations?
+
+These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.

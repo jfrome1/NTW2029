@@ -73,6 +73,16 @@ The earlier you reach out, the more options we have to help.
 
 - [NUSC Pastoral Care](https://tinyurl.com/nuscpastoralcare)
 
+## FAQs
+
+### You didn't answer my email, what do I do?
+
+Please email me again if you don't hear back within one business day. Sometimes emails without "NTW2029" in the subject get lost among administrative emails, or I just lose track. It's not rude; I'm giving you permission.
+
+### Can I message you on Canvas or call you?
+
+Yes, but I don't check Canvas messages or office voicemail, so please use email or Telegram instead.
+
 ##### :x why email
 
 Email creates documentation we can both reference later if needed.

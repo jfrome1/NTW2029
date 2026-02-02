@@ -7,7 +7,7 @@ date: 2025-08-17
 
 ### In Class
 
-Keep electronic devices out of site during class (except for disability accommodations) to encourage focused thinking and discussion. I'll let you know when you can use devices during class activities. I provide printed lecture notes every class so don't have to worry about missing anything.
+Keep electronic devices out of sight during class (except for disability accommodations). [:Why no electronics?](#x-why-no-electronics) I'll let you know when you can use devices during class activities. I provide printed lecture notes every class so you don't have to worry about missing anything.
 
 ### Digital Setup
 
@@ -43,6 +43,20 @@ Using GenAI without submitting transcripts or failing to include the non-use sta
 
 I may use anonymized examples from student work to teach writing concepts in future classes. Your name and identifying information will never be included. Let me know if you prefer your work not be used this way.
 
+## FAQs
+
+### What if I miss class?
+
+Let me know in advance if possible—a brief message is fine. Get notes from a classmate, review any posted materials, and ask me if you have questions about what you missed.
+
+### When are the readings due?
+
+Readings are listed on the day they will be discussed in class. For example, you should read Badcock 11-13 before class 2.1, and we will discuss it in that class. Check the [Schedule page](/course-ntw2029/schedule/) for all readings.
+
+### Is attendance mandatory?
+
+Yes, attendance is part of your participation grade (15%). Please sign the attendance sheet every class.
+
 ##### :x why these settings matter
 
 Although I rarely use Announcements, Deadline notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.
@@ -50,3 +64,7 @@ Although I rarely use Announcements, Deadline notifications have saved many stud
 ##### :x why you should ignore the canvas gradebook
 
 Canvas gradebook tries to calculate your final grade, but I track grades separately in my own spreadsheet. Canvas might show you have 50% when you actually have an A. Ignore it.
+
+##### :x why no electronics
+
+The ideas we discuss are genuinely complicated, and devices promise easy answers that usually aren't there. The temptation to Google instead of think disrupts the kind of deep focus these topics need.

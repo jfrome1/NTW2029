@@ -1,24 +1,35 @@
 ---
 title: GenAI policy
-date: 2025-08-18
+date: 2026-01-14
 ---
 
 GenAI is a tool we'll all be using more and more, so this course lets you explore its capabilities and limitations without penalty. The key is transparency—I need to see how you're using it to understand what helps or hinders your learning.
 
 ## GenAI Policy Requirements
 
-You may use ChatGPT for any coursework with no grade penalty if you follow these requirements:
+You may use GenAI chatbots for any coursework with no grade penalty if you follow these requirements:
 
 - For each submitted assignment:
     - If you use GenAI, submit links to all relevant chat transcripts
     - If you don't use GenAI, submit the statement "I did not use GenAI in any way for this assignment"
 - Submit links/non-use statements at the top of the assignment, above the title
-- Copy links from the share function, not browser URLs
+- Copy links using the share function, not browser URLs
 - Use only text-based chatbot interactions (prompts and responses)
 - Create a non-shared ChatGPT account and stay logged in when using it to enable link sharing
 - Don't delete any course chats
 
-If you want to use an AI tool other than ChatGPT, come talk to me first to see if I can accommodate you.
+Additional essential details below.
+
+## Content Responsibility
+
+You are responsible for all content you submit, regardless of its source. GenAI tools frequently fabricate citations, misrepresent arguments, and invent information that sounds plausible but is false. Assume GenAI is wrong about factual claims.
+
+If you use information from GenAI in your work, you must:
+
+1. Verify the information with a reputable published source
+2. Cite that source in your work
+
+Do not cite GenAI as a source for factual claims.
 
 ### Grade Impact
 
@@ -32,6 +43,8 @@ If you want to use an AI tool other than ChatGPT, come talk to me first to see i
 Browser URLs do not work. You must use the share function to create public links.
 :::
 
+Below are instructions for sharing ChatGPT links; others are similar. Check that your share links work by opening an incognito or private browser window and visiting the link.
+
 ### ChatGPT Shared Link Instructions
 
 1. Click the share link icon in your chat
@@ -39,14 +52,14 @@ Browser URLs do not work. You must use the share function to create public links
 3. Copy the generated link (not the browser URL)
 4. Paste this link at the top of your assignment, above any titles
 
-[:See detailed walkthrough with images](#x-walkthrough)
+[:walkthrough with images](#x-walkthrough-with-images)
 
 ### Non-Approved GenAI Uses
 
 - Uploading or downloading files to/from GenAI tools
 - Using GenAI integrated into other apps, such as Microsoft Office, Google Docs, or custom IDEs
-- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function)
-- GenAI models that can't create special links to share conversations
+- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function, NotebookLM)
+- GenAI models that are not confirmed to create special links that allow me to download conversations (ChatGPT, Claude, Gemini are approved)
 
 ### New Chat Guidelines
 
@@ -126,7 +139,27 @@ NUS provides guidance on:
 
 The key principle: you must be transparent about any assistance you receive, whether from humans or AI. This course requires that transparency through chat transcript submission.
 
-##### :x walkthrough
+### Is there really no penalty for using GenAI?
+
+That's right - no grade penalty as long as you submit your chat transcript links. Your learning may suffer if you rely too heavily on it, but there's no policy violation.
+
+### Can I upload files to ChatGPT?
+
+File uploads and downloads are not allowed under course policy. You can copy-paste text into the chat, but no file uploads. This includes ChatGPT Canvas and Claude artifacts.
+
+### What if I forget my GenAI declaration?
+
+Every assignment must include either a GenAI link or statement of non-use to earn credit. Since there's no penalty for use, please don't risk getting a zero by forgetting the disclosure.
+
+For exercises, if the declaration is missing, the assignment will be marked "incomplete" and you can resubmit with a working link within a week to get half credit. If not, no credit.
+
+For papers, DON'T FORGET your declaration and check all links, because lack of declaration is an academic honesty violation.
+
+### Do I have to use GenAI?
+
+No, you're not expected to use GenAI. If you don't use it, just end your submission with: "I did not use GenAI in any way for this assignment."
+
+##### :x walkthrough with images
 
 First, click the share link icon:
 

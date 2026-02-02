@@ -1,11 +1,6 @@
 ---
 title: P07 - Working Draft
-date: 2026-01-10
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-01-17
 ---
 
 ## Purpose
@@ -28,7 +23,7 @@ State what prevents these positions from being compatible. Your thesis should:
 - Identify what drives the disagreement (an assumption, definition, methodological commitment, or evidentiary standard)
 - Explain WHY the positions conflict, not just that they do
 
-[:How to formulate your working thesis](#x-how-to-formulate-your-thesis)
+[:How to formulate your working thesis](#x-how-to-formulate-your-working-thesis)
 
 ### 2. "Going Beneath" Test
 
@@ -39,7 +34,7 @@ Then explain:
 - If you find your thesis stated explicitly, you've described rather than analyzed. Revise to identify something neither author says outright.
 - If your thesis names something implicit—an unstated assumption, an unacknowledged commitment, a pattern neither author identifies—explain what makes it implicit.
 
-[:Why the "going beneath" test matters](#x-why-going-beneath-test-matters)
+[:Why the "going beneath" test matters](#x-why-the-going-beneath-test-matters)
 
 ### 3. Analysis Development
 
@@ -47,7 +42,7 @@ Develop your thesis with specific evidence from both articles. Answer whichever 
 
 Your analysis should explain HOW the differences you identified in your thesis produce the logical conflict. Use quotations and specific evidence to support your claims.
 
-[:Diagnostic patterns for analysis](#x-diagnostic-patterns)
+[:Diagnostic patterns](#x-diagnostic-patterns)
 
 ### 4. Beginning Significance
 
@@ -137,6 +132,8 @@ Your working thesis should explain what prevents these positions from being comp
 - "Their disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
 - "The commentary criticizes a position stronger than what the target claims, but there's still genuine tension about [what remains once qualifiers are restored]"
 
+These templates cover different types of underlying issues. Definitional and methodological differences are typically theoretical disagreements—different ways of framing or studying the phenomenon. Evidentiary differences are empirical disagreements about what evidence is sufficient or what standards should apply. The distinction matters because your analysis will develop differently depending on which type of disagreement you're working with.
+
 Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement—the assumption, definition, or methodological commitment that produces the conflict.
 
 [:How theses develop through P07-P08](#x-how-theses-develop-through-p07-p08)
@@ -176,7 +173,7 @@ Your analysis determines which aspects matter for your case. You might address o
 
 Peer review will help you identify whether your working thesis explains what you discovered. Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08.
 
-##### :x why going beneath test matters
+##### :x why the going beneath test matters
 
 Students often state a thesis that one of the authors already says explicitly. If your thesis is "The commentary argues the target overlooks developmental factors," you've described the commentary, not analyzed the disagreement.
 
@@ -195,13 +192,13 @@ Develop your thesis with specific evidence and reasoning. Answer whichever diagn
 
 To identify why the positions reach different conclusions, answer whichever questions apply to your case. You don't need to answer questions that don't fit your disagreement:
 
-- [:Pattern 1: Claims don't match evidence](#x-pattern-1)
-- [:Pattern 2: Missing important factors](#x-pattern-2)
-- [:Pattern 3: Definitions don't match](#x-pattern-3)
-- [:Pattern 4: Wrong question or framework](#x-pattern-4)
-- [:Pattern 5: Logical problems or scientific standards](#x-pattern-5)
+- [:Pattern 1: Claims don't match evidence](#x-pattern-1-claims-dont-match-evidence)
+- [:Pattern 2: Missing important factors](#x-pattern-2-missing-important-factors)
+- [:Pattern 3: Definitions don't match](#x-pattern-3-definitions-dont-match)
+- [:Pattern 4: Wrong question or framework](#x-pattern-4-wrong-question-or-framework)
+- [:Pattern 5: Logical problems or scientific standards](#x-pattern-5-logical-problems-or-scientific-standards)
 
-##### :x pattern-1
+##### :x Pattern 1: Claims don't match evidence
 
 **Pattern 1: Claims don't match evidence**
 
@@ -210,7 +207,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Does the target cherry-pick supporting cases while ignoring contradictory evidence?
 - *Example: Verpooten & Eens argue that singing doesn't correlate with social complexity as predicted*
 
-##### :x pattern-2
+##### :x Pattern 2: Missing important factors
 
 **Pattern 2: Missing important factors**
 
@@ -218,7 +215,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Why does that missing factor matter for understanding the phenomenon?
 - *Example: Goldstein argues that theatre lacks representational distance that target's theory requires*
 
-##### :x pattern-3
+##### :x Pattern 3: Definitions don't match
 
 **Pattern 3: Definitions don't match**
 
@@ -226,7 +223,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 - If they used the commentary's definition, would the disagreement dissolve or remain?
 - *Example: Norman defines "exploration" to include all non-real worlds, not just fantastical ones*
 
-##### :x pattern-4
+##### :x Pattern 4: Wrong question or framework
 
 **Pattern 4: Wrong question or framework**
 
@@ -234,7 +231,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Does the commentary claim the target's approach can't work for this type of phenomenon?
 - *Example: Killin argues adaptation/byproduct framework can't handle complex coevolved traits like music*
 
-##### :x pattern-5
+##### :x Pattern 5: Logical problems or scientific standards
 
 **Pattern 5: Logical problems or scientific standards**
 

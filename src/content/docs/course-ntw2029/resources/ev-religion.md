@@ -13,7 +13,7 @@ As discussed in class, the best way to know whether someone rejects evolution is
 
 The two views about the age of the Earth are that it is less than 10,000 years old and that it is around 4.5 Billion years old. The "young-Earth" view is held primarily by [:Biblical literalists](https://en.wikipedia.org/wiki/Biblical_literalism), who have gone through the Bible, noted the births and deaths of people named there, and added up their ages to determine the age of the Earth. The position that the Earth is less than 10,000 years old is sometimes called [:Young Earth creationism](https://en.wikipedia.org/wiki/Young_Earth_creationism).
 
-Others think the Earth is billions of years old based on [:scientific evidence](#x-scientific).
+Others think the Earth is billions of years old based on [:scientific evidence](#x-scientific-evidence).
 
 If your religious beliefs allow for the idea that the earth is roughly 4.5 billion years old, then evolution and religion are fairly compatible:
 
@@ -36,7 +36,7 @@ If you hold that the earth is less than 10,000 years old, then there is potentia
 - [Acceptance of evolution by religious groups - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_of_evolution_by_religious_groups)
 - [What is a Creationist? Evolution Question #5](https://youtu.be/-pSeCLo3AHE)
 
-##### :x scientific
+##### :x scientific evidence
 
 If you want to know how scientists estimate the age of the earth, a short discussion of evidence is found in this [article](https://biologos.org/common-questions/how-are-the-ages-of-the-earth-and-universe-calculated), or you can take a deeper look with videos such as these:
 

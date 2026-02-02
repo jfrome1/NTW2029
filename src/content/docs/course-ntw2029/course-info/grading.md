@@ -3,6 +3,13 @@ title: Grading
 date: 2025-08-14
 ---
 
+## Grade Overview
+
+| | Writing Development | Final Papers |
+|---|---|---|
+| Grading | Complete/Incomplete | Letter grade |
+| Weight | 15% (cumulative) | Paper 1, 30%<br>Paper 2, 40% |
+
 ## Final Grade Components
 
 - Class Participation: 15%
@@ -14,16 +21,16 @@ date: 2025-08-14
 
 I evaluate your engagement during class meetings based on:
 
-- Timely, regular attendence and notifying me about absences in advance
-- Engaging actively in discussions and small group work
+- Timely, regular attendance and notifying me about absences in advance
 - Completing readings before class and coming ready to discuss them
+- Engaging actively in discussions and small group work (including peer review)
 - Helping the class develop understanding through your contributions
 
 [:What good participation looks like](#x-what-good-participation-looks-like)
 
 ## Writing Development Work (15%)
 
-This category includes all exercises (E01-E11) and paper prep work (P01-02, P04-08). Everything here is graded complete/incomplete.
+This category includes all exercises, paper prep, and drafts (E01-E13, P01-02, P04-08). Everything here is graded complete/incomplete.
 
 ### Grading Individual Submissions
 
@@ -59,6 +66,24 @@ The SRL adjustment rewards students who engage with feedback, use course resourc
 Final paper grading criteria will be discussed in future classes.
 
 Although you are allowed to miss exercises, all paper prep assignments must be submitted on time at minimum acceptable quality to pass the course.
+
+## FAQs
+
+### Can I revise and resubmit?
+
+Before the deadline: Yes, as many times as you want. I only grade the most recent version. After the deadline: For exercises and paper prep (15% category), if you submitted on time but received "incomplete," you have one week and one attempt to fix issues and earn 0.5 points. For final papers (P03, P09): No resubmission after the deadline. Use conferences and peer review to improve drafts before submitting finals.
+
+### Why is Canvas showing the wrong grade?
+
+Don't panic about Canvas grades - I track grades separately in my own spreadsheet. Canvas might show confusing numbers that don't reflect your actual grade.
+
+### What if I get an incomplete on an exercise?
+
+Don't worry - each exercise is a very small part of your final grade.
+
+### What if I get an incomplete on a paper prep assignment?
+
+If you get an incomplete because you failed to include a key element, just add it and resubmit. But please submit something by the deadline, because all paper prep assignments must be submitted by the (extended) deadline at minimum acceptable quality to pass the course.
 
 ##### :x what-good-participation-looks-like
 
