@@ -1,23 +1,18 @@
 ---
 title: Citations
 date: 2025-09-03
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## How Academic Citation Works
 
 Academic citation requires two interconnected components:
 
-1. **In-text citations** - Brief parenthetical notes showing where you use sources
+1. **In-text citations** - Brief parenthetical notes in the essay text showing where you are relying on sources
 2. **Reference list** - Full publication details for every source cited
 
 Every in-text citation must match a reference list entry. Don't include any sources in your reference list that aren't cited in-text. <span class="smaller-text"> [:Why not include all references you looked at?](#x-why-not-include-all-references-you-looked-at) </span>
 
-The citation guidelines on this page are a slightly simplified version of APA (American Psychological Association) rules.
+The citation guidelines on this page are a simplified version of APA (American Psychological Association) rules.
 
 ## Part 1: In-Text Citations
 
@@ -74,6 +69,7 @@ Boyd, B. (2005). Evolutionary theories of art. In J. Gottschall & D. S. Wilson (
 Look at the paper template to quickly see proper reference list formatting. [:Proper formatting example](#x-proper-formatting-example)
 
 Do:
+
 - Alphabetical order by first author's last name
 - Hanging indent (first line at page margin, following lines indented)
 - Include DOI or publisher URL where available
@@ -81,11 +77,10 @@ Do:
 - No extra lines between entries
 
 Don't:
-- Never include page numbers for whole books
-- Never use database URLs (JSTOR, ProQuest) or repository URLs (ssrn.org, academia.edu)
-- Never add quotation marks around article titles
 
-[:How to find DOIs and official URLs](#x-how-to-find-dois-and-official-urls)
+- Never add quotation marks around article titles (use italics)
+- Never include page numbers for whole books
+- Never use database URLs (JSTOR, ProQuest) or repository URLs (ssrn.org, academia.edu) - only official DOIs/URLs [:How to find DOIs and official URLs](#x-how-to-find-dois-and-official-urls)
 
 ## When Citation Is Required
 
