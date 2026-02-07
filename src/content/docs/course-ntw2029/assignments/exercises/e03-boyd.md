@@ -37,5 +37,8 @@ For this exercise, you will receive indirect feedback when we discuss Boyd's arg
 
 ## Example
 
-An example Boyd explanation will be posted [here](/course-ntw2029/hidden/exercise-examples/e03-eg) after the exercise 3 deadline.
+An example Boyd explanation will be posted here after the exercise 3 deadline.
+
+[Example Boyd explanation](/course-ntw2029/hidden/exercise-examples/e03-eg)
+
 <!-- [here](/course-ntw2029/hidden/exercise-examples/e03-eg) -->
