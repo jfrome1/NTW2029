@@ -1,11 +1,6 @@
 ---
 title: Unclear referents and ambiguous pronouns
 date: 2025-09-15
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 Try to follow this argument:
