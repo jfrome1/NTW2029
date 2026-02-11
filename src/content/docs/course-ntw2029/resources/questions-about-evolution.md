@@ -62,7 +62,7 @@ There wasn't a "first" of any species. Each generation looks almost identical to
 
 ### Are humans still evolving?
 
-Yes, humans are still evolving, and we can see various trait changes in different human populations. However, these trait changes haven't cause humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans.
+Yes, humans are still evolving, and we can see various trait changes in different human populations. However, these trait changes haven't cause humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans. [:more detailed answer](#x-more-detailed-answer)
 
 - [Are Humans Still Evolving?](https://www.youtube.com/watch?v=wEhOZJ55Ve8&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=4)
 - Genetic engineering: [CRISPR and the Future of Human Evolution](https://www.youtube.com/watch?v=_pGNM9CTLJg&list=PLsmqeqKj7M-pS2SyV82Y4CGyihKLCW35w&index=4)
@@ -90,3 +90,7 @@ Parts of eyes are each useful on their own--even a simple light-sensitive patch 
 No, the second law only says closed systems become more disordered, but Earth isn't closed—we get constant energy from the sun. Life can become more complex because it uses energy to create local order while increasing disorder elsewhere.
 
 - [Does evolution violate the 2nd law of thermodynamics?](https://youtu.be/c_jyHp3bmEw?t=577)
+
+##### :x more detailed answer
+
+Yes, humans are still evolving, and we have seen some minor trait changes in different human populations over the last 10-15,000 years (such as development of lactose tolerance after dairy farming began and high-altitude adaptations in Andean populations). However, these trait changes haven't cause humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans. Consider: Evolution says that organisms that can best survive and attract mates are most likely to have the most offspring, spreading their variations throughout the species. Yet the richest and most developed countries, with the highest life expectancies, often have below replacement birth rates. So, traditional fitness markers such as access to resources no longer correlate with having more offspring. Genetic engineering also offers an path to potentially change human genetics outside of evolutionary forces. In other words, evolutionary theory is no longer a useful way to predict how humans will change in the future.

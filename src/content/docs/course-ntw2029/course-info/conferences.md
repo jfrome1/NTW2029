@@ -1,6 +1,6 @@
 ---
 title: Conferences
-date: 2025-08-13
+date: 2026-02-11
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ The items below help us make the most of our conference time. Following them mea
 
 **Book your conference:**
 
-- Book your conference when I send further instructions
+- Book your conference through the Zoom tool on Canvas once times are available [:instructions](#x-instructions)
 - Check times carefully—schedule when you can review feedback during the 2 hours before we meet [:why this timing matters](#x-why-this-timing-matters)
 <!-- - [:What if I see strange conference times?](#x-what-if-i-see-strange-conference-times) -->
 
@@ -81,12 +81,29 @@ I review drafts at scheduled checkpoints as part of normal course assignments. I
 
 Instead: Submit work at designated checkpoints, prepare thoroughly for conferences, and request meetings for specific help.
 
+### Can I change my conference time once I've booked it?
+
+Yes, but I can't do it for you. Cancel your existing booking and make a new one. If you want to swap times with another student, arrange it with them and have both of you cancel and rebook at the same time.
+
+Please do not change your booking on the day of the conference or without notifying me. I schedule the order of feedback reviews based on conference times, so last-minute changes make things difficult for me.
+
 ---
 
 <p class="smaller-text">
 
 **Note on conference requirements:** Conferences require a submitted assignment, reviewed feedback, working audio/video, and a private space. If these basics aren't in place, we'll need to reschedule—and during busy conference weeks, another slot may not be available.
 </p>
+
+##### :x instructions
+
+To book your conference slot:
+
+1. Open Canvas and go to your NTW2029 course
+2. Click "Zoom" in the left navigation menu
+3. Click the "Appointments" tab
+4. Browse the available time slots and select one that works for you
+5. Review the date and time in the pop-up, then click "Book"
+6. You'll receive an email confirmation with the Zoom meeting link
 
 ##### :x why this timing matters
 
