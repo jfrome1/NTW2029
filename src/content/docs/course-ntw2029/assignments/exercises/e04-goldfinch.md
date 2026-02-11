@@ -33,7 +33,7 @@ Don't assume that you should explain each paragraph and present the information 
 
 ### Attribution
 
-Remember to properly attribute all ideas to their source rather than writing them as if they are your original ideas. In this case, it is harder, because Goldfinch is explaining what other people have said. Thus, don't write, "Claims about adaptive traits..." or "Richardson argues that claims about adaptive traits..." but "According to Goldfinch, Richardson argues that claims about adaptive traits...". It's hard to do this gracefully, so don't worry about it too much for this exercise.
+Remember to properly attribute all ideas to their source rather than writing them as if they are your original ideas. In this case, it is harder, because Goldfinch is explaining what other people have said. Thus, don't write, "Claims about adaptive traits..." or "Richardson argues that claims about adaptive traits..." but "According to Goldfinch, Richardson argues that claims about adaptive traits...". It's hard to do this two-level attribution gracefully, so don't worry about it sounding clunky in this exercise.
 
 ## Feedback
 
@@ -41,7 +41,10 @@ For this exercise, after the submission deadline, I'll post an example explanati
 
 ## Example Explanations
 
-Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted [here](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3) after class 3.1.
-<!-- [here](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3) -->
+Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted here after class 3.1.
+
+[Example explanations of 2.7.1 to 2.7.3](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3)
 
 An example explanation of 2.7.4 will be posted here after the exercise 4 deadline.
+
+[Example explanation of 2.7.4](/course-ntw2029/hidden/exercise-examples/e04-eg-4)
