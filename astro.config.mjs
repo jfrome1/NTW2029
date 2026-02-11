@@ -94,11 +94,13 @@ export default defineConfig({
           label: "Resources",
           collapsed: true,
           items: [
+            { link: "course-ntw2029/resources/chinese-esl-issues", label: "Common issues for native Chinese speakers" },
             { link: "course-ntw2029/resources/citations", label: "Citations" },
             { link: "course-ntw2029/resources/ev-religion", label: "Evolution and Religion" },
             { link: "course-ntw2029/resources/ev-resources", label: "Evolution resources" },
-            { link: "course-ntw2029/resources/grammar", label: "Grammar" },
+            { link: "course-ntw2029/resources/grammar", label: "Grammar and style" },
             { link: "course-ntw2029/resources/questions-about-evolution", label: "Questions about evolution" },
+            { link: "course-ntw2029/resources/unclear-referent", label: "Unclear referents and ambiguous pronouns" },
           ],
         },
         // Hidden sections (faqs, hidden) - not included in sidebar
