@@ -85,6 +85,20 @@ Don't worry - each exercise is a very small part of your final grade.
 
 If you get an incomplete because you failed to include a key element, just add it and resubmit. But please submit something by the deadline, because all paper prep assignments must be submitted by the (extended) deadline at minimum acceptable quality to pass the course.
 
+### What happens if I submit an assignment late?
+
+I understand that sometimes things get away from you, and I'm not upset when it happens. All students get an automatic 12-hour extension on every deadline for any reason; no need to request it. Beyond that, I grant additional extensions only for serious documented circumstances (e.g., medical issues). Travel and CCAs are not grounds for additional extensions.
+
+If you're running short on time, it's better to submit something at lower quality by the deadline than to submit late. A complete-but-rough submission earns full credit, and if it's marked incomplete you can still fix it on resubmission for half credit. A late submission earns zero.
+
+Late exercises (E01-E13) are not a big deal. A missed item is a pretty small part of your grade.
+
+Late paper prep (P01, P04-P07) is also minor grade-wise, but you're not guaranteed feedback if it's turned in late.
+
+Late drafts (P02, P08) are more costly. Beyond the completion credit, you'll typically lose your feedback and conference, which means you'll be writing your final paper without the individualized guidance other students received.
+
+Late final papers (P03, P09) are penalized up to one letter grade per day as described in the [extension policy](/course-ntw2029/course-info/assignments/#extension-policy).
+
 ##### :x what-good-participation-looks-like
 
 **Preparation**: Actually read the material (not just skim), come with opinions and/or questions, bring your materials.
