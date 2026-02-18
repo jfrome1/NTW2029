@@ -9,7 +9,7 @@ This exercise encourages you to critically reflect on how you approached Paper 1
 
 ## Overview
 
-Answer the following questions about your writing process, from initial drafting through final revisions. Submit your responses one day after your Paper 1 final is due. Answers can be as long or short as needed—there are no length requirements.
+After submitting your Paper 1 final, answer the following questions about your writing process, from initial drafting through final revisions. Submit your responses one day after your Paper 1 final is due. Answers can be as long or short as needed—there are no length requirements.
 
 ## Requirements
 
