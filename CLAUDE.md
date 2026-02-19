@@ -1,3 +1,7 @@
+---
+lastUpdated: 2026-02-19
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -65,7 +69,7 @@ In `schedule.md`, every line starting with `###### Due` must be followed by a li
 
 When creating assignment instructions or lecture examples that reference evolutionary psychology arguments about art/media, avoid topics covered in assigned P1 and P2 readings. A table of safe example topics from past student papers is maintained at:
 
-`{AI_PROJECTS}/.planning/scan-past-ntw2029-papers/findings.md`
+`{AI_PROJECTS}/ntw2029 course design/tasks/archive/scan-past-ntw2029-papers/findings.md`
 
 This table includes topic, source paper with DOI, and student thesis for 17 past P2 papers that don't overlap with current assignments.
 
@@ -75,11 +79,11 @@ Before responding, check if the prompt involves these topics. If so, load the co
 
 | Topic triggers | Load file |
 |----------------|-----------|
-| FAQ, nutshell, anchor link, content placement | `{AI_PROJECTS}/ntw2029 course design/shared/standards/nutshell-vs-anchor-links.md` |
-| link syntax, markdown links, heading ID | `{AI_PROJECTS}/ntw2029 course design/shared/standards/link-syntax-quick-reference.md` |
-| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/shared/standards/JF_Frome_writing_style.md` |
-| assignment structure, assignment template, creating assignment | `{AI_PROJECTS}/ntw2029 course design/shared/standards/assignment-template.md` |
-| page criteria, page evaluation, requirements page, resource page | `{AI_PROJECTS}/ntw2029 course design/shared/standards/course-page-criteria.md` |
+| FAQ, nutshell, anchor link, content placement | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md` |
+| link syntax, markdown links, heading ID | `{AI_PROJECTS}/ntw2029 course design/tasks/website design docs/link-syntax-quick-reference.md` |
+| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md` |
+| assignment structure, assignment template, creating assignment | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md` |
+| page criteria, page evaluation, requirements page, resource page | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md` |
 
 ## Link Formats
 
