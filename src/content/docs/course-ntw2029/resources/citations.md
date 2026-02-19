@@ -84,9 +84,9 @@ Don't:
 
 ## When Citation Is Required
 
-**You must cite:**
+**You must have an in-text citation in any sentence with:**
 
-- Paraphrases and summaries of others' ideas (not just direct quotes)
+- Quotation, paraphrase, or summary of others' ideas (not just quotations)
 - Specific facts, statistics, or findings
 - Any ideas that aren't your own original analysis
 
