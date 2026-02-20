@@ -24,6 +24,8 @@ npm run build     # Run astro check && astro build to ./dist/
 npm run preview   # Preview production build locally
 ```
 
+Do not run `npm run build` without explicit user approval. Content review and editing does not require building.
+
 ## Architecture
 
 - **Framework**: Astro 5 with Starlight documentation theme
