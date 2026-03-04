@@ -15,7 +15,8 @@ You may use GenAI chatbots for any coursework with no grade penalty if you follo
 - Submit links/non-use statements at the top of the assignment, above the title
 - Copy links using the share function, not browser URLs
 - Use only text-based chatbot interactions (prompts and responses)
-- Create a non-shared ChatGPT account and stay logged in when using it to enable link sharing
+- Conduct all GenAI conversations in English
+- Create a non-shared account for your GenAI platform and stay logged in when using it to enable link sharing
 - Don't delete any course chats
 
 Additional essential details below.
@@ -59,7 +60,7 @@ Below are instructions for sharing ChatGPT links; others are similar. Check that
 - Uploading or downloading files to/from GenAI tools
 - Using GenAI integrated into other apps, such as Microsoft Office, Google Docs, or custom IDEs
 - Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function, NotebookLM)
-- GenAI models that are not confirmed to create special links that allow me to download conversations (ChatGPT, Claude, Gemini are approved)
+- GenAI models that are not confirmed to create special links that allow me to download conversations (ChatGPT, Copilot, and Gemini are approved; Claude and DeepSeek are not approved)
 
 ### New Chat Guidelines
 
@@ -145,7 +146,7 @@ That's right - no grade penalty as long as you submit your chat transcript links
 
 ### Can I upload files to ChatGPT?
 
-File uploads and downloads are not allowed under course policy. You can copy-paste text into the chat, but no file uploads. This includes ChatGPT Canvas and Claude artifacts.
+File uploads and downloads are not allowed under course policy. You can copy-paste text into the chat, but no file uploads. This includes features like ChatGPT Canvas.
 
 ### What if I forget my GenAI declaration?
 
