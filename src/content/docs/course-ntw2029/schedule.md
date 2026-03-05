@@ -182,7 +182,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
             - Pages 63-65 (Author's Response sections R1.1, R1.1.1, R1.1.2, and R1.2)
             - Skim the rest of the article by just reading topic sentences
             - (Recommended) search for (Ctrl+F) and read sentences with "we argue that", "we propose", and "we hypothesize"
-- Writing topic: none
+- Writing topic: transitions
 	- Read before class (recommended): none
 
 ###### Due Sun 8 Mar 2026: E08 - Reading questions
