@@ -192,7 +192,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - EP and art topic: enjoyment of negative emotions in art
 	- Read before class: (pages TBD)
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
-- Writing topic: introductions framing your argument, creating and refining your thesis
+- Writing topic: none
 	- Read before class (recommended): none
 
 ###### Due Wed 11 Mar 2026: E09 - Reading questions
@@ -204,7 +204,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. _Behavioral and Brain Sciences_, 44, e60. https://doi.org/10.1017/S0140525X20000345
 		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. _Behavioral and Brain Sciences_, 44, e59. https://doi.org/10.1017/S0140525X20000333
 		- download both articles and commentary in one file:  [download](/downloads/savage-mehrMusicEvolution.pdf)
-- Writing topic: finding sources, effective transitions, how to cite: reference lists
+- Writing topic: none
 	- Read before class (recommended): none
 
 ## 9.1 Mon 16 Mar 2026
@@ -213,7 +213,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class:
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
-- Writing topic: writing with outlines and drafts, writing concisely
+- Writing topic: none
 	- Read before class (recommended): none
 
 ## 9.2 Thu 19 Mar 2026
