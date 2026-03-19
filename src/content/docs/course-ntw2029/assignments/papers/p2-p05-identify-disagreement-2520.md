@@ -145,12 +145,12 @@ Goldstein, T. R. (2017). Live theatre as exception and test case for experiencin
 
 > *Abstract:* Distancing and then embracing constitutes a useful way of thinking about the paradox of aesthetic pleasure. However, the model does not account for live theatre. When live actors perform behaviors perceptually close to real life and possibly really experienced by the actors, audiences may experience autonomic reactions, with less distance, or may have to distance post-experiencing/embracing their emotions.
 
----
+<!-- ---
 
 Konečni, V. J. (2017). "Negative emotions" live in stories, not in the hearts of readers who enjoy them. *Behavioral and Brain Sciences*, *40*, e367. https://doi.org/10.1017/S0140525X17001753
 
 > *Abstract:* The commendably ambitious project by Menninghaus et al. fails because its main connective tissue - "negative emotions" - is beyond the grasp of the authors' largely literary approach. The critique focuses on their treatment of the Paradox of Fiction, the neglect of the biological, adaptive nature of emotions, and the absence of convincing empirical support for key aspects of the proposed model.
-
+ -->
 ---
 
 Nadal, M., Vartanian, O., & Skov, M. (2017). Psychological models of art reception must be empirically grounded. *Behavioral and Brain Sciences*, *40*, e371. https://doi.org/10.1017/S0140525X17001790
@@ -165,12 +165,12 @@ Schubert, T. W., Seibt, B., Zickfeld, J. H., Blomster, J. K., & Fiske, A. P. (20
 
 ---
 
-Weisberg, D. S., & Friend, S. (2017). Embracing nonfiction: How to extend the Distancing-Embracing model. *Behavioral and Brain Sciences*, *40*, e379. https://doi.org/10.1017/S0140525X17001881
+<!-- Weisberg, D. S., & Friend, S. (2017). Embracing nonfiction: How to extend the Distancing-Embracing model. *Behavioral and Brain Sciences*, *40*, e379. https://doi.org/10.1017/S0140525X17001881
 
 > *Abstract:* The Distancing factor of Menninghaus et al.'s model includes schemas that remind consumers that the representation is fictional. Although they claim that these schemas are crucial to the functioning of the Embracing factor of the model, we argue that consumers can have similar responses to nonfictional representations. We urge the authors to expand their model to include such cases.
 
 ---
-
+ -->
 ### Target Article 3: Savage et al. (2021) - Music as Social Bonding
 
 *Behavioral and Brain Sciences*, 44, e59: 1-77
@@ -198,12 +198,12 @@ Merker, B. (2021). Music, bonding, and human evolution: A critique. *Behavioral 
 
 > *Abstract:* Savage et al. propose that music filled a hypothetical "bonding gap" in human sociality by Baldwinian gene-culture coevolution (or protracted cognitive niche construction). Both these stepping stones to an evolutionary account of the function and origin of music are problematic. They are scrutinized in this commentary, and an alternative is proposed.
 
----
+<!-- ---
 
 Verpooten, J., & Eens, M. (2021). Singing is not associated with social complexity across species. *Behavioral and Brain Sciences*, *44*, e92. https://doi.org/10.1017/S0140525X20001120
 
 > *Abstract:* Based on their social bonding hypothesis, Savage et al. predict a relation between "musical" behaviors and social complexity across species. However, our qualitative comparative review suggests that, although learned contact calls are positively associated with complex social dynamics across species, songs are not. Yet, in contrast to songs, and arguably consistent with their functions, contact calls are not particularly music-like.
-
+ -->
 ---
 
 ### Target Article 4: Mehr et al. (2021) - Music as Credible Signaling
