@@ -1,3 +1,7 @@
+---
+lastUpdated: 2026-03-06
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -75,11 +79,11 @@ Before responding, check if the prompt involves these topics. If so, load the co
 
 | Topic triggers | Load file |
 |----------------|-----------|
-| FAQ, nutshell, anchor link, content placement | `{AI_PROJECTS}/ntw2029 course design/shared/standards/nutshell-vs-anchor-links.md` |
-| link syntax, markdown links, heading ID | `{AI_PROJECTS}/ntw2029 course design/shared/standards/link-syntax-quick-reference.md` |
-| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/shared/standards/JF_Frome_writing_style.md` |
-| assignment structure, assignment template, creating assignment | `{AI_PROJECTS}/ntw2029 course design/shared/standards/assignment-template.md` |
-| page criteria, page evaluation, requirements page, resource page | `{AI_PROJECTS}/ntw2029 course design/shared/standards/course-page-criteria.md` |
+| FAQ, nutshell, anchor link, content placement | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md` |
+| link syntax, markdown links, heading ID | `{AI_PROJECTS}/ntw2029 course design/tasks/website design docs/link-syntax-quick-reference.md` |
+| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md` |
+| assignment structure, assignment template, creating assignment | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md` |
+| page criteria, page evaluation, requirements page, resource page | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md` |
 
 ## Link Formats
 
