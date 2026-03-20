@@ -52,6 +52,7 @@ The items below help us make the most of our conference time. Following them mea
 ### Starting the Conference
 
 - Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
+    - NOTE: Your booking confirmation email includes a different Zoom link—ignore it. Always use the link above (Meeting ID: 250 394 5161).
 - Email or message me if you have connection difficulties
 - Tell me at the start if you want the conference recorded [:about recordings](#x-about-recordings)
 
