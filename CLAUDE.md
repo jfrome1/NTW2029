@@ -44,6 +44,14 @@ Do not run `npm run build` without explicit user approval. Content review and ed
 
 When a page doesn't appear in the sidebar or on the live site, check the page's frontmatter for `draft: true`. The `starlight-auto-drafts` plugin hides draft pages from the sidebar in production, even if they're explicitly listed in the sidebar config in `astro.config.mjs`.
 
+### Content Entry Requirements
+
+All .md files under Astro's content directory (`src/content/docs/`) must have YAML frontmatter with at least a `title:` field. Files without frontmatter cause `InvalidContentEntryDataError` and fail the Vercel build. A blank line between the opening `---` and the first field can also cause parsing failures.
+
+### Vercel Deployment Debugging
+
+The GitHub deployments API (`gh api repos/{owner}/{repo}/deployments/{id}/statuses`) returns only state (success/failure/pending) and a brief description. Detailed build error logs are only available in the Vercel dashboard, not through the API.
+
 ### Rehype Plugin Configuration
 
 Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`—putting `rehypePlugins` there has no effect.
@@ -57,6 +65,7 @@ Rehype plugins must be configured at the Astro config level (`defineConfig({ mar
 ## Content Structure
 
 Content lives in `src/content/docs/course-ntw2029/`:
+
 - `schedule.md`: Course schedule (sidebar root)
 - `course-info/`: Course information pages
 - `assignments/exercises/`: Exercise assignments
@@ -79,17 +88,18 @@ This table includes topic, source paper with DOI, and student thesis for 17 past
 
 Before responding, check if the prompt involves these topics. If so, load the corresponding reference file.
 
-| Topic triggers | Load file |
-|----------------|-----------|
-| FAQ, nutshell, anchor link, content placement | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md` |
-| link syntax, markdown links, heading ID | `{AI_PROJECTS}/ntw2029 course design/tasks/website design docs/link-syntax-quick-reference.md` |
-| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md` |
-| assignment structure, assignment template, creating assignment | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md` |
-| page criteria, page evaluation, requirements page, resource page | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md` |
+| Topic triggers                                                          | Load file                                                                                      |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| FAQ, nutshell, anchor link, content placement                           | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md`                    |
+| link syntax, markdown links, heading ID                                 | `{AI_PROJECTS}/ntw2029 course design/tasks/website design docs/link-syntax-quick-reference.md` |
+| writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md`                      |
+| assignment structure, assignment template, creating assignment          | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md`                         |
+| page criteria, page evaluation, requirements page, resource page        | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md`                        |
 
 ## Link Formats
 
 For internal links use absolute paths from site root:
+
 - Page: `[text](/course-ntw2029/path/to/page)`
 - Heading: `[text](/course-ntw2029/path/to/page/#heading-id)`
 - Nutshell expandable: `[:text](/course-ntw2029/path/to/page)`
@@ -97,6 +107,7 @@ For internal links use absolute paths from site root:
 ## Utilities
 
 - `checkNutshellLinks.js`: Validates Nutshell links in markdown files
+
   ```bash
   node checkNutshellLinks.js src/content/docs
   ```
