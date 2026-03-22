@@ -58,7 +58,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
         - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
  <!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) -->
- ## 2.2 Thu 22 Jan 2026
+## 2.2 Thu 22 Jan 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
@@ -172,6 +172,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 7.2 Thu 5 Mar 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: appeal of imaginary narrative worlds
 	- Read before class: (see E07 for assigned sections)
 		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. _Behavioral and Brain Sciences_, 45, e276. https://doi.org/10.1017/S0140525X21000923  [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
@@ -182,6 +183,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 8.1 Mon 9 Mar 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: enjoyment of negative emotions in art
 	- Read before class: (see E08 for assigned sections)
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
@@ -192,6 +194,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 8.2 Thu 12 Mar 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: evolution of music
 	- Read before class: (see E09 for assigned sections)
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. _Behavioral and Brain Sciences_, 44, e60. https://doi.org/10.1017/S0140525X20000345
@@ -202,6 +205,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 9.1 Mon 16 Mar 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: none
 	- Read before class:
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
@@ -220,6 +224,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 10.1 Mon 23 Mar 2026
 
+- Devices may be used in this class meeting
 - [:Week 10 peer review groups](#x-week-10-peer-review-groups)
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
@@ -227,6 +232,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 10.2 Thu 26 Mar 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: peer review
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
@@ -244,6 +250,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 ## 12.1 Mon 6 Apr 2026
 
+- Devices may be used in this class meeting
 - [:Week 12 peer review groups](#x-week-12-peer-review-groups)
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
@@ -251,6 +258,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 12.2 Thu 9 Apr 2026
 
+- Devices may be used in this class meeting
 - Last in-person class meeting
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
