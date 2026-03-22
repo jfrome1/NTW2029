@@ -220,8 +220,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 10.1 Mon 23 Mar 2026
 
-- [:Peer review groups](#x-peer-review-groups)
-- EP and art topic: peer review
+- [:Week 10 peer review groups](#x-week-10-peer-review-groups)
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P05 to be reviewed.
@@ -245,6 +244,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 ## 12.1 Mon 6 Apr 2026
 
+- [:Week 12 peer review groups](#x-week-12-peer-review-groups)
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P07 to be reviewed.
@@ -316,9 +316,37 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - [forthcoming]
 
-##### :x peer review groups
+##### :x week 10 peer review groups
 
-Groups to be assigned
+Session 1 (2pm):
+
+- Group 1: Yongchan (e1715227), Ashley (e1519486), Xin Yang (e1519500)
+- Group 2: Navya (e1715153), Tia (e1715185), Joshua (e1524046)
+- Group 3: Amin (e1528022), Disha (e1715172)
+- Group 4: Ethan (e1526083), Ian Tay (e1519376), Pulastya (e1591070)
+
+Session 2 (4pm):
+
+- Group 5: Yee Xiang (e1528172), Eugene (e1519526), Naman (e1715233)
+- Group 6: Bo-Ruei (e1525440), Bennett (e1526200), Xavier (e1525925)
+- Group 7: JY (e1519408), yk (e1525938), Rui Ting (e1519522)
+- Group 8: Khang Sian (e1519366), Jae Yan (e1519441), Zhaoyi (e1519460)
+
+##### :x week 12 peer review groups
+
+Session 1 (2pm):
+
+- Group 1: Yongchan (e1715227), Tia (e1715185), Pulastya (e1591070)
+- Group 2: Navya (e1715153), Xin Yang (e1519500), Ian Tay (e1519376)
+- Group 3: Amin (e1528022), Joshua (e1524046)
+- Group 4: Ethan (e1526083), Disha (e1715172), Ashley (e1519486)
+
+Session 2 (4pm):
+
+- Group 5: JY (e1519408), Yee Xiang (e1528172), Bo-Ruei (e1525440)
+- Group 6: Khang Sian (e1519366), Eugene (e1519526)
+- Group 7: yk (e1525938), Zhaoyi (e1519460), Xavier (e1525925)
+- Group 8: Rui Ting (e1519522), Jae Yan (e1519441), Bennett (e1526200)
 
 ##### :x ahn discussion questions
 
