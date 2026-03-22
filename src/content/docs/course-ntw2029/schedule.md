@@ -205,7 +205,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 9.1 Mon 16 Mar 2026
 
-- Devices may be used in this class meeting
 - EP and art topic: none
 	- Read before class:
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
