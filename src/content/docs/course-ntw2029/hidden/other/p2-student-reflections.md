@@ -74,7 +74,7 @@ Students had different experiences with AI tools. Notice how they reached differ
 
 ## What students discovered about scholarly disagreements
 
-"Scholarly disagreements are often extremely nuanced, and the source of the disagreement may be completely different from the explicit disagreement itself. In the case of my article, the disagreement seemed to be in the explicit arguments proposed by both authors, but the true source of their disagreement lay in their interpretations of novelty. I would not have been able to identify such nuance before this course."
+"Scholarly disagreements are often extremely nuanced, and the source of the disagreement may be completely different from the explicit disagreement itself. In the case of my article, the disagreement seemed to be in the explicit arguments proposed by both authors, but the true source of their disagreement lay in their interpretations of [a concept]. I would not have been able to identify such nuance before this course."
 
 "I was not a big reader of scholarly disagreements until the start of this course. As a result, I naturally assumed that when a scholar disagrees with another scholar, they are always disagreeing on the main argument itself. However, writing this paper made me realise a lot of the scholarly disagreements stem from an underlying disagreement of a certain key word or term, which can often even be implicit."
 
