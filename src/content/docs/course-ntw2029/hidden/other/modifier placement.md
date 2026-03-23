@@ -1,5 +1,4 @@
 ---
-
 title: modifier placement
 date: 2025-11-16
 draft: true
@@ -54,6 +53,7 @@ Real student examples:
 - _Being artificially created for the purpose of pleasure, Pinker posits that arts provides humans with more intense pleasure than available in the natural world._
 _Rather than taking pleasure in exploring unfamiliar environments, Shtulman argues that it is the familiar elements presented in novel ways that explain the appeal of imaginary worlds._
 _Despite being costly to produce and consume, Dubourg & Baumard (D&B) want to understand why humans are so attracted to these imaginary worlds._
+_To understand why humans enjoy art, Pinker first suggests that natural selection shaped the human mind to find certain environmental cues rewarding because they were historically associated with biological fitness._
 
 Parallel structure: https://www.iup.edu/writingcenter/writing-resources/grammar/parallel-structure.html
 
