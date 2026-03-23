@@ -19,7 +19,7 @@ Copy and paste the questions below into a document and type your answer below ea
 
 ### Part 1: Select Your Commentary
 
-Choose one commentary from the recommended list below (or propose an alternative). Read the full commentary, not just the abstract.
+Choose one commentary from the recommended list below (or propose an alternativeFF). Read the full commentary, not just the abstract.
 
 ### Part 2: Answer These Questions
 
@@ -145,13 +145,13 @@ Goldstein, T. R. (2017). Live theatre as exception and test case for experiencin
 
 > *Abstract:* Distancing and then embracing constitutes a useful way of thinking about the paradox of aesthetic pleasure. However, the model does not account for live theatre. When live actors perform behaviors perceptually close to real life and possibly really experienced by the actors, audiences may experience autonomic reactions, with less distance, or may have to distance post-experiencing/embracing their emotions.
 
----
+<!-- ---
 
 Konečni, V. J. (2017). "Negative emotions" live in stories, not in the hearts of readers who enjoy them. *Behavioral and Brain Sciences*, *40*, e367. https://doi.org/10.1017/S0140525X17001753
 
 > *Abstract:* The commendably ambitious project by Menninghaus et al. fails because its main connective tissue - "negative emotions" - is beyond the grasp of the authors' largely literary approach. The critique focuses on their treatment of the Paradox of Fiction, the neglect of the biological, adaptive nature of emotions, and the absence of convincing empirical support for key aspects of the proposed model.
 
----
+ -->---
 
 Nadal, M., Vartanian, O., & Skov, M. (2017). Psychological models of art reception must be empirically grounded. *Behavioral and Brain Sciences*, *40*, e371. https://doi.org/10.1017/S0140525X17001790
 
