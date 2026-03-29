@@ -9,11 +9,11 @@ This assignment develops your ability to verify whether a commentary accurately 
 
 ## Overview
 
-Restate the disagreement between target and commentary, then verify whether the commentary accurately represents the target's position. Finally, articulate why these positions are incompatible (approximately 700-1000 words total). This is detailed verification work—you're checking accuracy, not yet developing your thesis about what underlies the disagreement.
+Restate the disagreement between target and commentary, then verify whether the commentary accurately represents the target's position. Finally, articulate why these positions are incompatible. This is detailed verification work—you're checking accuracy, not yet developing your thesis about what underlies the disagreement.
 
 ## Requirements
 
-Complete all five parts below. Use your P05 work as raw material.
+Complete all five parts below. Use your P05 work as raw material. Include the section headers (e.g., "A1. What does the commentary criticize?") in your submission. You don't need to copy the descriptions under each header, just the headers themselves above your responses.
 
 ### Part A: Restate the Disagreement
 
