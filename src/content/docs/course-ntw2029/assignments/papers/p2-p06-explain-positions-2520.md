@@ -101,9 +101,9 @@ Explain which response fits and why. Use quotations from both articles to show w
 
 **C3. Author's response analysis**
 
-If the target authors responded to this criticism (from Part A2), analyze whether their response supports or complicates your verification finding.
+If the target authors responded to this criticism (from Part A2), analyze whether their response supports or complicates your room test result.
 
-If they didn't respond, explain whether your hypothetical response (from A2) aligns with what your verification suggests.
+If they didn't respond, explain whether your hypothetical response (from A2) aligns with what your room test suggests.
 
 **C4. Verification finding**
 
