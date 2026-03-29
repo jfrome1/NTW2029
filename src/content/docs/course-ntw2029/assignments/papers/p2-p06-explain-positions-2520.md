@@ -80,7 +80,7 @@ Side by side, provide:
 - Quote what the TARGET actually says (with page number)
 - Quote how the COMMENTARY characterizes the target's position (with page number)
 
-**C2. Room test**
+**C2. Room test, part 1**
 
 Imagine the target authors and commentary authors in a room together with a whiteboard. The commentary says "You claim X."
 
