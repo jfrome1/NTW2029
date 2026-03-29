@@ -56,3 +56,8 @@ You're more likely to stay within assigned word limits
 You demonstrate mastery of academic communication standards
 
 Enhanced Revision Skills: Learning to write concisely develops editing skills that transfer to all forms of communication, teaching you to recognize patterns of wordiness and make deliberate language choices.
+
+
+student e.g.s
+
+- "While the trait that produces pleasure when we sense stimulation in fitness-promoting environments served to benefit humans in terms of their survival..." -> "While our enjoyment of certain environments helped us survive in the EEA..."
