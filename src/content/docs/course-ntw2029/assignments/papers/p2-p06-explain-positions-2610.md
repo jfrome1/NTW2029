@@ -79,6 +79,32 @@ Side by side, provide:
 
 **C2. Room test**
 
+<!-- REVISION NEEDED (2026-03-29): The "room test" label is misapplied here. What's
+currently called the room test is actually a characterization check (does the commentary
+accurately represent the target?). The real room test is a two-part process:
+
+Part 1 (what this section currently does): Get everyone to agree on what each person
+actually claims. Resolve mischaracterization, over-reading, terminological confusion.
+
+Part 2 (MISSING): Once everyone agrees on what was said, do they still disagree about
+the substance? If the target changed the specific thing the commentary objects to, would
+the commentary be satisfied, or would they still have a problem?
+
+Part 2 is the key analytical move that bridges verification and thesis development. In
+2510, the instructor had to teach this in every conference because it wasn't scaffolded.
+
+To fix: Rename this section to "Characterization Check" or similar. Add the real room
+test as a new section between current Part C and Part D. The core question: "Now that
+you've established what each side actually claims, imagine them back in the room. They
+agree on what was said. Does the commentary still have a problem with the target's
+argument? If so, what is the real disagreement about?" This may also allow simplifying
+Part D, which currently branches by verification category to partially capture the
+real room test question. If the real room test is explicit, Part D can be simpler.
+
+See 2510 conference analysis at recordings/2510 P06 conference/conferences-analysis/
+(recurring-challenges.md, teaching-strategies.md) for evidence of how this move worked
+in practice. -->
+
 Imagine the target authors and commentary authors in a room together with a whiteboard. The commentary says "You claim X."
 
 Would the target respond:
