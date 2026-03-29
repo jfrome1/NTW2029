@@ -18,4 +18,13 @@ Choose your signal verbs carefully. To say that a source "assumes" something sug
 
 - pay very close attention to the signal verbs used when summarizing others
 -  when summarizing others, avoid signal verbs  that you would avoid using in your thesis because they encourage you to describe your actions rather than actually make a claim.  Examples include:  explores, discusses, considers, analyzes,  draws connections between
--  
+-
+
+> They present musicality as a set of capacities that were selected for, at least in part,
+because they helped humans form and maintain social connections.
+-  I don't know whether "present" means that they imply something, or explicitly state it, or rely on it as an assumption, etc.
+
+> Harrison and Seale argue that music is a complex phenomenon because it involves many
+different behaviors, such as singing, rhythm, coordination, and social performance, which occur
+in a wide range of contexts.
+- This phrase implies that the commentary is focused on this argument, but surely the target article doesn't disagree that music is a complex phenomenon, correct? Maybe say "state" here for something that the target would agree with, and "argue" for things that the target would disagree with.
