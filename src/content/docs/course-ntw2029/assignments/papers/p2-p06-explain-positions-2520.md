@@ -33,7 +33,7 @@ If the target authors address this criticism in their response:
 If the target authors do not address this criticism:
 
 - State that they don't address it
-- Write 2-3 sentences describing how you think the target authors *might* respond, based on their article. What would they likely say if asked about this criticism?
+- Write 2-3 sentences describing how you think the target authors _might_ respond, based on their article. What would they likely say if asked about this criticism?
 
 ---
 
@@ -106,6 +106,8 @@ If the target authors responded to this criticism (from Part A2), analyze whethe
 If they didn't respond, explain whether your hypothetical response (from A2) aligns with what your verification suggests.
 
 **C4. Verification finding**
+
+Based on your room test (C2) and author's response analysis (C3), state your overall finding: does the commentary accurately represent the target's position, or does it distort it in some way?
 
 Your verification might reveal:
 
