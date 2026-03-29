@@ -43,7 +43,7 @@ Examine the target's claims about the topic the commentary criticizes.
 
 **B1. What qualifiers does the target use?**
 
-Quote 2-3 passages where the target discusses the criticized topic. For each passage, identify any qualifying language:
+Quote 2-3 passages where the target discusses the criticized topic. For each passage, identify any qualifying language. Examples include:
 
 - Modal verbs: must, can, may, might, could, should
 - Frequency terms: always, usually, typically, sometimes, rarely, never
@@ -77,8 +77,8 @@ Use the room test to verify whether the target and commentary genuinely disagree
 
 Side by side, provide:
 
-- What the TARGET actually says (quote with page number)
-- How the COMMENTARY characterizes the target's position (quote with page number)
+- Quote what the TARGET actually says (with page number)
+- Quote how the COMMENTARY characterizes the target's position (with page number)
 
 **C2. Room test**
 
@@ -136,7 +136,7 @@ Given your verification findings, explain why these positions cannot both be tru
 
 Explain the logical conflict. Why can't both positions be correct? What would have to be true for one position that would make the other false?
 
-**If you found over-reading or mischaracterization:**
+**If you found over-reading:**
 
 First, explain what the apparent disagreement was (based on commentary's characterization).
 
@@ -144,26 +144,39 @@ Then explain what the actual relationship between positions is:
 
 - Is there still a genuine disagreement, just about something different than it first appeared?
 - Are the positions actually compatible once qualifiers are restored?
-- Is the commentary criticizing something the target doesn't actually claim?
 
-Even if the commentary over-reads, there may still be a real disagreement underneath—just not exactly where the commentary locates it.
+Even if the commentary over-reads, there may still be a genuine disagreement underneath—just not exactly where the commentary locates it.
+
+**If you found mischaracterization:**
+
+First, explain what the commentary attributes to the target and why the target doesn't actually claim it.
+
+Then explain what the actual relationship between positions is:
+
+- Is the commentary criticizing something the target doesn't actually claim?
+- Is there still a genuine disagreement, just about something different than it first appeared?
+
+Even if the commentary mischaracterizes the target, there may still be a genuine disagreement underneath, even if it is not exactly where the commentary locates it.
+
+**If you found target ambiguity:**
+
+Explain what the disagreement looks like under each possible reading of the target's claim. Is there a genuine incompatibility under one reading but not another? Which reading does the evidence better support?
+
+**If you found terminological confusion:**
+
+Explain how the different definitions produce an apparent disagreement. Once terms are clarified, do the positions actually conflict, or are the authors talking past each other?
 
 ---
 
 ### Part E: Criticism Significance
 
-Explain what's at stake for the target's argument.
+Based on your findings in Parts C and D, explain how the criticism (or the genuine disagreement you identified) would affect the target's argument if it holds up. This assessment helps you determine whether your chosen criticism has enough substance to sustain your Paper 2 analysis.
 
-**If the commentary's criticism is correct, what would that mean for the target's argument?**
+If you found a match, consider: if the commentary's criticism is correct, does that mean the target's claims are too broad, their explanation is incomplete, or their main contribution is undermined? Or could the target concede the point without significantly affecting their overall theory?
 
-Consider:
+If you found over-reading, mischaracterization, or another complication, consider: based on the actual relationship between positions you described in Part D, does the disagreement (if any) still pose a significant challenge to the target's argument? Or does the criticism lose its force once the misreading is corrected?
 
-- Would the target need to narrow their claims?
-- Would their explanation be incomplete or inadequate?
-- Would their main contribution be undermined?
-- Would they need to revise their theory, or just clarify it?
-
-This is not about who's right—it's about understanding why this criticism matters. If the criticism wouldn't significantly affect the target's argument even if correct, that's worth noting (and may suggest you should focus on a different criticism).
+If the criticism (or the genuine disagreement underneath it) wouldn't significantly affect the target's argument, that's worth noting. It may suggest you should focus on a different criticism before investing in P07.
 
 ---
 
