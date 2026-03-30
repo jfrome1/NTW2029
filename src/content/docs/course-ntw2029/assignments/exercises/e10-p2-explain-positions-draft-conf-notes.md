@@ -29,7 +29,7 @@ It's normal to leave the conference without a thesis. If you don't yet know what
 
 ### Getting help
 
-- This assignment isn't the place to ask me questions; if you want me to answer, email or message me separately
+- This assignment isn't the place to ask me questions; please email or message me separately
 - After this conference, I encourage questions about your analysis and research process. See [what kinds of questions I can answer](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question) and [why I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-my-revisions-for-more-feedback).
 
 ## Feedback
