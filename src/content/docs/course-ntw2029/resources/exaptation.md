@@ -1,10 +1,6 @@
 ---
-title: Exaptation
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+title: Exaptation, adaptation, and byproduct
+date: 2026-03-30
 ---
 
 Some of the Paper 2 commentaries discuss a concept called "exaptation." If your commentary mentions exaptation, this page will help you understand what the term means and how it relates to concepts we've discussed in class. You don't need to cite this page in your paper -- treat it like lecture notes.
@@ -28,11 +24,15 @@ This distinction matters because when an author in your commentary claims that a
 
 ## Where do byproducts fit in?
 
-We've discussed in class that some traits are byproducts -- side effects of other adaptations that don't themselves serve a function. The belly button is a byproduct of the umbilical cord; it doesn't do anything useful on its own.
+We've discussed in class that some traits are byproducts, which we defined as traits that occur due to adaptations but that don't themselves serve a function. The belly button is a byproduct of the umbilical cord; it doesn't do anything useful on its own.
 
-In the original Gould and Vrba framework, exaptation is a third category distinct from both adaptation and byproduct: unlike a byproduct, an exaptation currently serves a useful function, but unlike a direct adaptation, the trait wasn't originally selected for that function.
+In the original Gould and Vrba framework, exaptation is a third category distinct from both adaptation and byproduct: unlike a byproduct, an exaptation currently serves a useful function, but unlike an adaptation, the trait wasn't originally selected for that function.
 
-However, not all researchers treat exaptation as a separate category. David Buss, a central figure in evolutionary psychology, and his colleagues have argued that exaptations are better understood as a type of byproduct (Buss et al., 1998). In their framework, "byproduct" includes any feature that wasn't directly shaped by selection for its current role -- even if the feature happens to be useful now. Under this view, a trait is a byproduct until natural selection acts on it specifically for the new function, at which point the new modifications are adaptations. In your P2 reading, you may see this approach in the Mehr et al. authors' response, where they write: "An exaptation refers to a feature designed for one adaptive problem but that subsequently came to be used in some other way. We consider such features to be byproducts."
+However, some researchers define "byproduct" more broadly than we did in class. David Buss, a central figure in evolutionary psychology, has argued that exaptations are better understood as a type of byproduct. In his framework, "byproduct" includes any feature that wasn't directly shaped by selection for its current role -- even if the feature happens to be useful now. Under this broader definition, exaptation isn't a separate category, it's just a byproduct that happens to be doing something fitness-enhancing, perhaps due to a change in environment.
+
+The key difference from the class definition is where Buss draws the line between byproduct and adaptation. For him, a trait remains a byproduct until natural selection begins favoring it specifically for the new function. Once individuals with variations that better serve the new function start surviving and reproducing more successfully (i.e., once selection is actively shaping the trait for its new role), the new modifications count as adaptations. So feathers that evolved for warmth but happen to be useful for flight start as byproducts in Buss's framework. Feathers only become adaptations for flight once natural selection starts shaping them specifically for flying.
+
+In your paper 2 reading, you may see this broader understanding of byproduct. For example, in the Mehr et al. authors' response, they write: "An exaptation refers to a feature designed for one adaptive problem but that subsequently came to be used in some other way. We consider such features to be byproducts." ("Designed for" here means "shaped by natural selection for," not designed by anyone intentionally.)
 
 You don't need to resolve this debate in your paper. Just be aware that different authors may use the term differently, and pay attention to what specific claim each author is making about the trait's evolutionary history.
 
