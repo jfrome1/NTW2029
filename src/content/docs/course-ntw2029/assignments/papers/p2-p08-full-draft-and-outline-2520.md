@@ -176,6 +176,8 @@ Most essays have 10-15 body paragraphs. If you have more or fewer, check that yo
 
 Here is an [example outline](/downloads/p08-outline-example.pdf) from a past student's Paper 2, so you can see what the format looks like. (It's from a different paper assignment, so don't try to match the outline content.)
 
+If your first sentence doesn't capture the main idea of the paragraph, that's useful information -- it means your topic sentence probably needs revision. For the outline, reword the sentence so it captures what the paragraph is actually about. The outline should represent the point of each paragraph, not just announce what it will discuss.
+
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 
 As you write the draft, regularly read through the outline to check that your argument flows logically and that each paragraph advances your thesis. If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph) the outline will fairly represent your essay's argument.
