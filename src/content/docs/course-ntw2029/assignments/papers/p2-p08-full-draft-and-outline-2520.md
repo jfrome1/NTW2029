@@ -170,7 +170,7 @@ Keep focus on analyzing the disagreement between target and commentary, using ad
 
 ##### :x how to create and use your outline
 
-Create your outline by extracting your thesis and all topic sentences from your draft in order. Use a flat numbered list—no section headers, no sub-numbering. Start with your thesis statement, then list your body paragraph topic sentences in order of appearance. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
+Create your outline by extracting your thesis, topic sentences, and a significance statement from your draft. Start with your thesis statement (not numbered). Then list your body paragraph topic sentences in a flat numbered list in order of appearance -- no section headers, no sub-numbering. At the end, add a significance statement: 1-2 sentences from your conclusion that capture why your argument matters beyond the specific disagreement you analyzed. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
