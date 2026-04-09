@@ -174,7 +174,7 @@ Create your outline by extracting your thesis and all topic sentences from your 
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
-<!-- TODO: Add download link to correctly formatted example outline -->
+Here is an [example outline](/downloads/p08-outline-example.pdf) from a past student's Paper 2, so you can see what the format looks like. (It's from a different paper assignment, so don't try to match the outline content.)
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 
