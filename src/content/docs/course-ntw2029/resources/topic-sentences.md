@@ -1,11 +1,6 @@
 ---
 title: Topic Sentences
-pagefind: false
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+date: 2026-04-09
 ---
 
 ## Summary
@@ -26,7 +21,7 @@ Topic sentences are often combined with transitions. They might begin with a tra
 
 > _Although Vermeer's painting depicts an unknown middle class woman at an ordinary task, the image achieves more than just realism because the painter depicts the subject as strong and regal._
 
-Here, the beginning of the sentence summarizes the previous paragraph and the rest connects the previous idea to the main idea of the current paragraph. The subordinate clause (from "although" to "task") recaps information from the previous paragraph. The independent clauses (starting with "the image" and "the painter") introduce the new information: a claim about how the image works ("more than just realism") and why it works as it does (Vermeer "depicts the subject as strong and regal").
+Here, the beginning of the sentence summarizes the previous paragraph and the rest connects the previous idea to the main idea of the current paragraph. The subordinate clause (from "although" to "task") recaps information from the previous paragraph: the painting shows an ordinary, realistic scene. The independent clauses (starting with "the image" and "the painter") introduce the new information: a claim about how the image works ("more than just realism") and why it works as it does (Vermeer "depicts the subject as strong and regal").
 
 ## Common problems
 
@@ -38,7 +33,7 @@ A common problem is writing a topic sentence that announces what the paragraph w
 
 This sentence tells the reader "I'm going to explore something" but doesn't state the paragraph's actual argument. A better topic sentence would state the point directly:
 
-> _While Carroll deemphasizes culture's role in making fiction meaningful, cultural knowledge is necessary for understanding fiction because without it, readers can misinterpret characters' actions and motivations._
+> _Although Carroll deemphasizes culture's role in making fiction meaningful, cultural knowledge is actually necessary for understanding fiction, because without it, readers can misinterpret characters' actions and motivations._
 
 Here is another example:
 
@@ -56,7 +51,7 @@ Sometimes the first sentence makes a claim that is true, and is relevant to the 
 
 The paragraph would be easier to follow if it began with a topic sentence stating the main point:
 
-_Dunbar's stance that language evolved for 'social purposes' (133) is plausible because language allows for more efficient cooperation and mate selection, both of which increase fitness._
+> _Dunbar's stance that language evolved for 'social purposes' (133) is plausible because language allows for more efficient cooperation and mate selection, both of which increase fitness._
 
 ## Further reading
 
