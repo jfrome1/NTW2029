@@ -58,11 +58,9 @@ For this e.g. file structure:
 └── images/
 └── headshot.jpg
 
-## These will work for all pages as absolute links
-
+## These will work for all pages as absolute links 
 **(note: shown here as display examples, not functional links)"
 **
-
 - page link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy)
 - heading link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy/#nus-general-genai-policy)
 - image link (from public folder): ![Another File](/images/add-another-file.png)
@@ -84,8 +82,7 @@ Hello
 [Download File](/downloads/formattedpaper.docx)
 
 ## Using the Mermaid Component
-
-How to use the `Mermaid` component within an Astro project to render Mermaid diagrams. This can only be used in _mdx_ files
+How to use the `Mermaid` component within an Astro project to render Mermaid diagrams. This can only be used in *mdx* files
 
 **Importing the Component:**
 
@@ -93,7 +90,6 @@ To use the `Mermaid` component, you must first import it into your MDX page. Bel
 
 ````mdx
 ---
-
 import Mermaid from "../../components/Mermaid.astro";
 
 <Mermaid title="Does it work?">
@@ -218,5 +214,3 @@ This document outlines how to use the `checkNutshellLinks.js` script for verifyi
     - Locate the three vertical dots (ellipsis) menu, often found near the table's name or a download option.
     - Click the three dots and select the "Download all as CSV" option.
     - Your browser will download the chat logs as a CSV file to your computer.
-
-Test
