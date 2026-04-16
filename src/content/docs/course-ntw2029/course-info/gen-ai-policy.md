@@ -59,7 +59,7 @@ Below are instructions for sharing ChatGPT links; others are similar. Check that
 
 - Uploading or downloading files to/from GenAI tools
 - Using GenAI integrated into other apps, such as Microsoft Office, Google Docs, or custom IDEs
-- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function, NotebookLM)
+- Creating, editing, and chatting about docs within the AI interface (e.g. the ChatGPT `/canvas` function, NotebookLM, "Deep Research" reports or similar)
 - GenAI models that are not confirmed to create special links that allow me to download conversations (ChatGPT, Copilot, and Gemini are approved; Claude and DeepSeek are not approved)
 
 ### New Chat Guidelines
