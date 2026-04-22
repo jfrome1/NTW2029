@@ -170,11 +170,13 @@ Keep focus on analyzing the disagreement between target and commentary, using ad
 
 ##### :x how to create and use your outline
 
-Create your outline by extracting your thesis and all topic sentences from your draft in order. Use a flat numbered list—no section headers, no sub-numbering. Start with your thesis statement, then list your body paragraph topic sentences in order of appearance. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
+Create your outline by extracting your thesis, topic sentences, and a significance statement from your draft. Start with your thesis statement (not numbered). Then list your body paragraph topic sentences in a flat numbered list in order of appearance -- no section headers, no sub-numbering. At the end, add a significance statement: 1-2 sentences from your conclusion that capture why your argument matters beyond the specific disagreement you analyzed. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
-<!-- TODO: Add download link to correctly formatted example outline -->
+Here is an [example outline](/downloads/p08-outline-example.pdf) from a past student's Paper 2, so you can see what the format looks like. (It's from a different paper assignment, so don't try to match the outline content.)
+
+If your first sentence doesn't capture the main idea of the paragraph, that's useful information -- it means your topic sentence probably needs revision. For the outline, reword the sentence so it captures what the paragraph is actually about. The outline should represent the point of each paragraph, not just announce what it will discuss.
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 

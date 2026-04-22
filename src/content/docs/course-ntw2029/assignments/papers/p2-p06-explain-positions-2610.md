@@ -1,6 +1,11 @@
 ---
 title: P06 - Verify Positions
 date: 2026-01-17
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
@@ -9,11 +14,11 @@ This assignment develops your ability to verify whether a commentary accurately 
 
 ## Overview
 
-Restate the disagreement between target and commentary, then verify whether the commentary accurately represents the target's position. Finally, articulate why these positions are incompatible. This is detailed verification work—you're checking accuracy, not yet developing your thesis about what underlies the disagreement.
+Restate the disagreement between target and commentary, then verify whether the commentary accurately represents the target's position. Finally, articulate why these positions are incompatible (approximately 700-1000 words total). This is detailed verification work—you're checking accuracy, not yet developing your thesis about what underlies the disagreement.
 
 ## Requirements
 
-Complete all five parts below. Use your P05 work as raw material. Include the section headers (e.g., "A1. What does the commentary criticize?") in your submission. You don't need to copy the descriptions under each header, just the headers themselves above your responses.
+Complete all five parts below. Use your P05 work as raw material.
 
 ### Part A: Restate the Disagreement
 
@@ -37,9 +42,9 @@ If the target authors do not address this criticism:
 
 ---
 
-### Part B: Qualifier and Scope Analysis
+### Part B: Understand the Target's Claims
 
-Examine the target's claims about the topic the commentary criticizes.
+Before comparing what the commentary says to what the target says, first establish what the target actually claims about the topic the commentary criticizes.
 
 **B1. What qualifiers does the target use?**
 
@@ -59,19 +64,11 @@ Based on your analysis, describe the scope of the target's claim:
 - Does the target identify exceptions or boundary conditions?
 - How broad or narrow is what the target claims to explain?
 
-**B3. Does the commentary preserve these qualifiers and scope?**
-
-Compare the target's actual language (from B1) to how the commentary characterizes the target's position (from your P05 Q2).
-
-- Does the commentary preserve the target's qualifiers?
-- Does the commentary accurately represent the target's scope?
-- Does the commentary strengthen, weaken, or change the target's claim?
-
 ---
 
 ### Part C: Verification (Room Test)
 
-Use the room test to verify whether the target and commentary genuinely disagree about what the target claims.
+Now compare the commentary's characterization of the target to what the target actually says, using the qualifiers and scope you identified in Part B.
 
 **C1. Quote comparison**
 
@@ -80,7 +77,33 @@ Side by side, provide:
 - Quote what the TARGET actually says (with page number)
 - Quote how the COMMENTARY characterizes the target's position (with page number)
 
-**C2. Room test, part 1**
+**C2. Room test**
+
+<!-- REVISION NEEDED (2026-03-29): The "room test" label is misapplied here. What's
+currently called the room test is actually a characterization check (does the commentary
+accurately represent the target?). The real room test is a two-part process:
+
+Part 1 (what this section currently does): Get everyone to agree on what each person
+actually claims. Resolve mischaracterization, over-reading, terminological confusion.
+
+Part 2 (MISSING): Once everyone agrees on what was said, do they still disagree about
+the substance? If the target changed the specific thing the commentary objects to, would
+the commentary be satisfied, or would they still have a problem?
+
+Part 2 is the key analytical move that bridges verification and thesis development. In
+2510, the instructor had to teach this in every conference because it wasn't scaffolded.
+
+To fix: Rename this section to "Characterization Check" or similar. Add the real room
+test as a new section between current Part C and Part D. The core question: "Now that
+you've established what each side actually claims, imagine them back in the room. They
+agree on what was said. Does the commentary still have a problem with the target's
+argument? If so, what is the real disagreement about?" This may also allow simplifying
+Part D, which currently branches by verification category to partially capture the
+real room test question. If the real room test is explicit, Part D can be simpler.
+
+See 2510 conference analysis at recordings/2510 P06 conference/conferences-analysis/
+(recurring-challenges.md, teaching-strategies.md) for evidence of how this move worked
+in practice. -->
 
 Imagine the target authors and commentary authors in a room together with a whiteboard. The commentary says "You claim X."
 
@@ -90,12 +113,12 @@ Would the target respond:
 - "No, we actually claim Y" (mischaracterization)
 - "Well, sort of—we don't say 'always X', we say 'X tends to be true, but in certain contexts'" (over-reading)
 
-Check the commentary's characterization against the target's actual claims:
+Using the qualifiers and scope from Part B, check the commentary's characterization against the target's actual claims:
 
-- Does the commentary accurately represent what the target says?
-- Does it preserve the target's qualifiers (must/should/can/usually/always)?
-- Does it strengthen claims beyond what the target stated?
-- Does it attribute claims the target doesn't make?
+- Does the commentary preserve the target's qualifiers?
+- Does the commentary accurately represent the target's scope?
+- Does the commentary strengthen, weaken, or change the target's claim?
+- Does the commentary attribute claims the target doesn't make?
 
 Explain which response fits and why. Use quotations from both articles to show why you think the commentary's description of the target claim is accurate or inaccurate.
 
@@ -199,7 +222,7 @@ P05 asked: What does each article say?
 
 P06 asks: Does the commentary accurately represent what the target says?
 
-This is a different question. You're not just understanding each position—you're comparing characterizations to originals and checking for accuracy.
+This is a different question. You're not just understanding each position—you're comparing characterizations to originals and checking for accuracy. Part B asks you to understand the target's claims on their own terms first. Part C then compares those claims to how the commentary describes them.
 
 ### Common Verification Findings
 

@@ -238,7 +238,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 ## 10.2 Thu 26 Mar 2026
 
 - Devices may be used in this class meeting
-- EP and art topic: peer review
+- Continue peer review from 10.1 with same groups
 - Writing topic: peer review
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P05 to be reviewed.
