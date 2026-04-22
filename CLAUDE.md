@@ -1,5 +1,6 @@
 ---
-lastUpdated: 2026-03-06
+lastUpdated: 2026-04-22
+lastEvaluated: 2026-04-22
 ---
 
 # CLAUDE.md
@@ -72,18 +73,6 @@ Content lives in `src/content/docs/course-ntw2029/`:
 - `assignments/papers/`: Paper assignments
 - `resources/`: Course resources
 
-### Schedule Page Formatting
-
-In `schedule.md`, every line starting with `###### Due` must be followed by a line containing just `>` for proper spacing on the rendered page.
-
-## Example EP Topics
-
-When creating assignment instructions or lecture examples that reference evolutionary psychology arguments about art/media, avoid topics covered in assigned P1 and P2 readings. A table of safe example topics from past student papers is maintained at:
-
-`{AI_PROJECTS}/ntw2029 course design/tasks/archive/scan-past-ntw2029-papers/findings.md`
-
-This table includes topic, source paper with DOI, and student thesis for 17 past P2 papers that don't overlap with current assignments.
-
 ## Topic-Triggered References
 
 Before responding, check if the prompt involves these topics. If so, load the corresponding reference file.
@@ -95,6 +84,7 @@ Before responding, check if the prompt involves these topics. If so, load the co
 | writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md`                      |
 | assignment structure, assignment template, creating assignment          | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md`                         |
 | page criteria, page evaluation, requirements page, resource page        | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md`                        |
+| EP paper examples, assignment topic examples, P2 examples, lecture examples | `{AI_PROJECTS}/ntw2029 course design/references/p2-example-topics-2420.md`                 |
 
 ## Link Formats
 

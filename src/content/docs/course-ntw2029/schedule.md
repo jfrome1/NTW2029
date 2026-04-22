@@ -7,6 +7,12 @@ date: 2026-01-12
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
 
+<!--
+Claude: when editing this file, every line starting with `###### Due` must be followed by a line containing just `>` for proper spacing on the rendered page.
+
+This file is generated from a Freeplane mind map via export_syllabus.groovy, but regeneration is currently manual and infrequent.
+-->
+
 ## 1.1 Mon 12 Jan 2026
 
 - EP and art topic: origins of evolutionary thought
