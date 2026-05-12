@@ -85,3 +85,12 @@ Poor use of quotes:
 	- don't need to quote this, the word choice isn't important here
 - "Pinker reinforces this idea as he states “The mind is a neural computer, fitted by the natural selection algorithms for casual and probabilistic reasoning about plants, animals, objects and people ... That tool box[of the mind], however, can be used to assemble Sunday afternoon projects of dubious adaptive value”. While Pinker acknowledges that the mind that controls our thoughts and behaviours is designed to fit and survive in the surrounding environment(i.e. adaptation), he argues that humans with such minds can also engage in “idle” activities that do not contribute to a fitter version of himself."
     - quote too long, not needed
+
+
+Scare quotes
+
+Don't use scare quotes, as they are confusing in academic papers where quotes mean "a source said this verbatim". E.g.:
+
+_Fritz's criticism builds on the "toolkit" model of musicality, where multiple interacting mechanisms can produce the same social bonding outcome through different causal pathways. Fritz reflects this concern by questioning how one might "disentangle social bonding arising from music, or dancing, or simply being physically active in a congenial social setting" (54), illustrating the difficulty of isolating the specific contribution of each component of musicality._
+
+The problem here is that the concept of a toolkit model does not actually make sense in this context, but I don't know if the error is the students or Fritz's because I don't know whether "toolkit" is a verbatim quote (with the page number citation missing) or if it's a student's own analogy using scare quotes.
