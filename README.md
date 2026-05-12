@@ -1,4 +1,8 @@
-## 🚀 Project Structure
+# NTW2029 Course Website
+
+Built with Astro and Starlight, deployed on Vercel with Neon Postgres for analytics. This project uses **pnpm** as its package manager.
+
+## Project Structure
 
 Inside of this Astro + Starlight project, you'll see the following folders and files:
 
@@ -22,30 +26,30 @@ Images can be added to `src/assets/` and embedded in Markdown with a relative li
 
 Static assets, like favicons, can be placed in the `public/` directory.
 
-## 🧞 Commands
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `pnpm install`            | Installs dependencies                            |
+| `pnpm dev`                | Starts local dev server at `localhost:4321`      |
+| `pnpm build`              | Build your production site to `./dist/`          |
+| `pnpm preview`            | Preview your build locally, before deploying     |
+| `pnpm astro ...`          | Run CLI commands like `astro add`, `astro check` |
+| `pnpm astro -- --help`    | Get help using the Astro CLI                     |
 
 ## Styles
 
 The styles are in the `src/styles/custom` directory and are overwritten. The Nutshell styles can also be overwritten in this directory.
 
-## Internal Markdown Links for Astro/Starlight:
+## Internal Markdown Links for Astro/Starlight
 
 For this e.g. file structure:
 .
 ├── src/
-│ └── content/
-│ └── docs/
+│   └── content/
+│   └── docs/
 │ ├── course-info/
 │ │ └── titles.md
 │ ├── writing/
@@ -58,9 +62,8 @@ For this e.g. file structure:
 └── images/
 └── headshot.jpg
 
-## These will work for all pages as absolute links 
-**(note: shown here as display examples, not functional links)"
-**
+These will work for all pages as absolute links
+**(note: shown here as display examples, not functional links)**
 - page link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy)
 - heading link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy/#nus-general-genai-policy)
 - image link (from public folder): ![Another File](/images/add-another-file.png)
@@ -81,7 +84,8 @@ Hello
 Hello
 [Download File](/downloads/formattedpaper.docx)
 
-## Using the Mermaid Component
+## Mermaid Diagrams
+
 How to use the `Mermaid` component within an Astro project to render Mermaid diagrams. This can only be used in *mdx* files
 
 **Importing the Component:**
@@ -98,20 +102,20 @@ import Mermaid from "../../components/Mermaid.astro";
 
 flowchart LR
 
-    Start --> Stop
+    Start --> Stop
 
 ```
 
 </Mermaid>
 ````
 
-## To Test the links;
+## Testing Links Locally
 
 `npm run build` to build the site into the `dist` folder
 `npm run preview` to preview the site locally
 Be aware that live changes wont effect the site running on preview until you rebuild again.
 
-## How to Use the Nutshell Check Script
+## Nutshell Link Checker
 
 This document outlines how to use the `checkNutshellLinks.js` script for verifying internal links within your documentation.
 
@@ -176,41 +180,6 @@ This document outlines how to use the `checkNutshellLinks.js` script for verifyi
       - Press `Ctrl+Shift+B` (or `Cmd+Shift+B` on macOS) to run the default build task.
       - The `checkNutshellLinks.js` script will execute, and any errors or warnings will be displayed in the terminal.
 
-## Downloading Course Analytics Events from Vercel/Neon
+## Analytics
 
-1.  **Login to Vercel:**
-
-    - Open your web browser and navigate to the Vercel website (vercel.com).
-    - Log in using your Vercel account credentials.
-
-2.  **Navigate to your Project:**
-
-    - Locate and select the "JF GenAI Project Pro" from your list of projects.
-
-3.  **Access Storage:**
-
-    - In the project dashboard, find and click on the "Storage" tab.
-
-4.  **Open Neon Database:**
-
-    - Locate the "analytics" storage entry.
-    - Click the "Open in Neon" button to access your Neon Postgres database.
-
-5.  **Access Tables:**
-
-    - Once inside the Neon console, locate and click the "Tables" section.
-
-6.  **Clear Filters:**
-
-    - Make sure to clear any existing filters that might be applied to the table. This is to guarantee that you download all available records.
-
-7.  **Adjust Limit:**
-
-    - In the top-right corner of the table view, you'll find a "Limit" setting.
-    - By default, it might display a smaller number (e.g., 50).
-    - Change the limit to "500" (the maximum allowed) to ensure you retrieve the most records.
-
-8.  **Download as CSV:**
-    - Locate the three vertical dots (ellipsis) menu, often found near the table's name or a download option.
-    - Click the three dots and select the "Download all as CSV" option.
-    - Your browser will download the chat logs as a CSV file to your computer.
+See [README-ANALYTICS.md](./README-ANALYTICS.md) for full analytics documentation including event tracking, data pipeline, and access instructions.

@@ -70,7 +70,9 @@ export default defineConfig({
         {
           label: "Course information",
           collapsed: true,
-          autogenerate: { directory: "course-ntw2029/course-info" },
+          items: [
+            { autogenerate: { directory: "course-ntw2029/course-info" } },
+          ],
         },
         {
           label: "Assignments",
@@ -79,21 +81,29 @@ export default defineConfig({
             {
               label: "Exercises",
               collapsed: true,
-              autogenerate: {
-                directory: "course-ntw2029/assignments/exercises",
-              },
+              items: [
+                {
+                  autogenerate: {
+                    directory: "course-ntw2029/assignments/exercises",
+                  },
+                },
+              ],
             },
             {
               label: "Papers",
               collapsed: true,
-              autogenerate: { directory: "course-ntw2029/assignments/papers" },
+              items: [
+                { autogenerate: { directory: "course-ntw2029/assignments/papers" } },
+              ],
             },
           ],
         },
-{
+        {
           label: "Resources",
           collapsed: true,
-          autogenerate: { directory: "course-ntw2029/resources" },
+          items: [
+            { autogenerate: { directory: "course-ntw2029/resources" } },
+          ],
         },
         // Hidden sections (faqs, hidden) - not included in sidebar
         // Other resources marked draft - shown later in semester

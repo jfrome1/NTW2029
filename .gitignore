@@ -75,5 +75,4 @@ coverage/
 *.lnk
 
 # Package manager lock files
-pnpm-lock.yaml
 tmpclaude-*
