@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-04-22
+lastUpdated: 2026-05-12
 lastEvaluated: 2026-04-22
 ---
 
@@ -19,13 +19,16 @@ Transcripts are organized by semester in:
 
 ## Commands
 
+This project uses pnpm, not npm. Always use `pnpm` for installs and scripts; do not run `npm install` or `npm run ...`.
+
 ```bash
-npm run dev       # Start dev server at localhost:4321
-npm run build     # Run astro check && astro build to ./dist/
-npm run preview   # Preview production build locally
+pnpm install      # Install dependencies (uses pnpm-lock.yaml)
+pnpm dev          # Start dev server at localhost:4321
+pnpm build        # Run astro check && astro build to ./dist/
+pnpm preview      # Preview production build locally
 ```
 
-Do not run `npm run build` without explicit user approval. Content review and editing does not require building.
+Do not run `pnpm build` without explicit user approval. Content review and editing does not require building.
 
 ## Architecture
 
