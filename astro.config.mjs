@@ -7,6 +7,7 @@ import starlightAutoDrafts from "starlight-auto-drafts";
 import rehypeExternalLinks from "rehype-external-links";
 
 export default defineConfig({
+  site: "https://ntw2029.vercel.app",
   markdown: {
     rehypePlugins: [
       [
