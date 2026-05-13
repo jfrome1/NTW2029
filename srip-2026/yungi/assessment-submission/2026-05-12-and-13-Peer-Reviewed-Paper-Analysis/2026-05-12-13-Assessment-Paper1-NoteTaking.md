@@ -36,3 +36,76 @@ There were six categories of learning analytics applications for course evaluati
 2) The aspects of courses being evaluated
 3) The analysis techniques applied
 4) The limitations addressed in the studies
+
+
+<hr>
+
+# Applications of Learning Analytics for Course Evaluation
+<p align="center"><img src="assets/number-of-studies.png" width="400"></p>
+<p align="center"><img src="assets/trends-in-LA-Applications.png" width="400"></p>
+
+These pictures represent the distribution of studies in each application category for learning analytics and how the trend in the application of learning analytics changes across periods. 
+
+According to the data shown, Sentiment Analysis was the most frequently used application for learning analytics.
+
+## Application 1) Sentiment Analysis
+- Known as the method of "opinion mining", it uses "natural language to identify and classify the emotional attitudes expressed within a text". (page 6)
+
+- So, it basically uses the data gained from the feedbacks and analyze the students' emotional response depending on what they wrote for the course evaluation.
+
+- Wide range of analysis methods and tools has been used for sentiment analysis. The most frequently used techniques were machine learning algorithms such as CNN, LSTM, MSPSO (multi-swarm optimization method), and used models such as BERT, BERT-BiLSTM attention model.
+
+- Hence, machine learning algorithms, cloud based tools were used for sentiment analysis.
+
+<br>
+## Application 2) Predictive Modelling (basically machine learning)
+
+- This method reflects the increasing significance of data-driven decision making in educational settings.
+- This approach mainly utilizes statistical techniques and machine learning algorithms to not only analyze, but also to predict educational outcomes, which would let educators refine teaching strategies.
+
+- For this method, a lot of statistical algorithms were represented. The main ones were regression analysis, supervised/unsupervised learning algorithms and deep learning algorithms.
+
+<h3>Data types</h3>
+<p>
+  <ul>
+    <li>Quantitative Data : Student log data, Course Assessment Scores, and Demographic Information : these data were      obtained in student infromation systems, learning management systems, and student questionnaires</li>
+    <li>Qualitative Data : Textual Comments, Open-ended Feedback gathered from MOOC platforms, learning websites, and       Twitter datasets for sentiments.</li>
+  </ul>
+</p>
+
+
+<br>
+## Application 3) Questionnaire Analysis
+- This method involves the systematic evaluation of data collected through questionnaires distributed to students, educators, or stakeholders in an educational context.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
