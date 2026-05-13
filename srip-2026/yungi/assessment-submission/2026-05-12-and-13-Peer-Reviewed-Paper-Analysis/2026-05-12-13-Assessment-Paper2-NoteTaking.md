@@ -34,6 +34,8 @@
 
 - To use the technology effectively, educators should understand what the "various needs of these students are and how they can be accommodated, enabling the provision of a sound pedagogical basis for the use of this technology".
 
+- As we already know, "the interactions can be recorded on log files or in a database and provide information on website usage in terms of frequency of access and time spent using the site".
+
 
 
 
