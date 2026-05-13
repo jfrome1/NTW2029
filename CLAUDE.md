@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 lastEvaluated: 2026-04-22
 ---
 
@@ -56,9 +56,21 @@ All .md files under Astro's content directory (`src/content/docs/`) must have YA
 
 The GitHub deployments API (`gh api repos/{owner}/{repo}/deployments/{id}/statuses`) returns only state (success/failure/pending) and a brief description. Detailed build error logs are only available in the Vercel dashboard, not through the API.
 
+### Vercel Ignored Build Step
+
+The Vercel project's Ignored Build Step is set to:
+
+`git diff --quiet HEAD^ HEAD -- ':(exclude)srip-2026'`
+
+Pushes that only touch files under `srip-2026/` exit 0 and skip the build. Pushes that touch anything outside `srip-2026/` build normally. The Deployments tab shows "Ignored" status for skipped pushes. Configured 2026-05-13 during the SRIP 2026 internship period; can be removed when the SRIP workspace is no longer in the repo.
+
 ### Rehype Plugin Configuration
 
 Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`—putting `rehypePlugins` there has no effect.
+
+### Astro Site URL
+
+`astro.config.mjs` sets `site: "https://ntw2029.vercel.app"`. This is the canonical URL used by `@astrojs/sitemap` to generate `sitemap.xml` and by any other Astro features that need absolute URLs (Open Graph tags, RSS). If the site moves to a different domain, update this to match — sitemaps and absolute links generated with the old URL would point to the wrong host.
 
 ### Custom Components
 
