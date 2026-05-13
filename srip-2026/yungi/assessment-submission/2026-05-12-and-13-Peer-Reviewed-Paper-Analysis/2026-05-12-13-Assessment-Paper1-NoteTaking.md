@@ -1,5 +1,7 @@
 # Paper 1 : The Role of Learning Analytics in Evaluating Course Effectiveness
 
+# This is mainly "Analytics" in a sense where how we should analyze data using what kind of methodologies.
+
 
 # Pre-Requisite from past research
 - Definition of Course Evaluation : systematic assessment of a course's effectiveness in achieving its educational objectives
