@@ -74,7 +74,13 @@ Now, the authors began investigating how students will act in the website in ord
 
 - Here, the WIER website was built by the faculty for the students. This website was an integrated learning environment for the students to use during their project at work. They made it so that it is required for the students to use the site for their IE work.
 
+- The site is consisted of project information, schedule, taks/time tracker for the duration of the project, which is similar to that of ours. (It also has repository of resources)
 
+<hr>
+<br>
+
+# Research Study
+- Again, the main objective of the study is to determine what educators can infer from student interactions with a website. 
 
 
 
