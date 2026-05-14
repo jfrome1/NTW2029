@@ -53,7 +53,21 @@ This study investigates how educators can use unobtrusive data collection (log f
 </table>
 
 
+<br>
+<br>
 
+
+<h2>Implications for Enhancing our Course</h2>
+<p>
+  <ul>
+    <li>Avoiding the "Cool" UI Trap (as mentioned in the previous meeting) : We should focus the Nutshell/Quiz Components functionally essential to the curriculum's website.</li>
+    <li>Differentiated Support : Since the "low achievers" stated in the paper needs additional support through templates, past projects, etc, maybe we can use the PostHog features that detect when a student is struggling and automatically recommend help resources? (But, how do we determine whether the student is having trouble or not?)</li>
+    <li>Gender/Role Observations : We can analyze our user metadata to see if different student demographics interact with our learning modules in unique ways.</li>
+  </ul>
+</p>
+
+
+<h3>Possible enhancement : Since the login frequency does not really affect the student's performance, we can focus more on making "productivity" related features?</h3>
 
 
 
