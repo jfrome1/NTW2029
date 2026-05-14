@@ -2,9 +2,27 @@
 
 ### **1\. Data Model of Posthog (how it tracks analytics)**
 
+[https://posthog.com/docs/libraries/js/persistence](https://posthog.com/docs/libraries/js/persistence)
+
+#### 1.1. Posthog initialization
+
+Posthog is initialized in the DataAnalyticsComponent.astro file, within the initializeTracking() function. This function is called every time a user loads a page, and includes posthog.init and posthog.identify. 
+
+1.1.1. posthog.init : Initializes Posthog.  
+
+1. **persistence: ‘memory’ :** Some user information is stored on the user’s browser, enabling the website to identify them if they navigate away and return. This parameter stores this information in page memory, so data is only persisted for the duration of the page view.   
+2. **person\_profiles: ‘identified\_only’ :** Events can be either anonymous (the user who triggered the event is unknown) or identified (linked to a user). This parameter allows Posthog to capture events from a non-logged in user, but posthog.identify has to be called to begin linking that user to any events they trigger. 
+
+1.1.2. posthog.identify : Identifies the user that loaded the page. These will be saved under persons.properties. 
+
+1. **name** : Identifies user’s name  
+2. **timestamp** : Logs the datetime of the page load for the person. This will be overwritten each time the user navigates/a new page loads. 
+
+If the user is not logged in, posthog.identify will throw an error, which initializeTracking will catch. Following this, the events triggered by the user will be anonymous and will have properties.$process\_person\_profile \= False. 
+
 [https://posthog.com/docs/new-to-posthog/understand-posthog](https://posthog.com/docs/new-to-posthog/understand-posthog)
 
-#### 1.1. Events  
+#### 1.2. Events  
 Represents interactions a user has with the website, including button clicks, pageviews, pageleaves, and signups. Events can be either default (autocaptured by Posthog) or custom (defined personally), with each event consisting of: 
 
 1. Event name   
@@ -15,9 +33,14 @@ Represents interactions a user has with the website, including button clicks, pa
 Table of autocaptured events: [https://posthog.com/docs/product-analytics/autocapture](https://posthog.com/docs/product-analytics/autocapture)   
 Table of event fields/properties: [https://posthog.com/docs/data/events](https://posthog.com/docs/data/events)
 
-Event capturing: Posthog runs as a script loaded on the course site. Once loaded, the script captures events as they occur and sends them back to Posthog's servers.
+1.2.1. Anonymous event handling  
+Currently, \~4% of all events are anonymous (user is not identified), with a random unique person\_id, regardless of the actual user who triggered it. Additionally, \~14% of all events are associated with a person\_id that does not match any existing user’s ID, coming from 1434 unique user ids. These events are a superset of the anonymous events. 
 
-#### 1.2. Properties  
+These events were mainly triggered from development/testing pages (e.g. localhost). As such, analysis including per-student breakdowns should filter out events with person\_id values that do not correspond to any existing user’s ID, as they do not represent any student. 
+
+Event capturing: Posthog runs as a script loaded on the course site. Once loaded, the script captures events as they occur and sends them back to Posthog's servers. 
+
+#### 1.3. Properties  
 Metadata that can be attached to events to enable cleaner grouping and filtering. Some properties are automatically attached: browser, OS, device type, current URL, referrer, screen size, and GeoIP-derived location. Custom properties can also be created, such as tagging pages with metadata like \`is\_nutshell\_link\`, \`is\_assignment\`. 
 
 1.2.1. Property definitions  
@@ -26,23 +49,23 @@ All individual properties that Posthog has recorded, both custom and default.
 1.2.2. Property groups  
 Multiple properties bundled together. This enables easier filtering according to a group of multiple properties, as the group will not need to be recreated each time. 
 
-#### 1.3. Sessions  
+#### 1.4. Sessions  
 A series of events from one user. Each session spans multiple tabs and windows, but only on the same device and browser, and can be ended by either 30 minutes of inactivity (no events triggered) on a current session, or reaching a 24-hour duration limit. Session-level properties (duration, entry page, exit page, page count) are computed from the events that occurred in the session.   
    
 Note on multi-tab tracking: closing tabs where the website is open does not end a session; the session ends itself after reaching 30 minutes. 
 
 Table of session fields/properties: [https://posthog.com/docs/data/sessions](https://posthog.com/docs/data/sessions) 
 
-#### 1.4. Actions  
+#### 1.5. Actions  
 A grouping of events that can be treated as a singular event. This could be used for combining a number of events that lead to the same outcome, for instance grouping all nutshell click events into a single ‘clicked a nutshell link event’. 
 
-#### 1.5. Persons   
+#### 1.6. Persons   
 Group sessions by person visiting the site. Each person is identified using a cookie-based distinct ID, which allows Posthog to associate multiple sessions and events with the same user. Each person profile has its own unique properties, both automatically captured ones (e.g. browser, geographic info), plus custom properties that can be set. 
 
-#### 1.6. Cohorts  
+#### 1.7. Cohorts  
 A list of users that have something in common that is defined by the user (e.g. clicked on \>5 nutshell links in the first 3 weeks, stayed on FAQ page for \<5 minutes the week an assignment was due), which can be either static or recalculated as new data comes in. 
 
-#### 1.7. Groups   
+#### 1.8. Groups   
 Parallel concept to cohorts; aggregates events at an organizational level (e.g. a company, a team, an account). Compared to cohorts, groups are actual entities (e.g. one tutorial session).  Requires a paid add-on ([https://posthog.com/addons\#group-analytics](https://posthog.com/addons#group-analytics)). 
 
 - Might not be relevant unless analyzing student behavior between different tutorials/classes is necessary. 
@@ -209,14 +232,13 @@ From the Product Analytics → All Insights page, 28 insights have been created.
 | Student engagement | Users Seen, Users Inactive, Student Page Visit Report, Most visited page per user, Sessions Per User, Pages Per User, Organic SEO Unique Users (Total)  |
 | Clicks | Internal link count, External link count, Stats per URL |
 | Nutshells | Stats per nutshell |
-| Pages | all pages, Website Unique Users (breakdown), Page View (by pageload), Average time per student on each resource page, Compare Resources vs Non-Resources, time spent on page for each user, Website Unique Users (Total) |
+| Pages | all pages, Website Unique Users (breakdown), Page View (by pageload), Average time per student on each resource page, Compare Resources vs Non-Resources, time spent on page for each user, Website Unique Users (Total), Read(Scroll) page percentage |
 
 Some insights with no data were present: 
 
 - Users Not Seen  
 - Nutshell usage by student \- per nutshell  
 - Nutshell usage by student \- per student  
-- Read(Scroll) page percentage  
 - Where are students experiencing frustration (has multiple invalid/\`Others\` values)  
 - Pages with longest time spent (has multiple invalid/\`Others\` values)  
 - Top Website Pages (Overall) (has multiple invalid/\`Others\` values)
@@ -273,7 +295,19 @@ No property groups have been created yet.
 | Users Seen | For each user, shows the last event triggered & how many days ago the user was last seen |
 | Student Page Visit Report | For each user, displays their visit count and last visited date of each page  |
 | External Link Count | Tracks the number of clicks for external links, as well as their source page |
-| Internal Link Count | Tracks the number of clicks for interal links, as well as their source page |
+| Internal Link Count | Tracks the number of clicks for internal links, as well as their source page |
+
+#### 5.5. Views
+
+| View | Purpose |
+| :---- | :---- |
+| clicks | Shows information about every click on the website.  |
+| nutshelInactive | Displays all events involving users closing nutshells  |
+| nutshell | Displays information about each nutshell, including number of times it was opened and average time it was opened for |
+| nutshell\_extended | Continuation of nutshell view. Displays more information about each nutshell, such as the number of reclicks.  |
+| pageview | Shows time spent on page for pageview events whose next event is a pageview (navigated to another page) OR a pageleave (closed the current page) |
+| pageviewtime | Shows all time-related info on each pageview  |
+| test |  |
 
 [image1]: <data:image/png;base64,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>
 
