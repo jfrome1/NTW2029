@@ -80,11 +80,52 @@ Now, the authors began investigating how students will act in the website in ord
 <br>
 
 # Research Study
-- Again, the main objective of the study is to determine what educators can infer from student interactions with a website. 
+- Again, the main objective of the study is to determine what educators can infer from student interactions with a website.
+  
+- Their methodology is a little bit different from us as their data collection is from online logging, online survey, AND Paper Survery (it's from 2003)..
 
+- The data collection (inspecting online interactions in the WIER website) was done while the users were not aware by the learner (isn't this illegal?)
 
+- The online survey was done 4 weeks prior to the end of the semester, and the paper survey was done at the end of the year. As a result, the online survey had a low response rate, and they had to rely on the online data collection and the paper survey.
 
+<h3>Categories of the pages of the WIRE website : </h3>
+<p>
+  <ul>
+    <li>Static : used for resources which are produced once and rarely updated.</li>
+    <li>Passive : used for resources that are reproductions of paper resources (?) </li>
+    <li>Group : used for resources which facilitate group communication or activities</li>
+  </ul>
+</p>
 
+- They prepared (so this stage would be EDA, data cleaning and preparation) the data using C++..
+- Then, they used the statistical paackage SPSS. This calculates the "access time" of the users. (That's it?)
+
+<h3>Types of access times : </h3>
+<p>
+  <ul>
+    <li>Session : sequence of interactions of a user from login to the last interaction with the site before loggin out or moving to another site</li>
+    <li>Task : sequence of interactions of a user within one resource. This is calculated by measuring the time interval from the first interaction within a resource until the last interaction within that resource</li>
+    <li>Activity : Interaction within the site. This is basically how long the user stayed in that page.</li>
+  </ul>
+</p>
+
+<hr>
+<br>
+
+# Results and Discussion
+
+- Students used the website, but individuals' usage varied as expected.
+- The site was open 24/7 but most students checked late night before midnight, reflecting typical student procrastination or late-night work habits of students
+
+- Usage peaked during 1~2 weeks before assignment deadlines, and the usage dropped significantly during exam weeks.
+
+- <b>Core finding</b> : student behaviors were overwhelmingly task-directed. They focused more on what was required to finish the project. 
+
+- The frequency of loggin into the site had no relationship with grades. However, there were significant positive correlations between total interaction and higher results (grade, I assume).
+
+- High achievers had more interactions with the website than that of low achievers.
+
+- (not really relevant?) the statistics show that female students were recorded more sessions than male students. This infers how during the project timeline, female students took the administrative and documentation roles.
 
 
 
