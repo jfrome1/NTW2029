@@ -35,7 +35,23 @@
 
 - This is a mathematical methodology that analyzes continuous data. Researchers choose the "stochastic approach", which means the data is saved and analyzed in real time, as students who are using the educational website may act irregularly.
 
-- This really depends on if we actually want this real time analysis or not. If we want to predict the student's intent to exit, this algorithm would be really helpful to implement. 
+- This really depends on if we actually want this real time analysis or not. If we want to predict the student's intent to exit, this algorithm would be really helpful to implement.
+
+- So, this would let us have a feature that recommends unstudied materials or short test questions when the student is about to log off, letting them learning more and help the students to maximize their learning in the course.
+
+
+
+
+
+<h3>Decision Trees for Cognitive Style Classification</h3>
+
+- Some researchers used supervised machine learning algorithms to classify users' learning behavior throughout the website.
+- They track the website's navigation features, such as the usage of buttons, overviews, repeated visits.
+- Then, the researcher utilized decision trees because while traditional statistical methods require making initial assumptions that can mask hidden relationships, decition trees automatically extract unexpected patterns and generate rules "without" prior assumptions.
+- If we understand the users' learning "habits" throughout the website, we can recommend the user what to read next, or give the user a summary of what the user learned in the previous session before logging out.
+
+
+
 
 
 
