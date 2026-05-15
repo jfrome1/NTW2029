@@ -1,4 +1,4 @@
-# Approaches that offers unique insights into how students interact with educational websites
+# Methodologies that other researchers used to analyze students' interaction within educational websites and its insights
 
 
 <h3>Social Network Analysis (SDA)</h3>
