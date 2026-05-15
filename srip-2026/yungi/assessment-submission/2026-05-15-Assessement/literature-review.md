@@ -22,4 +22,6 @@
 
 <h3>Log File Anlysis and Association Rules</h3>
 
+- This is log file analysis with data mining techniques alongside user questionnaires, where only the log file analysis is relevant to our project.
 
+- Log files are a good objective second source of information, capable of scouring databases to find hidden predictive patterns in student naviagation that human experts might overlook.
