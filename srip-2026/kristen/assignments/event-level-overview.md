@@ -22,7 +22,7 @@ The properties field captures most of the additional data linked to an event, an
 
 Default events have default properties set by Posthog. Custom events have both default properties and custom properties, which are defined by the user using posthog.capture and sent alongside the default properties. In the properties JSON, custom properties appear as the name specified in posthog.captured, while default properties have \`$\` before their name. 
 
-Default properties largely include data that is additional and less useful for analysis, such as $browser\_language and $host. However, some default properties that could significantly value add include:  
+Default properties largely include data that is additional and less useful for analysis, such as $browser\_language and $host. However, some default properties that could significantly value-add include:  
 
 | Name | Purpose |
 | :---- | :---- |
@@ -39,7 +39,7 @@ Default properties largely include data that is additional and less useful for a
 
 ### 3.1. read
 
-**Trigger:** User scrolls past 50% of the page. 
+3.1.1. **Trigger:** User scrolls past 50% of the page for the first time. 
 
 Custom properties: 
 
@@ -47,13 +47,30 @@ Custom properties:
 | :---- | :---- |
 | page | Title of the page the event was triggered on  |
 
-3.1.1. What it is currently being used for
+3.1.2. **What it can be used for:** 
 
-Limitations 
+*a. Analysis involving page-level engagement*  
+
+The read event fires when a student scrolls past 50% of the page, which can be seen as engagement with the page. This is a stronger signal than $pageview – $pageview fires whenever a page loads, including accidental reloads or clicks, while read requires the student to actually scroll and engage with the content. As such, it could be a stronger signal than $pageview when measuring engagement, through: 
+
+- Scroll rate: Comparing the count of read events to $pageview events per page displays what fraction of students who loaded the page actually scrolled into its content.   
+- Identifying which pages students consume: Pages with many pageviews but few reads indicate the page is being loaded but not read, while pages with high reads : pageview ratios are receiving higher engagement. 
+
+3.1.3. **Limitations:** 
+
+*a. Does not capture depth of engagement*
+
+Read will be fired as long as the student scrolls past 50% of the page, no matter how quickly or slowly they scrolled. Students who carefully read and scroll slowly through every paragraph vs. students who scroll quickly past the midpoint then navigate away, will both produce the same read event. As read measures whether the student scrolled 50% of the page, and not whether they actually engaged with the content along the way, it only provides an illusion of engagement. 
+
+- A potential fix could be adding additional read events at different thresholds (e.g., 25%, 50%, 75%, 100%) so that scroll depth can be inferred from which events fired. 
+
+*b. Only captures the first instance* 
+
+The read event only fires the first time a student reaches 50% scroll depth. Subsequent scrolling behavior not captured in the same session/page. As such, students who scrolled the page once are lumped together with students who scrolled up and down the page multiple times, despite both reflecting different levels of engagement. 
 
 ### 3.2. openNutshell 
 
-**Trigger:** User opens a nutshell. 
+3.2.1. **Trigger:** User opens a nutshell. 
 
 Custom properties: 
 
@@ -62,27 +79,25 @@ Custom properties:
 | page | Title of the page the event was triggered on  |
 | text | Text shown on the nutshell link |
 
-What it can be used for
+3.2.2. **What it can be used for**
 
-Limitations
+*a. Further estimate for engagement*  
 
-### 3.3. closeNutshell
+Opening a nutshell link indicates that 1\. the student is interested in knowing more information and 2\. is reading the page closely enough to see the nutshell link, both of which indicate active engagement. This could be combined with $pageview and read events to give a more complete indicator of how deeply students engage with a page. 
 
-**Trigger:** User closes an open nutshell. 
+*b. Displays what kind of content students engage more with*  
 
-Custom properties: 
+Nutshell links with higher rates of opening likely contain concepts or information that students find unfamiliar or want to verify, while pages with many nutshells but low open rates may suggest less useful nutshells or too many. This could enable analysis of the effectiveness of content, such as comparing engagement across content categories, and if there is an optimal threshold for the number of nutshells on a page. 
 
-| Name | Purpose |
-| :---- | :---- |
-|  |  |
+3.2.3. **Limitations**
 
-What it can be used for
+*a. Does not reflect how long the nutshell was opened for*
 
-Limitations
+The openNutshell event does not contain information about whether the student read the nutshell, glanced at it, or closed it immediately. As such, pairing with the corresponding inactiveNutshell is necessary to get the duration of the nutshell being opened. However, if inactiveNutshell does not exist, the duration the nutshell was opened for will be unknown. 
 
-### 3.4. inactiveNutshell
+### 3.3. inactiveNutshell
 
-**Trigger:** User scrolls away until open nutshell is out of view.
+3.3.1. **Trigger:** User scrolls away until open nutshell is out of view.
 
 Custom properties: 
 
@@ -91,11 +106,19 @@ Custom properties:
 | duration | Duration between nutshell being opened and nutshell going out of view |
 | text | Visible anchor text shown for the nutshell  |
 
-What it can be used for
+3.3.2. **What it can be used for**
 
-Limitations
+*a. Measuring depth of engagement with the nutshell*
 
-### 3.5. internalLinkClick
+inactiveNutshell’s duration property captures how long the nutshell was open before being scrolled out of view, allowing for distinguishing students actually engaging from accidentally opening the nutshell. Grouping inactiveNutshell events by text and computing average duration shows which nutshells students spend more time with, which could indicate how effective the presence/content of the nutshell is. 
+
+3.3.3. **Limitations**
+
+*a. Does not reflect when the nutshell is manually closed*
+
+The inactiveNutshell event fires when the student scrolls past the nutshell, leading to it automatically closing. However, if the student manually reclicks the nutshell link to close it, the only event that fires is $autocapture. This is expected behavior, as the inactiveNutshell event is meant to reflect students scrolling past an opened nutshell; however, the result is that no events capture students closing a nutshell other than manually parsing $autoselect. 
+
+### 3.4. internalLinkClick
 
 **Trigger:** User clicks on any internal link. 
 
@@ -106,11 +129,19 @@ Custom properties:
 | link | Link URL |
 | text | Visible anchor text shown for the link |
 
-What it can be used for
+3.4.2. **What it can be used for**
 
-Limitations
+*a. Easier querying than $autocapture*
 
-### 3.6. externalLinkClick
+As the link and text properties are distinct fields in the internalLinkClick event, it is the simplest way to count internal navigation events; compared to $autocapture, which requires parsing the elements\_chain property. Grouping by link shows which internal pages students click to most often, while grouping by text shows which anchor wordings are most clicked. 
+
+3.4.3. **Limitations**
+
+*a. Does not show which DOM element was clicked*  
+
+internalLinkClick records link URL and anchor text, but not which element on the page contained that link. This may be an issue if a page destination can be reached from multiple elements (e.g. sidebar nav vs pagination buttons) that have similar names, as while they may reflect different behaviour, internalLinkClick will treat them as identical events. Currently, the site does not seem to be vulnerable to this issue, as text distinguishes between elements clearly (e.g. pagination buttons add ‘Previous’ and ‘Next’ to destination titles, while sidebar links use the title alone). As such, grouping by link AND text should be largely sufficient for distinguishing between which internal links were clicked on the course site.
+
+### 3.5. externalLinkClick
 
 **Trigger:** User clicks on an external link. 
 
@@ -121,9 +152,17 @@ Custom properties:
 | link | Link URL |
 | text | Visible anchor text shown for the link |
 
-What it can be used for
+3.5.2. **What it can be used for**
 
-Limitations
+*a. Shows what external resources students are engaging with*  
+
+Clicking on an external link indicates that 1\. the student is interested in knowing more information and 2\. is reading the page closely enough to see the link, both of which indicate active engagement. This indicates how deeply students engage with a page, and what kinds of external resources are being utilized more. 
+
+3.5.3. **Limitations**
+
+*a. Does not show what happens after students leave the site* 
+
+After clicking the external link, Posthog cannot continue tracking the student’s activity – as such, the student’s level of engagement with the external content is obscured, whether they read the destination or instantly closed it. externalLinkClick also does not reflect the duration the student spent on the external site or their intention (e.g. accidental click vs. actual interest), hence not being an accurate reflection of student behavioral patterns. 
 
 ## **4\. Default Events** 
 
@@ -217,7 +256,7 @@ Some insights currently display these (see 5\. Current usage).
 
 *a. Having multiple tabs open* 
 
-Students often open multiple pages of the website on different tabs. Due to each session being linked to one page, multiple sessions will be created when this occurs, each with their unique ID. As such, user-level behavior such as time spent on all pages by a student may end up overrepresented if computed using the duration between $pageview and $pageleave, as durations are aggregated despite the student having been focusing only on one tab at a time. 
+Students often open multiple pages of the website on different tabs. Due to each session being linked to one page, multiple sessions will be created when this occurs, each with their unique ID. As such, this affects several potential insights involving **user-level behavior**. For instance, the time spent on all pages by a student may end up overrepresented if computed using the duration between $pageview and $pageleave, as durations are aggregated despite the student having been focusing only on one tab at a time. 
 
 *b. Handling common student behaviors – forgetting about a tab*
 
@@ -225,7 +264,9 @@ Students often leave a tab open without closing it. When this happens, the sessi
 
 This leads to several issues: 
 
-1. **Time on page calculations may become inaccurate**: Several insights use $pageview and $pageleave events to compute time spent on pages (see 5\. Current usage), and drop $pageview events without corresponding $pageleave events.    
+1. **Time on page calculations may become inaccurate**: Several insights use $pageview and $pageleave events to compute time spent on pages (see 5\. Current usage). This will lead to:  
+* In a session, $pageview events without corresponding $pageleave events will be dropped  
+* Calculations that use $pageview events as a proxy for the beginning of a study session will be misleading, as resumed study sessions will not reflect any $pageview events   
 2. **Arrival data may end up not being represented**: If the new session begins without a $pageview event despite functionally representing the student beginning a study session on that page, any insights that use $pageview as a representation for a new arrival become inaccurate. 
 
 ### 4.5. $web\_vitals  
@@ -305,17 +346,10 @@ Out of 28 insights, the following use certain events:
 | Where are students experiencing frustration? | For each page, shows the number of $rageclick events triggered, filtering for unique users.  | $rageclick |
 | Pages with longest time spent | Ranks pages by total session duration | $session\_duration |
 
-Limitations: 
+All limitations associated with the relevant events apply. 
 
-- There will be many cases where each session does not end with a $pageleave, as students minimize or switch tabs. The insights that use $pageview and $pageleave to compute time on page may thus end up losing the duration spent on a page, as the page’s $pageleave event gets pushed to the next session. 
 
-- Engagement metrics do not account for tab-switching – for students who open a tab on the website and start a session, then open another tab for something else (e.g. Youtube) and stay on that tab, Posthog continues logging the session time even when the student is no longer on the website tab. This may show a long duration spent on the page, signalling high engagement even if the student was not actually engaged. 
-
-- The ‘Where are students experiencing frustration?’ insight only shows which page $rageclick happened, and not which elements/internal links/nutshells etc. Additionally, the rageclick event is not triggered by repeated clicks on a non-DOM-element. 
-
-- For students that minimize a tab and reopen it after the original session has ended, a new session does not start until the page is reloaded or the student navigates away/reloads the page.  
-
-## **List of all default properties** 
+#### **List of all default properties** 
 
 String   
 $current\_url, $pathname, $host, $referrer, $referring\_domain, $browser, $browser\_language, $browser\_language\_prefix, $os, $os\_version, $device, $device\_type, $lib, $lib\_version, $user\_id, $raw\_user\_agent, $config\_defaults, $sdk\_debug\_extensions\_init\_method, $geoip\_country\_code, $geoip\_country\_name, $geoip\_continent\_code, $geoip\_continent\_name, $geoip\_city\_name, $geoip\_postal\_code, $geoip\_time\_zone, $geoip\_subdivision\_1\_code, $geoip\_subdivision\_1\_name, token 
