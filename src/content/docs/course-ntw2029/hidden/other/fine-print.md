@@ -22,3 +22,5 @@ Any disagreement with any course policies should be raised proactively before fa
 Students are responsible not just for reporting generative AI use but for keeping copies of work and accessible versions of work in development in order to provide evidence of appropriate AI use. Failure to retain evidence of course-related activities may be interpreted as evidence that reports are inaccurate. It is your responsibility to keep and track whatever you need to demonstrate that your claims are true.
 
 No GenAI use means no GenAI use either directly or indirectly, either by you or by friends. Anyone you share your paper with. You must tell them that they cannot use GenAI on your paper unless they also send me the links and follow course policy exactly as students are required to do.
+
+All conversations with students and all class meetings are recorded for improvement of the course. I may use anonymized transcripts of these meetings, submitted assignments, and GenAI chats In my course materials in future classes. You may opt out of my use of these materials in future classes with a written request during the semester.
