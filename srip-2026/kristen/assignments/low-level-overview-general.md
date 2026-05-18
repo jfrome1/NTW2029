@@ -8,12 +8,12 @@
 
 Posthog is initialized in the DataAnalyticsComponent.astro file, within the initializeTracking() function. This function is called every time a user loads a page, and includes posthog.init and posthog.identify. 
 
-1.1.1. posthog.init : Initializes Posthog.  
+**1.1.1. posthog.init** : Initializes Posthog.  
 
-1. **persistence: ‘memory’ :** Some user information is stored on the user’s browser, enabling the website to identify them if they navigate away and return. This parameter stores this information in page memory, so data is only persisted for the duration of the page view.   
+1. **persistence: ‘memory’ :** Some user information is stored on the user’s browser, enabling the website to identify them if they navigate away and return. This parameter stores this information in page memory, so data is only persisted for the duration of the page view. As such, a session lasts for however long the user spends on a page.   
 2. **person\_profiles: ‘identified\_only’ :** Events can be either anonymous (the user who triggered the event is unknown) or identified (linked to a user). This parameter allows Posthog to capture events from a non-logged in user, but posthog.identify has to be called to begin linking that user to any events they trigger. 
 
-1.1.2. posthog.identify : Identifies the user that loaded the page. These will be saved under persons.properties. 
+**1.1.2. posthog.identify** : Identifies the user that loaded the page. These will be saved under persons.properties. 
 
 1. **name** : Identifies user’s name  
 2. **timestamp** : Logs the datetime of the page load for the person. This will be overwritten each time the user navigates/a new page loads. 
@@ -33,7 +33,7 @@ Represents interactions a user has with the website, including button clicks, pa
 Table of autocaptured events: [https://posthog.com/docs/product-analytics/autocapture](https://posthog.com/docs/product-analytics/autocapture)   
 Table of event fields/properties: [https://posthog.com/docs/data/events](https://posthog.com/docs/data/events)
 
-1.2.1. Anonymous event handling  
+**1.2.1. Anonymous event handling**
 Currently, \~4% of all events are anonymous (user is not identified), with a random unique person\_id, regardless of the actual user who triggered it. Additionally, \~14% of all events are associated with a person\_id that does not match any existing user’s ID, coming from 1434 unique user ids. These events are a superset of the anonymous events. 
 
 These events were mainly triggered from development/testing pages (e.g. localhost). As such, analysis including per-student breakdowns should filter out events with person\_id values that do not correspond to any existing user’s ID, as they do not represent any student. 
@@ -43,14 +43,14 @@ Event capturing: Posthog runs as a script loaded on the course site. Once loaded
 #### 1.3. Properties  
 Metadata that can be attached to events to enable cleaner grouping and filtering. Some properties are automatically attached: browser, OS, device type, current URL, referrer, screen size, and GeoIP-derived location. Custom properties can also be created, such as tagging pages with metadata like \`is\_nutshell\_link\`, \`is\_assignment\`. 
 
-1.2.1. Property definitions  
+**1.3.1. Property definitions** 
 All individual properties that Posthog has recorded, both custom and default. 
 
-1.2.2. Property groups  
+**1.3.2. Property groups** 
 Multiple properties bundled together. This enables easier filtering according to a group of multiple properties, as the group will not need to be recreated each time. 
 
 #### 1.4. Sessions  
-A series of events from one user. Each session spans multiple tabs and windows, but only on the same device and browser, and can be ended by either 30 minutes of inactivity (no events triggered) on a current session, or reaching a 24-hour duration limit. Session-level properties (duration, entry page, exit page, page count) are computed from the events that occurred in the session.   
+A series of events from one user, with one session corresponding to one page visit. Every new tab, window, device or browser creates a new session with a unique ID, no matter what page the user is on. Each session can be ended by either 30 minutes of inactivity (no events triggered) on a current session, or by reaching a 24-hour duration limit. Session-level properties (duration, entry page, exit page, page count) are computed from the events that occurred in the session.   
    
 Note on multi-tab tracking: closing tabs where the website is open does not end a session; the session ends itself after reaching 30 minutes. 
 
@@ -88,7 +88,7 @@ During a laptop crash, the browser automatically reloaded the page, creating a p
 
 #### 2.4. Reopening a minimized tab
 
-Reopening a tab that has been minimized long enough for the session to end due to inactivity results in a new session being created and no pageleave event for the previous session. This new session begins with an event taken by the student and not a pageview, aligning with expected behaviour. 
+Reopening a tab that has been minimized long enough for the session to end due to inactivity results in a new session being created and no pageleave event for the previous session. This new session begins with an event taken by the student and not a pageview event, aligning with expected behaviour. 
 
 As pageleave events are triggered by the page unloading, the expected behaviour upon reopening the tab was that 
 
@@ -136,9 +136,13 @@ This aligns with the observed behaviour.
 
 **Implementation on Posthog:** Entry/end paths are shown in a section on the web analytics dashboard. The data shown changes based on 1\. whether conversion goals are set up, and 2\. if comparison between periods is active. However, the end paths do not always indicate students consciously ending a session (pageleave event) – in the last 7 days, there were end paths that were triggered by non-pageleave events such as pageview, read and internalLinkClick, suggesting that end path data might group different student behaviour into the same representation (actually closing tabs vs. session automatically ending due to leaving a tab open for some time). 
 
-**Potential uses:** Entry pages show how students are reaching the site, which can indicate if certain pages are more informative. If most entries are the home page, students are navigating in from Canvas; if entries are scattered across pages, students are looking for specific content. Exit pages show where students leave the site (session ends). High exits on a single page might suggest a dead end in the site's structure, or might just mean the page contains useful content. This gives a rough idea of the site's usage, such as which pages anchor sessions, which pages get traffic, or which pages are ignored.
+**Potential uses:** As sessions in this project are scoped to a single page, entry and exit paths effectively only show the pages students are entering most and hence basically overlap with pageviews in function.
+
+However, they could be useful in the cases where pageviews do not trigger. Unlike pageviews which only trigger when a page loads, entry paths reflect pages where the session began with any event (e.g. student reopens a tab, but page doesn’t load and the session begins with a non-pageview event). For instance, when students reopen an abandoned tab, no $pageview event fires, but the first event of the new session still carries the page URL, so entry path data records the page while $pageview counts would miss it. As such, entry paths could be more complete than using pageview events alone when finding engagement on returned-to pages. .
 
 **Limitations:** Exit path data has many possible interpretations, as students may end a session for many reasons, including getting what they needed or the session closing after inactivity. SQL querying is required to separate these interpretations. Entry data might also be misleading if used to show how students are reaching the site – a student that leaves their tab inactive and returns to it has that page counted as an entry, however it does not show anything beyond the student going inactive on that tab.
+
+In addition, due to each session being per-page, the standard meaning of entry and end paths does not apply: entry paths would normally show where students arrived on the site (e.g. the home page if they're coming from Canvas). Under per-page sessions, every page loaded becomes the entry page of its own session, making entry path data functionally equivalent to pageview count grouped by page. Additionally, the end path of every session is the same page it began on, with no way to distinguish a deliberate exit from a navigation to another page. 
 
 #### 3.5. Movement maps   
 **What it does:** Visualizations of where users move their mouse cursor on a page. Cursor positions across many different sessions are aggregated to show which parts of a page draw the most attention.  
@@ -166,18 +170,18 @@ Additionally, Posthog creates a new session after 30 minutes of inactivity, so a
 
 **Implementation on Posthog:** Pageviews are captured automatically when a page loads (as the $pageview event in the events table). The average number of pageviews across sessions and users is immediately visible on the web analytics dashboard. To view pageviews for different sections (e.g. event, page (exercises, papers etc.), page type), SQL queries need to be used to break down pageview count by section. 
 
-**Potential uses:** A diagnostic for which website components students actually use and which are ignored – lower pageviews indicate lower usage.
+**Potential uses:** A diagnostic for which website components students actually use and which are ignored – lower pageviews indicate lower usage. (more in event-level-overview.md)
 
 **Limitations:** Pageviews do not show the behaviour driving the page load. Students sometimes click on pages and instantly click off, or open pages in background tabs and never read them. As such, pageview counts provide limited insight into how much students are engaging with a page. 
 
 #### 3.8. Session duration  
-**What it does:** The total time elapsed from the first event in a session to the last. Each session is a string of events with 30 minutes of inactivity (can be changed) between them. 
+**What it does:** The total time elapsed from the first event in a session to the last. Each session is a string of events with 30 minutes of inactivity (can be changed) between them, and lasts for the time spent on a page. 
 
 **Implementation on Posthog:** Average session duration across sessions and users is immediately visible on the web analytics dashboard. To view specific session durations (e.g. average session duration of each user, session duration of a session), the SQL editor has to be used. The configurable session duration limit is 30 minutes, as during Posthog initialization in the source code, \`session\_idle\_timeout\_seconds\` is not set; as such, Posthog is initialized with the default 30 minute limit. 
 
-**Potential uses:** Measuring engagement depth per visit, where comparing average session duration (e.g. students who used nutshell links vs. students who didn't) could suggest whether certain usage patterns correlate with longer engagement with the site overall. 
+**Potential uses:** Measuring engagement depth per page visit, where comparing average session duration (e.g. students who used nutshell links vs. students who didn't) could suggest whether certain usage patterns correlate with longer engagement with the site overall. 
 
-**Limitations:** Session duration cannot distinguish between user intent: for instance, a 45 minute session could indicate both the student learning or the student having abandoned their tab. The requirement of not allowing 30 minutes of inactivity could also misrepresent certain usage patterns – cases where the student works for 20 minutes, takes a 35-minute break, and works for 20 more minutes will register as two short sessions instead of one long session. 
+**Limitations:** Session duration cannot distinguish between user intent: for instance, a 45 minute session could indicate both the student learning or the student having abandoned their tab. The requirement of not allowing 30 minutes of inactivity could also misrepresent many usage patterns – cases where the student works for 20 minutes, takes a 35-minute break, and works for 20 more minutes will register as two short sessions instead of one long session. Another common behavior that may end up misrepresented is opening two tabs of the same page, which will end up as two different sessions. 
 
 #### 3.9. Traffic breakdown   
 **What it does:** A breakdown of where visitors are arriving from.
@@ -249,15 +253,15 @@ No actions have been created yet.
 
 #### 5.3. Properties
 
-5.3.1. Property definitions  
+**5.3.1. Property definitions**
 There are 121 event properties, and 126 person properties.  
 
-5.3.2. Property groups  
+**5.3.2. Property groups**  
 No property groups have been created yet. 
 
 #### 5.4. Dashboards
 
-5.4.1. Website Metrics 
+**5.4.1. Website Metrics**
 
 | Insights available | Purpose |
 | :---- | :---- |
@@ -272,21 +276,21 @@ No property groups have been created yet.
 | Where are students experiencing frustration?  | Chart showing rage clicks by URL |
 | Pages with longest time spent  | Chart showing session duration for each page, summed across pageviews |
 
-5.4.2. Users
+**5.4.2. Users**
 
 | Insights available | Purpose |
 | :---- | :---- |
 | Users Seen | For each user, shows the last event triggered & how many days ago the user was last seen |
 | Users Not Seen | \*\*no data was available for this insight |
 
-5.4.3. New Nutshell Dashboard
+**5.4.3. New Nutshell Dashboard**
 
 | Insights available | Purpose |
 | :---- | :---- |
 | Nutshell usage by student \- per nutshell | \*\*no data was available for this insight |
 | Nutshell usage by student \- per student | \*\*no data was available for this insight |
 
-5.4.4. Data Table From Excel Sheet
+**5.4.4. Data Table From Excel Sheet**
 
 | Insights available | Purpose |
 | :---- | :---- |
