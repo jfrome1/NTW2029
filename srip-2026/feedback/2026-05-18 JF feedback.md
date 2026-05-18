@@ -1,14 +1,18 @@
+## Kristen
+
+## Yungi
+
 To answer your question: yes, you're on the right track. You executed yesterday's redirect well. Finding 13 articles plus 2 handbooks via abstract scanning is the right pace and method for this stage. The next thing to learn is how to calibrate relevance yourself, which is mostly what this note is about.
 
 ## How to tell which sources are relevant
 
-Three things matter:
+Here are three things that matter:
 
 - Are the analytics about an online-only course (less relevant), or about a website that complements in-person learning (more relevant)?
 - Is the paper's goal relevant to our concerns, such as student engagement? Or is it about something we're less concerned with, such as whether students complete the course?
 - Is the paper looking at explicit student feedback like surveys and course evaluations (less relevant), or at ways to infer useful insights from typical student behavior (more relevant)?
 
-Keep sources that pass at least two of these. Use the same criteria to filter anything new you find before reading it deeply.
+These questions are based on my review of the sources that you looked at. As we look at more sources, we may find additional criteria.
 
 ## Worth reading
 
@@ -37,3 +41,9 @@ Keep sources that pass at least two of these. Use the same criteria to filter an
 ## One other thing about citations
 
 For Paper 11 (and useful to know in general): if you look at the citation, the italicized part, which is normally the journal title, is _LAK'11_. I'm going to assume that's the title of a conference held in 2011. As a general rule, conference papers are less reliable than journal publications. If you're comparing two sources and one is a conference paper, weigh it less heavily. Not a reason to discard, just to calibrate.
+
+## GenAI
+
+I saw that you initially avoided using GenAI and then started using NotebookLM to check whether your sources are relevant. It's good that you tried something new while you were waiting for me to get back to you.
+
+The main thing about using GenAI to summarize or read sources: it will only be useful if you already know what you want to find out. For example, after reading one of the overview chapters or articles, it might be worth putting it in NotebookLM, describing our project in some detail, and asking whether the source has anything relevant to our goals. Just dropping a source in and asking for a generic summary, with no context about what you care about, probably won't be very useful.
