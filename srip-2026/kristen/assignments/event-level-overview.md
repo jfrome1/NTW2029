@@ -120,7 +120,7 @@ The inactiveNutshell event fires when the student scrolls past the nutshell, lea
 
 ### 3.4. internalLinkClick
 
-**Trigger:** User clicks on any internal link. 
+3.4.1. **Trigger:** User clicks on any internal link. 
 
 Custom properties: 
 
@@ -143,7 +143,7 @@ internalLinkClick records link URL and anchor text, but not which element on the
 
 ### 3.5. externalLinkClick
 
-**Trigger:** User clicks on an external link. 
+3.5.1. **Trigger:** User clicks on an external link. 
 
 Custom properties: 
 
@@ -163,6 +163,70 @@ Clicking on an external link indicates that 1\. the student is interested in kno
 *a. Does not show what happens after students leave the site* 
 
 After clicking the external link, Posthog cannot continue tracking the student’s activity – as such, the student’s level of engagement with the external content is obscured, whether they read the destination or instantly closed it. externalLinkClick also does not reflect the duration the student spent on the external site or their intention (e.g. accidental click vs. actual interest), hence not being an accurate reflection of student behavioral patterns. 
+
+
+### 3.6. tabFocused
+
+3.6.1. **Trigger:** User clicks on the tab. 
+
+Custom properties: 
+
+| Name | Purpose |
+| :---- | :---- |
+| isInitial | Boolean, checks if this is the initial visibility state upon page load |
+| page | Link URL |
+| totalTimeOpen | Time elapsed since the tab was first opened |
+| timeHidden | Time elapsed since the tab was unfocused |
+
+3.6.2. **What it can be used for**
+
+*a. Shows what pages students are engaging with*  
+
+The tabFocused event fires when students return to a course site tab after switching away. This provides a better estimate for when students are focusing on a certain tab, which allows tracking of how long a study session actually lasted for as well as resumed study sessions, unlike $pageview. As such, this can be paired with tabUnfocused to measure attention patterns during a session, and how long students engage with any given pages before switching. 
+
+*b. Shows how often students multitask* 
+
+The timeHidden property measures the duration which the tab was unfocused before being focused, which can be used to compute attention patterns. Additionally, the number of tabFocused/unfocused and which tabs it occurred on during a session can show which pages students switch away from the most, and if having multiple tabs open during a study session is common behavior. 
+
+3.6.3. **Limitations**
+
+*a. Does not show what happens after students leave the site* 
+
+tabFocused does not show what caused the tab to be hidden; there are multiple reasons for a tabFocused event, including switching to other tabs, other windows or minimizing the screen. 
+
+*b. Unable to track entire study sessions*
+
+As Posthog is set up with \`persistence: memory\`, each session lasts for a single page. As each new tab and page reload starts a new session, a single study period may span many sessions, hence having multiple tabs open on different pages of the website will lead to multiple unique sessions. Students’ study periods can still be constructed by grouping by distinct\_id and timestamp within a certain window, but session-based analytics (e.g. session duration, funnels) will overestimate session starts and underestimate engagement throughout a study period.
+
+
+### 3.7. tabUnfocused
+
+3.7.1. **Trigger:** User clicks away from the tab (minimizes window/switches tab/switches window). 
+
+Custom properties: 
+
+| Name | Purpose |
+| :---- | :---- |
+| isInitial | Boolean, checks if this is the initial visibility state upon page load |
+| page | Link URL |
+| totalTimeOpen | Time elapsed since the tab was first opened |
+| timeFocused | Duration that the tab was focused for  |
+
+3.7.2. **What it can be used for**
+
+*a. Shows how long a student engaged with a page*  
+
+The timeFocused property allows tracking of how long the student focused on the tab before unfocusing it, which can show how long the tab was active for. However, it is unable to confirm if the student is actively looking at the tab.  
+
+3.7.3. **Limitations**
+
+*a. No $pageview event fires if the unfocused tab is never focused*
+
+If a new tab is opened without the student ever clicking into the tab, a tabUnfocused will fire but no $pageview event will be triggered. If the student closes the tab without focusing on it, $pageleave will fire, but the session will not include any $pageview event. This should not be an issue if calculating session duration using $pageview and $pageleave, as it will be rightfully dropped. However, if using session counts, these sessions will be overcounted as real sessions even though the student never viewed the page. 
+
+This could be mitigated by checking the isInitial property – in this case, filtering out sessions with a single tabUnfocused where isInitial \== true.   
+
+
 
 ## **4\. Default Events** 
 
