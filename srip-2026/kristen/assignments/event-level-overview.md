@@ -226,6 +226,12 @@ If a new tab is opened without the student ever clicking into the tab, a tabUnfo
 
 This could be mitigated by checking the isInitial property – in this case, filtering out sessions with a single tabUnfocused where isInitial \== true.   
 
+*b. May overcount due to multi-tab behaviour*
+
+If multiple tabs are unfocused (e.g. student switches to a tab without the website open), all tabs will trigger a tabUnfocused event. Each tabUnfocused tracks its own timeFocused independently – as such, metrics such as total time hidden or number of times a tab was unfocused should not be calculated by summing across tabUnfocused/tabFocused events, as this value will be overestimated. 
+
+A solution could be computing students’ time away from the site, by reconstructing a chronological order of tabFocused/tabUnfocused events across all of the student's tabs, then checking when there were no tabs focused, and for how long this occurred. 
+
 
 
 ## **4\. Default Events** 
