@@ -12,7 +12,7 @@
 - So, we basically convert PostHog log events into psychological categories. For example, a rapid jump to a grading page from another page becomes "ForeThought/Planning" while a rage click becomes "UI_Friction".
 
 
-2) Event-Level Time Thresholding (FMM)
+2) Event-Level Time Thresholding (FMM) -> Filtering the noise
 - A mathematical method called (Finite Mixture Modeling) to analyze the duration of a page visit to determine the students' true intent. Since we already have this data, we can use this to label a student who stayed in a particular page for 5 seconds as "Skip" or "Read_No" rather than classifying the same as other students who have been in that page for an hour.
 
 
