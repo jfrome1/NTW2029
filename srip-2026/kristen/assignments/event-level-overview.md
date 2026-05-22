@@ -97,13 +97,13 @@ The openNutshell event does not contain information about whether the student re
 
 ### 3.3. inactiveNutshell
 
-3.3.1. **Trigger:** User scrolls away until open nutshell is out of view.
+3.3.1. **Trigger:** User scrolls away until open nutshell is out of view/closes an open nutshell. 
 
 Custom properties: 
 
 | Name | Purpose |
 | :---- | :---- |
-| duration | Duration between nutshell being opened and nutshell going out of view |
+| duration | Duration between nutshell being opened and nutshell closing |
 | text | Visible anchor text shown for the nutshell  |
 
 3.3.2. **What it can be used for**
@@ -114,9 +114,11 @@ inactiveNutshell’s duration property captures how long the nutshell was open b
 
 3.3.3. **Limitations**
 
-*a. Does not reflect when the nutshell is manually closed*
+*a. Does not distinguish between whether the nutshell is manually closed or scrolled past*
 
-The inactiveNutshell event fires when the student scrolls past the nutshell, leading to it automatically closing. However, if the student manually reclicks the nutshell link to close it, the only event that fires is $autocapture. This is expected behavior, as the inactiveNutshell event is meant to reflect students scrolling past an opened nutshell; however, the result is that no events capture students closing a nutshell other than manually parsing $autoselect. 
+The inactiveNutshell event fires when the student scrolls past the nutshell, leading to it automatically closing. However, if the student manually reclicks the nutshell link to close it, there is no specified event that captures it (e.g. closeNutshell) – instead, both $autocapture and inactiveNutshell fire at the same time. 
+
+Both indicate different behaviors – the student scrolling past indicates moving on (student intent is ambiguous), while manually closing suggests that the student actively decided they were done with the nutshell. If distinguishing between the two is necessary (e.g. adding a flag to inactiveNutshell events to signal if it was triggered manually), duration (inactiveNutshell) should be captured.   
 
 ### 3.4. internalLinkClick
 
