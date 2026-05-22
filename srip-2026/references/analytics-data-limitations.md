@@ -1,11 +1,26 @@
 ---
 created: 2026-05-18
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-22
 ---
 
 Claude description: NTW2029 PostHog analytics data limitations for AY 2025-26 (semesters 2510 and 2520) — what the data can and can't reliably answer, the failure modes (session inactivity timeout, background-tab time, tab-never-closed gap), and the proposed visibilitychange fallback. Work-in-progress; will be updated as open design questions settle.
 
 # Analytics Data Limitations
+
+## About this document
+
+This document provides system-level orientation to what the NTW2029 analytics data can and can't reliably answer. It frames the failure modes across metrics so analyses can be anchored to questions the data can actually support.
+
+**Origin:** Synthesized from existing per-metric and per-event documentation plus the 2026-05-18 conversation with the developer about visibility tracking. Drafted with AI assistance under specific reference-document conventions, then reviewed and edited by the instructor.
+
+**Relationship to other docs in this workspace:** This doc is the orientation layer. Granular references live in `kristen/assignments/`:
+
+- `event-level-overview.md` — per-event field and property documentation
+- `low-level-overview-general.md` — per-metric breakdown and current PostHog usage
+
+This doc cross-references both for detail. The granular docs cover what each event or metric does and its specific limitations; this doc covers what kinds of analyses the overall data supports.
+
+## What this document covers
 
 This document explains the failure modes in the NTW2029 PostHog analytics data collected during AY 2025-26 (semesters 2510 and 2520) and what they mean for analyses that draw on this data. It's a work-in-progress and will be updated as we settle open questions with the developer.
 
