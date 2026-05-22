@@ -42,7 +42,3 @@ These eight have per-student due dates because they're tied to or cascade from e
 ## Refreshing the data
 
 The script at `research/srip-2026/scripts/fetch-per-student-due-dates.py` in the AI-projects repo re-fetches this from Canvas. Re-run when overrides change (extensions granted, conferences rescheduled).
-
-## Known data gaps
-
-- Canvas has no E10 override for Eugene Chan or Navya Gupta even though both have P06 conference recordings dated 2026-04-01. The script fills these in manually using the recording date. If a future update sets the Canvas override, the manual fallback can be removed from the script.
