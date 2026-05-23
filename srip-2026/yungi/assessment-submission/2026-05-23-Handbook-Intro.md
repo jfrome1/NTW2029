@@ -113,10 +113,8 @@ So, it seems like the area of applied data analysis really is a recent thing
 
 - The insight for data, of course, would be used to enhance the educational experience (how?)
 - So, the questions is : "What constitutes improvement?"
-
-
-
-
-
-
+- "What should the relationship between data and instructor be?" (what?)
+- How can the implementation of LA be done responsibly?
+- What role does the student play in the system?
+- And in what way will analytics aid in the development of Artificial Intelligence and vice versa?
 
