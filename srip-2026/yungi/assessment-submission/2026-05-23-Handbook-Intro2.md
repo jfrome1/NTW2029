@@ -82,7 +82,7 @@
 
 
 
-
+- LA can be said that it is a field that is culturally defined as an association between technoloiges, those who pioneer them and the research agendas that stems from them.
 
 
 
