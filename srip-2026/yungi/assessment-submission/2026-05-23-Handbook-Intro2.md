@@ -44,11 +44,41 @@
 
 - This may seem like LA is distinguished from other fields, but there are related fields that would likely claim to share the same concerns and see the the same opportunities in the growth of technology-mediated data in education. These would be data mining, AI in education, learning sciences, computer supported collaborative learning, and the more recent educational data and learning engineering.
 
+<br>
 
 <h3>Methodology in LA</h3>
 
-- Researchers suggest that methodology within LA is far ranging and there is no truly common language or processes across the field by which researchers demonstrate evidence. 
+- Researchers suggest that methodology within LA is far ranging and there is no truly common language or processes across the field by which researchers demonstrate evidence.
 
+- But, this methodological openness has contributed to an inclusive community and assisted membership growth
+
+- The trade off is, however, if methology is too open, the way how arguments are made and evidence is demonstrated may be vague, while they are the key factors in differentiating the field of LA from others.
+
+- Hence, communication between members of this field of research may be hard due to the lack of standard methods.
+
+- It also makes it difficult to differentiate LA from the broader world of education research, though one can contrast the short-cycle, direct and local impact of LA on the learning populations from which data is collected with the relatively extended time scale, indiret and generalized impact of educational research writ large.
+
+<br>
+
+<h3>Summary of the "Methodology in LA"</h3>
+
+- Main Argument : LA suffers from a methodological identity crisis, since LA does not have a single, standardized way of doing research. There are so many methodologies!! While it may gain some community diversity, it would lose academic clarity.
+
+- LA cannot be defined by "how" it does research, but rather by the "speed and locality of its impact"
+
+
+<h4>Key Points of the Analysis</h4>
+
+- The author notes that LA is highly expansive and lacks a "common language" or uniform process for proving facts
+- In a traditional scientific sense, (Karl Popper) real science needs shared logic and testable/falsifiable rule, but LA falls short on this criterion.
+
+1) Pros of LA : This openness makes LA highly inclusive. It allows people from different backgrounds join the field, driving rapid membership growth.
+2) Cons of LA : With standar methods, researchers within the field struggle to communicate clearly or convince one another with their data.
+
+
+
+- Then, how do we separate LA from others, if their methods cannot?
+- Since it cannot be defined by a single research method, LA must instead itself by its unique capability to deliver fast, direct, and localized data impact to students, separating it from slower, traditional research.
 
 
 
