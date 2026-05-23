@@ -101,8 +101,18 @@ So, it seems like the area of applied data analysis really is a recent thing
 - The idea of these data sources is that there lies uncovered insight into learning
 
 - Note that unlike analyzing profit, revenues in BA, learning is a more slippery construct.
+- The data that is found for learning is far more uncertain than researchers thought
 
+- So, the main question we are trying to solve is "what is learning? and how do people learn, and how do they make their learning process better? What factors make the learning process better?
 
+<hr>
+
+- Hence, LA would be an opportunity to provide "new routes for teachers to understand their students", whilst understanding their learning behaviors.
+
+- LA also offered insight directly to students that can inform their studying, collaboration, or other learning activities (such as in our case, pushing button, nutshells, etc).
+
+- The insight for data, of course, would be used to enhance the educational experience (how?)
+- So, the questions is : "What constitutes improvement?"
 
 
 
