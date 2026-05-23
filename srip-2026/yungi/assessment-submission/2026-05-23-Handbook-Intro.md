@@ -98,7 +98,9 @@ So, it seems like the area of applied data analysis really is a recent thing
 
 - Platforms like Moddle opened doors to extensive, organized and centralized data streams that couls be utilized to investigate learning.
 - So, early adopters in the institutions of higher edcuation began to see the possibilities of observing patterns in student data.
+- The idea of these data sources is that there lies uncovered insight into learning
 
+- Note that unlike analyzing profit, revenues in BA, learning is a more slippery construct.
 
 
 
