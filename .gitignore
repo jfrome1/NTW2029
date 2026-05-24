@@ -9,8 +9,6 @@ dist/
 build/
 
 # Local environment files
-.env
-.env.local
 .env.*.local
 
 # Logs
@@ -76,3 +74,4 @@ coverage/
 
 # Package manager lock files
 tmpclaude-*
+config.bat

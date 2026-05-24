@@ -43,16 +43,16 @@ import posthog from "posthog-js";
         if (typeof posthog === 'undefined') {
           throw new Error('PostHog is not loaded');
         }
-
         posthog.init(config.postHogConfig.apiKey, {
           api_host: config.postHogConfig.apiHost,
           persistence: 'memory',
           person_profiles: 'identified_only',
         });
-          posthog.identify(user.id, {
-            name: user.username,
-            timestamp: new Date().toISOString()
-          });
+        setupVisibilityTracking();
+        posthog.identify(user.id, {
+          name: user.username,
+          timestamp: new Date().toISOString()
+        });
       } catch (error) {
         console.error('Error initializing tracking:', error);
       }
@@ -65,6 +65,54 @@ import posthog from "posthog-js";
 
     // Usage
     initialize();
+
+    function setupVisibilityTracking() {  
+      let lastVisChange = Date.now() // from current state
+      const pageOpenedAt = Date.now();
+
+      // If the tab is visible/hidden upon load
+      if (document.visibilityState === 'visible') {
+        posthog.capture('tabFocused', {
+          isInitial: true,
+          page: document.title,
+          totalTimeOpen: 0,
+          timeHidden: 0
+        })
+      }
+      else {
+        posthog.capture('tabUnfocused', {
+          isInitial: true,
+          page: document.title,
+          totalTimeOpen: 0,
+          timeFocused: 0
+        })
+      }
+      document.addEventListener('visibilitychange', () => {
+        const now = Date.now()
+        const elapsedMs = now - lastVisChange
+        const currOpenedMs = now - pageOpenedAt
+        
+        // If the tab is currently focused
+        if (document.visibilityState === 'visible') {
+          posthog.capture('tabFocused', {
+            isInitial: false,
+            page: document.title,
+            totalTimeOpen: currOpenedMs,
+            timeHidden: elapsedMs
+          })
+        }
+        // If tab is currently hidden 
+        else {
+          posthog.capture('tabUnfocused', {
+            isInitial: false,
+            page: document.title,
+            totalTimeOpen: currOpenedMs, 
+            timeFocused: elapsedMs,
+          })
+        }
+        lastVisChange = now
+      })
+    }
 
     window.addEventListener("load", function () {
     let readEventTriggered = false;
