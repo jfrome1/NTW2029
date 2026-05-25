@@ -33,7 +33,8 @@ PostHog autocapture records two events per visit:
 
 The existing analytics dashboard (https://us.posthog.com/project/101665/dashboard/266605) computes time-on-page by matching each `$pageview` to its `$pageleave` within the same PostHog session and taking the time delta.
 
-PostHog automatically splits sessions on 30-minute inactivity. A session inactive for more than 30 minutes ends, so a `$pageview` with no matching `$pageleave` in-session is excluded from the calculation rather than miscounted as a multi-hour visit.
+PostHog automatically splits sessions on 30-minute inactivity. A session inactive for more than 30 minutes ends, so a `$pageview` with no matching `$pageleave` in-session is excluded from the calculation rather than miscounted as a multi-hour visit. 
+
 
 ## What this means for the data
 
@@ -42,9 +43,7 @@ Reliable measurements (no known accuracy issue):
 - Pageview counts per page
 - Per-student access frequency (how often each student accessed the site)
 - Timing patterns (when in the day/week students access)
-- Navigation paths (sequences of pages visited)
 - Page popularity (which pages get the most visits)
-- Drop-off and entry/exit patterns
 - Correlation of access frequency with outcomes
 
 Time-on-page is partially reliable, with two residual failure modes:
@@ -59,6 +58,8 @@ Unreliable measurements (use with caution or avoid):
 - Total time-on-site per student (compounds the above)
 - Engagement-depth metrics that depend on dwell time
 - Distinguishing studied-page vs. glanced-page
+- Navigational metrics (e.g. sequence of pages visited, drop-off & entry/exit patterns)
+    - PostHog is initialized with `persistence: memory`, which ties individual sessions to a single page. However, built-in navigation features (user paths, funnels, entry/exit paths) assume multi-page sessions, so viewing them will require reconstructing navigational paths across pages by timestamp (i.e. grouping $pageview events by distinct_id & ordering by timestamp). 
 
 ## Proposed fix: visibilitychange fallback
 
