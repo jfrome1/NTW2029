@@ -68,6 +68,15 @@ Read will be fired as long as the student scrolls past 50% of the page, no matte
 
 The read event only fires the first time a student reaches 50% scroll depth. Subsequent scrolling behavior not captured in the same session/page. As such, students who scrolled the page once are lumped together with students who scrolled up and down the page multiple times, despite both reflecting different levels of engagement. 
 
+3.1.4. **Recommended Changes**
+
+Current behavior: read fires the first time a user scrolls more than 50% of the page. It does not trigger any other times in the session, regardless of further scrolling behavior.  
+
+Recommended changes: Adding multiple read events that trigger at different thresholds of the page, such as 25%, 50% and 75%. This enables computing how long the student took to scroll to each threshold through the timestamps attached to each read event, which can provide a better idea of engagement depth – for instance, a student who went from 25% to 100% in \<1s most likely did not actually read the page. As such, scroll speed (from read events) and time on page (from 
+
+- Purpose: Scroll speed/how quickly a student read through the page is a good indicator of engagement. By logging events at multiple thresholds (25%, 50%, 75%, 100%), scroll speed can be computed from the timestamps between each threshold, and combined with time on page (from tabFocused/tabUnfocused) to better estimate reading engagement.   
+- Limitation: A student that stays on the top of the page for a long time, then returns and scrolls quickly to the bottom of the page will be logged as having a slow scroll rate, hence overestimating their engagement. This limitation is present for all other events, hence no single event is able to accurately estimate engagement. The best solution is to use a combination of events to do so; however, this will still be an inference, and cannot be completely verified as actual engagement. 
+
 ### 3.2. openNutshell 
 
 3.2.1. **Trigger:** User opens a nutshell. 
@@ -118,11 +127,19 @@ inactiveNutshell’s duration property captures how long the nutshell was open b
 
 The inactiveNutshell event fires when the student scrolls past the nutshell, leading to it automatically closing. However, if the student manually reclicks the nutshell link to close it, there is no specified event that captures it (e.g. closeNutshell) – instead, both $autocapture and inactiveNutshell fire at the same time. 
 
-Both indicate different behaviors – the student scrolling past indicates moving on (student intent is ambiguous), while manually closing suggests that the student actively decided they were done with the nutshell. If distinguishing between the two is necessary (e.g. adding a flag to inactiveNutshell events to signal if it was triggered manually), duration (inactiveNutshell) should be captured.   
+Both indicate different behaviors – the student scrolling past indicates moving on, which suggests ambiguous student intent & can indicate that the nutshell was unable to provide the needed information. On the other hand, manually closing suggests that the student actively decided they were done with the nutshell after getting the necessary information. This can provide insights regarding the effectiveness of the nutshell (e.g. higher rates of automatic closures on a nutshell may indicate that it is not holding students' attention vs. higher rates of manual closes suggests it is serving its purpose). 
+
+3.3.4. **Recommended Changes**
+
+Current behavior: inactiveNutshell fires whenever a nutshell is closed, which can happen by 1\. nutshell automatically closing after the user scrolls past it, or 2\. user manually clicking on the nutshell to close it. The event does not provide any properties that distinguish between (1) and (2); as of 25 May, the best way to do so is to check if there are any $autocapture events that happened at the same time as the inactiveNutshell event, as $autocapture is triggered when the user clicks a nutshell link. Changes in Posthog may include creating a new view with an additional column for flagging whether inactiveNutshell was triggered manually or automatically. 
+
+Recommended changes: For future tracking, a closeNutshell event could be added for cases when the user clicks the nutshell to close it. This event would include the same properties as inactiveNutshell (duration & text). inactiveNutshell events would be changed to only trigger after a nutshell automatically closes when the user manually scrolls past it. 
+
+- Purpose: Enables distinguishing between user manually closing nutshell vs. user scrolling past nutshell, and hence the behaviors associated with each event.  
 
 ### 3.4. internalLinkClick
 
-3.4.1. **Trigger:** User clicks on any internal link. 
+**Trigger:** User clicks on any internal link. 
 
 Custom properties: 
 
@@ -145,7 +162,7 @@ internalLinkClick records link URL and anchor text, but not which element on the
 
 ### 3.5. externalLinkClick
 
-3.5.1. **Trigger:** User clicks on an external link. 
+**Trigger:** User clicks on an external link. 
 
 Custom properties: 
 
@@ -166,7 +183,6 @@ Clicking on an external link indicates that 1\. the student is interested in kno
 
 After clicking the external link, Posthog cannot continue tracking the student’s activity – as such, the student’s level of engagement with the external content is obscured, whether they read the destination or instantly closed it. externalLinkClick also does not reflect the duration the student spent on the external site or their intention (e.g. accidental click vs. actual interest), hence not being an accurate reflection of student behavioral patterns. 
 
-
 ### 3.6. tabFocused
 
 3.6.1. **Trigger:** User clicks on the tab. 
@@ -184,7 +200,7 @@ Custom properties:
 
 *a. Shows what pages students are engaging with*  
 
-The tabFocused event fires when students return to a course site tab after switching away. This provides a better estimate for when students are focusing on a certain tab, which allows tracking of how long a study session actually lasted for as well as resumed study sessions, unlike $pageview. As such, this can be paired with tabUnfocused to measure attention patterns during a session, and how long students engage with any given pages before switching. 
+The tabFocused event fires when students return to a course site tab after switching away. This provides a better estimate for when students are focusing on a certain tab, which allows tracking of how long a study session actually lasted for as well as resumed study sessions, unlike $pageview. As such, this can be paired with tabUnfocused to measure attention patterns during a session, and how long students engage with any given page before switching. 
 
 *b. Shows how often students multitask* 
 
@@ -199,7 +215,6 @@ tabFocused does not show what caused the tab to be hidden; there are multiple re
 *b. Unable to track entire study sessions*
 
 As Posthog is set up with \`persistence: memory\`, each session lasts for a single page. As each new tab and page reload starts a new session, a single study period may span many sessions, hence having multiple tabs open on different pages of the website will lead to multiple unique sessions. Students’ study periods can still be constructed by grouping by distinct\_id and timestamp within a certain window, but session-based analytics (e.g. session duration, funnels) will overestimate session starts and underestimate engagement throughout a study period.
-
 
 ### 3.7. tabUnfocused
 
@@ -226,15 +241,13 @@ The timeFocused property allows tracking of how long the student focused on the 
 
 If a new tab is opened without the student ever clicking into the tab, a tabUnfocused will fire but no $pageview event will be triggered. If the student closes the tab without focusing on it, $pageleave will fire, but the session will not include any $pageview event. This should not be an issue if calculating session duration using $pageview and $pageleave, as it will be rightfully dropped. However, if using session counts, these sessions will be overcounted as real sessions even though the student never viewed the page. 
 
-This could be mitigated by checking the isInitial property – in this case, filtering out sessions with a single tabUnfocused where isInitial \== true.   
+This could be mitigated by checking the isInitial property – in this case, filtering out sessions with only one tabUnfocused where isInitial \== true. 
 
 *b. May overcount due to multi-tab behaviour*
 
 If multiple tabs are unfocused (e.g. student switches to a tab without the website open), all tabs will trigger a tabUnfocused event. Each tabUnfocused tracks its own timeFocused independently – as such, metrics such as total time hidden or number of times a tab was unfocused should not be calculated by summing across tabUnfocused/tabFocused events, as this value will be overestimated. 
 
 A solution could be computing students’ time away from the site, by reconstructing a chronological order of tabFocused/tabUnfocused events across all of the student's tabs, then checking when there were no tabs focused, and for how long this occurred. 
-
-
 
 ## **4\. Default Events** 
 
@@ -249,7 +262,7 @@ A solution could be computing students’ time away from the site, by reconstruc
 Autocapture logs the link that was clicked, as well as the element that was clicked. This enables differentiating between the different elements students are clicking to access a page, For each page, there are multiple buttons that can lead to each page; $autocapture records both the page link that was clicked to (through elements\_chain\_href), and the element that was clicked (through elements\_chain). 
 
 For example, the path [https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/](https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/e05-p1-conf-notes/)  
-[e05-p1-conf-notes/](https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/e05-p1-conf-notes/) is anchored within the sidebar navigation as well as the ‘Previous’ and ‘Next’ buttons in the footers, but will look similar in the events table if grouped by path. This can be ignored if analysis is not concerned with where on a page students are choosing to navigate from; otherwise, the elements\_chain field provides a workaround as it captures the exact element that is clicked. 
+[e05-p1-conf-notes/](https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/e05-p1-conf-notes/) is anchored within the sidebar navigation as well as the ‘Previous’ and ‘Next’ buttons in the footers, but will look similar in the events table if grouped by path. This can be ignored if analysis is not concerned with where on a page students are choosing to navigate from; otherwise, the elements\_chain field provides a workaround as it captures the exact element that is clicked. Alternatively, internalLinkClick can be used. 
 
 *b. Differentiating between the type of clicks* 
 
@@ -413,15 +426,14 @@ Out of 28 insights, the following use certain events:
 | all pages | Ranks all pages by how much time was spent on them, excluding time spent by test/development users  | $pageview, $pageleave |
 | Average time per student on each resource page | For /resource pages, break down by time spent on them by students | $pageview, $pageleave |
 | Page View (by page load)  | Ranks pages by raw pageview count (without filtering for unique users) | $pageview |
-| Read(Scroll) page percentage | Counts $read events for each page (without filtering for unique users) | $read |
+| Read(Scroll) page percentage | Counts read events for each page (without filtering for unique users) | $read |
 | time spent on page for each user | For each page, shows total time, average time per view/user, unique users, and how many users spent over 1 minute (without filtering out test/development users) | $pageview, $pageleave |
 | Where are students experiencing frustration? | For each page, shows the number of $rageclick events triggered, filtering for unique users.  | $rageclick |
 | Pages with longest time spent | Ranks pages by total session duration | $session\_duration |
 
 All limitations associated with the relevant events apply. 
 
-
-#### **List of all default properties** 
+**List of all default properties** 
 
 String   
 $current\_url, $pathname, $host, $referrer, $referring\_domain, $browser, $browser\_language, $browser\_language\_prefix, $os, $os\_version, $device, $device\_type, $lib, $lib\_version, $user\_id, $raw\_user\_agent, $config\_defaults, $sdk\_debug\_extensions\_init\_method, $geoip\_country\_code, $geoip\_country\_name, $geoip\_continent\_code, $geoip\_continent\_name, $geoip\_city\_name, $geoip\_postal\_code, $geoip\_time\_zone, $geoip\_subdivision\_1\_code, $geoip\_subdivision\_1\_name, token 
