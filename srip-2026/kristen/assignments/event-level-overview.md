@@ -192,7 +192,7 @@ Custom properties:
 | Name | Purpose |
 | :---- | :---- |
 | isInitial | Boolean, checks if this is the initial visibility state upon page load |
-| page | Link URL |
+| page | Title of the page the event was triggered on |
 | totalTimeOpen | Time elapsed since the tab was first opened |
 | timeHidden | Time elapsed since the tab was unfocused |
 
@@ -225,7 +225,7 @@ Custom properties:
 | Name | Purpose |
 | :---- | :---- |
 | isInitial | Boolean, checks if this is the initial visibility state upon page load |
-| page | Link URL |
+| page | Title of the page the event was triggered on |
 | totalTimeOpen | Time elapsed since the tab was first opened |
 | timeFocused | Duration that the tab was focused for  |
 
