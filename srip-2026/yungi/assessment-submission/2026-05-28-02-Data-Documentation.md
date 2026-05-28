@@ -1,3 +1,11 @@
+---
+created: 2026-05-29
+lastUpdated: 2026-05-29
+lastEvaluated: 
+writingClarityEvaluated: 
+---
+
+
 ### Group 1 – Device and browser context
 
 These appear on **every single event**, no matter what type. They describe the environment the student was using.
