@@ -279,7 +279,7 @@ Autocapture only fires for clicks within the website’s content, and does not e
 | Click navigation action | Events recorded |
 | :---- | :---- |
 | Clicking an internal link to go from Page A to Page B  | $autocapture internalLinkClick $pageleave for Page A $pageview for Page B |
-| Clicking browser’s back button to go from Page A to Page B | $pageleave for Page A $pageview for Page B |
+| Clicking browser’s back button to go from Page A to Page B | $pageleave for Page A |
 | Accessing Page B via a direct link | $pageview for Page B |
 
 ### 4.2. $identify 
