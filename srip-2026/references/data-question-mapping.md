@@ -166,7 +166,7 @@ Scenarios:
 2. _Weekly checker_: student visits the schedule page roughly weekly (e.g., Sunday-night planning).
 3. _Deadline-driven checker_: student visits the schedule page when an assignment deadline approaches.
 4. _Background-tab on schedule_: student opens the schedule once, leaves the tab open, "checks" it by switching tabs (no new `$pageview` fires for the tab-switch).
-5. _Browser-bookmark/back-button checker_: student reaches the schedule via browser back button or bookmark, which still fires `$pageview` (per the `$autocapture` table in `event-level-overview.md` Section 4.1.3).
+5. _Browser-bookmark/back-button checker_: student reaches the schedule via browser back button or bookmark, which **does not** fire `$pageview` (per the `$autocapture` table in `event-level-overview.md` Section 4.1.3).
 6. _Reload-as-check_: student already has the schedule page open and reloads to see updates.
 
 | # | Events captured | Cadence accuracy verdict |
@@ -175,7 +175,7 @@ Scenarios:
 | 2 | `$pageview` per page visit, weekly cadence | _Reliable_ |
 | 3 | `$pageview` clusters near deadlines | _Reliable for cluster detection_. Relative to "regular cadence" reads as bursty |
 | 4 | One `$pageview`, no further events while tab stays open | _Coverage gap_. Each tab-switch "check" is invisible; cadence is undercounted |
-| 5 | `$pageview` per page visit (browser navigation still loads the page) | _Reliable_ |
+| 5 | `$pageview` per page visit (browser navigation still loads the page) | _Coverage gap_. Each tab-switch "check" is invisible; cadence is undercounted |
 | 6 | `$pageview` per reload | _Reliable_, but could conflate "check" with "force-refresh" |
 
 Question-level verdict: _Reliable for the population of students who close the schedule tab between checks; biased low for students who use the schedule as a background tab._ Hard to know what fraction of students fall into each pattern without instrumentation that distinguishes them. The visibilitychange fix (`tabFocused` on the schedule page) would let analyses count tab-returns as additional "checks."
