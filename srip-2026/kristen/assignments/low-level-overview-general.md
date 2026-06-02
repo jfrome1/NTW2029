@@ -28,17 +28,23 @@ Represents interactions a user has with the website, including button clicks, pa
 1. Event name   
 2. Unique ID of person   
 3. Timestamp of event occurring  
-4. Properties (default and custom) 
-
-Table of autocaptured events: [https://posthog.com/docs/product-analytics/autocapture](https://posthog.com/docs/product-analytics/autocapture)   
-Table of event fields/properties: [https://posthog.com/docs/data/events](https://posthog.com/docs/data/events)
-
-**1.2.1. Anonymous event handling**
-Currently, \~4% of all events are anonymous (user is not identified), with a random unique person\_id, regardless of the actual user who triggered it. Additionally, \~14% of all events are associated with a person\_id that does not match any existing user’s ID, coming from 1434 unique user ids. These events are a superset of the anonymous events. 
-
-These events were mainly triggered from development/testing pages (e.g. localhost). As such, analysis including per-student breakdowns should filter out events with person\_id values that do not correspond to any existing user’s ID, as they do not represent any student. 
+4. Properties (default and custom)   
 
 Event capturing: Posthog runs as a script loaded on the course site. Once loaded, the script captures events as they occur and sends them back to Posthog's servers. 
+- Table of autocaptured events: [https://posthog.com/docs/product-analytics/autocapture](https://posthog.com/docs/product-analytics/autocapture)   
+- Table of event fields/properties: [https://posthog.com/docs/data/events](https://posthog.com/docs/data/events)
+
+*1.2.1. Anonymous event handling*  
+Out of 202114 total events in Posthog, several filters are used to get events from the 2510/2520 cohorts to create the view \`cohort\_25\`: 
+
+| Events triggered by | Posthog filter |
+| :---- | :---- |
+| Test/dev users  | No corresponding id in persons table  |
+|  | [person.properties.name](http://person.properties.name) \= \`joe\`, \`jonathan\`, or \`fromeguest\` |
+| Test/dev pages | properties.$current\_url \= ‘%localhost%’ |
+
+Currently, 158713 events out of 202114 total events were triggered by students belonging to the 2510/2520 cohort.   
+
 
 #### 1.3. Properties  
 Metadata that can be attached to events to enable cleaner grouping and filtering. Some properties are automatically attached: browser, OS, device type, current URL, referrer, screen size, and GeoIP-derived location. Custom properties can also be created, such as tagging pages with metadata like \`is\_nutshell\_link\`, \`is\_assignment\`. 
