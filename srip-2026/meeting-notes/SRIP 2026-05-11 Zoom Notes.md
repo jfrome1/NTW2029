@@ -20,7 +20,7 @@ Topics covered:
 - Cross-checking discipline
 	- extended Excel-totals example (compute the same number two ways to surface errors; e.g., Section-1 + Section-2 should equal "all students," and last year's discrepancy revealed un-excluded internal users).
 - Proxy data
-	- analytics are a proxy for what you actually care about (page-open time ≠ reading; could be nervous scrolling). Same logic as IQ tests for intelligence.
+	- analytics are a proxy for what you actually care about (page-open time isn't the same as reading; could be nervous scrolling). Same logic as IQ tests for intelligence.
 - Working norms
 	- 40 hr/week, regular office schedule (flexible time of day),
 	- daily meetings, end-of-day reporting email, intentional next-day planning
