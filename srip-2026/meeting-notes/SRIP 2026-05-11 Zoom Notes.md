@@ -35,5 +35,5 @@ For interns (today / tomorrow):
 2. Email me their PostHog account email and GitHub account email so you can grant project access.
 3. Write two complementary documents, each intern responsible for one doc:
 	- Low-level (PostHog + web analytics fundamentals): how events are captured, what fields exist, what's lost in normal operation (closed tab, browser crash, computer sleep, page transitions), how confident we can be that 100% of behaviors of interest are captured, and under what conditions event-end signals are or aren't received.
-	- High-level (PostHog strategy): how to plan and approach analytics for a non-financial website — dashboards vs. ad-hoc queries, how to think about what's worth measuring, workflow strategies. Avoid the "I can build a panel that does X" trap.
+	- High-level (PostHog strategy): how to plan and approach analytics for a non-financial website: dashboards vs. ad-hoc queries, how to think about what's worth measuring, workflow strategies. Avoid the "I can build a panel that does X" trap.
 4. Write down project questions to discuss in daily meetings, keeping in mind the projects' ultimate goal: help me improve my course
