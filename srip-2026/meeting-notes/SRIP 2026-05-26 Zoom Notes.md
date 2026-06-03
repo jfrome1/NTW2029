@@ -3,11 +3,11 @@
 Topics covered:
 
 - Yungi: learning-analytics overview walkthrough
-	- Walked us through the field verbally: LA as the measurement, collection, analysis, and reporting of data about learners; distinct from business analytics (optimizes for profit) and from educational data mining (builds new computational methods over large data, where LA applies known models to generate actionable interventions for specific students)
+	- Learning analytics (LA) is the measurement, collection, analysis, and reporting of data about learners; distinct from business analytics (which optimizes for profit) and from educational data mining (builds new computational methods by looking for patterns over large data sets, where LA applies known models to intentionally collected data to generate actionable interventions)
 	- The rise of the LMS is what made LA possible at scale; the field is still young (~20 years) and lacks a single precise definition
 	- Current LA research skews toward easily-measured behavioral metrics (login frequency, time spent, clicks), with a gap in concrete applied interventions and limited handling of psychological factors like motivation and anxiety
 	- Two framings from the discussion: the unobservable-construct problem (you can measure behavior but not thought) isn't unique to learning analytics; it's the whole field of psychology. And the trap to resist is that what's easy to measure tends to get the focus, so decide what's worth measuring, and why, first
-	- Big-data vs. controlled-experiment contrast (the horror-movie example): one approach holds everything constant and varies one thing; the other looks for signal across a large, messy dataset
+	- Big-data vs. controlled-experiment contrast (the horror-movie example): big data looks for signal across a large, messy dataset; controlled-experiment holds everything constant and varies one thing
 	- Process point: the written 1-2 page summary was part of the assignment, not just the verbal walkthrough, and work needs to live in the repo as markdown (email gets lost), so post it to the repo
 
 - Kristen: data verification and insight-building
