@@ -13,7 +13,7 @@ This course includes three required conferences:
 
 ## For a Productive Conference
 
-The items below help us make the most of our conference time. Following them means we can focus on your draft rather than troubleshooting setup issues or catching you up on feedback.
+The items below help us make the most of our conference time. Following them means we can focus on your draft rather than troubleshooting setup issues or restating feedback I've already sent.
 
 ### Before Your Conference
 
@@ -21,7 +21,7 @@ The items below help us make the most of our conference time. Following them mea
 
 - Book your conference through the Zoom tool on Canvas once times are available [:instructions](#x-instructions)
 - Check times carefully—schedule when you can review feedback during the 2 hours before we meet [:why this timing matters](#x-why-this-timing-matters)
-<!-- - [:What if I see strange conference times?](#x-what-if-i-see-strange-conference-times) -->
+<!-- - [:What if I see strange conference times?](#x-what-if-i-see-strange-conference-times) - this was for troubleshooting time zone issues with Microsoft Booking, not Zoom -->
 
 **Review your work:**
 
@@ -38,9 +38,9 @@ The items below help us make the most of our conference time. Following them mea
 
 **Environment:**
 
-- Find a quiet, private indoor space without wind noise or other people
+- Find a quiet, private _indoor_ space without wind noise or other people
 - Check your lighting (avoid darkness or bright backlights)
-- Do not eat during the conference
+- Don't eat during the conference
 
 **Technical:**
 
@@ -54,11 +54,11 @@ The items below help us make the most of our conference time. Following them mea
 - Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
     - NOTE: Your booking confirmation email includes a different Zoom link—ignore it. Always use the link above (Meeting ID: 250 394 5161).
 - Email or message me if you have connection difficulties
-- Tell me at the start if you want the conference recorded [:about recordings](#x-about-recordings)
+- I try to record all student interactions, but if you want to make sure that you can access a recording of the conference, you must remind me to record[:about recordings](#x-about-recordings)
 
 ### After the Conference
 
-- Submit your conference report the same day
+- Submit your conference summary the day you receive your conference link.
 - Ask specific questions via email/Telegram [:what counts as a specific question?](#x-what-counts-as-a-specific-question)
 - You may request additional meetings, but my schedule is very tight during conference weeks.
 
