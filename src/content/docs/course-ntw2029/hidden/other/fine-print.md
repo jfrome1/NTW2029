@@ -5,8 +5,8 @@ date: 2026-05-15
 draft: true
 sidebar:
   badge:
-  text: Draft
-  variant: caution
+    text: Draft
+    variant: caution
 
 ---
 
