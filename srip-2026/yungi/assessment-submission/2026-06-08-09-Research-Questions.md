@@ -6,7 +6,7 @@
 
 
 
-## What I should do (1) : Which measurement actually matters for now? And why?
+## Which measurement I thought actually matters for now and why?
 
 1) Scroll Velocity : computed using the timestamps, using "read" thresholds (25, 50, 75, 100%). This is important because it distinguishes a student carefully pacing through material from one who jumps straight to the bottom.
   
@@ -20,7 +20,7 @@
 ## What I should do (2) : Potential Question we can go with?
 
 1) Modeling the "True" Comprehension VS The Illusion of Engagement
-- Question : "
+- But, how can we trully understand if the user actually "concentrated" mentally? Wouldn't all analysis we do be some type of a "prediction"?
 
 
 2) We don't know if the students dismissed nutshells because it solved their knowledge gap or merely scrolled past
