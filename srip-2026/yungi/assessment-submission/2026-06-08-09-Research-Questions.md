@@ -8,11 +8,10 @@
 
 ## Which measurement I thought actually matters for now and why?
 
-1) Scroll Velocity : computed using the timestamps, using "read" thresholds (25, 50, 75, 100%). This is important because it distinguishes a student carefully pacing through material from one who jumps straight to the bottom.
   
-2) <b>True</b> Focus Duration : Using tabFocused / tabUnfocused events. This is important because it measures the actual time a tab was active, stripping away the idle time when students minimize windows or switch tabs
+1) <b>True</b> Focus Duration : Using tabFocused / tabUnfocused events. This is important because it measures the actual time a tab was active, stripping away the idle time when students minimize windows or switch tabs
 
-3) Nushells (micro-interactions) : openNutshell events paired with the durtion property from inactiveNutshell events. This is important because it measures interest in supplementary content and the exact time spent digesting.
+2) Nushells (micro-interactions) : openNutshell events paired with the durtion property from inactiveNutshell events. This is important because it measures interest in supplementary content and the exact time spent digesting.
 
 
 
