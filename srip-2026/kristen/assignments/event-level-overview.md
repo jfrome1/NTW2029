@@ -2,7 +2,7 @@
 
 ## **1\. Events**
 
-All events have the fields: 
+An event is a single timestamped record of something a user did (e.g. viewing a page, clicking a website link). It is stored as one row in the events table, with associated properties describing the action and its context. All events have the fields: 
 
 | Name | Purpose |
 | :---- | :---- |
@@ -72,10 +72,14 @@ The read event only fires the first time a student reaches 50% scroll depth. Sub
 
 Current behavior: read fires the first time a user scrolls more than 50% of the page. It does not trigger any other times in the session, regardless of further scrolling behavior.  
 
-Recommended changes: Adding multiple read events that trigger at different thresholds of the page, such as 25%, 50% and 75%. This enables computing how long the student took to scroll to each threshold through the timestamps attached to each read event, which can provide a better idea of engagement depth – for instance, a student who went from 25% to 100% in \<1s most likely did not actually read the page. As such, scroll speed (from read events) and time on page (from 
+Recommended changes: Adding multiple read events that trigger at different thresholds of the page, such as 25%, 50% and 75%. This enables computing how long the student took to scroll to each threshold through the timestamps attached to each read event, which can provide a better idea of engagement depth – for instance, a student who went from 25% to 100% in \<1s most likely did not actually read the page. As such, scroll speed (from read events) and time on page could potentially be combined to estimate engagement. 
 
 - Purpose: Scroll speed/how quickly a student read through the page is a good indicator of engagement. By logging events at multiple thresholds (25%, 50%, 75%, 100%), scroll speed can be computed from the timestamps between each threshold, and combined with time on page (from tabFocused/tabUnfocused) to better estimate reading engagement.   
-- Limitation: A student that stays on the top of the page for a long time, then returns and scrolls quickly to the bottom of the page will be logged as having a slow scroll rate, hence overestimating their engagement. This limitation is present for all other events, hence no single event is able to accurately estimate engagement. The best solution is to use a combination of events to do so; however, this will still be an inference, and cannot be completely verified as actual engagement. 
+- Limitations:   
+* A student that stays on the top of the page for a long time, then returns and scrolls quickly to the bottom of the page will be logged as having a slow scroll rate, hence overestimating their engagement. This limitation is present for all other events, hence no single event is able to accurately estimate engagement. The best solution is to use a combination of events to do so; however, this will still be an inference, and cannot be completely verified as actual engagement. 
+
+* A student that scrolls to the bottom of the page immediately to check page length, then scrolls back up to read through slowly will only have the initial quick page scroll logged. As such, even if this student carefully reads the page content on the second scroll through the page, this second scroll will not be captured. Computing scroll speed will hence show the student as having a very fast scroll speed, and the resulting inference that the student is not engaged will be inaccurate. A potential solution could be **combining scroll speed with time on page**, to identify such cases. 
+
 
 ### 3.2. openNutshell 
 
@@ -153,6 +157,7 @@ Custom properties:
 *a. Easier querying than $autocapture*
 
 As the link and text properties are distinct fields in the internalLinkClick event, it is the simplest way to count internal navigation events; compared to $autocapture, which requires parsing the elements\_chain property. Grouping by link shows which internal pages students click to most often, while grouping by text shows which anchor wordings are most clicked. 
+*\*\* For details on $autocapture, check 4.1. $autocapture*.
 
 3.4.3. **Limitations**
 
@@ -175,7 +180,9 @@ Custom properties:
 
 *a. Shows what external resources students are engaging with*  
 
-Clicking on an external link indicates that 1\. the student is interested in knowing more information and 2\. is reading the page closely enough to see the link, both of which indicate active engagement. This indicates how deeply students engage with a page, and what kinds of external resources are being utilized more. 
+Clicking on an external link indicates that 1\. the student is interested in knowing more information and 2\. is reading the page closely enough to see the link, both of which indicate active engagement. 
+
+As such, this event provides a signal for how much students are engaging with a page with external links, and what kinds of external resources are being utilized more. 
 
 3.5.3. **Limitations**
 
@@ -245,9 +252,14 @@ This could be mitigated by checking the isInitial property – in this case, fil
 
 *b. May overcount due to multi-tab behaviour*
 
-If multiple tabs are unfocused (e.g. student switches to a tab without the website open), all tabs will trigger a tabUnfocused event. Each tabUnfocused tracks its own timeFocused independently – as such, metrics such as total time hidden or number of times a tab was unfocused should not be calculated by summing across tabUnfocused/tabFocused events, as this value will be overestimated. 
+If a student has multiple website tabs open, then switches to a non-website tab, each website tab will trigger a tabUnfocused, which inflates the event count and causes the sessions that the events belong to, to overlap in time instead of happening sequentially. Additionally, since each tabUnfocused tracks its own timeFocused independently, metrics such as total time hidden or number of times a student left the site should not be calculated by summing timeFocused across all tabUnfocused/tabFocused events, as this will count the same period of time multiple times, which will overestimate final value. 
 
-A solution could be computing students’ time away from the site, by reconstructing a chronological order of tabFocused/tabUnfocused events across all of the student's tabs, then checking when there were no tabs focused, and for how long this occurred. 
+A solution could be computing students’ time away from the site, by:
+
+1. Reconstructing a chronological order of tabFocused/tabUnfocused events across all of the student's tabs  
+2. Checking each stretch of time when the student was likely to be active (events are \<10min apart), for whether there was a period where no tabs were focused, and for how long this occurred.
+
+
 
 ## **4\. Default Events** 
 
@@ -259,7 +271,7 @@ A solution could be computing students’ time away from the site, by reconstruc
 
 *a. Analysis involving locating where on a page students are choosing to navigate from* 
 
-Autocapture logs the link that was clicked, as well as the element that was clicked. This enables differentiating between the different elements students are clicking to access a page, For each page, there are multiple buttons that can lead to each page; $autocapture records both the page link that was clicked to (through elements\_chain\_href), and the element that was clicked (through elements\_chain). 
+Autocapture logs the link that was clicked, as well as the element that was clicked. This enables differentiating between the different elements students are clicking to access a page, For each page, there are multiple buttons that can lead to each page (side buttons, direct links etc); $autocapture records both the page link that was clicked to (through elements\_chain\_href), and the element that was clicked (through elements\_chain). 
 
 For example, the path [https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/](https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/e05-p1-conf-notes/)  
 [e05-p1-conf-notes/](https://ntw-2029.vercel.app/course-ntw2029/assignments/exercises/e05-p1-conf-notes/) is anchored within the sidebar navigation as well as the ‘Previous’ and ‘Next’ buttons in the footers, but will look similar in the events table if grouped by path. This can be ignored if analysis is not concerned with where on a page students are choosing to navigate from; otherwise, the elements\_chain field provides a workaround as it captures the exact element that is clicked. Alternatively, internalLinkClick can be used. 
