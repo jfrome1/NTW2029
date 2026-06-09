@@ -34,6 +34,14 @@
 
 
 
+## Advanced Brain Storming (?)
+
+- So, what we have now is random timestamp data for each students. Since we are trying to understand what the students' behaviors lead to, wait, but are we? Are we trying to analyze what effect the actions have to their grades, or is it more like we want to find out abnormal actions of students in order to identify the uneffective components of the website? (Maybe I can ask Professor)
+
+- So, which direction should we go?
+
+
+
 
 
 
