@@ -6,3 +6,5 @@
 
 - I guess the one direction we can go about is, if we have the "grade" data for students, we can determine what were the common routes "successful (grade higher than B+)" students took. Then, we can identify the effective pages the website provides for students. ==> But the porblem with this is, if the students are basically forced to check the website for the course, what if the routes that students took are all the same? Would there be an abnormal pattern?
 
+
+- I think we need a quiz / comprehension check feature at the bottom of each page so that we know whether students actually understood the material. Or we could also add this feature in the assignment pages so that we can know whether the student understood what he/she needs to do for their assignments. The reason why we need this is, students may take different times to comprehend a specific page. So, the time it took might not reflect whether the student understood / focused on the page.
