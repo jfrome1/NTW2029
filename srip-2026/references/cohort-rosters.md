@@ -48,7 +48,7 @@ These are the registered names only. Preferred names (nicknames), usernames, and
 8. Kim Amin
 9. Kim Yongchan
 10. Kong Xin Yang
-11. Marcus Wee Yu Zhe
+11. Marcus Wee Yu Zhe (dropped the course about 3 weeks in)
 12. Satapathy Pulastya
 13. Bansal Naman
 14. Bennett Ho Cheng Xun
