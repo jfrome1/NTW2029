@@ -28,7 +28,7 @@ As student behavior across page visits can vary widely, calculating durations ca
 | $pageview, last event in session | $session\_id | last event in session’s timestamp \- $pageview timestamp | (3) Walked-away page visit (Session 1\) (6) Tab closed mid-visit |
 | first event in session, $pageleave | $session\_id | $pageleave \- first event in session’s timestamp | (3) Walked-away page visit (Session 2\) (7) Student presses back button |
 
-Certain scenarios overlap in terms of the events that are captured: however, there is no need to distinguish between such scenarios, as the durations computed from them will be interpreted the same way regardless of which scenario applies. This does not apply for 
+Certain scenarios overlap in terms of the events that are captured: however, there is no need to distinguish between such scenarios, as the durations computed from them will be interpreted the same way regardless of which scenario applies. 
 
 A \`pageview\` and its corresponding \`pageleave\` event has a shared property **\`pageview\_id\`**, which can be used to match the \`pageview\` and \`pageleave\`. \`pageview\_id\` persists across sessions; however, \`pageview\` and \`pageleave\` in different sessions should not be matched, as this will include the time between each session.   
    
