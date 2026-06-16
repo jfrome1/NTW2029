@@ -30,9 +30,9 @@ As student behavior across page visits can vary widely, calculating durations ca
 
 Certain scenarios overlap in terms of the events that are captured: however, there is no need to distinguish between such scenarios, as the durations computed from them will be interpreted the same way regardless of which scenario applies. 
 
-A \`pageview\` and its corresponding \`pageleave\` event has a shared property **\`pageview\_id\`**, which can be used to match the \`pageview\` and \`pageleave\`. \`pageview\_id\` persists across sessions; however, \`pageview\` and \`pageleave\` in different sessions should not be matched, as this will include the time between each session.   
+A \`pageview\`, its corresponding \`pageleave\`, and all events between them have a shared property **\`pageview\_id\`**, which can be used to match the \`pageview\` and \`pageleave\`. \`pageview\_id\` persists across sessions; however, \`pageview\` and \`pageleave\` in different sessions should not be matched, as this will include the time between each session.   
    
-The property **\`session\_id\`** persists across all events in the same session only. Unlike \`pageview\_id\`, it will refresh each time a session ends. As such, \`pageview\` and $pageleave may have the same $pageview\_id and a different $session\_id. 
+All events in a session share the property **\`session\_id\`**, which persists across all events in the same session only. Unlike \`pageview\_id\`, it will refresh each time a session ends. As such, \`pageview\` and $pageleave may have the same $pageview\_id and a different $session\_id. Generally, `session_id` should be used to match `pageviews` and `pageleaves` instead of `pageview_id`, to avoid accidentally matching `pageviews` and `pageleaves` in different sessions. 
 
 The following scenarios cover possible student behavior and the events triggered from them.  
 
