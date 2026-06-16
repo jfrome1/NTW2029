@@ -220,7 +220,6 @@ Reasoning: In this scenario, there are no drawbacks of using \`pageview\_id\` or
 | x  | x number of events (read, $autocapture, internalLinkClick etc) |
 | *No event triggered* | Student switches off tab  |
 
-. 
 
 **1.6.3. Computing duration**
 
