@@ -1,0 +1,53 @@
+2026-06-17
+
+Topics covered:
+
+- Yungi: the describe-first mindmap (Figma)
+	- Yungi walked through the four-panel board he built from the email feedback: what actually happened in website use, which relationships might be worth looking for, what the look found, and a possible design or hypothesis. The overall direction is right and the instinct to think ahead is good, so the feedback this time is about pacing and precision rather than about changing course.
+	- Keep the language neutral and precise. "Famous" should be "most frequently visited," and "activity is best near due dates" should be "activity is highest near due dates," because whether a pattern is good or bad is a separate judgment from what the data shows. Watch the logical-connector words too: saying "some students triggered no events in a given week, so only a small number of students used the site" states a conclusion that does not follow, since a few students having no events is perfectly consistent with most students using most pages.
+	- Be clear about what the data shows versus what is being guessed, and about where each number came from. The claim that some students had no events for several weeks did not line up with the supervisor's weekly PostHog email, which lists students with no site activity and showed essentially none after about week three or four. We do not need to track down the exact reason for the mismatch right now. The point is the habit: state what is actually being measured and where the figure came from, so that when two sources disagree we can see why.
+	- Understand what an event measures before interpreting it. The read event fires when a student scrolls past the midpoint of a page, not when a student "reads 50 percent" of it. It is still an open question whether it fires on a short page where the lower half is already visible without any scrolling. Until that is pinned down, the read numbers cannot be interpreted with confidence.
+	- Decide the question before making the graph. The page_view and read event counts are expected to move together, because a student has to load a page before scrolling it, so a strong correlation between them is unsurprising and does not tell us much on its own. The more useful first step is to look closely at the individual records, and to hold the cross-variable relationships (and the idea that a page's structure predicts its read ratio) until the basic descriptive picture is solid. Testing whether structure drives the read ratio is a good question, but it is a future experiment, since it would require holding the page content constant.
+	- A few chart fixes: the bar chart plots both page-view count and read count on a single axis labeled "page view count," so the axis label and a legend need correcting; the bars need to map clearly to the pages they represent; and the R-squared figure carries more significant digits than the data supports.
+	- Direction for the coming days: put together an overall picture of how students used the site last term, in whatever form is convenient (a short slide deck, a set of graphs, or a document), aimed at what the supervisor does not already know. Useful questions are how much students use the site, when they use it, how much they vary from one another, and what they use a lot versus a little. Start with the first panel, what actually happened, and dig into which questions are worth asking and which measurements actually speak to them, since that top-down work is yours while Kristen works bottom-up. If there is time afterward, compare this term (2520) with the previous one (2510). Coordinate with Kristen so the two of you are not duplicating each other.
+	- Tips for using AI as a tool: give it the data and ask it to look for interesting or surprising patterns in an open-ended way, or have it interview you with ten or more questions about the course and the data before it proposes a set of analyses. When troubleshooting, keep a written record of what was tried and concluded, so a later session does not repeat the same steps.
+
+- Kristen: the rebuilt dashboard and the data-integrity catches
+	- Kristen rebuilt the dashboard from the email feedback, with visits per page type and duration per page type. The labels could be cleaner so the bars are easier to match to the page names, but the content is what was asked for.
+	- The strong work this round was on data integrity. While mapping per-student duration she noticed unrealistic values (around four hours on the site), and digging in surfaced two anomalies in roughly one to three percent of sessions: events continuing under the same session ID after a $pageleave, and sessions that persist past the 30-minute inactivity window. This is exactly the right way to work: map the data, notice what looks wrong, then investigate the specific cases. It is also the describe-first approach paying off, since you find the weak spots in the data by trying to describe it rather than by inspecting it cold.
+	- Investigate the root cause before settling on a workaround. Rather than only splitting sessions manually at 30-minute gaps because the session IDs cannot be trusted, find out why the session IDs behave this way. Ask PostHog's AI, and ask Joe, who has real-world experience with this kind of data and may know about a browser quirk or a change made along the way. Check the problem in more than one way: whether the last event in a session is a page-leave, how many sessions have no page-leave at all, and how the page-view count compares with the number of sessions that do and do not end in a page-leave, which gives a sense of how far to trust the duration numbers. It is also worth seeing whether the anomalies cluster in a particular date range, among a few students, or on certain pages, and understanding how PostHog generates session IDs in the first place. Write down what gets checked and what is concluded, so the investigation does not get redone later.
+	- The event-type pie chart double-counts. It includes $autocapture as its own slice, but $autocapture already contains the named events such as link clicks and nutshell opens, and a pie chart has to represent a whole that divides into non-overlapping parts. Testing it by hand (clicking a blank space and seeing no autocapture fire) was a good check; it is worth also verifying against the data, by counting the autocapture events that carry none of the named categories and cross-checking the totals.
+	- Some chart-labeling fixes: the per-student chart should say that the red line is cumulative minutes, that the measure is duration on the website rather than on a single page, and that it covers the whole semester. Marcus should be filtered out, since he dropped the course about three weeks in. Some students show very low activity (around 100 events against others near 1,500), which may not reflect genuinely low use, because an ad-blocker or locally cached pages can suppress events; the supervisor had Joe force the site to refresh from the server so students would not see stale content, which is worth knowing when interpreting these counts.
+	- For the activity-by-days-to-due-date chart, it would help to show overall activity, activity on exercise pages, and activity on the specific assignment page separately, since it is currently scoped to exercise pages in general rather than to the one page in question. A filter would make this easier, and it would be interesting to see, for example, whether the resource pages get used before or after papers are returned.
+	- On filters generally: the course-week filter should be a dropdown rather than something typed in by hand, and an arbitrary date range would be valuable, because it would show whether a lightly-used page spikes at a particular time, such as the week before a paper. It is also worth asking the AI which additional views or insights might be worth building, given what we are trying to learn.
+	- A goal for next meeting: come back with a data-based sense of how far the duration numbers can be trusted, and why.
+
+- Both: moving toward the middle, and toward next term
+	- Since Kristen is still close to the data and working through integrity issues, and Yungi has been working on the bigger-picture questions, Yungi should move down toward the middle and start building some of the insights and graphs for the overall picture, while staying coordinated with Kristen.
+	- We are all now also starting to think about how to collect better data next term, given what has surfaced (the session-ID behavior, the gap in tab-focus and visibility tracking, and the limits of the read event). Keep noting these as they come up, since planning those improvements is part of the summer's work.
+
+Defined next-step actions
+
+For Yungi:
+
+1. Put together an overall picture of how students used the site last term, in whatever form is convenient, aimed at what the supervisor does not already know (how much, when, how varied, what is used a lot versus little). Start from the first panel, what actually happened.
+2. Keep the language neutral and precise, and be clear about what each number is and where it came from.
+3. Before interpreting an event, pin down what it actually measures, starting with the read event (scroll past the midpoint, and the short-page case).
+4. Hold the cross-variable relationships and the page-structure hypothesis for now, and look closely at the individual records first.
+5. Fix the bar chart: axis labels and a legend, a clear mapping of bars to pages, and fewer significant digits on the R-squared.
+6. Coordinate with Kristen so the top-down and bottom-up work meet rather than overlap; if there is time, compare 2520 with 2510.
+
+For Kristen:
+
+1. Investigate the root cause of the two session-ID anomalies (ask PostHog's AI and Joe), checking the problem more than one way and noting whether it clusters by date, student, or page; write down what you check and conclude.
+2. Come back next meeting with a data-based sense of how far to trust the duration numbers, and why.
+3. Fix the event-type pie so it does not double-count $autocapture, verifying against the data and not only by hand.
+4. Clean up the chart labels (cumulative minutes, duration on the website, over the semester), and filter out Marcus, who dropped the course about three weeks in.
+5. Add overall, exercise-page, and specific-assignment views to the activity-by-days-to-due-date chart.
+6. Make the course-week filter a dropdown and add an arbitrary date range, and ask the AI which further views might be worth building.
+
+For supervisor:
+
+1. Set up the next meeting in a couple of days.
+
+Next meeting: in a couple of days
