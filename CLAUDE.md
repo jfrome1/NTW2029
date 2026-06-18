@@ -1,6 +1,7 @@
 ---
-lastUpdated: 2026-05-13
-lastEvaluated: 2026-04-22
+lastUpdated: 2026-06-18
+lastEvaluated: 2026-06-18
+writingClarityEvaluated: 2026-06-18
 ---
 
 # CLAUDE.md
@@ -9,7 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-NTW2029 is a course website built with Astro and Starlight, deployed on Vercel with Neon Postgres for analytics.
+NTW2029 is a course website built with Astro and Starlight, deployed on Vercel. Student-interaction analytics are captured with PostHog and mirrored to a Neon Postgres database (provisioned through Vercel) for SQL querying.
 
 This repository contains only the course website. Course design work, class meeting transcripts, and other course materials are stored separately in:
 `C:\Dev\repos\AI-projects\ntw2029 course design\`
@@ -66,11 +67,11 @@ Pushes that only touch files under `srip-2026/` exit 0 and skip the build. Pushe
 
 ### Rehype Plugin Configuration
 
-Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`—putting `rehypePlugins` there has no effect.
+Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`. Putting `rehypePlugins` there has no effect.
 
 ### Astro Site URL
 
-`astro.config.mjs` sets `site: "https://ntw2029.vercel.app"`. This is the canonical URL used by `@astrojs/sitemap` to generate `sitemap.xml` and by any other Astro features that need absolute URLs (Open Graph tags, RSS). If the site moves to a different domain, update this to match — sitemaps and absolute links generated with the old URL would point to the wrong host.
+`astro.config.mjs` sets `site: "https://ntw2029.vercel.app"`. This value is the canonical URL used by `@astrojs/sitemap` to generate `sitemap.xml` and by any other Astro features that need absolute URLs (Open Graph tags, RSS). If the site moves to a different domain, update this to match; sitemaps and absolute links generated with the old URL would point to the wrong host.
 
 ### Custom Components
 
@@ -136,4 +137,4 @@ The instructor aims to offer positive comments for all student work, regardless 
 
 ## Analytics
 
-Course analytics stored in Vercel/Neon Postgres. Access via Vercel dashboard > Storage > Open in Neon.
+Student-interaction events are captured by PostHog and continuously mirrored to a Neon Postgres database (provisioned through Vercel) via a PostHog Destination, so the same data is queryable in standard SQL. PostHog project: `us.posthog.com/project/101665` (dashboards, HogQL queries). Neon SQL mirror: Vercel dashboard, Storage, Open in Neon. The analytics code is in `src/components/DateAnalyticsComponent.astro`; `README-ANALYTICS.md` in this repo is the canonical analytics reference.
