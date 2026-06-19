@@ -1,6 +1,6 @@
 ---
 created: 2026-05-12
-lastUpdated: 2026-05-12
+lastUpdated: 2026-06-19
 lastEvaluated:
 ---
 
@@ -20,6 +20,7 @@ How the daily and weekly work is organized: meetings, reporting, communication, 
   - What you actually worked on/got done
   - Current obstacles, questions, or things you need guidance on
   - The one or two things you plan to start with tomorrow
+  - A rough breakdown of how many hours you spent on each listed activity (e.g., "3 hours on the paper, 1 hour on queries"). Not a strict timesheet, just enough to show where the day went and to flag when something is taking longer than expected.
 
 ## Communication channels
 
