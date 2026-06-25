@@ -32,3 +32,10 @@ The current chart shows student activity against the number of days remaining be
 
 **Result:** Activity is biased low. 
 
+
+#### 4\. First exercise lacks previous due date  
+
+The first exercise is not preceded by a previous exercise, and hence does not have a valid window. The chart ends up using the start of semester date as the previous due date, hence the window for the first exercise is (start of semester, exercise due date]. This is misleading, as activity seen around the start of semester date is likely to include exploratory activity, and not preparation for the assignment. 
+
+**Result:** Activity is biased high (for the first assignment). 
+
