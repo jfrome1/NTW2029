@@ -1,9 +1,9 @@
 ---
 created: 2026-05-18
-lastUpdated: 2026-05-22
+lastUpdated: 2026-06-29
 ---
 
-Claude description: NTW2029 PostHog analytics data limitations for AY 2025-26 (semesters 2510 and 2520) — what the data can and can't reliably answer, the failure modes (session inactivity timeout, background-tab time, tab-never-closed gap), and the proposed visibilitychange fallback. Work-in-progress; will be updated as open design questions settle.
+Claude description: NTW2029 PostHog analytics data limitations for AY 2025-26 (semesters 2510 and 2520) — what the data can and can't reliably answer, the failure modes (session inactivity timeout, background-tab time, tab-never-closed gap), and the proposed visibilitychange fallback, plus cross-category time-on-page comparison and schedule-check-frequency caveats. Work-in-progress; will be updated as open design questions settle.
 
 # Analytics Data Limitations
 
@@ -33,8 +33,7 @@ PostHog autocapture records two events per visit:
 
 The existing analytics dashboard (https://us.posthog.com/project/101665/dashboard/266605) computes time-on-page by matching each `$pageview` to its `$pageleave` within the same PostHog session and taking the time delta.
 
-PostHog automatically splits sessions on 30-minute inactivity. A session inactive for more than 30 minutes ends, so a `$pageview` with no matching `$pageleave` in-session is excluded from the calculation rather than miscounted as a multi-hour visit. 
-
+PostHog automatically splits sessions on 30-minute inactivity. A session inactive for more than 30 minutes ends, so a `$pageview` with no matching `$pageleave` in-session is excluded from the calculation rather than miscounted as a multi-hour visit.
 
 ## What this means for the data
 
@@ -59,7 +58,19 @@ Unreliable measurements (use with caution or avoid):
 - Engagement-depth metrics that depend on dwell time
 - Distinguishing studied-page vs. glanced-page
 - Navigational metrics (e.g. sequence of pages visited, drop-off & entry/exit patterns)
-    - PostHog is initialized with `persistence: memory`, which ties individual sessions to a single page. However, built-in navigation features (user paths, funnels, entry/exit paths) assume multi-page sessions, so viewing them will require reconstructing navigational paths across pages by timestamp (i.e. grouping $pageview events by distinct_id & ordering by timestamp). 
+    - PostHog is initialized with `persistence: memory`, which ties individual sessions to a single page. However, built-in navigation features (user paths, funnels, entry/exit paths) assume multi-page sessions, so viewing them will require reconstructing navigational paths across pages by timestamp (i.e. grouping $pageview events by distinct_id & ordering by timestamp).
+
+## Comparing time-on-page across page categories
+
+When time-on-page is aggregated by page category (resources vs. assignments vs. schedule), the failure modes don't apply evenly, so the bias direction differs by category. Background-tab and multi-tab use are more common on resources pages (a student keeps a resource open in another tab while writing) and on the schedule page (left open and consulted periodically) than on assignment pages (usually the primary tab the student is actively reading). Because background-tab time inflates time-on-page, resources and schedule pages are inflated more than assignment pages.
+
+The consequence: a ranking of the form "students spent more time on X than on Y" is unreliable when X and Y are different categories, because the inflation is heavier on one side. The ranking can reflect differing bias rather than differing real attention. Safer comparisons that avoid the time-on-page failure modes are pageview counts and read-event counts by category, rather than dwell time. This is also the comparison the visibilitychange fix would change most, since subtracting background-tab time would compress the resources/schedule inflation.
+
+## Schedule-page check frequency
+
+Counting how often a student checks the schedule page is reliable for students who close the schedule tab between checks, since each check is a fresh page-load and fires a $pageview. It is biased low for students who keep the schedule open in a background tab and "check" it by switching back to that tab: tab switches fire no event, so those checks are invisible and the count is undercounted. The same undercount applies to checks reached by the browser back button or a bookmark, which load the page without reliably firing a $pageview.
+
+A diagnostic for spotting the background-tab pattern is the per-student ratio of schedule $pageviews to schedule read events. The read event fires at most once per page-load (when the student scrolls past the page midpoint), so a student who keeps the tab open and switches back to it repeatedly shows a read count of 1 while their actual number of consultations is unknown. The visibilitychange fix (a tabFocused event on the schedule page) would let analyses count tab-returns as additional checks.
 
 ## Proposed fix: visibilitychange fallback
 
