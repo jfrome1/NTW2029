@@ -69,7 +69,8 @@ The elements that trigger certain event types (i.e. nutshells, external links) m
 
 This chart maps student activity for each day in the window between the due date of an exercise and the closest previous due date. For instance, if Exercise 1 was due on 4 Jan & Exercise 2 due on 6 Jan, the chart for Exercise 2 would show the activity for each of the two days between 4 and 6 Jan. Student activity is defined as the number of events triggered on all exercise pages, resource pages and course information pages, within the exercise window. 
 
-### **Filters:** Chart data is filterable by exercise type and by student. Filtering to a specific exercise will cause the chart to first compute the number of days between the exercise’s due date and the closest due date of a previous exercise; then for each day, the number of events triggered on those pages will be displayed as activity x days from the exercise due date.  
+### **Filters:** 
+Chart data is filterable by exercise type and by student. Filtering to a specific exercise will cause the chart to first compute the number of days between the exercise’s due date and the closest due date of a previous exercise; then for each day, the number of events triggered on those pages will be displayed as activity x days from the exercise due date.  
 
 ### **Limitations:** 
 
