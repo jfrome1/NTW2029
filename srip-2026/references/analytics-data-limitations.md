@@ -33,7 +33,16 @@ PostHog autocapture records two events per visit:
 
 The existing analytics dashboard (https://us.posthog.com/project/101665/dashboard/266605) computes time-on-page by matching each `$pageview` to its `$pageleave` within the same PostHog session and taking the time delta.
 
-PostHog automatically splits sessions on 30-minute inactivity. A session inactive for more than 30 minutes ends, so a `$pageview` with no matching `$pageleave` in-session is excluded from the calculation rather than miscounted as a multi-hour visit.
+PostHog automatically splits sessions on 30-minute inactivity, but this holds for most rather than all sessions (see Reliability of the per-page session model below). A session inactive for more than 30 minutes ends, so a `$pageview` with no matching `$pageleave` in-session is excluded from the calculation rather than miscounted as a multi-hour visit.
+
+## Reliability of the per-page session model
+
+The calculation above assumes each session corresponds to one page-load and ends cleanly, either at its `$pageleave` or after 30 minutes of inactivity. That holds for most sessions but not all. A 2026-06-29 check of the 2510 and 2520 data found two exceptions:
+
+- `session_id` can persist past a `$pageleave`: events kept the same `session_id` after the page-leave fired in about 2% of sessions that had a `$pageleave` (295 of 14,260), and about 298 sessions carried more than one `$pageleave`.
+- `session_id` can persist past the 30-minute inactivity timeout: about 1.3% of sessions (274 of 20,640) had a gap longer than 30 minutes between consecutive events, 53 of them longer than an hour, the largest around four days.
+
+The effect falls on duration. Taking a session's first `$pageview` and last `$pageleave` and subtracting timestamps overcounts in these cases, because it includes time after the page was left or across an inactivity gap. The robust approach is to stop treating `session_id` as a one-page-load boundary for duration and instead split a session wherever consecutive events are more than a chosen gap apart; Kristen's `data-qn-mapping (duration).md` does this with a 15-minute threshold and documents the threshold-sensitivity tradeoff. Because the exceptions are uncommon, pageview-based counts (frequency, popularity) are unaffected; only duration needs this handling.
 
 ## What this means for the data
 
