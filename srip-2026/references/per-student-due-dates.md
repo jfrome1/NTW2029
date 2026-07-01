@@ -20,7 +20,7 @@ For 2520, that date is the **noon-the-next-day extended deadline**: the original
 
 For 2510, the same automatic-extension policy applied, but the stored Canvas deadline times are inconsistent (some assignments store noon, others 23:59), so treat a 2510 cell as the effective calendar date the deadline falls on rather than assuming a fixed time. Consult Canvas for the exact stored time on a specific 2510 assignment.
 
-A blank cell means the student had no per-student override for that assignment, so the assignment's single base due date applied to them. Blank does not mean the data is missing.
+Each cell shows the student's effective due date: their conference-specific override date if they have one, otherwise the assignment's base due date (the date that applies to every student without an individual override). A cell is blank only in the rare case where an assignment has no due date assigned to that student at all.
 
 ## Why these eight assignments
 
