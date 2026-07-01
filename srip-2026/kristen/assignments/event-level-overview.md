@@ -133,13 +133,27 @@ The inactiveNutshell event fires when the student scrolls past the nutshell, lea
 
 Both indicate different behaviors – the student scrolling past indicates moving on, which suggests ambiguous student intent & can indicate that the nutshell was unable to provide the needed information. On the other hand, manually closing suggests that the student actively decided they were done with the nutshell after getting the necessary information. This can provide insights regarding the effectiveness of the nutshell (e.g. higher rates of automatic closures on a nutshell may indicate that it is not holding students' attention vs. higher rates of manual closes suggests it is serving its purpose). 
 
+*b. Does not fire if the x button in the nutshell is clicked instead of the nutshell link*
+
+An open nutshell can be closed in two ways – by clicking the nutshell link or by clicking the x button in the nutshell text. Clicking the nutshell link will fire an inactiveNutshell and an $autocapture (which can be ignored), but clicking the x button will only fire an $autocapture. This $autocapture does not have any other properties that indicate which nutshell it was triggered by, hence it is not possible to match it to an openNutshell. As such, the count of openNutshell with inactiveNutshell matches (students closed the open nutshell) will be undercounted, as the $autocaptures triggered by clicking the x button cannot be matched to the corresponding open nutshell. Currently, about 640/2000~ openNutshells do not have an inactiveNutshell match, and there are 71 $autocaptures with el_text=’x’ (as per the actual_user_events_2520 view in Posthog). These $autocaptures can be assumed to be functionally the same as inactiveNutshell events. 
+
+
 3.3.4. **Recommended Changes**
+
+*a. Does not distinguish between whether the nutshell is manually closed or scrolled past*
 
 Current behavior: inactiveNutshell fires whenever a nutshell is closed, which can happen by 1\. nutshell automatically closing after the user scrolls past it, or 2\. user manually clicking on the nutshell to close it. The event does not provide any properties that distinguish between (1) and (2); as of 25 May, the best way to do so is to check if there are any $autocapture events that happened at the same time as the inactiveNutshell event, as $autocapture is triggered when the user clicks a nutshell link. Changes in Posthog may include creating a new view with an additional column for flagging whether inactiveNutshell was triggered manually or automatically. 
 
 Recommended changes: For future tracking, a closeNutshell event could be added for cases when the user clicks the nutshell to close it. This event would include the same properties as inactiveNutshell (duration & text). inactiveNutshell events would be changed to only trigger after a nutshell automatically closes when the user manually scrolls past it. 
 
-- Purpose: Enables distinguishing between user manually closing nutshell vs. user scrolling past nutshell, and hence the behaviors associated with each event.  
+- Purpose: Enables distinguishing between user manually closing nutshell vs. user scrolling past nutshell, and hence the behaviors associated with each event.
+
+*b. Does not fire if the x button in the nutshell is clicked instead of the nutshell link*
+
+Current behavior: inactiveNutshell does not fire if the x button in an open nutshell is clicked. This prevents accurate identification of which open nutshells were closed if the x button was used to close it, as the $autocapture fired does not have identifying properties that enable matching to an openNutshell event. 
+
+Recommended changes: Creating a new event `closeNutshell`, to fire whenever an open nutshell is closed no matter which element was clicked on to close it (either the open nutshell’s link or the x button in the nutshell text). This enables differentiation in user behavior; whether the nutshell was closed automatically by scrolling past or by manually clicking it, as well as more efficient/accurate identification of when an open nutshell was closed (i.e. when finding the average duration a nutshell was opened for). 
+
 
 ### 3.4. internalLinkClick
 
