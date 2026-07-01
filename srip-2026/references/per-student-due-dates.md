@@ -26,16 +26,16 @@ A blank cell means the student had no per-student override for that assignment, 
 
 These eight have per-student due dates because they're tied to or cascade from each student's individual conference time. All other assignments use a single base due date that applies to every student. Both cohorts run the same eight; 2520 labels them by code, 2510 by description (mapped to the shared codes below).
 
-| Code | Assignment | Rule | 2510 name |
+| Code | 2510 title | 2520 title | Rule |
 |---|---|---|---|
-| E05 | Paper 1 conference report | Due day of P1 draft conference (Week 6) | Exercise 5 - Paper 1 conference summary |
-| E06 | Paper 1 writing reflection | One day after P03 | Exercise 6 - Paper 1 writing reflection |
-| E10 | Paper 2 conference report, explain positions | Due day of P2 explain-positions conference (Week 11) | Exercise 10 - Paper 2 explain positions conference summary |
-| E11 | Paper 2 conference report, draft | Due day of P2 draft conference (Week 13) | Exercise 11 - Paper 2 draft conference summary |
-| E12 | Paper 2 writing reflection | One day after P09 | Exercise 12 - Paper 2 writing reflection |
-| E13 | Workload report, final | One day after P09 | Exercise 13 - workload report, Nov (final) |
-| P03 | Paper 1 final | Six days after P1 conference | P03: Paper 1 |
-| P09 | Paper 2 final | Six days after P2 draft conference | P09: Paper 2 |
+| E05 | Exercise 5 - Paper 1 conference summary | E05 - Paper 1 Conference report | Due day of P1 draft conference (Week 6) |
+| E06 | Exercise 6 - Paper 1 writing reflection | E06 - Paper 1 Writing reflection | One day after P03 |
+| E10 | Exercise 10 - Paper 2 explain positions conference summary | E10 - Paper 2 Conference report (positions) | Due day of P2 explain-positions conference (Week 11) |
+| E11 | Exercise 11 - Paper 2 draft conference summary | E11 - Paper 2 Conference report (draft) | Due day of P2 draft conference (Week 13) |
+| E12 | Exercise 12 - Paper 2 writing reflection | E12 - Paper 2 Writing reflection | One day after P09 |
+| E13 | Exercise 13 - workload report, Nov (final) | E13 - Workload report, Apr (final) | One day after P09 |
+| P03 | P03: Paper 1 | P03 - Paper 1 Final | Six days after P1 conference |
+| P09 | P09: Paper 2 | P09 - Paper 2 Final | Six days after P2 draft conference |
 
 (The other E13 monthly workload reports — Jan/Feb/Mar for 2520, Aug/Sep/Oct for 2510 — use a single base date for everyone and aren't included here.)
 
