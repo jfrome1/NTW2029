@@ -7,7 +7,7 @@ lastUpdated: 2026-07-03
 
 Claude description: Registered student names for the NTW2029 cohorts 2510 (24 students, with matric numbers) and 2520 (24 students, names only). Compiled from the supervisor's class rosters. Use for matching PostHog `name` values to students (2510 events are stored under the matric, 2520 under a CamelCase name), the cohort-ID disambiguation, and the dropped-students check.
 
-These are the registered names only. Preferred names (nicknames), usernames, and email addresses are deliberately excluded. Matric numbers are included for 2510 because PostHog stores 2510 students under their matric, so reading 2510 per-student results requires this mapping; 2520 events are stored under a CamelCase form of the name, so no matric mapping is needed for 2520.
+These are the registered names only. Preferred names (nicknames), usernames, and email addresses are deliberately excluded. Matric numbers are included for 2510 because PostHog stores 2510 students under their matric, so reading 2510 per-student results requires this mapping; 2520 events are stored under a CamelCase form of the name, so no  matric mapping is needed for 2520.
 
 ## 2510 (NTW Evolution), 24 students
 
@@ -31,7 +31,7 @@ These are the registered names only. Preferred names (nicknames), usernames, and
 18. Shannon Lam Shan Ning, A0282470E
 19. Siah Xin Jie, A0317739R
 20. Sim Thian Juea Reiner, A0317838R
-21. Teo Wan Yi, Ashley, A0317834Y
+21. Teo Wan Yi Ashley, A0317834Y
 22. Tey Yi Fan, A0323034W
 23. U Lauren Coralie Vaitea, A0288347M
 24. Wong Zhao Wu, A0324615J
