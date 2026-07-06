@@ -21,6 +21,8 @@ These methods were built on the assumptions that 1\. sessions end after a \`page
 
 2. Sessions not ending after 30min inactivity\`: \`session\_id\` persisted past 30min of no events being triggered, when a new session should have started after 30min.   
 - This led to multiple sessions with events that had large time gaps between them. These time gaps were included when computing final duration using the above methods, hence leading to overcounting duration.  
+- This was caused by mouse movements being able to keep a session active, despite session replay (captures mouse movement data) not being enabled in the Posthog project. However, the new method & 30min threshold cutoff will still be maintained, as keeping the time gaps >30min  produces unrealistic values (e.g. additional ~1000min for a single student). 
+   - Large time gaps are likely to be caused by students switching back and forth between tabs while occasionally triggering mouse movements on these tabs. **There is currently no way to accurately estimate when students switch between tabs and hence exact durations spent on page, but this issue should be fixed with the addition of tabFocused events.**
 
 \*\*(Evidence: [https://drive.google.com/file/d/1l6zBnNEq3sZmsKDTg4CGBXohbAf0SHMv/view?usp=sharing](https://drive.google.com/file/d/1l6zBnNEq3sZmsKDTg4CGBXohbAf0SHMv/view?usp=sharing)) 
 
