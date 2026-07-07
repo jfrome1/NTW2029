@@ -16,7 +16,7 @@ Topics covered:
 
 - A handoff document for the next interns: this is separate from the executive summary. The valuable thing is a short set of documents that orients the next interns to the resources we've built, so they can get up to speed quickly without reading everything end to end.
 
-- The main focus for the remaining time is next term's analytics: how to improve what we measure so next year's questions can actually be answered. To correct something the supervisor said earlier: these improvements are yours to design and, where feasible, implement this term (you've already started with the tab-focus work); they are not a hand-off for Joe to build.
+- The main focus for the remaining time is next term's analytics: how to improve what we measure so next year's questions can actually be answered. To correct something the supervisor said earlier: these improvements are yours to design and, where feasible, implement this term (you've already started with the tab-focus work). We can ask Joe to implement anything we don't get to, but the plan isn't to hand the work off to him by default.
 
 Defined next-step actions
 
