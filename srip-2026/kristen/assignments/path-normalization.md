@@ -74,7 +74,6 @@ Some pathnames were supposedly available on the website, but hidden/archived par
 | /course-ntw2029/resources/unclear-referent  | /course-ntw2029/resources/writing/other/unclear-referent | 0 |
 |  | /course-ntw2029/resources/writing/unclear-referent | 0 |
 | /course-ntw2029/hidden/exercise-examples/e04-eg-4 | /course-ntw2029/hidden/exercise-examples/e04-eg  | 3 |
-|  |  |  |
 | /course-ntw2029/assignments/papers/p2-p04-article-selection-2510 | /course-ntw2029/assignments/papers/p2-2520-p04-article-selection | 8 |
 |  | /course-ntw2029/assignments/papers/p2-p04-article-selection | 1612 |
 | /course-ntw2029/course-info/communication-support  | /course-ntw2029/course-info/communication-support-v2 | 0 |
