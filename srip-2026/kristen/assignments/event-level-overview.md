@@ -15,6 +15,8 @@ An event is a single timestamped record of something a user did (e.g. viewing a 
 | team\_id | ID for project in Posthog, not necessary |
 | timestamp | Timestamp of when event was triggered in the browser (client-side) |
 | uuid | Unique identifier for the event row |
+|person | User record of the person who triggered the event. Most commonly used to retrieve the person’s name, using person.properties.name|
+
 
 The properties field captures most of the additional data linked to an event, and differs for each event, both custom and default. 
 
