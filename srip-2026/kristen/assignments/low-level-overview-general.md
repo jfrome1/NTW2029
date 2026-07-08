@@ -56,7 +56,7 @@ All individual properties that Posthog has recorded, both custom and default.
 Multiple properties bundled together. This enables easier filtering according to a group of multiple properties, as the group will not need to be recreated each time. 
 
 #### 1.4. Sessions  
-A series of events from one user, with one session corresponding to one page visit. Every new tab, window, device or browser creates a new session with a unique ID, no matter what page the user is on. Each session can be ended by either 30 minutes of inactivity (no events triggered) on a current session, or by reaching a 24-hour duration limit. Session-level properties (duration, entry page, exit page, page count) are computed from the events that occurred in the session.   
+A series of events from one user, with one session corresponding to one page visit. Every new tab, window, device or browser creates a new session with a unique ID, no matter what page the user is on. Each session can be ended by either 30 minutes of inactivity (no mouse movements, no events triggered) on a current session, or by reaching a 24-hour duration limit. Session-level properties (duration, entry page, exit page, page count) are computed from the events that occurred in the session.   
    
 Note on multi-tab tracking: closing tabs where the website is open does not end a session; the session ends itself after reaching 30 minutes. 
 
@@ -181,7 +181,7 @@ Additionally, Posthog creates a new session after 30 minutes of inactivity, so a
 **Limitations:** Pageviews do not show the behaviour driving the page load. Students sometimes click on pages and instantly click off, or open pages in background tabs and never read them. As such, pageview counts provide limited insight into how much students are engaging with a page. 
 
 #### 3.8. Session duration  
-**What it does:** The total time elapsed from the first event in a session to the last. Each session is a string of events with 30 minutes of inactivity (can be changed) between them, and lasts for the time spent on a page. 
+**What it does:** What it does: The total time elapsed from the first event in a session to the last. Each session is a string of events with 30 minutes of inactivity (no mouse movements, no events triggered) between them, and lasts for the time spent on a page.
 
 **Implementation on Posthog:** Average session duration across sessions and users is immediately visible on the web analytics dashboard. To view specific session durations (e.g. average session duration of each user, session duration of a session), the SQL editor has to be used. The configurable session duration limit is 30 minutes, as during Posthog initialization in the source code, \`session\_idle\_timeout\_seconds\` is not set; as such, Posthog is initialized with the default 30 minute limit. 
 
