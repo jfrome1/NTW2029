@@ -168,6 +168,8 @@ Custom properties:
 | link | Link URL |
 | text | Visible anchor text shown for the link |
 
+**Note: the `text` property here matches $autocapture’s `properties.$el_text`. 
+
 3.4.2. **What it can be used for**
 
 *a. Easier querying than $autocapture*
@@ -191,6 +193,10 @@ Custom properties:
 | :---- | :---- |
 | link | Link URL |
 | text | Visible anchor text shown for the link |
+
+**Note: 
+- The `text` property here matches $autocapture’s `properties.$el_text`  
+- The `link` property here matches $autocapture’s `properties.$external_click_url`
 
 3.5.2. **What it can be used for**
 
