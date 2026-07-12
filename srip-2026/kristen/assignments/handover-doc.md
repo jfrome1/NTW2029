@@ -93,3 +93,16 @@ As such, additional event documentation was created to enable easier understandi
 
 **Link:** _srip-2026/kristen/assignments/path-normalization.md_
 
+
+### 2.7. Potential improvements for Posthog analytics
+
+**What it is:** A list of improvements to make data collected from the website easier to gain insights from. 
+
+**Purpose:** During SRIP 2026, there were many limitations faced when computing simple metrics such as duration spent on page etc, due to relevant events missing properties that would allow easier/more accurate computation. This document was hence created to list what changes could be made to data collection to mitigate those limitations. 
+
+**Status:** Complete (as of July 2026). Will need to be updated as new ways to improve data collection are found.
+
+**Link:** _srip-2026/references/recommended-changes.md_
+
+
+
