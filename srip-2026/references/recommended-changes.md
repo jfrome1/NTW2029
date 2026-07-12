@@ -183,7 +183,75 @@ If a student has multiple website tabs open, then switches to a non-website tab,
 A solution could be computing students’ time away from the site, by:
 
 1. Reconstructing a chronological order of tabFocused/tabUnfocused events across all of the student's tabs  
-2. Checking each stretch of time when the student was likely to be active (events are \<10min apart), for whether there was a period where no tabs were focused, and for how long this occurred. 
+2. Checking each stretch of time when the student was likely to be active (events are \<10min apart), for whether there was a period where no tabs were focused, and for how long this occurred.
+
+### **2.4. userIdle** 
+
+#### Trigger: 
+User does not move their mouse OR trigger any events for 3 minutes. 
+
+#### Custom properties: 
+
+| Name | Purpose |
+| :---- | :---- |
+|  |  |
+
+#### Purpose: 
+This event is meant to identify whether a student was inactive on a page. Mouse movements can keep a session active, but are not captured in the events table in Posthog – this produces two problems: 
+
+- Sessions can contain events more than 30 minutes apart under the same session\_id (unexpected due to the 30min inactivity timeout), due to unlogged mouse movement resetting the timeout.   
+- Duration becomes hard to verify, as a long gap between logged events could reflect a student reading and scrolling throughout, or a tab left open and abandoned/only scrolled once to reset the timeout. In the second case, duration becomes substantially inflated.
+
+As such, this event closes this gap. Since it indicates whether a student was idle, the idle time can be computed and used to identify more metrics (e.g. ratio of active time on page to idle time on page). 
+
+#### What does it do
+
+*a. Indicates whether a student went idle*  
+
+There is currently no marker for whether a student was idle when looking at the events in a session, as mouse movements on a page are not recorded in Posthog. userIdle hence provides a marker that shows when a student was inactive. Combined with the events 2.4. userStillIdle and 2.5. userActive, it should be able to show how long users were inactive on a page for. 
+
+#### Limitations
+
+*a. Calculating idle time on page*
+
+userIdle alone will be unable to find idle duration on the page. This is because instances where students leave a tab open and walk away will lead to the following events: 
+
+| Event | Description | session\_id |
+| :---- | :---- | :---- |
+| $pageview | Student opens the page | 1 |
+| x | Student triggers x events | 1 |
+| userIdle | Student walks away/goes idle for 3min | 1 |
+| *No event triggered* | 30min passes | \- |
+| x  | Student returns & triggers x events | 2 |
+
+As there is no $pageleave event/last event in the session triggered if the student leaves the tab open and leaves, it is not possible to calculate how long the student was idle on the page for.   
+\*\*Note: 2.4. userStillIdle is intended to solve this issue. 
+
+### **2.5. userStillIdle** 
+
+#### Trigger: 
+Heartbeat event – user has not moved their mouse OR triggered any events for 5 minutes (since the last event). 
+
+#### Custom properties: 
+
+| Name | Purpose |
+| :---- | :---- |
+|  |  |
+
+#### Purpose: 
+userStillIdle is a complement to userIdle, and serves as a heartbeat event that tracks if the user is still idle. It closes the issue of sessions with userIdle not having a last event, by indicating whether a student was idle at certain times. 
+
+#### What does it do
+
+*a. Allows calculation of idle time on page*
+
+Allows idle time on a page to be calculated and subtracted from total duration, so long gaps between logged events do not get counted as active time. 
+
+#### Limitations
+
+*a. Session will not expire*
+
+A session will not expire if events are constantly being fired – as such, userStillIdle will keep sessions where a user has walked away active until the user returns and closes the page. This will lead to very long sessions. However, the ‘student walks away’ scenario will stop creating single-event sessions (i.e. sessions where a student returns to an open page only to close a tab → $pageleave). 
 
 ## **3\. Events that do not require improvements**
 
