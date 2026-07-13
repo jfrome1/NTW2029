@@ -165,7 +165,7 @@ A solution could be computing students’ time away from the site, by:
 
 ### **2.4. userIdle** 
 
-**Trigger:** User does not move their mouse OR trigger any events for 3 minutes. 
+**Trigger:** User does not move their mouse OR trigger any events for 3 minutes. The tab must be focused. 
 
 **Custom properties:** 
 
@@ -205,7 +205,7 @@ As there is no $pageleave event/last event in the session triggered if the stude
 
 ### **2.5. userStillIdle** 
 
-**Trigger:** Heartbeat event – user has not moved their mouse OR triggered any events for 5 minutes (since the last event). 
+**Trigger:** Heartbeat event – user has not moved their mouse OR triggered any events for 5 minutes (since the last event). The tab must be focused. 
 
 **Custom properties:** 
 
@@ -229,7 +229,7 @@ A session will not expire if events are constantly being fired – as such, user
 
 ### **2.6. userActive**
 
-**Trigger:** User focuses on a page they were idle on (no mouse movements/events triggered) and triggers a mouse movement or an event. 
+**Trigger:** User focuses on a page they were idle on (no mouse movements/events triggered) and triggers a mouse movement or an event. The tab must be focused. 
 
 **Custom properties:** 
 
