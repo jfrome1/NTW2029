@@ -165,13 +165,13 @@ A solution could be computing students’ time away from the site, by:
 
 ### **2.4. userIdle** 
 
-**Trigger:** User does not move their mouse OR trigger any events for 3 minutes. The tab must be focused. 
+**Trigger:** User does not move their mouse OR trigger any events for 5 minutes. This event will fire every 5 minutes that the user is inactive for. 
 
 **Custom properties:** 
 
 | Name | Purpose |
 | :---- | :---- |
-| idle\_id | Unique UUID for one idle period, shared by the opening userIdle, all userStillIdle heartbeats in that period, and the closing userActive. This allows each period of inactivity to be reconstructed. |
+| idle\_id | Unique ID for one idle period, shared by the opening userIdle, all userIdle heartbeats in that period, and the closing userActive. This allows each period of inactivity to be reconstructed. |
 
 **Purpose:** This event is meant to identify whether a student was inactive on a page. Mouse movements can keep a session active, but are not captured in the events table in Posthog – this produces two problems: 
 
@@ -180,78 +180,46 @@ A solution could be computing students’ time away from the site, by:
 
 As such, this event closes this gap. Since it indicates whether a student was idle, the idle time can be computed and used to identify more metrics (e.g. ratio of active time on page to idle time on page). 
 
-**What does it do:**
+**What does it do**
 
 *a. Indicates whether a student went idle*  
 
-There is currently no marker for whether a student was idle when looking at the events in a session, as mouse movements on a page are not recorded in Posthog. userIdle hence provides a marker that shows when a student was inactive. Combined with the events 2.4. userStillIdle and 2.5. userActive, it should be able to show how long users were inactive on a page for. 
+There is currently no marker for whether a student was idle when looking at the events in a session, as mouse movements on a page are not recorded in Posthog. userIdle hence provides a marker that shows when a student was inactive. Combined with the event 2.5. userActive, it should be able to show how long users were inactive on a page for. 
 
-**Limitations:**
+*b. Allows calculation of idle time on page*
 
-*a. Calculating idle time on page*
+Allows idle time on a page to be calculated and subtracted from total duration, so long gaps between logged events do not get counted as active time. Without the userIdle heartbeats, the session will end at the first userIdle (if the student never returns to the page), which makes calculating idle duration impossible. 
 
-userIdle alone will be unable to find idle duration on the page. This is because instances where students leave a tab open and walk away will lead to the following events: 
-
-| Event | Description | session\_id |
-| :---- | :---- | :---- |
-| $pageview | Student opens the page | 1 |
-| x | Student triggers x events | 1 |
-| userIdle | Student walks away/goes idle for 3min | 1 |
-| *No event triggered* | 30min passes | \- |
-| x  | Student returns & triggers x events | 2 |
-
-As there is no $pageleave event/last event in the session triggered if the student leaves the tab open and leaves, it is not possible to calculate how long the student was idle on the page for.   
-\*\*Note: 2.4. userStillIdle is intended to solve this issue. 
-
-
-### **2.5. userStillIdle** 
-
-**Trigger:** Heartbeat event – user has not moved their mouse OR triggered any events for 5 minutes (since the last event). The tab must be focused. 
-
-**Custom properties:** 
-
-| Name | Purpose |
-| :---- | :---- |
-| idle\_id | Unique UUID for one idle period, shared by the opening userIdle, all userStillIdle heartbeats in that period, and the closing userActive. This allows each period of inactivity to be reconstructed. |
-
-**Purpose:** userStillIdle is a complement to userIdle, and serves as a heartbeat event that tracks if the user is still idle. It closes the issue of sessions with userIdle not having a last event, by indicating whether a student was idle at certain times. 
-
-**What does it do:**
-
-*a. Allows calculation of idle time on page*
-
-Allows idle time on a page to be calculated and subtracted from total duration, so long gaps between logged events do not get counted as active time. Without the userStillIdle heartbeat events, the session will end at userIdle (if the student never returns to the page), which makes calculating idle duration impossible. 
-
-**Limitations:**
+**Limitations**
 
 *a. Session will not expire*
 
-A session will not expire if events are constantly being fired – as such, userStillIdle will keep sessions where a user has walked away active until the user returns and closes the page. This will lead to very long sessions. However, the ‘student walks away’ scenario will stop creating single-event sessions (i.e. sessions where a student returns to an open page only to close a tab → $pageleave). 
+A session will not expire if events are constantly being fired – as such, userIdle will keep sessions where a user has walked away active until the user returns and closes the page. This will lead to very long sessions. However, the ‘student walks away’ scenario will stop creating single-event sessions (i.e. sessions where a student returns to an open page only to close a tab → $pageleave). 
 
-### **2.6. userActive**
+### **2.5. userActive**
 
-**Trigger:** User focuses on a page they were idle on (no mouse movements/events triggered) and triggers a mouse movement or an event. The tab must be focused. 
+**Trigger:** User focuses on a page they were idle on (no mouse movements/events triggered) and triggers a mouse movement or an event. 
 
 **Custom properties:** 
 
 | Name | Purpose |
 | :---- | :---- |
-| idle\_id | Unique UUID for one idle period, shared by the opening userIdle, all userStillIdle heartbeats in that period, and the closing userActive. This allows each period of inactivity to be reconstructed. |
+| idle\_id | Unique ID for one idle period, shared by the opening userIdle, all userIdle heartbeats in that period, and the closing userActive. This allows each period of inactivity to be reconstructed. |
 | idle\_duration | Duration between user going idle and user returning to the page |
 
-**Purpose:** To mark the end of an idle period (starts with userIdle), when the user returns to the page. Including userIdle and userStillIdle, the intended flow of events is: 
+**Purpose:** To mark the end of an idle period (starts with userIdle), when the user returns to the page. Including userIdle, the intended flow of events is: 
 
 | Event | Description | session\_id |
 | :---- | :---- | :---- |
 | $pageview | Student opens the page | 1 |
 | x | Student triggers x events | 1 |
-| userIdle | Student walks away/goes idle for 3min | 1 |
-| userStillIdle | 10min passes | 1 |
-| userStillIdle | 10min passes | 1 |
+| userIdle | Student walks away/goes idle for 5min | 1 |
+| userIdle | 5min passes | 1 |
+| userIdle | 5min passes | 1 |
 | userActive  | Student returns & triggers x events | 1 |
 | x |  | 1 |
 
-**What does it do:**
+**What does it do**
 
 *a. Allows calculation of idle time on page*
 
@@ -261,28 +229,32 @@ Allows idle time on a page to be calculated and subtracted from total duration, 
 
 Mouse movements prevent a session from becoming inactive but are not logged in the events table, so cases involving mouse movement will not leave any traces (e.g. student returning to the page and moving their cursor). userActive surfaces these moments explicitly, and marks when the student resumed activity even if their return was via mouse movement rather than a logged event like a click or scroll.
 
-**Limitations:**
+**Limitations**
 
 *a. Will not fire if student never returns*
 
-If a student goes idle and never closes the tab without coming back, userActive will not be triggered, and session duration will be increased by the trailing userStillIdle pings. 
+If a student goes idle and never closes the tab without coming back, userActive will not be triggered, and session duration will be increased by the trailing userIdle pings. 
 
-*b. Certain events will not count as users becoming active*
+*b. Calculating idle duration may be inaccurate if student has multiple tabs open*
 
-Currently, userActive is set to trigger on any of the events in [mousemove, mousedown, click, keydown, scroll, touchstart], and will not fire upon visibilitychange (which fires tabFocused/tabUnfocused). As such, in certain cases, the event flow in Posthog may show tabFocused before userActive: 
-| Event | Description | 
+If a student has multiple tabs open, then userIdle will fire independently for each tab. This is not a problem when calculating idle duration per page, but if calculating idle duration per student, then this becomes an issue – since idle time across tabs during the same period gets counted separately instead of once, the total idle duration ends up double-counted. 
+
+*c. Certain events will not count as users becoming active*  
+
+Currently, userActive is set to trigger on any of the events in \[mousemove, mousedown, click, keydown, scroll, touchstart\], and will not fire upon visibilitychange (which fires tabFocused/tabUnfocused). As such, in certain cases, the event flow in Posthog may show tabFocused before userActive:
+
+| Event | Description |
 | :---- | :---- |
 | $pageview | Student opens the page |
-| x | Student triggers x events | 
-| tabUnfocused | Student leaves to another tab | 
-| userIdle | Student walks away/goes idle for 3min | 
-| userStillIdle | 10min passes | 
-| userStillIdle | 10min passes | 
-| **tabFocused** | Student returns to the tab | 
-| **userActive** | Student interacts with the page | 
+| x | Student triggers x events |
+| tabUnfocused | Student leaves to another tab |
+| userIdle | Student walks away/goes idle for 3min |
+| userIdle | 10min passes |
+| userIdle | 10min passes |
+| **tabFocused** | Student returns to the tab |
+| **userActive** | Student interacts with the page |
 
-This would be expected behavior, as refocusing on a tab without interacting with a page should not be counted as being active/engagement. 
-
+This would be expected behavior, as refocusing on a tab without interacting with a page should not be counted as being active/engagement.  
 
 ## **3\. Events that do not require improvements**
 
