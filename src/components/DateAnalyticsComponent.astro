@@ -49,10 +49,11 @@ import posthog from "posthog-js";
           persistence: 'memory',
           person_profiles: 'identified_only',
         });
-          posthog.identify(user.id, {
-            name: user.username,
-            timestamp: new Date().toISOString()
-          });
+        setupVisibilityTracking();
+        posthog.identify(user.id, {
+          name: user.username,
+          timestamp: new Date().toISOString()
+        });
       } catch (error) {
         console.error('Error initializing tracking:', error);
       }
@@ -66,8 +67,57 @@ import posthog from "posthog-js";
     // Usage
     initialize();
 
+    function setupVisibilityTracking() {  
+      let lastVisChange = Date.now() // from current state
+      const pageOpenedAt = Date.now();
+
+      // If the tab is visible/hidden upon load
+      if (document.visibilityState === 'visible') {
+        posthog.capture('tabFocused', {
+          isInitial: true,
+          page: document.title,
+          totalTimeOpen: 0,
+          timeHidden: 0
+        })
+      }
+      else {
+        posthog.capture('tabUnfocused', {
+          isInitial: true,
+          page: document.title,
+          totalTimeOpen: 0,
+          timeFocused: 0
+        })
+      }
+      document.addEventListener('visibilitychange', () => {
+        const now = Date.now()
+        const elapsedMs = now - lastVisChange
+        const currOpenedMs = now - pageOpenedAt
+        
+        // If the tab is currently focused
+        if (document.visibilityState === 'visible') {
+          posthog.capture('tabFocused', {
+            isInitial: false,
+            page: document.title,
+            totalTimeOpen: currOpenedMs,
+            timeHidden: elapsedMs
+          })
+        }
+        // If tab is currently hidden 
+        else {
+          posthog.capture('tabUnfocused', {
+            isInitial: false,
+            page: document.title,
+            totalTimeOpen: currOpenedMs, 
+            timeFocused: elapsedMs,
+          })
+        }
+        lastVisChange = now
+      })
+    }
+
+
     window.addEventListener("load", function () {
-    let readEventTriggered = false;
+      let scroll25, scroll50, scroll75 = false;
 
     const documentDetailObserver = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
@@ -77,6 +127,7 @@ import posthog from "posthog-js";
             newDetailsElements.forEach((details) => {
               const summary = details.querySelector("summary");
               if (summary) {
+                summary.classList.add("ph-no-autocapture")
                 summary.addEventListener("click", () => {
                       if (!details.open) {
                         posthog.capture("openQuiz", {
@@ -116,6 +167,7 @@ import posthog from "posthog-js";
       link.removeAttribute("data-open-time");
     }
 
+    // Clicks on the nutshell text/link 
     function handleNutshellClick(event: Event) {
       const link = event.currentTarget as HTMLAnchorElement;
       const currentMode = link.getAttribute("mode");
@@ -152,10 +204,19 @@ import posthog from "posthog-js";
           ".nutshell-bubble"
         ) as HTMLElement;
         if (nutshellBubble) {
+          nutshellBubble.classList.add("ph-no-autocapture")
           nutshellObserver.observe(nutshellBubble);
         }
-      } else if (currentMode === "closed") {
-        handleNutshellInactive(link);
+      } 
+      // Nutshell manually closed 
+      else if (currentMode === "closed") {
+        const openTime = parseInt(link.getAttribute("data-open-time") || "0");
+        if (openTime == "0") return;
+        const duration = Date.now() - openTime
+        posthog.capture("closeNutshell", {
+          text: link.textContent,
+          duration: duration,
+      })
         const nutshellBubble = document.querySelector(
           ".nutshell-bubble"
         ) as HTMLElement;
@@ -165,10 +226,30 @@ import posthog from "posthog-js";
       }
     }
 
+    // Clicks on open nutshell's x button
+    function handleNutshellXClick(event: Event) {
+      const xButton = (event.target as HTMLElement).closest(".nutshell-bubble-overflow-close")
+      if (!xButton) return;
+      const nutshellBubble = xButton.closest(".nutshell-bubble") as HTMLElement
+      const nutshellLink = nutshellBubble.previousElementSibling?.previousSibling as HTMLAnchorElement
+      if (!nutshellLink) return;
+      const openTime = parseInt(nutshellLink.getAttribute("data-open-time") || "0")
+      if (openTime == 0) return;
+      const duration = Date.now() - openTime;
+      posthog.capture("closeNutshell", {
+        text: nutshellLink.textContent,
+        duration: duration,
+      })
+      nutshellLink.removeAttribute("data-open-time")
+    } 
+
+    document.addEventListener("click", handleNutshellXClick);
+
     function addNutshellListener(link: HTMLAnchorElement) {
       if (!link.hasAttribute("listener-added")) {
         link.addEventListener("click", handleNutshellClick);
         link.setAttribute("listener-added", "true");
+        link.classList.add("ph-no-autocapture")
       }
     }
 
@@ -191,6 +272,7 @@ import posthog from "posthog-js";
       ) {
         link.addEventListener("click", handleLinkClick);
         link.setAttribute("link-listener-added", "true");
+        link.classList.add("ph-no-autocapture")
       }
     }
 
@@ -237,19 +319,80 @@ import posthog from "posthog-js";
   threshold: 0,
 });
 
-
+    // read25, read50, read75
     function handleScroll() {
-      if (!readEventTriggered) {
-        const scrollPosition = window.scrollY + window.innerHeight;
-        const totalHeight = document.documentElement.scrollHeight;
+      const scrollPosition = window.scrollY + window.innerHeight;
+      const totalHeight = document.documentElement.scrollHeight;
+      let idleId: string | null = null;
 
-        if (scrollPosition >= totalHeight / 2) {
-          posthog.capture("read", { page: document.title });
-          readEventTriggered = true;
-          window.removeEventListener("scroll", handleScroll);
-        }
+      if (!scroll25 && scrollPosition >= totalHeight * 0.25) {
+        posthog.capture("read25", { 
+          page: document.title,
+          read_id: crypto.randomUUID(),
+          page_height: totalHeight 
+        });
+        scroll25 = true;
+      }
+      if (!scroll50 && scrollPosition >= totalHeight * 0.5) {
+        posthog.capture("read50", { 
+          page: document.title,
+          read_id: crypto.randomUUID(),
+          page_height: totalHeight  
+        });
+        scroll50 = true;
+      }
+      if (!scroll75 && scrollPosition >= totalHeight * 0.75) {
+        posthog.capture("read75", { 
+          page: document.title,
+          read_id: crypto.randomUUID(),
+          page_height: totalHeight   
+        });
+        scroll75 = true;
       }
     }
+
+
+    // Adding userIdle/userStillIdle/userActive
+    let idleTimer: ReturnType<typeof setTimeout>;
+    let stillIdleTimer: ReturnType<typeof setInterval>;
+    let idleFired = false
+    let idleId: string | null = null;
+    let idlePeriodStarted = 0;
+
+    const IDLE_MS = 1 * 60 * 1000;    // 5min
+    
+    function resetIdleTimer() {
+      clearTimeout(idleTimer);
+      clearInterval(stillIdleTimer);
+
+      if (idleFired) {
+        posthog.capture("userActive", {
+          page: document.title,
+          idle_id: idleId,
+          idle_duration: (Date.now() - idlePeriodStarted) / 1000
+        });
+        idleFired = false
+        idleId = null
+      }
+      idleTimer = setTimeout(() => {
+        idleId = crypto.randomUUID()
+        idlePeriodStarted = Date.now()
+        posthog.capture('userIdle', {
+          page: document.title,
+          idle_id: idleId
+        });
+        idleFired = true;
+        stillIdleTimer = setInterval(() => {
+          posthog.capture('userIdle', {
+            page: document.title,
+            idle_id: idleId
+          });
+        }, IDLE_MS)
+      }, IDLE_MS)
+    }
+    // Events that would reset idle time
+    ['mousemove', 'mousedown', 'click', 'keydown', 'scroll', 'touchstart'].forEach(event => document.addEventListener(event, resetIdleTimer, { passive: true }))
+
 
     addInitialListeners();
     window.addEventListener("scroll", handleScroll);
