@@ -143,6 +143,8 @@ Do not create custom Starlight plugins, custom Astro integrations, or other cust
 
 The instructor aims to offer positive comments for all student work, regardless of quality, so indicators of good work do not actually mean the work is above average. "Good work" might be given for below-average work as encouragement. "Very good work" is usually reserved for above-average work.
 
+The Canvas gradebook is used by the instructor to communicate individual assignment grades to students. It is not used to calculate final grades, and you should not attempt to infer a student's final grade or overall performance from the gradebook. Although the gradebook may show a calculated "final grade" column, students are told to ignore it, and student-facing text should follow that guideline.
+
 ## Analytics
 
 Student-interaction events are captured by PostHog and continuously mirrored to a Neon Postgres database (provisioned through Vercel) via a PostHog Destination, so the same data is queryable in standard SQL. PostHog project: `us.posthog.com/project/101665` (dashboards, HogQL queries). Neon SQL mirror: Vercel dashboard, Storage, Open in Neon. The analytics code is in `src/components/DateAnalyticsComponent.astro`; `README-ANALYTICS.md` in this repo is the canonical analytics reference.
