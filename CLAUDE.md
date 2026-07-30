@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-06-18
+lastUpdated: 2026-07-30
 lastEvaluated: 2026-06-18
 writingClarityEvaluated: 2026-06-18
 ---
@@ -88,6 +88,14 @@ Content lives in `src/content/docs/course-ntw2029/`:
 - `assignments/exercises/`: Exercise assignments
 - `assignments/papers/`: Paper assignments
 - `resources/`: Course resources
+
+### Term-Suffixed Pages and Staged Next-Term Versions
+
+Paper assignment pages carry the semester code in the filename, and therefore in the student-visible URL: `p1-2520.md` serves `/course-ntw2029/assignments/papers/p1-2520/`. Exercise pages carry no semester code and pass between terms unchanged.
+
+When a page exists in two term versions at once (for example `p2-p06-explain-positions-2520.md` alongside `p2-p06-explain-positions-2610.md`), the pair is deliberate. The later-term file holds revisions the instructor wants for the following term but does not want live during the current one, and `draft: true` in its frontmatter is what keeps it hidden. Do not treat such a pair as duplication to clean up, and do not merge the staged file into the live page. Rolling the site over to a new term means promoting the staged file (clear its `draft: true`) and retiring the old term's page.
+
+Retiring matters because the sidebar autogenerates from the directory listings for `assignments/exercises`, `assignments/papers`, `course-info`, and `resources`. A page left in one of those directories stays visible to students unless its frontmatter sets `draft: true`, so an old term's page does not disappear on its own when the new term's page is added.
 
 ## Topic-Triggered References
 
