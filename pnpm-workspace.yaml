@@ -1,0 +1,20 @@
+allowBuilds:
+  core-js: true
+  esbuild: true
+  sharp: true
+minimumReleaseAgeExclude:
+  - '@astrojs/compiler-binding-darwin-arm64@0.3.2'
+  - '@astrojs/compiler-binding-darwin-x64@0.3.2'
+  - '@astrojs/compiler-binding-linux-arm64-gnu@0.3.2'
+  - '@astrojs/compiler-binding-linux-arm64-musl@0.3.2'
+  - '@astrojs/compiler-binding-linux-x64-gnu@0.3.2'
+  - '@astrojs/compiler-binding-linux-x64-musl@0.3.2'
+  - '@astrojs/compiler-binding-wasm32-wasi@0.3.2'
+  - '@astrojs/compiler-binding-win32-arm64-msvc@0.3.2'
+  - '@astrojs/compiler-binding-win32-x64-msvc@0.3.2'
+  - '@astrojs/compiler-binding@0.3.2'
+  - '@astrojs/compiler-rs@0.3.2'
+  - '@posthog/core@1.45.2'
+  - '@posthog/types@1.399.0'
+  - astro@7.1.6
+  - posthog-js@1.408.1
