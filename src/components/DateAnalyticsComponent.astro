@@ -72,22 +72,13 @@ import posthog from "posthog-js";
       const pageOpenedAt = Date.now();
 
       // If the tab is visible/hidden upon load
-      if (document.visibilityState === 'visible') {
-        posthog.capture('tabFocused', {
-          isInitial: true,
-          page: document.title,
-          totalTimeOpen: 0,
-          timeHidden: 0
-        })
-      }
-      else {
-        posthog.capture('tabUnfocused', {
-          isInitial: true,
-          page: document.title,
-          totalTimeOpen: 0,
-          timeFocused: 0
-        })
-      }
+      const visible = document.visibilityState === 'visible';
+      posthog.capture(visible ? 'tabFocused' : 'tabUnfocused', {
+        isInitial: true,
+        page: document.title,
+        totalTimeOpen: 0,
+        [visible ? 'timeHidden' : 'timeFocused']: 0,
+      });
       document.addEventListener('visibilitychange', () => {
         const now = Date.now()
         const elapsedMs = now - lastVisChange
@@ -117,7 +108,7 @@ import posthog from "posthog-js";
 
 
     window.addEventListener("load", function () {
-      let scroll25, scroll50, scroll75 = false;
+      let scroll25 = false, scroll50 = false, scroll75 = false;
 
     const documentDetailObserver = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
@@ -167,6 +158,16 @@ import posthog from "posthog-js";
       link.removeAttribute("data-open-time");
     }
 
+    function captureNutshellClose(link: HTMLAnchorElement, method: "text" | "x") {
+      const openTime = parseInt(link.getAttribute("data-open-time") || "0");
+      if (openTime === 0) return;
+      posthog.capture("closeNutshell", {
+        text: method === "x" ? "x" : link.textContent,
+        duration: Date.now() - openTime,
+      });
+      link.removeAttribute("data-open-time");
+    }
+
     // Clicks on the nutshell text/link 
     function handleNutshellClick(event: Event) {
       const link = event.currentTarget as HTMLAnchorElement;
@@ -210,13 +211,7 @@ import posthog from "posthog-js";
       } 
       // Nutshell manually closed 
       else if (currentMode === "closed") {
-        const openTime = parseInt(link.getAttribute("data-open-time") || "0");
-        if (openTime == "0") return;
-        const duration = Date.now() - openTime
-        posthog.capture("closeNutshell", {
-          text: link.textContent,
-          duration: duration,
-      })
+        captureNutshellClose(link, "text");
         const nutshellBubble = document.querySelector(
           ".nutshell-bubble"
         ) as HTMLElement;
@@ -233,14 +228,7 @@ import posthog from "posthog-js";
       const nutshellBubble = xButton.closest(".nutshell-bubble") as HTMLElement
       const nutshellLink = nutshellBubble.previousElementSibling?.previousSibling as HTMLAnchorElement
       if (!nutshellLink) return;
-      const openTime = parseInt(nutshellLink.getAttribute("data-open-time") || "0")
-      if (openTime == 0) return;
-      const duration = Date.now() - openTime;
-      posthog.capture("closeNutshell", {
-        text: nutshellLink.textContent,
-        duration: duration,
-      })
-      nutshellLink.removeAttribute("data-open-time")
+      captureNutshellClose(nutshellLink, "x");
     } 
 
     document.addEventListener("click", handleNutshellXClick);
@@ -323,7 +311,6 @@ import posthog from "posthog-js";
     function handleScroll() {
       const scrollPosition = window.scrollY + window.innerHeight;
       const totalHeight = document.documentElement.scrollHeight;
-      let idleId: string | null = null;
 
       if (!scroll25 && scrollPosition >= totalHeight * 0.25) {
         posthog.capture("read25", { 
@@ -359,7 +346,7 @@ import posthog from "posthog-js";
     let idleId: string | null = null;
     let idlePeriodStarted = 0;
 
-    const IDLE_MS = 1 * 60 * 1000;    // 5min
+    const IDLE_MS = 5 * 60 * 1000; // 5 minutes
     
     function resetIdleTimer() {
       clearTimeout(idleTimer);
