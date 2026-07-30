@@ -50,10 +50,12 @@ import posthog from "posthog-js";
           person_profiles: 'identified_only',
         });
         setupVisibilityTracking();
-        posthog.identify(user.id, {
-          name: user.username,
-          timestamp: new Date().toISOString()
-        });
+        if (user?.id) {
+          posthog.identify(user.id, {
+            name: user.username,
+            timestamp: new Date().toISOString()
+          });
+        }
       } catch (error) {
         console.error('Error initializing tracking:', error);
       }
