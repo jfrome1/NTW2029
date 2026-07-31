@@ -87,7 +87,7 @@ There is no official grade bonus/penalty for correct/incorrect formatting, but e
 
 ##### :x late-assignment-fine-print
 
-"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each addtional 24-hour day"
+"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each additional 24-hour day"
 
 ##### :x show-comments
 
