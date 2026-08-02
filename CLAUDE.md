@@ -55,7 +55,15 @@ All .md files under Astro's content directory (`src/content/docs/`) must have YA
 
 ### Vercel Deployment Debugging
 
-The GitHub deployments API (`gh api repos/{owner}/{repo}/deployments/{id}/statuses`) returns only state (success/failure/pending) and a brief description. Detailed build error logs are only available in the Vercel dashboard, not through the API.
+The GitHub deployments API (`gh api repos/{owner}/{repo}/deployments/{id}/statuses`) returns only state (success/failure/pending) and a brief description. For the build error output itself, use the Vercel CLI.
+
+The site is the `ntw-2029` project under the `jf-gen-ai-project` team. `vercel ls` picks that team up from the linked project, but `vercel inspect` does not, so pass its scope explicitly:
+
+`vercel inspect [deployment-url] --logs --scope jf-gen-ai-project`
+
+That command prints the full build log, including the error that failed the build. Add `--wait` to stream the log while a build is still running. For runtime and request logs from `api/` and `middleware.ts`, `vercel logs` covers them, with `--level error` and `--since` filters available.
+
+Vercel CLI authentication persists across sessions, because the CLI stores a refresh token and renews itself; only ten days without use forces `vercel login` again. Verified 2026-08-02 with Vercel CLI 58.4.4: the `vercel ls` and `vercel inspect --logs` commands above were run successfully against this project, and `vercel logs` was not exercised.
 
 ### Vercel Ignored Build Step
 
