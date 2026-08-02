@@ -1,6 +1,5 @@
 ---
 title: Nature vs. nurture (2.1)
-date: 2025-01-26
 pagefind: false
 draft: true
 sidebar:

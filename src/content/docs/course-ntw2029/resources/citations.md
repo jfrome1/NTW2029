@@ -1,6 +1,5 @@
 ---
 title: Citations
-date: 2025-09-03
 ---
 
 ## How Academic Citation Works

@@ -1,6 +1,5 @@
 ---
 title: Exercise 07 - Imaginary Worlds
-date: 2025-09-03
 ---
 ## Purpose
 

@@ -1,6 +1,5 @@
 ---
 title: EP and Art FAQs
-date: 2025-08-17
 draft: true
 sidebar:
   badge:

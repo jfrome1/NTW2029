@@ -1,6 +1,5 @@
 ---
 title: Paper titles
-date: .2025-02-0
 pagefind: false
 draft: true
 sidebar:

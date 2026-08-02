@@ -1,6 +1,5 @@
 ---
 title: P05 - Identify the Criticism
-date: 2026-01-17
 ---
 
 ## Purpose

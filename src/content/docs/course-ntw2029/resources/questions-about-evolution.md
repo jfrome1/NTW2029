@@ -1,6 +1,5 @@
 ---
 title: Questions about evolution
-date: 2025-08-19
 ---
 
 Below are common questions asked about evolution and resources answering those questions.

@@ -1,6 +1,5 @@
 ---
 title: Introductions - orienting your reader (5.2)
-date: 2025-03-11
 pagefind: false
 draft: true
 sidebar:

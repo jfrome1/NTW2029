@@ -1,6 +1,5 @@
 ---
 title: Feedback
-date: 2025-10-05
 draft: true
 sidebar:
   badge:

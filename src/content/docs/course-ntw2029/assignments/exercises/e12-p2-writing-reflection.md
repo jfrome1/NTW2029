@@ -1,6 +1,5 @@
 ---
 title: Exercise 12 - Paper 2 writing reflection
-date: 2024-08-13
 ---
 
 ## Purpose

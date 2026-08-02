@@ -1,6 +1,5 @@
 ---
 title: Exercise 10 - P06 Conference report
-date: 2025-10-28
 ---
 
 ## Purpose

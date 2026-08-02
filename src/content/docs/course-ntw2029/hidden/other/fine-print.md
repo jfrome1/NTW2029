@@ -1,7 +1,6 @@
 ---
 
 title: Fine Print
-date: 2026-05-15
 draft: true
 sidebar:
   badge:

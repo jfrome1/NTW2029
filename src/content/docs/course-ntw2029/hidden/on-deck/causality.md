@@ -1,6 +1,5 @@
 ---
 title: Causality
-date: 2025-02-20
 pagefind: false
 draft: true
 sidebar:

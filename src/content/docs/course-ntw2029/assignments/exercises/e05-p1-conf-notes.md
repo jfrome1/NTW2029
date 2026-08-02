@@ -1,6 +1,5 @@
 ---
 title: Exercise 5 - P02 Conference report
-date: 2024-08-13
 ---
 ## Purpose
 

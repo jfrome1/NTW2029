@@ -1,6 +1,5 @@
 ---
 title: Exercise 3 example
-date: 2025-08-26
 pagefind: false
 draft: false
 ---

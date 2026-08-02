@@ -1,6 +1,5 @@
 ---
 title: NUSC Writing Center
-date: 2025-01-14
 pagefind: false
 draft: true
 sidebar:

@@ -1,6 +1,5 @@
 ---
 title: Conferences
-date: 2026-02-11
 ---
 
 ## Overview

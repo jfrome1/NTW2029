@@ -1,6 +1,5 @@
 ---
 title: P07 - Working Draft
-date: 2026-01-17
 ---
 
 ## Purpose

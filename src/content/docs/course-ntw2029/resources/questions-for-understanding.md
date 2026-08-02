@@ -1,6 +1,5 @@
 ---
 title: Questions for understanding sources
-date: 2025-09-04
 draft: true
 sidebar:
   badge:
