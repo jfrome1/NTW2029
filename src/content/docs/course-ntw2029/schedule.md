@@ -129,7 +129,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 
 ###### Due Sun 6 Sep 2026: E13 - Workload report, Aug
 >
-###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+###### Due Sun 6 Sep 2026: P01 - Paper 1 pre-writing (optional, not expected or graded)
 
 ## 5.1 Mon 7 Sep 2026
 
@@ -152,15 +152,15 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 <!--Class media: -->
 
-###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
+###### Due Sun 13 Sep 2026: P02 - Paper 1 draft
 
 ## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
 
-###### Due day of conference: E05 - Paper 1 Conference report
+###### Due day of conference: E05 - P02 conference report (draft)
 >
-###### Due six days after conference: P03 - Paper 1 Final
+###### Due six days after conference: P03 - Paper 1 final
 >
-###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
+###### Due one day after Paper 1 final: E06 - Paper 1 writing reflection
 
 Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due.
 
@@ -173,7 +173,7 @@ Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due
 
 <!-- ###### Mid-semester course evaluation -->
 
-###### Due Wed 30 Sep 2026: E07 - Reading questions
+###### Due Wed 30 Sep 2026: E07 - Reading questions: Imaginary worlds
 
 ## 7.2 Thu 1 Oct 2026
 
@@ -184,7 +184,7 @@ Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due
 - Writing topic: transitions
 	- Read before class (recommended): none
 
-###### Due Sun 4 Oct 2026: E08 - Reading questions
+###### Due Sun 4 Oct 2026: E08 - Reading questions: Art and negative emotions
 >
 ###### Due Sun 4 Oct 2026: E13 - Workload report, Sep
 
@@ -197,7 +197,7 @@ Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due
 - Writing topic: none
 	- Read before class (recommended): none
 
-###### Due Wed 7 Oct 2026: E09 - Reading questions
+###### Due Wed 7 Oct 2026: E09 - Reading questions: Origin of music
 
 ## 8.2 Thu 8 Oct 2026
 
@@ -224,9 +224,9 @@ Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Wed 14 Oct 2026: P04 - Paper 2 Article selection
+###### Due Wed 14 Oct 2026: P04 - Paper 2 article selection
 >
-###### Due Sun 18 Oct 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
+###### Due Sun 18 Oct 2026, 6pm: P05 - Paper 2 identify the criticism (peer review checkpoint)
 
 ## 10.1 Mon 19 Oct 2026
 
@@ -244,15 +244,15 @@ Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P05 to be reviewed.
 
-###### Due Sun 25 Oct 2026: P06 - Paper 2 Verify positions
+###### Due Sun 25 Oct 2026: P06 - Paper 2 verify positions
 >
 ## 11.1 and 11.2 (26 and 29 Oct 2026) no class meetings, student conferences
 
-###### Due day of conference: E10 - Paper 2 Conference report (positions)
+###### Due day of conference: E10 - P06 conference report (positions)
 >
 ###### Due Sun 1 Nov 2026: E13 - Workload report, Oct
 >
-###### Due Sun 1 Nov 2026, 6pm: P07 - Paper 2 Working document (for peer review)
+###### Due Sun 1 Nov 2026, 6pm: P07 - Paper 2 working draft (for peer review)
 >
 ## 12.1 Mon 2 Nov 2026
 
@@ -270,17 +270,17 @@ Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P07 to be reviewed.
 
-###### Due Sun 8 Nov 2026: P08 - Paper 2 Full draft and outline
+###### Due Sun 8 Nov 2026: P08 - Paper 2 full draft and outline
 >
 ## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
 
 Mon 9 Nov 2026 is the Deepavali holiday, so conferences this week run Tue 10 Nov to Fri 13 Nov.
 
-###### Due day of conference: E11 - Paper 2 Conference report (draft)
+###### Due day of conference: E11 - P08 conference report (full draft)
 >
 ###### Due six days after conference: P09 - Paper 2 Final
 >
-###### Due one day after Paper 2: E12 - Paper 2 Writing reflection
+###### Due one day after Paper 2: E12 - Paper 2 writing reflection
 >
 ###### Due one day after Paper 2: E13 - Workload report, Nov (final)
 

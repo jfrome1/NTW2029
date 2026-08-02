@@ -1,5 +1,5 @@
 ---
-title: Exercise 3 - explain Boyd
+title: E03 - Explain Boyd
 ---
 
 ## Purpose

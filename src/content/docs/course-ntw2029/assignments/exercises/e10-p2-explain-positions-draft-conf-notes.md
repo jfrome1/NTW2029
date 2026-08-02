@@ -1,5 +1,5 @@
 ---
-title: Exercise 10 - P06 Conference report
+title: E10 - P06 conference report (positions)
 ---
 
 ## Purpose

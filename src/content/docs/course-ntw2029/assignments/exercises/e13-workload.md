@@ -1,5 +1,5 @@
 ---
-title: Exercise 13 - Workload report
+title: E13 - Workload report
 ---
 
 ## Assignment

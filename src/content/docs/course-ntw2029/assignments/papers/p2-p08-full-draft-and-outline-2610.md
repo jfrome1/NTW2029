@@ -1,5 +1,5 @@
 ---
-title: P08 - Full Draft and Outline
+title: P08 - Paper 2 full draft and outline
 ---
 
 ## Purpose

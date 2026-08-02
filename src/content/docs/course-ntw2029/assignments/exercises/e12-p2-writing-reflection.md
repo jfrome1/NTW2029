@@ -1,5 +1,5 @@
 ---
-title: Exercise 12 - Paper 2 writing reflection
+title: E12 - Paper 2 writing reflection
 ---
 
 ## Purpose

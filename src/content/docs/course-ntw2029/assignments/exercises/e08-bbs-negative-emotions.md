@@ -1,5 +1,5 @@
 ---
-title: Exercise 08 - Art and Negative Emotions
+title: "E08 - Reading questions: Art and negative emotions"
 ---
 
 ## Purpose

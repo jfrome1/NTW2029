@@ -1,5 +1,5 @@
 ---
-title: Exercise 6 - Paper 1 writing reflection
+title: E06 - Paper 1 writing reflection
 ---
 
 ## Purpose
