@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-06-18
+lastUpdated: 2026-08-02
 lastEvaluated: 2026-06-18
 writingClarityEvaluated: 2026-06-18
 ---
@@ -71,7 +71,7 @@ Rehype plugins must be configured at the Astro config level (`defineConfig({ mar
 
 ### Astro Site URL
 
-`astro.config.mjs` sets `site: "https://ntw2029.vercel.app"`. This value is the canonical URL used by `@astrojs/sitemap` to generate `sitemap.xml` and by any other Astro features that need absolute URLs (Open Graph tags, RSS). If the site moves to a different domain, update this to match; sitemaps and absolute links generated with the old URL would point to the wrong host.
+`astro.config.mjs` sets `site: "https://ntw-2029.vercel.app"`. This value is the canonical URL used by `@astrojs/sitemap` to generate `sitemap.xml` and by any other Astro features that need absolute URLs (Open Graph tags, RSS). If the site moves to a different domain, update this to match; sitemaps and absolute links generated with the old URL would point to the wrong host.
 
 ### Custom Components
 
