@@ -33,7 +33,7 @@ Do not run `pnpm build` without explicit user approval. Content review and editi
 
 ## Architecture
 
-- **Framework**: Astro 5 with Starlight documentation theme
+- **Framework**: Astro 7 with Starlight documentation theme
 - **Content**: Markdown/MDX files in `src/content/docs/`
 - **Styling**: Custom CSS in `src/styles/custom.css`
 - **Components**: Custom Astro components in `src/components/`
