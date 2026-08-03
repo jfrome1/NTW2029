@@ -65,6 +65,10 @@ The Vercel project's Ignored Build Step is set to:
 
 Pushes that only touch files under `srip-2026/` exit 0 and skip the build. Pushes that touch anything outside `srip-2026/` build normally. The Deployments tab shows "Ignored" status for skipped pushes. Configured 2026-05-13 during the SRIP 2026 internship period; can be removed when the SRIP workspace is no longer in the repo.
 
+### Build Fails on a Stale node_modules
+
+A build that dies with "Named export 'parseCookie' not found. The requested module 'cookie' is a CommonJS module" is not an Astro bug. It means `node_modules` was created by npm before this project moved to pnpm, and the leftover flat tree still holds a top-level CommonJS `cookie@1.0.2` that shadows the ESM `cookie@2.0.1` that Astro 7 resolves to. Running `pnpm install` over the old tree does not clear it, because pnpm layers its own store alongside rather than removing what npm left. Delete the whole `node_modules` folder, then run `pnpm install` again. The tell that a tree is hybrid is an npm-created `node_modules/.package-lock.json` sitting next to pnpm's `.pnpm` directory. Observed on the Laptop on 2026-08-03.
+
 ### Rehype Plugin Configuration
 
 Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`. Putting `rehypePlugins` there has no effect.
