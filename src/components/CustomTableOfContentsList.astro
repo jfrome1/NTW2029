@@ -1,5 +1,10 @@
 ---
-import type { TocItem } from '@astrojs/starlight/utils/generateToC';
+interface TocItem {
+	depth: number;
+	slug: string;
+	text: string;
+	children: TocItem[];
+}
 
 interface Props {
 	toc: TocItem[];

@@ -1,6 +1,5 @@
 ---
 title: Paper 2 source summary
-date: 2025-02-01
 pagefind: false
 draft: true
 sidebar:

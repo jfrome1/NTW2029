@@ -1,6 +1,5 @@
 ---
 title: Unclear referents and ambiguous pronouns
-date: 2025-09-15
 ---
 
 Try to follow this argument:

@@ -1,6 +1,5 @@
 ---
 title: GenAI policy
-date: 2026-01-14
 ---
 
 GenAI is a tool we'll all be using more and more, so this course lets you explore its capabilities and limitations without penalty. The key is transparency—I need to see how you're using it to understand what helps or hinders your learning.

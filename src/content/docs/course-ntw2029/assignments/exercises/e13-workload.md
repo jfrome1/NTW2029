@@ -1,6 +1,5 @@
 ---
 title: Exercise 13 - Workload report
-date: 2026-01-12
 ---
 
 ## Assignment

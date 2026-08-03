@@ -1,6 +1,5 @@
 ---
 title: Academic conversation
-date: 2025-01-31
 pagefind: false
 draft: true
 sidebar:

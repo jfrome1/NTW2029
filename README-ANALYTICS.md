@@ -17,16 +17,34 @@ PostHog is initialized with `persistence: 'memory'` and `person_profiles: 'ident
 
 | Event | Trigger | Properties |
 | :--- | :--- | :--- |
-| `read` | User scrolls past 50% of page | `page` |
+| `read25` / `read50` / `read75` | Viewport bottom crosses 25% / 50% / 75% of page | `page`, `read_id`, `page_height` |
 | `openNutshell` | Nutshell expandable link opened | `page`, `text` |
-| `closeNutshell` | Nutshell link closed after being opened | `text`, `duration` |
-| `inactiveNutshell` | Nutshell bubble scrolled out of viewport while open | `text`, `duration` |
+| `closeNutshell` | Nutshell manually closed (click text or X button) | `text` ("x" or nutshell text), `duration` |
+| `inactiveNutshell` | Nutshell scrolled out of viewport while open | `text`, `duration` |
 | `openQuiz` | `<details>` element expanded | `page`, `text` |
 | `closeQuiz` | `<details>` element collapsed | `page`, `text`, `duration` |
-| `internalLinkClick` | Click on any internal `<a>` (non-nutshell) | `text`, `link` |
-| `externalLinkClick` | Click on any external `<a>` (non-nutshell) | `text`, `link` |
+| `internalLinkClick` | Click on internal `<a>` (non-nutshell) | `text`, `link` |
+| `externalLinkClick` | Click on external `<a>` (non-nutshell) | `text`, `link` |
+| `tabFocused` | Tab gains focus / initial visible state | `isInitial`, `page`, `totalTimeOpen`, `timeHidden` |
+| `tabUnfocused` | Tab loses focus | `isInitial`, `page`, `totalTimeOpen`, `timeFocused` |
+| `userIdle` | 5 minutes of zero input | `page`, `idle_id` |
+| `userActive` | User returns after being idle | `page`, `idle_id`, `idle_duration` |
 
 Duration values are in milliseconds, calculated from a `data-open-time` attribute set when the element opens.
+
+## Changes (edits-2026)
+
+| Change | New or updated? | What it does |
+| :--- | :--- | :--- |
+| Page-load setup | Updated | Now also begins tab-focus tracking as soon as the page loads. |
+| Tab focus / away detection | New | Records when a student switches to or away from the course website tab, and how long they were away. |
+| Nutshell close (click text) | Updated | Closing a nutshell by clicking its text is now logged as a manual close, separate from auto-close. |
+| Nutshell close (X button) | New | Logs when a student closes a nutshell using the X button. |
+| Nutshell link setup | Updated | Stops duplicate generic click records on nutshell links. |
+| Regular link setup | Updated | Stops duplicate generic click records on normal page links. |
+| Quiz/dropdown setup | Updated | Stops duplicate generic click records on quiz dropdown menus. |
+| Scroll / reading depth | Updated | Reading tracked at 25%, 50%, and 75% down the page (previously only one mark at 50%). |
+| Idle detection | New | Detects when a student stops interacting (idle) and logs when they become active again. |
 
 ## Key Files
 

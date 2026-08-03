@@ -1,6 +1,5 @@
 ---
 title: Keyterms (3.1)
-date: 2025-01-30
 pagefind: false
 draft: true
 sidebar:

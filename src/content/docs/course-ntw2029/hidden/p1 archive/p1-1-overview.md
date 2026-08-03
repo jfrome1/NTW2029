@@ -1,6 +1,5 @@
 ---
 title: Paper 1 overview
-date: 2025-02-20
 draft: true
 sidebar:
   badge:

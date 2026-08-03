@@ -1,6 +1,5 @@
 ---
 title: Exercise 2 - Explain something - 2620
-date: 2024-08-14
 draft: true
 sidebar:
   badge:

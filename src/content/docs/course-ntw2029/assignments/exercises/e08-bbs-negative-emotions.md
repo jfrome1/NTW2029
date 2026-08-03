@@ -1,6 +1,5 @@
 ---
 title: Exercise 08 - Art and Negative Emotions
-date: 2025-10-02
 ---
 
 ## Purpose

@@ -1,7 +1,6 @@
 ---
 
 title: Introduction to Evolutionary Psychology (EP) (2.1)
-date: 2025-01-23
 draft: true
 sidebar:
   label: Introduction to EP (2.1)

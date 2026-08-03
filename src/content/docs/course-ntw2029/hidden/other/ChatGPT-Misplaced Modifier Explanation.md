@@ -1,6 +1,5 @@
 ---
 title: ChatGPT  Misplaced Modifier Explanation
-date: 2025-10-08
 pagefind: false
 draft: true
 sidebar:

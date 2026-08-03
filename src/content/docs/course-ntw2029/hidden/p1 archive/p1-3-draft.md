@@ -1,6 +1,5 @@
 ---
 title: Paper 1 draft
-date: 2025-02-01
 
 draft: true
 sidebar:

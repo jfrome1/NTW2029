@@ -1,6 +1,5 @@
 ---
 title: Exercise 2 - Explain something
-date: 2024-08-14
 ---
 
 ## Purpose

@@ -1,7 +1,6 @@
 ---
 
 title: Conversational Comparisons
-date: 2025-11-14
 draft: true
 sidebar:
   badge:

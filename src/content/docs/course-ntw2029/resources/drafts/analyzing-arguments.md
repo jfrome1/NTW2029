@@ -1,6 +1,5 @@
 ---
 title: Analyzing arguments (2.2)
-date: 2025-01-29
 pagefind: false
 draft: true
 sidebar:

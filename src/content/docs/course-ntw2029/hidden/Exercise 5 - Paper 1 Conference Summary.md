@@ -1,6 +1,5 @@
 ---
 title: Exercise 5 - Paper 1 post-conference notes
-date: 2024-08-13
 draft: true
 sidebar:
   badge:

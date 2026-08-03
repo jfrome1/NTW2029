@@ -1,6 +1,5 @@
 ---
 title: Course Expectations
-date: 2025-08-17
 ---
 
 ## Technology Requirements

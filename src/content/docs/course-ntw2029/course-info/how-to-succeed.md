@@ -1,6 +1,5 @@
 ---
 title: How to Succeed in This Course
-date: .2026-01-17
 ---
 
 ## Making Conferences Count

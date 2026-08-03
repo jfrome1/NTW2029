@@ -1,6 +1,5 @@
 ---
 title: Schedule
-date: 2026-01-12
 ---
 
 :::tip
@@ -13,7 +12,7 @@ Claude: when editing this file, every line starting with `###### Due` must be fo
 This file is generated from a Freeplane mind map via export_syllabus.groovy, but regeneration is currently manual and infrequent.
 -->
 
-## 1.1 Mon 12 Jan 2026
+## 1.1 Mon 10 Aug 2026: no class meeting, National Day holiday
 
 - EP and art topic: origins of evolutionary thought
 	- Read before class: none
@@ -22,9 +21,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due Tue 13 Jan 2026: E01 - Introductions
+###### Due Tue 11 Aug 2026: E01 - Introductions
 
-## 1.2 Thu 15 Jan 2026
+## 1.2 Thu 13 Aug 2026
 
 - TECH EXCEPTION: bring your laptops to class today
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
@@ -43,9 +42,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
     - [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
     - [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
 
-###### Due Sun 18 Jan 2026: E02 - Explain something
+###### Due Sun 16 Aug 2026: E02 - Explain something
 
-## 2.1 Mon 19 Jan 2026
+## 2.1 Mon 17 Aug 2026
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
@@ -64,7 +63,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
     - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
         - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
  <!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) -->
-## 2.2 Thu 22 Jan 2026
+## 2.2 Thu 20 Aug 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
@@ -80,18 +79,18 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
     - [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
     - [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
-###### Due Sun 25 Jan 2026: E03 - Explain Boyd
+###### Due Sun 23 Aug 2026: E03 - Explain Boyd
 >
-<!-- ###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like) -->
+<!-- ###### Due Sun 23 Aug 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like) -->
 
-## 3.1 Mon 26 Jan 2026
+## 3.1 Mon 24 Aug 2026
 
 - EP and art topic: criticisms of EP
 	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-68 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-68.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](/downloads/harveyBriefGuideElements2009-bw.pdf)
 
-## 3.2 Thu 29 Jan 2026
+## 3.2 Thu 27 Aug 2026
 
 - EP and art topic: scientific research and EP research
 	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion-questions)
@@ -105,13 +104,11 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
  -->
 
-###### Due Sun 1 Feb 2026: E04 - Explain Goldfinch
+###### Due Sun 30 Aug 2026: E04 - Explain Goldfinch
 >
-<!-- ###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like) -->
->
-###### Due Sun 1 Feb 2026: E13 - Workload report, Jan
+<!-- ###### Due Sun 30 Aug 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like) -->
 
-## 4.1 Mon 2 Feb 2026
+## 4.1 Mon 31 Aug 2026
 
 - EP and art topic: art as by-product
 	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
@@ -121,7 +118,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
 	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min) -->
 
-## 4.2 Thu 5 Feb 2026
+## 4.2 Thu 3 Sep 2026
 
 - EP and art topic: art and sexual selection
 	- Read before class:
@@ -130,9 +127,11 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read before class (recommended): none
 <!--Class media: -->
 
-###### Due Sun 8 Feb 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+###### Due Sun 6 Sep 2026: E13 - Workload report, Aug
+>
+###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
 
-## 5.1 Mon 9 Feb 2026
+## 5.1 Mon 7 Sep 2026
 
 - EP and art topic: art and natural selection via cooperation
 	- Read before class:
@@ -143,7 +142,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](/downloads/weplerRevisingEfficientlyEffectively2011.pdf)
 <!--Class media: -->
 
-## 5.2 Thu 12 Feb 2026
+## 5.2 Thu 10 Sep 2026
 
 - EP and art topic: cooperation and storytelling, and catch-up class
 	- Read before class:
@@ -153,19 +152,19 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 <!--Class media: -->
 
-###### Due Sun 15 Feb 2026: P02 - Paper 1 Draft
+###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
 
-## 6.1 and 6.2 (16 and 19 Feb 2026) no class meetings, student conferences
+## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
 
 ###### Due day of conference: E05 - Paper 1 Conference report
 >
 ###### Due six days after conference: P03 - Paper 1 Final
 >
 ###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
->
-###### Due Sun 1 Mar 2026: E13 - Workload report, Feb
 
-## 7.1 Mon 2 Mar 2026
+Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due.
+
+## 7.1 Mon 28 Sep 2026
 
 - EP and art topic: EP and the multilevel mind
     - Read: none
@@ -174,9 +173,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 
 <!-- ###### Mid-semester course evaluation -->
 
-###### Due Wed 4 Mar 2026: E07 - Reading questions
+###### Due Wed 30 Sep 2026: E07 - Reading questions
 
-## 7.2 Thu 5 Mar 2026
+## 7.2 Thu 1 Oct 2026
 
 - Devices may be used in this class meeting
 - EP and art topic: appeal of imaginary narrative worlds
@@ -185,9 +184,11 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - Writing topic: transitions
 	- Read before class (recommended): none
 
-###### Due Sun 8 Mar 2026: E08 - Reading questions
+###### Due Sun 4 Oct 2026: E08 - Reading questions
+>
+###### Due Sun 4 Oct 2026: E13 - Workload report, Sep
 
-## 8.1 Mon 9 Mar 2026
+## 8.1 Mon 5 Oct 2026
 
 - Devices may be used in this class meeting
 - EP and art topic: enjoyment of negative emotions in art
@@ -196,9 +197,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - Writing topic: none
 	- Read before class (recommended): none
 
-###### Due Wed 11 Mar 2026: E09 - Reading questions
+###### Due Wed 7 Oct 2026: E09 - Reading questions
 
-## 8.2 Thu 12 Mar 2026
+## 8.2 Thu 8 Oct 2026
 
 - Devices may be used in this class meeting
 - EP and art topic: evolution of music
@@ -209,7 +210,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - Writing topic: none
 	- Read before class (recommended): none
 
-## 9.1 Mon 16 Mar 2026
+## 9.1 Mon 12 Oct 2026
 
 - EP and art topic: none
 	- Read before class:
@@ -218,16 +219,16 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - Writing topic: none
 	- Read before class (recommended): none
 
-## 9.2 Thu 19 Mar 2026
+## 9.2 Thu 15 Oct 2026
 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Wed 18 Mar 2026: P04 - Paper 2 Article selection
+###### Due Wed 14 Oct 2026: P04 - Paper 2 Article selection
 >
-###### Due Sun 22 Mar 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
+###### Due Sun 18 Oct 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
 
-## 10.1 Mon 23 Mar 2026
+## 10.1 Mon 19 Oct 2026
 
 - Devices may be used in this class meeting
 - [:Week 10 peer review groups](#x-week-10-peer-review-groups)
@@ -235,7 +236,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P05 to be reviewed.
 
-## 10.2 Thu 26 Mar 2026
+## 10.2 Thu 22 Oct 2026
 
 - Devices may be used in this class meeting
 - Continue peer review from 10.1 with same groups
@@ -243,17 +244,17 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P05 to be reviewed.
 
-###### Due Sun 29 Mar 2026: P06 - Paper 2 Verify positions
+###### Due Sun 25 Oct 2026: P06 - Paper 2 Verify positions
 >
-## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
+## 11.1 and 11.2 (26 and 29 Oct 2026) no class meetings, student conferences
 
 ###### Due day of conference: E10 - Paper 2 Conference report (positions)
 >
-###### Due Sun 5 Apr 2026: E13 - Workload report, Mar
+###### Due Sun 1 Nov 2026: E13 - Workload report, Oct
 >
-###### Due Sun 5 Apr 2026, 6pm: P07 - Paper 2 Working document (for peer review)
+###### Due Sun 1 Nov 2026, 6pm: P07 - Paper 2 Working document (for peer review)
 >
-## 12.1 Mon 6 Apr 2026
+## 12.1 Mon 2 Nov 2026
 
 - Devices may be used in this class meeting
 - [:Week 12 peer review groups](#x-week-12-peer-review-groups)
@@ -261,7 +262,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P07 to be reviewed.
 
-## 12.2 Thu 9 Apr 2026
+## 12.2 Thu 5 Nov 2026
 
 - Devices may be used in this class meeting
 - Last in-person class meeting
@@ -269,9 +270,11 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 	- Read before class (recommended): peer writing
 - NOTE: Bring at least three hardcopies of your P07 to be reviewed.
 
-###### Due Sun 12 Apr 2026: P08 - Paper 2 Full draft and outline
+###### Due Sun 8 Nov 2026: P08 - Paper 2 Full draft and outline
 >
-## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
+## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
+
+Mon 9 Nov 2026 is the Deepavali holiday, so conferences this week run Tue 10 Nov to Fri 13 Nov.
 
 ###### Due day of conference: E11 - Paper 2 Conference report (draft)
 >
@@ -279,7 +282,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 >
 ###### Due one day after Paper 2: E12 - Paper 2 Writing reflection
 >
-###### Due one day after Paper 2: E13 - Workload report, Apr (final)
+###### Due one day after Paper 2: E13 - Workload report, Nov (final)
 
 ##### :x assigned videos
 

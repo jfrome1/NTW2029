@@ -1,6 +1,5 @@
 ---
 title: Paper 1 source outline (optional)
-date: 2024-09-06
 
 draft: true
 sidebar:

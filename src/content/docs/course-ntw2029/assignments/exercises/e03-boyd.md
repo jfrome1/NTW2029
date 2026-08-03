@@ -1,6 +1,5 @@
 ---
 title: Exercise 3 - explain Boyd
-date: 2024-08-23
 ---
 
 ## Purpose

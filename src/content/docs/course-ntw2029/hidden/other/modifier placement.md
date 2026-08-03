@@ -1,6 +1,5 @@
 ---
 title: modifier placement
-date: 2025-11-16
 draft: true
 sidebar:
   badge:
