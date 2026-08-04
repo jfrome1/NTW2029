@@ -20,56 +20,11 @@ Transcripts are organized by semester in:
 
 ## Commands
 
-This project uses pnpm, not npm. Always use `pnpm` for installs and scripts; do not run `npm install` or `npm run ...`.
-
-```bash
-pnpm install      # Install dependencies (uses pnpm-lock.yaml)
-pnpm dev          # Start dev server at localhost:4321
-pnpm build        # Run astro check && astro build to ./dist/
-pnpm preview      # Preview production build locally
-```
+This project uses pnpm, not npm. Always use `pnpm` for installs and scripts; do not run `npm install` or `npm run ...`. The available scripts are listed in `package.json`.
 
 Do not run `pnpm build` without explicit user approval. Content review and editing does not require building.
 
-## Architecture
-
-- **Framework**: Astro 5 with Starlight documentation theme
-- **Content**: Markdown/MDX files in `src/content/docs/`
-- **Styling**: Custom CSS in `src/styles/custom.css`
-- **Components**: Custom Astro components in `src/components/`
-
-### Key Plugins
-
-- `starlight-links-validator`: Validates internal links at build time
-- `starlight-nutshell`: Expandable inline content (`:link text` syntax)
-- `starlight-auto-drafts`: Draft content management
-- `rehype-external-links`: Adds external link indicators
-
-### Troubleshooting Missing Pages
-
-When a page doesn't appear in the sidebar or on the live site, check the page's frontmatter for `draft: true`. The `starlight-auto-drafts` plugin hides draft pages from the sidebar in production, even if they're explicitly listed in the sidebar config in `astro.config.mjs`.
-
-### Content Entry Requirements
-
-All .md files under Astro's content directory (`src/content/docs/`) must have YAML frontmatter with at least a `title:` field. Files without frontmatter cause `InvalidContentEntryDataError` and fail the Vercel build. A blank line between the opening `---` and the first field can also cause parsing failures.
-
-### Custom Components
-
-- `CustomTableOfContents.astro`: Modified TOC behavior
-- `CustomPagination.astro`: Modified pagination
-- `Mermaid.astro`: Mermaid diagram support (MDX files only)
-
-## Content Structure
-
-Content lives in `src/content/docs/course-ntw2029/`:
-
-- `schedule.md`: Course schedule (sidebar root)
-- `course-info/`: Course information pages
-- `assignments/exercises/`: Exercise assignments
-- `assignments/papers/`: Paper assignments
-- `resources/`: Course resources
-
-### Term-Suffixed Pages and Staged Next-Term Versions
+## Term-Suffixed Pages and Staged Next-Term Versions
 
 Paper assignment pages carry the semester code in the filename, and therefore in the student-visible URL: `p1-2520.md` serves `/course-ntw2029/assignments/papers/p1-2520/`. Exercise pages carry no semester code and pass between terms unchanged.
 
@@ -85,27 +40,11 @@ Before responding, check if the prompt involves these topics. If so, load the co
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | FAQ, nutshell, anchor link, content placement                           | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md`                    |
 | link syntax, markdown links, heading ID                                 | `{AI_PROJECTS}/ntw2029 course design/references/link-syntax-quick-reference.md`                |
-| astro.config.mjs, build config, astro-compress, sidebar missing, responsive CSS not applying, Vercel deployment or build logs, ignored build step, rehype plugins, site URL | `{AI_PROJECTS}/ntw2029 course design/context/project-website-context.md`                       |
+| astro.config.mjs, build config, astro-compress, sidebar missing, page not appearing, draft frontmatter, content entry error, responsive CSS not applying, Vercel deployment or build logs, ignored build step, rehype plugins, site URL | `{AI_PROJECTS}/ntw2029 course design/context/project-website-context.md`                       |
 | writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md`                      |
 | assignment structure, assignment template, creating assignment          | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md`                         |
 | page criteria, page evaluation, requirements page, resource page        | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md`                        |
 | EP paper examples, assignment topic examples, P2 examples, lecture examples | `{AI_PROJECTS}/ntw2029 course design/references/p2-example-topics-2420.md`                 |
-
-## Link Formats
-
-For internal links use absolute paths from site root:
-
-- Page: `[text](/course-ntw2029/path/to/page)`
-- Heading: `[text](/course-ntw2029/path/to/page/#heading-id)`
-- Nutshell expandable: `[:text](/course-ntw2029/path/to/page)`
-
-## Utilities
-
-- `checkNutshellLinks.js`: Validates Nutshell links in markdown files
-
-  ```bash
-  node checkNutshellLinks.js src/content/docs
-  ```
 
 ## Writing Style
 
@@ -128,4 +67,4 @@ The Canvas gradebook is used by the instructor to communicate individual assignm
 
 ## Analytics
 
-Student-interaction events are captured by PostHog and continuously mirrored to a Neon Postgres database (provisioned through Vercel) via a PostHog Destination, so the same data is queryable in standard SQL. PostHog project: `us.posthog.com/project/101665` (dashboards, HogQL queries). Neon SQL mirror: Vercel dashboard, Storage, Open in Neon. The analytics code is in `src/components/DateAnalyticsComponent.astro`; `README-ANALYTICS.md` in this repo is the canonical analytics reference.
+`README-ANALYTICS.md` in this repo is the canonical analytics reference. It covers the PostHog and Neon Postgres stack, the tracked events, the key files, the environment variables, and how to pull the data out of Neon. Read it for any analytics question.
