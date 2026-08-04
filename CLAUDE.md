@@ -97,6 +97,14 @@ Content lives in `src/content/docs/course-ntw2029/`:
 - `assignments/papers/`: Paper assignments
 - `resources/`: Course resources
 
+### Term-Suffixed Pages and Staged Next-Term Versions
+
+Paper assignment pages carry the semester code in the filename, and therefore in the student-visible URL: `p1-2520.md` serves `/course-ntw2029/assignments/papers/p1-2520/`. Exercise pages carry no semester code and pass between terms unchanged.
+
+When a page exists in two term versions at once (for example `p2-p06-explain-positions-2520.md` alongside `p2-p06-explain-positions-2610.md`), the pair is deliberate. The later-term file holds revisions the instructor wants for the following term but does not want live during the current one, and `draft: true` in its frontmatter is what keeps it hidden. Do not treat such a pair as duplication to clean up, and do not merge the staged file into the live page. Rolling the site over to a new term means promoting the staged file (clear its `draft: true`) and retiring the old term's page.
+
+Retiring matters because the sidebar autogenerates from the directory listings for `assignments/exercises`, `assignments/papers`, `course-info`, and `resources`. A page left in one of those directories stays visible to students unless its frontmatter sets `draft: true`, so an old term's page does not disappear on its own when the new term's page is added.
+
 ## Topic-Triggered References
 
 Before responding, check if the prompt involves these topics. If so, load the corresponding reference file.
@@ -142,6 +150,8 @@ Do not create custom Starlight plugins, custom Astro integrations, or other cust
 ## Grading Comment Conventions
 
 The instructor aims to offer positive comments for all student work, regardless of quality, so indicators of good work do not actually mean the work is above average. "Good work" might be given for below-average work as encouragement. "Very good work" is usually reserved for above-average work.
+
+The Canvas gradebook is used by the instructor to communicate individual assignment grades to students. It is not used to calculate final grades, and you should not attempt to infer a student's final grade or overall performance from the gradebook. Although the gradebook may show a calculated "final grade" column, students are told to ignore it, and student-facing text should follow that guideline.
 
 ## Analytics
 
