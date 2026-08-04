@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-08-02
+lastUpdated: 2026-08-04
 lastEvaluated: 2026-06-18
 writingClarityEvaluated: 2026-06-18
 ---
@@ -53,34 +53,6 @@ When a page doesn't appear in the sidebar or on the live site, check the page's 
 
 All .md files under Astro's content directory (`src/content/docs/`) must have YAML frontmatter with at least a `title:` field. Files without frontmatter cause `InvalidContentEntryDataError` and fail the Vercel build. A blank line between the opening `---` and the first field can also cause parsing failures.
 
-### Vercel Deployment Debugging
-
-The GitHub deployments API (`gh api repos/{owner}/{repo}/deployments/{id}/statuses`) returns only state (success/failure/pending) and a brief description. For the build error output itself, use the Vercel CLI.
-
-The site is the `ntw-2029` project under the `jf-gen-ai-project` team. `vercel ls` picks that team up from the linked project, but `vercel inspect` does not, so pass its scope explicitly:
-
-`vercel inspect [deployment-url] --logs --scope jf-gen-ai-project`
-
-That command prints the full build log, including the error that failed the build. Add `--wait` to stream the log while a build is still running. For runtime and request logs from `api/` and `middleware.ts`, `vercel logs` covers them, with `--level error` and `--since` filters available.
-
-Vercel CLI authentication persists across sessions, because the CLI stores a refresh token and renews itself; only ten days without use forces `vercel login` again. Verified 2026-08-02 with Vercel CLI 58.4.4: the `vercel ls` and `vercel inspect --logs` commands above were run successfully against this project, and `vercel logs` was not exercised.
-
-### Vercel Ignored Build Step
-
-The Vercel project's Ignored Build Step is set to:
-
-`git diff --quiet HEAD^ HEAD -- ':(exclude)srip-2026'`
-
-Pushes that only touch files under `srip-2026/` exit 0 and skip the build. Pushes that touch anything outside `srip-2026/` build normally. The Deployments tab shows "Ignored" status for skipped pushes. Configured 2026-05-13 during the SRIP 2026 internship period; can be removed when the SRIP workspace is no longer in the repo.
-
-### Rehype Plugin Configuration
-
-Rehype plugins must be configured at the Astro config level (`defineConfig({ markdown: { rehypePlugins: [...] } })`), not inside `starlight({ markdown: {...} })`. Starlight's `markdown` option only recognizes `headingLinks` and `processedDirs`. Putting `rehypePlugins` there has no effect.
-
-### Astro Site URL
-
-`astro.config.mjs` sets `site: "https://ntw-2029.vercel.app"`. This value is the canonical URL used by `@astrojs/sitemap` to generate `sitemap.xml` and by any other Astro features that need absolute URLs (Open Graph tags, RSS). If the site moves to a different domain, update this to match; sitemaps and absolute links generated with the old URL would point to the wrong host.
-
 ### Custom Components
 
 - `CustomTableOfContents.astro`: Modified TOC behavior
@@ -112,7 +84,8 @@ Before responding, check if the prompt involves these topics. If so, load the co
 | Topic triggers                                                          | Load file                                                                                      |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | FAQ, nutshell, anchor link, content placement                           | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md`                    |
-| link syntax, markdown links, heading ID                                 | `{AI_PROJECTS}/ntw2029 course design/tasks/website design docs/link-syntax-quick-reference.md` |
+| link syntax, markdown links, heading ID                                 | `{AI_PROJECTS}/ntw2029 course design/references/link-syntax-quick-reference.md`                |
+| astro.config.mjs, build config, astro-compress, sidebar missing, responsive CSS not applying, Vercel deployment or build logs, ignored build step, rehype plugins, site URL | `{AI_PROJECTS}/ntw2029 course design/context/project-website-context.md`                       |
 | writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md`                      |
 | assignment structure, assignment template, creating assignment          | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md`                         |
 | page criteria, page evaluation, requirements page, resource page        | `{AI_PROJECTS}/ntw2029 course design/standards/course-page-criteria.md`                        |
