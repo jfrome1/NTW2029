@@ -67,6 +67,21 @@ A paragraph that introduces a list:
 - The list item that follows the introducing paragraph.
 - A second item in that same list.
 
+## Lines that begin with a structural character but are not structure
+
+A paragraph before a thematic break.
+
+---
+
+A paragraph after the thematic break. The `---` line above begins with a hyphen and is not a bullet.
+
+**A bold lead-in that opens a paragraph**, whose second line
+continues on the next line and belongs to the same paragraph.
+
+-
+
+The bare hyphen above is a line on its own, and it is not a bullet either.
+
 ## A nutshell link
 
 Prose that refers to [:a test nutshell](#x-test-nutshell-term) in the middle of a sentence.
@@ -82,3 +97,6 @@ sits on its own line in the source and must keep that break.
 
 - A bullet inside the nutshell explanation.
   - A bullet indented two spaces inside the nutshell explanation.
+
+**A bold lead-in inside the nutshell**, whose second line
+continues on the next line and belongs to the same paragraph.
