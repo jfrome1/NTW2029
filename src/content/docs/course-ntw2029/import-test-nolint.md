@@ -60,7 +60,7 @@ Its closing marker is on the third line.
     - A bullet indented four spaces.
 - A bullet whose continuation line follows it.
   This continuation line is indented two spaces and is not itself a bullet.
-- A third top-level bullet. An asterisk marker belongs here, to exercise the parser's `[-*]` alternative, but a markdownlint auto-fix rewrites `*` to `-` on save, so this repo cannot hold that case.
+* A top-level bullet written with an asterisk marker, which exercises the parser's `[-*]` alternative. It survives only because this file's name carries the `-nolint` token, which stops the markdownlint hook rewriting `*` to `-`.
 
 A paragraph that introduces a list:
 
