@@ -67,6 +67,20 @@ A paragraph that introduces a list:
 - The list item that follows the introducing paragraph.
 - A second item in that same list.
 
+## A loose list
+
+- The first item of a loose list, separated from the next by a blank line.
+
+- The second item, which must keep the blank line before it.
+
+- The third and last item, which takes no trailing newline of its own, because the blank line after it ends the list rather than sitting inside it.
+
+## A sub-bullet under a numbered item
+
+1. A numbered item that introduces sub-bullets.
+   - A sub-bullet indented three spaces, which is the width a numbered parent's marker requires. Its parent node is a paragraph rather than a bullet, so it keeps its indent in its node text.
+   - A second sub-bullet at the same indent.
+
 ## Lines that begin with a structural character but are not structure
 
 A paragraph before a thematic break.
@@ -97,6 +111,7 @@ sits on its own line in the source and must keep that break.
 
 - A bullet inside the nutshell explanation.
   - A bullet indented two spaces inside the nutshell explanation.
+    - A bullet indented four spaces inside the nutshell explanation.
 
 **A bold lead-in inside the nutshell**, whose second line
 continues on the next line and belongs to the same paragraph.
