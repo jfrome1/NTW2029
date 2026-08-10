@@ -75,6 +75,13 @@ A paragraph that introduces a list:
 
 - The third and last item, which takes no trailing newline of its own, because the blank line after it ends the list rather than sitting inside it.
 
+## A tab-indented list
+
+- A top-level bullet in a list that indents with tabs, which is how most course pages indent.
+	- A sub-bullet indented one tab. Measured in characters this is an indent of 1, which is why it used not to nest; measured in columns it is 4.
+		- A sub-bullet indented two tabs.
+- A second top-level bullet, back at no indent.
+
 ## A sub-bullet under a numbered item
 
 1. A numbered item that introduces sub-bullets.
