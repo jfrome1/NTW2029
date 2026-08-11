@@ -6,7 +6,7 @@ sidebar:
     text: Draft
     variant: caution
 ---
-# Exercise 5 - Paper 1 Conference Summary
+## Exercise 5 - Paper 1 Conference Summary
 
 ## Purpose
 
