@@ -1,5 +1,5 @@
 ---
-title: Exercise 07 - Imaginary Worlds
+title: "E07 - Reading questions: Imaginary worlds"
 ---
 ## Purpose
 

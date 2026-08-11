@@ -1,5 +1,5 @@
 ---
-title: Exercise 11 - P08 Conference report
+title: E11 - P08 conference report (full draft)
 ---
 
 ## Purpose

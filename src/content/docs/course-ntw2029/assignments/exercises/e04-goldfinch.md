@@ -1,5 +1,5 @@
 ---
-title: Exercise 4 - explain Goldfinch
+title: E04 - Explain Goldfinch
 ---
 
 ## Purpose

@@ -1,5 +1,5 @@
 ---
-title: P07 - Working Draft
+title: P07 - Paper 2 working draft
 ---
 
 ## Purpose

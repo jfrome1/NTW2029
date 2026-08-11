@@ -1,5 +1,5 @@
 ---
-title: P06 - Verify Positions
+title: P06 - Paper 2 verify positions
 draft: true
 sidebar:
   badge:

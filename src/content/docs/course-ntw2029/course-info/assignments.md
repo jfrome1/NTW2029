@@ -1,6 +1,5 @@
 ---
 title: Assignments
-date: 2025-09-15
 ---
 
 This page describes how to write and submit assignments. For grading criteria, see the [Grading](/course-ntw2029/course-info/grading) page.
@@ -20,7 +19,7 @@ This table shows which requirements apply to different assignment types. See sec
 ## Submission Basics
 
 - Submit assignments as an attached Word document (.docx) - not Pages, PDF, or Google Docs
-- Include at top: Your name, section (E1 or E2), GenAI link/non-use statement, word count
+- Include at top: Your name, GenAI link/non-use statement, word count
 - You can resubmit unlimited times until the deadline; I grade only the last submission
 - All paper assignments (P02-09) must be submitted at minimum acceptable quality to pass the course
 - Specific requirements are explained each assignment
@@ -49,7 +48,7 @@ You can also read the [:full formatting details](#x-full-formatting-details), wh
 ### Additional Formatting Requirements for Drafts and Final Papers
 
 - Highlight your thesis statement in yellow (2 consecutive sentences maximum)
-- Highlight all topic sentences in light blue
+- Highlight all body paragraph topic sentences in light blue
 - Include reference list, start it on a new page at the end
 - Italicize all titles in both body text and reference list
 
@@ -57,7 +56,9 @@ You can also read the [:full formatting details](#x-full-formatting-details), wh
 
 Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you.
 
-### Content Requirements
+### Content Requirements for Exercises
+
+These requirements apply to the exercises (E01-E13) only. The paper prep assignments (P01, P04-P07) are not exercises, so they follow the formatting requirements above but not the content requirements below.
 
 - Write in full sentences and paragraphs (unless the assignment says otherwise)
 - Use proper grammar so I know errors aren't from carelessness

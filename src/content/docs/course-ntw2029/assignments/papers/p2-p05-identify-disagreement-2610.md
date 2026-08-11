@@ -1,5 +1,5 @@
 ---
-title: P05 - Identify the Criticism
+title: P05 - Paper 2 identify the criticism
 ---
 
 ## Purpose

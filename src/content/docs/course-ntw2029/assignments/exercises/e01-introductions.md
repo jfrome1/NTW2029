@@ -1,5 +1,5 @@
 ---
-title: Exercise 1 - Introductions
+title: E01 - Introductions
 ---
 
 <!-- I've introduced myself to you on the "Meet your instructor" page. Now it's your turn! Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "Exercise 1 - introductions".

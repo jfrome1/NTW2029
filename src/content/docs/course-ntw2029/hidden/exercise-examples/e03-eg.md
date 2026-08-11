@@ -1,7 +1,7 @@
 ---
 title: Exercise 3 example
 pagefind: false
-draft: false
+draft: true
 ---
 
 ### Boyd pages 51-55

@@ -36,7 +36,7 @@ This category includes all exercises, paper prep, and drafts (E01-E13, P01-02, P
 All items in the 15% category are marked complete if you:
 
 - Submit by the deadline (or within the 12-hour extension window)
-- Include at top: Your name, section (E1 or E2), GenAI link/non-use statement, word count
+- Include at top: Your name, GenAI link/non-use statement, word count
 - Include all required elements for that specific assignment
 
 Grading scale:

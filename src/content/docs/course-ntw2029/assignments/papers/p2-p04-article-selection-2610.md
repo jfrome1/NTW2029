@@ -1,5 +1,5 @@
 ---
-title: P04 - Article Selection
+title: P04 - Paper 2 article selection
 ---
 
 ## Purpose

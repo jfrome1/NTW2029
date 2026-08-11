@@ -1,5 +1,5 @@
 ---
-title: Exercise 2 - Explain something
+title: E02 - Explain something
 ---
 
 ## Purpose
