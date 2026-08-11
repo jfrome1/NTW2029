@@ -21,7 +21,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due Tue 11 Aug 2026: E01 - Introductions
+###### Due Wed 12 Aug 2026: E01 - Introductions
 
 ## 1.2 Thu 13 Aug 2026
 

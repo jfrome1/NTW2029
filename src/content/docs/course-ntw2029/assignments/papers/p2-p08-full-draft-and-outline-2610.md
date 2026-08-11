@@ -12,7 +12,7 @@ Write a draft of up to 2750 words structured as a complete essay, including an i
 
 ## Requirements
 
-Write a document with three parts: full draft, reference list, and simplified outline.
+Write a document with several parts: full draft, reference list, simplified outline, and reflection.
 
 1. **Full draft**
 
@@ -126,8 +126,8 @@ Significance flows directly from your thesis. Your thesis identifies what preven
 
 Your paper should reference significance twice:
 
-1. **Introduction:** After your thesis, include 1-2 sentences previewing what understanding this disagreement reveals
-2. **Conclusion:** Develop your full significance discussion here, explaining what understanding why they disagree contributes to the academic conversation
+- **Introduction:** After your thesis, include 1-2 sentences previewing what understanding this disagreement reveals
+- **Conclusion:** Develop your full significance discussion here, explaining what understanding why they disagree contributes to the academic conversation
 
 The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
 
