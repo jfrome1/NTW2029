@@ -1,5 +1,6 @@
 ---
 title: Schedule
+date: 2026-08-03
 draft: true
 sidebar:
   badge:
@@ -11,7 +12,13 @@ sidebar:
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
 
-## 1.1 Mon 12 Jan 2026
+<!--
+Claude: when editing this file, every line starting with `###### Due` must be followed by a line containing just `>` for proper spacing on the rendered page.
+
+This file is generated from a Freeplane mind map via export_syllabus.groovy, but regeneration is currently manual and infrequent.
+-->
+
+## 1.1 Mon 10 Aug 2026
 
 - EP and art topic: origins of evolutionary thought
 	- Read before class: none
@@ -20,10 +27,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due Tue 13 Jan 2026: E01 - Introductions
+###### Due Fri 14 Aug 2026: E01 - Introductions
 
 
-## 1.2 Thu 15 Jan 2026
+## 1.2 Thu 13 Aug 2026
 
 - TECH EXCEPTION: bring your laptops to class today
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
@@ -42,10 +49,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
 	- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
 
-###### Due Sun 18 Jan 2026: E02 - Explain something
+###### Due Sun 16 Aug 2026: E02 - Explain something
 
 
-## 2.1 Mon 19 Jan 2026
+## 2.1 Mon 17 Aug 2026
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
@@ -65,7 +72,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
 		- _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
 
-## 2.2 Thu 22 Jan 2026
+## 2.2 Thu 20 Aug 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
@@ -84,11 +91,11 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
 	- [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
-###### Due Sun 25 Jan 2026: E03 - Explain Boyd
+###### Due Sun 23 Aug 2026: E03 - Explain Boyd
 
 - <!-- ###### Due anytime (optional, ungraded): Evolution basics quiz -->
 
-## 3.1 Mon 26 Jan 2026
+## 3.1 Mon 24 Aug 2026
 
 - EP and art topic: criticisms of EP
 	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-68 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-68.pdf)
@@ -97,7 +104,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](/downloads/harveyBriefGuideElements2009-bw.pdf)
 - <!-- Class media: -->
 
-## 3.2 Thu 29 Jan 2026
+## 3.2 Thu 27 Aug 2026
 
 - EP and art topic: scientific research and EP research
 	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf)
@@ -106,14 +113,12 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
 		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017. [download](/downloads/harrisComingtoTerms.pdf)
-- <!-- Class media: -->
-	<!-- <!-- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) --> -->
 - <!-- ###### Due anytime: (optional, ungraded) Evolution intermediate quiz -->
 
-###### Due Sun 01 Feb 2026: E04 - explain Goldfinch
+###### Due Sun 30 Aug 2026: E04 - explain Goldfinch
 
 
-## 4.1 Mon 2 Feb 2026
+## 4.1 Mon 31 Aug 2026
 
 - EP and art topic: art as by-product
 	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp 8.pdf)
@@ -122,9 +127,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
 - <!-- Class media: -->
 	<!-- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min) -->
-	<!-- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min) --> -->
+	<!-- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min) -->
 
-## 4.2 Thu 5 Feb 2026
+## 4.2 Thu 3 Sep 2026
 
 - EP and art topic: art and sexual selection
 	- Read before class:
@@ -134,10 +139,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 - <!-- Class media: -->
 
-###### Due Sun 8 Feb 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
 
 
-## 5.1 Mon 9 Feb 2026
+## 5.1 Mon 7 Sep 2026
 
 - EP and art topic: art and natural selection via cooperation
 	- Read before class:
@@ -148,7 +153,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](/downloads/weplerRevisingEfficientlyEffectively2011.pdf)
 - <!-- Class media: -->
 
-## 5.2 Thu 12 Feb 2026
+## 5.2 Thu 10 Sep 2026
 
 - EP and art topic: cooperation and storytelling, and catch-up class
 	- Read before class:
@@ -159,13 +164,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
 - <!-- Class media: -->
 
-###### Due Sun 15 Feb 2026: P02 - Paper 1 Draft
+###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
 
 
-## 6.1 and 6.2 (15 and 19 Feb 2026) no class meetings, student conferences
+## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
 
 
-###### Due day of conference: E05 - Paper 1 Conference summary
+###### Due day of conference: E05 - Paper 1 Conference report
 
 
 ###### Due six days after conference: P03 - Paper 1 Final
@@ -174,17 +179,14 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
 
 
-###### Due three days after Paper 1 final: Paper 2 general topic proposal
-
-
-## 7.1 Mon 2 Mar 2026
+## 7.1 Mon 28 Sep 2026
 
 - EP and art topic: EP and the multilevel mind
 	- Read: none
 - Writing topic: Paper 2 overview
 	- Read before class (recommended): none
 
-## 7.2 Thu 5 Mar 2026
+## 7.2 Thu 1 Oct 2026
 
 - EP and art topic: appeal of imaginary narrative worlds
 	- Read before class:
@@ -202,21 +204,21 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 			- [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](howtoreadempiricalresearcharticles.pdf)
 
-###### Due Wed 4 Mar 2026: E07 - Reading questions
+###### Due Wed 30 Sep 2026: E07 - Reading questions
 
 
-###### Due Sun 8 Mar 2026: E08 - Reading questions
+###### Due Sun 4 Oct 2026: E08 - Reading questions
 
 
-## 8.1 Mon 9 Mar 2026
+## 8.1 Mon 5 Oct 2026
 
 - EP and art topic: enjoyment of negative emotions in art
 	- Read before class: (pages TBD)
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
-- Writing topic: introductions framing your argument, creating and refining your thesis
+- Writing topic: none
 	- Read before class (recommended): none
 
-## 8.2 Thu 12 Mar 2026
+## 8.2 Thu 8 Oct 2026
 
 - EP and art topic: evolution of music
 	- Read before class: (pages TBD)
@@ -226,10 +228,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due Wed 11 Mar 2026: E09 - Reading questions
+###### Due Wed 7 Oct 2026: E09 - Reading questions
 
 
-## 9.1 Mon 16 Mar 2026
+## 9.1 Mon 12 Oct 2026
 
 - EP and art topic: none
 	- Read before class:
@@ -238,58 +240,58 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
 
-## 9.2 Thu 19 Mar 2026
+## 9.2 Thu 15 Oct 2026
 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Wed 18 Mar 2026: P04 - Paper 2 Article selection
+###### Due Wed 14 Oct 2026: P04 - Paper 2 Article selection
 
 
-###### Due Sun 22 Mar 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
+###### Due Sun 18 Oct 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
 
 
-## 10.1 Mon 23 Mar 2026
+## 10.1 Mon 19 Oct 2026
 
 - NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 - Writing topic: peer review, conclusions
 	- Read before class (recommended): peer drafts
 
-## 10.2 Thu 26 Mar 2026
+## 10.2 Thu 22 Oct 2026
 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due Sun 29 Mar 2026: P06 - Paper 2 Verify positions
+###### Due Sun 25 Oct 2026: P06 - Paper 2 Verify positions
 
 
-## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
+## 11.1 and 11.2 (26 and 29 Oct 2026) no class meetings, student conferences
 
 
 ###### Due day of conference: E10 - Paper 2 Conference report (positions)
 
 
-###### Due Sun 5 Apr 2026: E13 - Workload report, Mar
+###### Due Sun 1 Nov 2026: E13 - Workload report, Mar
 
 
-###### Due Sun 5 Apr 2026, 6pm: P07 - Paper 2 Working document (for peer review)
+###### Due Sun 1 Nov 2026, 6pm: P07 - Paper 2 Working document (for peer review)
 
 
-## 12.1 Mon 6 Apr 2026
+## 12.1 Mon 2 Nov 2026
 
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-## 12.2 Thu 9 Apr 2026
+## 12.2 Thu 5 Nov 2026
 
 - Last in-person class meeting
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
 
-###### Due Sun 12 Apr 2026: P08 - Paper 2 Full draft and outline
+###### Due Sun 8 Nov 2026: P08 - Paper 2 Full draft and outline
 
 
-## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
+## 13.1 and 13.2 (9 and 12 Nov 2026) — no class meetings; individual student conferences
 
 
 ###### Due day of conference: E11 - Paper 2 Conference report (draft)
