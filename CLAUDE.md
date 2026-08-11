@@ -24,6 +24,8 @@ This project uses pnpm, not npm. Always use `pnpm` for installs and scripts; do 
 
 Do not run `pnpm build` without explicit user approval. Content review and editing does not require building.
 
+The authoritative build is Vercel's, not a local one. Pushing to `main` deploys, and Vercel builds from a clean checkout on the Node major declared in `engines.node`, so that build is what determines whether the site is correct. A local `pnpm run build` is an optional pre-check that can catch an error before it reaches a deploy, but neither its success nor its failure is the final word.
+
 ## Term-Suffixed Pages and Staged Next-Term Versions
 
 Paper assignment pages carry the semester code in the filename, and therefore in the student-visible URL: `p1-2520.md` serves `/course-ntw2029/assignments/papers/p1-2520/`. Exercise pages carry no semester code and pass between terms unchanged.
