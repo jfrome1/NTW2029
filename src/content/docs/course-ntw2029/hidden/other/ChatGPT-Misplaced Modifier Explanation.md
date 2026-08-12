@@ -9,7 +9,7 @@ sidebar:
 ---
 
 
-# Misplaced Modifier Explanation
+## Misplaced Modifier Explanation
 
 **User:** nemo-openai@ihtfp.net (nemo-openai@ihtfp.net)
 **Created:** 3/28/2025 13:40
