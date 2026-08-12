@@ -1,10 +1,10 @@
 ---
-title: P05 - Paper 2 identify the criticism
+title: P05 - Paper 2 verify disagreement
 ---
 
 ## Purpose
 
-This assignment helps you select a commentary and develop a clear understanding of its criticism before beginning detailed analysis. By identifying relevant target passages now, you'll have the raw material needed to verify your understanding in P06.
+This assignment helps you select a commentary and develop a clear understanding of its criticism before beginning detailed analysis. By identifying relevant target passages now, you'll have the raw material needed to verify your understanding of the disagreement.
 
 ## Overview
 
@@ -284,4 +284,4 @@ To find passages relevant to your specific commentary: (1) Open the file with th
 
 ##### :x Why gather so many quotations?
 
-These passages become the raw material for P06, where you'll verify whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.
+These passages become the raw material for verifying whether the commentary accurately represents what the target says. Gathering them now means you won't have to hunt for them later.

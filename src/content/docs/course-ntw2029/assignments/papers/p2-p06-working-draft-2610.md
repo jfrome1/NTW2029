@@ -1,5 +1,5 @@
 ---
-title: P07 - Paper 2 working draft
+title: P06 - Paper 2 working draft
 ---
 
 ## Purpose
@@ -8,7 +8,7 @@ This assignment develops your analytical contribution—your thesis about what u
 
 ## Overview
 
-Write a working draft (approximately 1200-1500 words) in the form of separate sections that you'll later combine in your full draft. Since you've verified the disagreement in P06, you can focus on developing your thesis and analysis rather than establishing basic understanding.
+Write a working draft (approximately 1200-1500 words) in the form of separate sections that you'll later combine in your full draft. Since you've verified the disagreement in P05, you can focus on developing your thesis and analysis rather than establishing basic understanding.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Copy and paste the headers below (keep numbering) into a document, writing your 
 
 State what prevents these positions from being compatible. Your thesis should:
 
-- Build on your verified understanding from P06
+- Build on your verified understanding from P05
 - Identify what drives the disagreement (an assumption, definition, methodological commitment, or evidentiary standard)
 - Explain WHY the positions conflict, not just that they do
 
@@ -51,7 +51,7 @@ Explain why understanding this disagreement matters. Address these questions:
 - What does the disagreement reveal about different approaches to studying this phenomenon?
 - If this disagreement were resolved, what would that require or enable?
 
-You'll develop significance more fully in P08, but beginning this thinking now will strengthen your analysis.
+You'll develop significance more fully in P07, but beginning this thinking now will strengthen your analysis.
 
 ### 5. Source Identification
 
@@ -65,9 +65,9 @@ Below the reference list, write 1-2 sentences for each additional source explain
 
 ## Guidelines
 
-### Building on P06
+### Building on P05
 
-Your P06 conference verified whether the commentary accurately represents the target. P07 assumes that verification is complete:
+Your P05 conference verified whether the commentary accurately represents the target. P06 assumes that verification is complete:
 
 - If you found a genuine disagreement, your thesis explains what drives it
 - If you found over-reading, your thesis explains what the actual relationship is (which may still involve genuine disagreement about something different)
@@ -76,11 +76,11 @@ You don't need to repeat your verification evidence unless briefly needed for co
 
 ### Don't Include an Introduction
 
-You're still developing your thesis through analysis. An introduction requires framing a question you're answering, but that framing should emerge from your analysis. You'll write an introduction in P08 once your thesis has stabilized through peer review.
+You're still developing your thesis through analysis. An introduction requires framing a question you're answering, but that framing should emerge from your analysis. You'll write an introduction in P07 once your thesis has stabilized through peer review.
 
 ### Don't Evaluate Which Position Is Right
 
-It's natural to form judgments about which position seems stronger. Hold that thought for P08. For P07, focus on explaining WHY they reach different conclusions—what assumptions, definitions, or evidence interpretations drive their disagreement.
+It's natural to form judgments about which position seems stronger. Hold that thought for P07. For P06, focus on explaining WHY they reach different conclusions—what assumptions, definitions, or evidence interpretations drive their disagreement.
 
 ### About Depth
 
@@ -115,11 +115,11 @@ Your peers will help you think through:
 
 ## Feedback
 
-You will not receive instructor feedback on P07. Instead, you'll get peer review to help you clarify your thinking before developing your draft into P08.
+You will not receive instructor feedback on P06. Instead, you'll get peer review to help you clarify your thinking before developing your draft into P07.
 
 ##### :x how to formulate your working thesis
 
-Your working thesis should explain what prevents these positions from being compatible. Based on your P06 verification, your thesis will take one of these forms:
+Your working thesis should explain what prevents these positions from being compatible. Based on your P05 verification, your thesis will take one of these forms:
 
 **If you found genuine disagreement:**
 
@@ -135,25 +135,25 @@ These templates cover different types of underlying issues. Definitional and met
 
 Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement—the assumption, definition, or methodological commitment that produces the conflict.
 
-[:How theses develop through P07-P08](#x-how-theses-develop-through-p07-p08)
+[:How theses develop through P06-P07](#x-how-theses-develop-through-p06-p07)
 
-##### :x how theses develop through p07-p08
+##### :x how theses develop through p06-p07
 
 For students interested in understanding the developmental process: Your thesis will likely evolve through stages. A changing thesis is expected, not a sign of problems.
 
-**Starting point** (what P06 gave you):
+**Starting point** (what P05 gave you):
 
 - Understanding what each position argues
 - Identifying the commentary's main criticism
 - Verifying accuracy of the commentary's characterization
 
-**P07 working thesis** (what analysis reveals):
+**P06 working thesis** (what analysis reveals):
 
 - "They disagree because the target focuses on X while the commentary focuses on Y"
 - "The apparent conflict stems from commentary's mischaracterization of Z"
 - "They agree on explicit claims but differ on implicit assumption A"
 
-**Deeper thesis** (develops in P08):
+**Deeper thesis** (develops in P07):
 
 For theoretical/definitional disagreements, deeper theses often:
 
@@ -170,7 +170,7 @@ For empirical disagreements, deeper theses often:
 
 Your analysis determines which aspects matter for your case. You might address one of these or several, depending on what you discover.
 
-Peer review will help you identify whether your working thesis explains what you discovered. Expect your thesis to change. What you develop in P07 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P08.
+Peer review will help you identify whether your working thesis explains what you discovered. Expect your thesis to change. What you develop in P06 is a working thesis that will likely be refined, deepened, or even reconceived as you work through P07.
 
 ##### :x why the going beneath test matters
 
@@ -204,7 +204,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Does the commentary show the target's prediction failed?
 - Are there counterexamples to the target's universal claim?
 - Does the target cherry-pick supporting cases while ignoring contradictory evidence?
-- *Example: Verpooten & Eens argue that singing doesn't correlate with social complexity as predicted*
+- _Example: Verpooten & Eens argue that singing doesn't correlate with social complexity as predicted_
 
 ##### :x Pattern 2: Missing important factors
 
@@ -212,7 +212,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 
 - What does the commentary say the target overlooked?
 - Why does that missing factor matter for understanding the phenomenon?
-- *Example: Goldstein argues that theatre lacks representational distance that target's theory requires*
+- _Example: Goldstein argues that theatre lacks representational distance that target's theory requires_
 
 ##### :x Pattern 3: Definitions don't match
 
@@ -220,7 +220,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 
 - Do target and commentary define key terms differently?
 - If they used the commentary's definition, would the disagreement dissolve or remain?
-- *Example: Norman defines "exploration" to include all non-real worlds, not just fantastical ones*
+- _Example: Norman defines "exploration" to include all non-real worlds, not just fantastical ones_
 
 ##### :x Pattern 4: Wrong question or framework
 
@@ -228,7 +228,7 @@ To identify why the positions reach different conclusions, answer whichever ques
 
 - Does the commentary say the target asked the wrong question?
 - Does the commentary claim the target's approach can't work for this type of phenomenon?
-- *Example: Killin argues adaptation/byproduct framework can't handle complex coevolved traits like music*
+- _Example: Killin argues adaptation/byproduct framework can't handle complex coevolved traits like music_
 
 ##### :x Pattern 5: Logical problems or scientific standards
 
@@ -237,11 +237,11 @@ To identify why the positions reach different conclusions, answer whichever ques
 - Does the commentary say the target's argument is circular or logically invalid?
 - Does the commentary say the theory is too vague to test or makes no testable predictions?
 - Does the commentary challenge what evidence threshold is needed (burden of proof, parsimony, defaults)?
-- *Example: Stewart-Williams argues evidence is ambiguous between adaptation and byproduct; when evidence doesn't discriminate, the default should be simpler explanation*
+- _Example: Stewart-Williams argues evidence is ambiguous between adaptation and byproduct; when evidence doesn't discriminate, the default should be simpler explanation_
 
 ##### :x what sources to identify
 
-During P07, identify additional sources you'll need for P08:
+During P06, identify additional sources you'll need for P07:
 
 - If the commentary cites research as evidence, find and begin reading that research to evaluate whether it supports what the commentary says
 - If the commentary or author's response references other work by either author, locate those sources to see whether they clarify or complicate the criticism

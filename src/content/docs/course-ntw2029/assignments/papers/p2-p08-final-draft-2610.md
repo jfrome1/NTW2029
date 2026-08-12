@@ -1,5 +1,5 @@
 ---
-title: P09 - Paper 2 Final
+title: P08 - Paper 2 Final
 ---
 
 ## Purpose
@@ -8,7 +8,7 @@ This assignment develops your ability to refine analytical arguments based on ta
 
 ## Overview
 
-Write a final 2250-2750 word paper that includes explanation of both positions, analytical thesis about what drives their disagreement, analysis supporting your thesis, and discussion of what understanding this disagreement contributes. Revise based on P08 conference guidance to strengthen specific aspects of your analysis.
+Write a final 2250-2750 word paper that includes explanation of both positions, analytical thesis about what drives their disagreement, analysis supporting your thesis, and discussion of what understanding this disagreement contributes. Revise based on P07 conference guidance to strengthen specific aspects of your analysis.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ Submit a final paper of 2250-2750 words that includes:
 
 **Use at least 4 academic sources:** target article, commentary, author's response (if applicable), and at least 1 additional source
 
-These are the same core requirements as P08, revised and polished based on conference guidance. See [P07](/course-ntw2029/assignments/papers/p2-p07-full-draft-and-outline-2610/) for detailed guidance on introduction structure, explanation and analysis integration, and significance discussion development.
+These are the same core requirements as P07, revised and polished based on conference guidance. See [P07](/course-ntw2029/assignments/papers/p2-p07-full-draft-and-outline-2610/) for detailed guidance on introduction structure, explanation and analysis integration, and significance discussion development.
 
 Your revisions will likely focus on:
 
@@ -67,7 +67,7 @@ Papers are assessed holistically based on the following elements:
 
 ### Remember the Process
 
-Your thesis should emerge from your analysis, not motivate it. You've spent P04-P08 building understanding, developing analytical insights, and determining significance. P09 brings all this work together in polished form.
+Your thesis should emerge from your analysis, not motivate it. You've spent P04-P07 building understanding, developing analytical insights, and determining significance. P08 brings all this work together in polished form.
 
 ### Your Contribution
 

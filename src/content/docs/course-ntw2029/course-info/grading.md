@@ -29,7 +29,7 @@ I evaluate your engagement during class meetings based on:
 
 ## Writing Development Work (15%)
 
-This category includes all exercises, paper prep, and drafts (E01-E13, P01-02, P04-08). Everything here is graded complete/incomplete.
+This category includes all exercises, paper prep, and drafts (E01-E12, P01-02, P04-07). Everything here is graded complete/incomplete.
 
 ### Grading Individual Submissions
 
@@ -70,7 +70,7 @@ Although you are allowed to miss exercises, all paper prep assignments must be s
 
 ### Can I revise and resubmit?
 
-Before the deadline: Yes, as many times as you want. I only grade the most recent version. After the deadline: For exercises and paper prep (15% category), if you submitted on time but received "incomplete," you have one week and one attempt to fix issues and earn 0.5 points. For final papers (P03, P09): No resubmission after the deadline. Use conferences and peer review to improve drafts before submitting finals.
+Before the deadline: Yes, as many times as you want. I only grade the most recent version. After the deadline: For exercises and paper prep (15% category), if you submitted on time but received "incomplete," you have one week and one attempt to fix issues and earn 0.5 points. For final papers (P03, P08): No resubmission after the deadline. Use conferences and peer review to improve drafts before submitting finals.
 
 ### Why is Canvas showing the wrong grade?
 
@@ -90,13 +90,13 @@ I understand that sometimes things get away from you, and I'm not upset when it 
 
 If you're running short on time, it's better to submit something at lower quality by the deadline than to submit late. A complete-but-rough submission earns full credit, and if it's marked incomplete you can still fix it on resubmission for half credit. A late submission earns zero.
 
-Late exercises (E01-E13) are not a big deal. A missed item is a pretty small part of your grade.
+Late exercises (E01-E12) are not a big deal. A missed item is a pretty small part of your grade.
 
-Late paper prep (P01, P04-P07) is also minor grade-wise, but you're not guaranteed feedback if it's turned in late.
+Late paper prep (P01, P04-P06) is also minor grade-wise, but you're not guaranteed feedback if it's turned in late.
 
-Late drafts (P02, P08) are more costly. Beyond the completion credit, you'll typically lose your feedback and conference, which means you'll be writing your final paper without the individualized guidance other students received.
+Late drafts (P02, P07) are more costly. Beyond the completion credit, you'll typically lose your feedback and conference, which means you'll be writing your final paper without the individualized guidance other students received.
 
-Late final papers (P03, P09) are penalized up to one letter grade per day as described in the [extension policy](/course-ntw2029/course-info/assignments/#extension-policy).
+Late final papers (P03, P08) are penalized up to one letter grade per day as described in the [extension policy](/course-ntw2029/course-info/assignments/#extension-policy).
 
 ##### :x what-good-participation-looks-like
 
