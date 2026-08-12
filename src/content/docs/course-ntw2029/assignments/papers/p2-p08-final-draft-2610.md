@@ -24,7 +24,7 @@ Submit a final paper of 2250-2750 words that includes:
 
 **Use at least 4 academic sources:** target article, commentary, author's response (if applicable), and at least 1 additional source
 
-These are the same core requirements as P08, revised and polished based on conference guidance. See [P08](/course-ntw2029/assignments/papers/p2-p08-full-draft-and-outline-2610/) for detailed guidance on introduction structure, explanation and analysis integration, and significance discussion development.
+These are the same core requirements as P08, revised and polished based on conference guidance. See [P08](/course-ntw2029/assignments/papers/p2-p07-full-draft-and-outline-2610/) for detailed guidance on introduction structure, explanation and analysis integration, and significance discussion development.
 
 Your revisions will likely focus on:
 
