@@ -122,3 +122,9 @@ sits on its own line in the source and must keep that break.
 
 **A bold lead-in inside the nutshell**, whose second line
 continues on the next line and belongs to the same paragraph.
+
+- The first item of a loose list inside the nutshell explanation, separated from the next by a blank line.
+
+- The second item, which must keep the blank line before it.
+
+- The third and last item, which takes no trailing newline of its own, because the explanation ends here and no bullet follows it.
