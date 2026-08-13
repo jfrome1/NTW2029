@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-<!-- Last exported: 2026-08-13 12:23 -->
+<!-- Last exported: 2026-08-13 13:05 -->
 
 :::tip
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
@@ -24,6 +24,7 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Wed 12 Aug 2026: E01 - Introductions
 >
 
+
 ## 1.2 Thu 13 Aug 2026
 
 - TECH EXCEPTION: bring your laptops to class today
@@ -41,6 +42,7 @@ The exporter writes a line containing just `>` after every line starting with `#
 
 ###### Due Sun 16 Aug 2026: E02 - Explain something
 >
+
 
 ## 2.1 Mon 17 Aug 2026
 
@@ -77,6 +79,7 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 23 Aug 2026: E03 - Explain Boyd
 >
 
+
 ## 3.1 Mon 24 Aug 2026
 
 - EP and art topic: criticisms of EP
@@ -98,6 +101,7 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 30 Aug 2026: E04 - explain Goldfinch
 >
 
+
 ## 4.1 Mon 31 Aug 2026
 
 - EP and art topic: art as by-product
@@ -118,8 +122,10 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 6 Sep 2026: E12 - Workload report, Aug
 >
 
+
 ###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
 >
+
 
 ## 5.1 Mon 7 Sep 2026
 
@@ -143,16 +149,21 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
 >
 
+
 ## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
+
 
 ###### Due day of conference: E05 - Paper 1 Conference report
 >
 
+
 ###### Due six days after conference: P03 - Paper 1 Final
 >
 
+
 ###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
 >
+
 
 ## Reading Week
 
@@ -182,16 +193,19 @@ The exporter writes a line containing just `>` after every line starting with `#
 	- Read before class (recommended):
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf),<!-- [:Ahn discussion questions](#x-ahn-discussion-questions)-->
 			- [:Ahn discussion questions](#x-ahn-discussion-questions)
-		- Handout: [How to read empirical research articles](howtoreadempiricalresearcharticles.pdf)
+		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 
 ###### Due Wed 30 Sep 2026: E07 - Reading questions
 >
 
+
 ###### Due Sun 4 Oct 2026: E08 - Reading questions
 >
 
+
 ###### Due Sun 4 Oct 2026: E12 - Workload report, Sep
 >
+
 
 ## 8.1 Mon 5 Oct 2026
 
@@ -216,8 +230,10 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Wed 7 Oct 2026: E09 - Reading questions
 >
 
+
 ###### Due Sun 11 Oct 2026: P04 - Paper 2 Article selection
 >
+
 
 ## 9.1 Mon 12 Oct 2026
 
@@ -236,6 +252,7 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 18 Oct 2026: P05 - Paper 2 Identify the criticism and verify positions
 >
 
+
 ## 10.1 Mon 19 Oct 2026
 
 - Writing topic: none
@@ -246,6 +263,7 @@ The exporter writes a line containing just `>` after every line starting with `#
 
 ###### Due Sun 25 Oct 2026, 6pm: P06 - Paper 2 Going beneath, working draft (peer review checkpoint)
 >
+
 
 ## 11.1 Mon 26 Oct 2026
 
@@ -268,8 +286,10 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 1 Nov 2026: E12 - Workload report, Oct
 >
 
+
 ###### Due Sun 1 Nov 2026: P07 - Paper 2 Full draft and outline
 >
+
 
 ## 12.1 and 12.2 (2 and 5 Nov 2026) no class meetings, Paper 2 draft conferences
 
@@ -278,16 +298,21 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
 
+
 ## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
+
 
 ###### Due five days after conference: P08 - Paper 2 Final
 >
 
+
 ###### Due one day after Paper 2: E11 - Paper 2 Writing reflection
 >
 
+
 ###### Due one day after Paper 2: E12 - Workload report, Nov (final)
 >
+
 
 ##### :x assigned videos
 
@@ -347,3 +372,4 @@ The exporter writes a line containing just `>` after every line starting with `#
 ##### :x week 11 peer review groups
 
 - [forthcoming]
+
