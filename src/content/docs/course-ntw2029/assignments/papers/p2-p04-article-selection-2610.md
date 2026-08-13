@@ -1,5 +1,10 @@
 ---
 title: P04 - Paper 2 article selection
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
@@ -18,10 +23,10 @@ Note: For peer review to work well, I need a reasonably even distribution of tar
 
 Choose one of the following BBS target articles:
 
-- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. *Behavioral and Brain Sciences*, 45, e276: 1-72.
-- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. *Behavioral and Brain Sciences*, 40, e347: 1-63.
-- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. *Behavioral and Brain Sciences*, 44, e59: 1-77.
-- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. *Behavioral and Brain Sciences*, 44, e60: 1-87.
+- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. _Behavioral and Brain Sciences_, 45, e276: 1-72.
+- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40, e347: 1-63.
+- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. _Behavioral and Brain Sciences_, 44, e59: 1-77.
+- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. _Behavioral and Brain Sciences_, 44, e60: 1-87.
 
 ### 2. Explain the Target's Argument
 

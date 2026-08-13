@@ -1,5 +1,10 @@
 ---
 title: P06 - Paper 2 working draft
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

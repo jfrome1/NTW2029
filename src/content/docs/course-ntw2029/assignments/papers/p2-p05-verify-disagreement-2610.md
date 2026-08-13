@@ -1,5 +1,10 @@
 ---
 title: P05 - Paper 2 verify disagreement
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

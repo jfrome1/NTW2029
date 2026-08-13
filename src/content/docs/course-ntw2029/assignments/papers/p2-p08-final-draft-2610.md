@@ -1,5 +1,10 @@
 ---
 title: P08 - Paper 2 Final
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

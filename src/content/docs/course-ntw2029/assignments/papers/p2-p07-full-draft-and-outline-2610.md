@@ -1,5 +1,10 @@
 ---
 title: P07 - Paper 2 full draft and outline
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
