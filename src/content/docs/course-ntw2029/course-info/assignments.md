@@ -1,6 +1,5 @@
 ---
 title: Assignments
-date: 2025-09-15
 ---
 
 This page describes how to write and submit assignments. For grading criteria, see the [Grading](/course-ntw2029/course-info/grading) page.
@@ -9,7 +8,7 @@ This page describes how to write and submit assignments. For grading criteria, s
 
 This table shows which requirements apply to different assignment types. See sections below for detailed explanations.
 
-| | Exercises (E01-E13) &<br>Paper Prep (P01, P04-P07) | Drafts (P02, P08) &<br>Final Papers (P03, P09) |
+| | Exercises (E01-E12) &<br>Paper Prep (P01, P04-P06) | Drafts (P02, P07) &<br>Final Papers (P03, P08) |
 |---|---|---|
 | Formatting | Follow paper template | Follow paper template |
 | Highlighting | None | Thesis & topic sentences |
@@ -20,9 +19,9 @@ This table shows which requirements apply to different assignment types. See sec
 ## Submission Basics
 
 - Submit assignments as an attached Word document (.docx) - not Pages, PDF, or Google Docs
-- Include at top: Your name, section (E1 or E2), GenAI link/non-use statement, word count
+- Include at top: Your name, GenAI link/non-use statement, word count
 - You can resubmit unlimited times until the deadline; I grade only the last submission
-- All paper assignments (P02-09) must be submitted at minimum acceptable quality to pass the course
+- All paper assignments (P02-08) must be submitted at minimum acceptable quality to pass the course
 - Specific requirements are explained each assignment
 
 ## Extension Policy
@@ -40,7 +39,7 @@ If you're struggling with workload, come talk to me early and check [NUSC pastor
 
 ### For All Assignments
 
-Follow my formatting guidelines for all assignments (except E13, workload log). The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" in that template to format your paper if that's easy for you.
+Follow my formatting guidelines for all assignments (except E12, workload log). The easiest way is to download the [properly formatted paper template](/downloads/ntw2029-paper.docx) and check the comments ([:show comments](#x-show-comments) if needed). You can use the Word "styles" in that template to format your paper if that's easy for you.
 
 If you use the template, or if you use margin comments as part of your editing process, remember to remove the comments before submitting the assignment.
 
@@ -49,7 +48,7 @@ You can also read the [:full formatting details](#x-full-formatting-details), wh
 ### Additional Formatting Requirements for Drafts and Final Papers
 
 - Highlight your thesis statement in yellow (2 consecutive sentences maximum)
-- Highlight all topic sentences in light blue
+- Highlight all body paragraph topic sentences in light blue
 - Include reference list, start it on a new page at the end
 - Italicize all titles in both body text and reference list
 
@@ -57,7 +56,9 @@ You can also read the [:full formatting details](#x-full-formatting-details), wh
 
 Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you.
 
-### Content Requirements
+### Content Requirements for Exercises
+
+These requirements apply to the exercises (E01-E12) only. The paper prep assignments (P01, P04-P06) are not exercises, so they follow the formatting requirements above but not the content requirements below.
 
 - Write in full sentences and paragraphs (unless the assignment says otherwise)
 - Use proper grammar so I know errors aren't from carelessness
@@ -87,7 +88,7 @@ There is no official grade bonus/penalty for correct/incorrect formatting, but e
 
 ##### :x late-assignment-fine-print
 
-"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each addtional 24-hour day"
+"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each additional 24-hour day"
 
 ##### :x show-comments
 

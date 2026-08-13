@@ -1,8 +1,7 @@
 ---
 title: Exercise 3 example
-date: 2025-08-26
 pagefind: false
-draft: false
+draft: true
 ---
 
 ### Boyd pages 51-55

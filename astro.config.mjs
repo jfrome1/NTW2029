@@ -7,7 +7,7 @@ import starlightAutoDrafts from "starlight-auto-drafts";
 import rehypeExternalLinks from "rehype-external-links";
 
 export default defineConfig({
-  site: "https://ntw2029.vercel.app",
+  site: "https://ntw-2029.vercel.app",
   markdown: {
     rehypePlugins: [
       [
@@ -111,6 +111,13 @@ export default defineConfig({
       ],
     }),
     compress({
+      // csso (bundled by astro-compress 2.4.1) silently deletes @media blocks
+      // written in Level 4 range syntax, which is what Astro 7's Lightning CSS
+      // emits for width breakpoints. That stripped every responsive rule,
+      // including the one revealing Starlight's left sidebar, so the sidebar
+      // vanished at all viewport widths. Vite/Lightning CSS already minifies,
+      // so this pass is redundant. See PlayForm/Compress issue #640.
+      CSS: false,
       HTML: {
         "html-minifier-terser": {
           removeComments: true,

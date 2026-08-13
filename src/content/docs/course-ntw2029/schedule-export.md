@@ -1,6 +1,5 @@
 ---
 title: Schedule
-date: 2026-01-27
 draft: true
 sidebar:
   badge:
@@ -8,23 +7,30 @@ sidebar:
     variant: caution
 ---
 
+<!-- Last exported: 2026-08-13 12:23 -->
+
 :::tip
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
 
-## 1.1 Mon 12 Jan 2026
+<!--
+Claude: this page is generated from the Freeplane planner map by export_syllabus.groovy. Do not edit it here. Each export overwrites the whole file, so a change made in this file is lost at the next run. Edit the map and re-export instead.
+
+The exporter writes a line containing just `>` after every line starting with `###### Due`, which is what spaces those lines correctly on the rendered page.
+-->
+
+## 1.1 Mon 10 Aug 2026: no class meeting, National Day holiday
 
 - EP and art topic: origins of evolutionary thought
 	- Read before class: none
 - Writing topic: university academic writing
 	- Read before class (recommended): none
-- Class media:
-	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due Tue 13 Jan 2026: E01 - Introductions
+###### Due Wed 12 Aug 2026: E01 - Introductions
+>
 
 
-## 1.2 Thu 15 Jan 2026
+## 1.2 Thu 13 Aug 2026
 
 - TECH EXCEPTION: bring your laptops to class today
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
@@ -35,18 +41,15 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Class media:
-	- [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
-	- [Peacock Spider](https://www.youtube.com/watch?v=d_yYC5r8xMI)
-	- [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
 - Additional resources:
 	- [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
 	- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
 
-###### Due Sun 18 Jan 2026: E02 - Explain something
+###### Due Sun 16 Aug 2026: E02 - Explain something
+>
 
 
-## 2.1 Mon 19 Jan 2026
+## 2.1 Mon 17 Aug 2026
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
@@ -57,16 +60,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
 		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research_. 4th ed. Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
-- Class media:
-	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
-	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
 - Additional resources:
-	- short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](https://raw.githubusercontent.com/jfrome1/ntw2029/main/public/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
+	- short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
 	- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
 	- [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
 		- _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
 
-## 2.2 Thu 22 Jan 2026
+## 2.2 Thu 20 Aug 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
@@ -80,25 +80,20 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-- Class media:
-	- [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg) (7 min)
-	- [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
-	- [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
-###### Due Sun 25 Jan 2026: E03 - Explain Boyd
+###### Due Sun 23 Aug 2026: E03 - Explain Boyd
+>
 
-- <!-- ###### Due anytime (optional, ungraded): Evolution basics quiz -->
 
-## 3.1 Mon 26 Jan 2026
+## 3.1 Mon 24 Aug 2026
 
 - EP and art topic: criticisms of EP
 	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-68 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-68.pdf)
 		- [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](/downloads/harveyBriefGuideElements2009-bw.pdf)
-- <!-- Class media: -->
 
-## 3.2 Thu 29 Jan 2026
+## 3.2 Thu 27 Aug 2026
 
 - EP and art topic: scientific research and EP research
 	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf)
@@ -107,25 +102,20 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
 		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017. [download](/downloads/harrisComingtoTerms.pdf)
-- <!-- Class media: -->
-	<!-- <!-- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) --> -->
-- <!-- ###### Due anytime: (optional, ungraded) Evolution intermediate quiz -->
 
-###### Due Sun 01 Feb 2026: E04 - explain Goldfinch
+###### Due Sun 30 Aug 2026: E04 - explain Goldfinch
+>
 
 
-## 4.1 Mon 2 Feb 2026
+## 4.1 Mon 31 Aug 2026
 
 - EP and art topic: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp 8.pdf)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp8.pdf)
 		- [:Pinker discussion questions](#x-pinker-discussion-questions)
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
-- <!-- Class media: -->
-	<!-- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min) -->
-	<!-- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min) --> -->
 
-## 4.2 Thu 5 Feb 2026
+## 4.2 Thu 3 Sep 2026
 
 - EP and art topic: art and sexual selection
 	- Read before class:
@@ -133,12 +123,16 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 			- [:Dutton discussion questions](#x-dutton-discussion-questions)
 - Writing topic: paragraph structure, topic sentences
 	- Read before class (recommended): none
-- <!-- Class media: -->
 
-###### Due Sun 8 Feb 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+###### Due Sun 6 Sep 2026: E12 - Workload report, Aug
+>
 
 
-## 5.1 Mon 9 Feb 2026
+###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+>
+
+
+## 5.1 Mon 7 Sep 2026
 
 - EP and art topic: art and natural selection via cooperation
 	- Read before class:
@@ -147,46 +141,49 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended):
 		- _COR_ 17, "Revising Style: Telling Your Story Clearly"
 		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](/downloads/weplerRevisingEfficientlyEffectively2011.pdf)
-- <!-- Class media: -->
 
-## 5.2 Thu 12 Feb 2026
+## 5.2 Thu 10 Sep 2026
 
 - EP and art topic: cooperation and storytelling, and catch-up class
 	- Read before class:
 		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](/downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!--  [:Austin discussion questions](#x-austin-discussion-questions) -->
-			- <!-- [:Austin discussion questions](#x-austin-discussion-questions) -->
 		- review Boyd and Dutton, bring to class
 - Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
-- <!-- Class media: -->
 
-###### Due Sun 15 Feb 2026: P02 - Paper 1 Draft
-
-
-## 6.1 and 6.2 (15 and 19 Feb 2026) no class meetings, student conferences
+###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
+>
 
 
-###### Due day of conference: E05 - Paper 1 Conference summary
+## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
+
+
+###### Due day of conference: E05 - Paper 1 Conference report
+>
 
 
 ###### Due six days after conference: P03 - Paper 1 Final
+>
 
 
 ###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
+>
 
 
-###### Due three days after Paper 1 final: Paper 2 general topic proposal
+## Reading Week
 
+- Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no class meetings.
 
-## 7.1 Mon 2 Mar 2026
+## 7.1 Mon 28 Sep 2026
 
 - EP and art topic: EP and the multilevel mind
 	- Read: none
 - Writing topic: Paper 2 overview
 	- Read before class (recommended): none
 
-## 7.2 Thu 5 Mar 2026
+## 7.2 Thu 1 Oct 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: appeal of imaginary narrative worlds
 	- Read before class:
 		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. _Behavioral and Brain Sciences_, 45, e276. https://doi.org/10.1017/S0140525X21000923 [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
@@ -203,22 +200,30 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 			- [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](howtoreadempiricalresearcharticles.pdf)
 
-###### Due Wed 4 Mar 2026: E07 - Reading questions
+###### Due Wed 30 Sep 2026: E07 - Reading questions
+>
 
 
-###### Due Sun 8 Mar 2026: E08 - Reading questions
+###### Due Sun 4 Oct 2026: E08 - Reading questions
+>
 
 
-## 8.1 Mon 9 Mar 2026
+###### Due Sun 4 Oct 2026: E12 - Workload report, Sep
+>
 
+
+## 8.1 Mon 5 Oct 2026
+
+- Devices may be used in this class meeting
 - EP and art topic: enjoyment of negative emotions in art
 	- Read before class: (pages TBD)
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
-- Writing topic: introductions framing your argument, creating and refining your thesis
+- Writing topic: none
 	- Read before class (recommended): none
 
-## 8.2 Thu 12 Mar 2026
+## 8.2 Thu 8 Oct 2026
 
+- Devices may be used in this class meeting
 - EP and art topic: evolution of music
 	- Read before class: (pages TBD)
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. _Behavioral and Brain Sciences_, 44, e60. https://doi.org/10.1017/S0140525X20000345
@@ -227,10 +232,15 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due Wed 11 Mar 2026: E09 - Reading questions
+###### Due Wed 7 Oct 2026: E09 - Reading questions
+>
 
 
-## 9.1 Mon 16 Mar 2026
+###### Due Sun 11 Oct 2026: P04 - Paper 2 Article selection
+>
+
+
+## 9.1 Mon 12 Oct 2026
 
 - EP and art topic: none
 	- Read before class:
@@ -239,70 +249,74 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
 
-## 9.2 Thu 19 Mar 2026
+## 9.2 Thu 15 Oct 2026
 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Wed 18 Mar 2026: P04 - Paper 2 Article selection
+###### Due Sun 18 Oct 2026: P05 - Paper 2 Identify the criticism and verify positions
+>
 
 
-###### Due Sun 22 Mar 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
+## 10.1 Mon 19 Oct 2026
+
+- Writing topic: none
+
+## 10.2 Thu 22 Oct 2026
+
+- Writing topic: none
+
+###### Due Sun 25 Oct 2026, 6pm: P06 - Paper 2 Going beneath, working draft (peer review checkpoint)
+>
 
 
-## 10.1 Mon 23 Mar 2026
+## 11.1 Mon 26 Oct 2026
 
+- Devices may be used in this class meeting
+- [:Week 11 peer review groups](#x-week-11-peer-review-groups)
 - NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 - Writing topic: peer review, conclusions
 	- Read before class (recommended): peer drafts
 
-## 10.2 Thu 26 Mar 2026
+## 11.2 Thu 29 Oct 2026
 
-- Writing topic: peer review
-	- Read before class (recommended): peer drafts
-
-###### Due Sun 29 Mar 2026: P06 - Paper 2 Verify positions
-
-
-## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
-
-
-###### Due day of conference: E10 - Paper 2 Conference report (positions)
-
-
-###### Due Sun 5 Apr 2026: E13 - Workload report, Mar
-
-
-###### Due Sun 5 Apr 2026, 6pm: P07 - Paper 2 Working document (for peer review)
-
-
-## 12.1 Mon 6 Apr 2026
-
-- Writing topic: peer review
-	- Read before class (recommended): peer drafts
-
-## 12.2 Thu 9 Apr 2026
-
+- Devices may be used in this class meeting
 - Last in-person class meeting
+- Continue peer review from 11.1 with the same groups
+- [:Week 11 peer review groups](#x-week-11-peer-review-groups)
 - Writing topic: peer review
 	- Read before class (recommended): peer drafts
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 
-###### Due Sun 12 Apr 2026: P08 - Paper 2 Full draft and outline
-
-
-## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
-
-
-###### Due day of conference: E11 - Paper 2 Conference report (draft)
+###### Due Sun 1 Nov 2026: E12 - Workload report, Oct
+>
 
 
-###### Due six days after conference: P09 - Paper 2 Final
+###### Due Sun 1 Nov 2026: P07 - Paper 2 Full draft and outline
+>
 
 
-###### Due one day after Paper 2: E12 - Paper 2 Writing reflection
+## 12.1 and 12.2 (2 and 5 Nov 2026) no class meetings, Paper 2 draft conferences
+
+- Conferences run Tue 3 Nov to Fri 6 Nov 2026.
+
+###### Due day of conference: E10 - Paper 2 Conference report (draft)
+>
 
 
-###### Due one day after Paper 2: E13 - Workload report, Apr (final)
+## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
+
+
+###### Due five days after conference: P08 - Paper 2 Final
+>
+
+
+###### Due one day after Paper 2: E11 - Paper 2 Writing reflection
+>
+
+
+###### Due one day after Paper 2: E12 - Workload report, Nov (final)
+>
 
 
 ##### :x assigned videos
@@ -347,20 +361,20 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
 
-##### :x austin discussion questions
-
-- [forthcoming]
-
 ##### :x ahn discussion questions
 
-- - This paper aims to contribute to an academic conversation that aims to answer what question(s)?
-- - What does this paper think is the "research gap" (the thing that no one has yet explained) that they want to help fill?
-- - Is there any stated motivation for why the authors did this study? What do you think was the actual observation, puzzle, or other factor that motivated the authors to do this study?
-- - What are the study's hypotheses?
-- - What justifications are given for these hypotheses (i.e. why do the authors make these predictions)?
-- - What did the authors actually do in this study?
-- - How well do the methods test the hypotheses?
-- - What do the authors conclude from their research?
-- - How well-supported are their conclusions?
+- This paper aims to contribute to an academic conversation that aims to answer what question(s)?
+- What does this paper think is the "research gap" (the thing that no one has yet explained) that they want to help fill?
+- Is there any stated motivation for why the authors did this study? What do you think was the actual observation, puzzle, or other factor that motivated the authors to do this study?
+- What are the study's hypotheses?
+- What justifications are given for these hypotheses (i.e. why do the authors make these predictions)?
+- What did the authors actually do in this study?
+- How well do the methods test the hypotheses?
+- What do the authors conclude from their research?
+- How well-supported are their conclusions?
 - Note: feel free to ignore all statistics in this paper.
+
+##### :x week 11 peer review groups
+
+- [forthcoming]
 

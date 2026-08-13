@@ -1,12 +1,13 @@
 ---
 title: Exercise 5 - Paper 1 post-conference notes
-date: 2024-08-13
 draft: true
 sidebar:
   badge:
     text: Draft
     variant: caution
 ---
+## Exercise 5 - Paper 1 Conference Summary
+
 ## Purpose
 
 This exercise helps you consolidate feedback from our conference and create an action plan for revising your draft. By articulating the key points from our discussion, you'll better internalize the feedback and develop a clear revision strategy.

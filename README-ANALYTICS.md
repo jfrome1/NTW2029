@@ -61,6 +61,8 @@ Duration values are in milliseconds, calculated from a `data-open-time` attribut
 | Variable | Purpose |
 | :--- | :--- |
 | `PUBLIC_COOKIE_NAME` | Name of the cookie storing user auth data |
+| `USERS` | JSON array of `{ id, username, password }` login records; the `id` also becomes the student's PostHog `distinct_id` |
+| `AUTH_SECRET` | HMAC key for signing the auth cookie; signed by `api/auth.ts`, verified by `middleware.ts` |
 | `TOKEN` | GitHub API token (used by version-checker, not analytics) |
 
 ## Data Pipeline and Access

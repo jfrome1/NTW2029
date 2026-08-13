@@ -1,6 +1,5 @@
 ---
 title: Writing concisely
-date: 2025-03-19
 pagefind: false
 draft: true
 sidebar:

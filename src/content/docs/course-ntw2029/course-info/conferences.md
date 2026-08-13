@@ -1,6 +1,10 @@
 ---
 title: Conferences
-date: 2026-02-11
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Overview

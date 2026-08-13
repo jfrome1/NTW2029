@@ -1,6 +1,5 @@
 ---
 title: Topic Sentences
-date: 2026-04-09
 ---
 
 ## Summary

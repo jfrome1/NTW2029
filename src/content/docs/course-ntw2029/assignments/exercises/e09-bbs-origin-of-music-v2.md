@@ -1,6 +1,5 @@
 ---
 title: Exercise 09 - Origin of Music
-date: 2025-10-07
 draft: true
 sidebar:
   badge:

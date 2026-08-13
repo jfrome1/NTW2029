@@ -1,30 +1,31 @@
 ---
 title: Schedule
-date: 2026-01-12
 ---
+
+<!-- Last exported: 2026-08-13 13:05 -->
 
 :::tip
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
 
 <!--
-Claude: when editing this file, every line starting with `###### Due` must be followed by a line containing just `>` for proper spacing on the rendered page.
+Claude: this page is generated from the Freeplane planner map by export_syllabus.groovy. Do not edit it here. Each export overwrites the whole file, so a change made in this file is lost at the next run. Edit the map and re-export instead.
 
-This file is generated from a Freeplane mind map via export_syllabus.groovy, but regeneration is currently manual and infrequent.
+The exporter writes a line containing just `>` after every line starting with `###### Due`, which is what spaces those lines correctly on the rendered page.
 -->
 
-## 1.1 Mon 12 Jan 2026
+## 1.1 Mon 10 Aug 2026: no class meeting, National Day holiday
 
 - EP and art topic: origins of evolutionary thought
 	- Read before class: none
 - Writing topic: university academic writing
 	- Read before class (recommended): none
-- Class media:
-	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
-###### Due Tue 13 Jan 2026: E01 - Introductions
+###### Due Wed 12 Aug 2026: E01 - Introductions
+>
 
-## 1.2 Thu 15 Jan 2026
+
+## 1.2 Thu 13 Aug 2026
 
 - TECH EXCEPTION: bring your laptops to class today
 - EP and art topic: natural selection, sexual selection, and the gene's eye view
@@ -35,251 +36,283 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Class media:
-    - [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
-    - [Peacock Spider](https://www.youtube.com/watch?v=d_yYC5r8xMI)
-    - [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
 - Additional resources:
-    - [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
-    - [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
+	- [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
+	- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
 
-###### Due Sun 18 Jan 2026: E02 - Explain something
+###### Due Sun 16 Aug 2026: E02 - Explain something
+>
 
-## 2.1 Mon 19 Jan 2026
+
+## 2.1 Mon 17 Aug 2026
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
-- Writing topic: critical thinking
+- Class reading: read all webpages on this website under _Course information_
+- Writing topic: explanation
 	- Read before class (recommended):
 		- TSIS 1 "They Say Starting with What Others Are Saying", 19-29
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
-		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research. 4th ed._ Chicago, IL: University of Chicago Press, 2016.
+		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research_. 4th ed. Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
-- Class media:
-	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
-	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
 - Additional resources:
-    - short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
-    - [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
-    - [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
-        - _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
- <!--	- [How Do Genes Influence Behavior? Instant Egghead #18](https://www.youtube.com/watch?v=uvk2g9hJMTs) -->
-## 2.2 Thu 22 Jan 2026
+	- short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
+	- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
+	- [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
+		- _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
+
+## 2.2 Thu 20 Aug 2026
 
 - EP and art topic: social cooperation & free-riders
 	- Read/play/watch before class:
 		- play [The Evolution of Trust](https://ncase.me/trust/) (around 30 min)
 		- watch [The Evolution of Human Cooperation](https://www.youtube.com/watch?v=Gw5MoMG1vJw) (17 min)
 		- watch [Wired for Culture: The natural history of human cooperation](https://www.youtube.com/watch?v=XdhG7WX9Fmg) (17 min)
-		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. Note: read just until page 60—we'll discuss the rest in another class. [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf), [:Boyd discussion questions](#x-boyd-discussion-questions)
+		- Boyd, Brian. "The Evolution of Cooperation", in _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009.  [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf),
+			- Note: read just until page 60—we'll discuss the rest in another class.
+			- [:Boyd discussion questions](#x-boyd-discussion-questions)
+		- Note: in places, these videos discuss religion and politics. Feel free to ignore those sections, as we will not focus on them in this class.
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-- Class media:
-    - [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg) (7 min)
-    - [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
-    - [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
-###### Due Sun 25 Jan 2026: E03 - Explain Boyd
+###### Due Sun 23 Aug 2026: E03 - Explain Boyd
 >
-<!-- ###### Due Sun 25 Jan 2026: Evolution basics quiz (take once by this date, you may re-take as many times as you like) -->
 
-## 3.1 Mon 26 Jan 2026
+
+## 3.1 Mon 24 Aug 2026
 
 - EP and art topic: criticisms of EP
-	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-68 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-68.pdf), [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
+	- Read: §2.7 "Methodological Objections" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 62-68 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-62-68.pdf)
+		- [:Goldfinch methodology discussion questions](#x-goldfinch-methodology-discussion-questions)
 - Writing topic: close reading, keyterms, notetaking
 	- Read (recommended): Harvey, Gordon. "A Brief Guide to the Elements of the Academic Essay." Harvard Writing Project, 2009. [download](/downloads/harveyBriefGuideElements2009-bw.pdf)
 
-## 3.2 Thu 29 Jan 2026
+## 3.2 Thu 27 Aug 2026
 
 - EP and art topic: scientific research and EP research
-	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf), [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion-questions)
+	- Read: "Conclusion" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 198-201 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-198-201.pdf)
+		- [:Goldfinch conclusion discussion questions](#x-goldfinch-conclusion-discussion-questions)
 	- Read (recommended): §3.7 "Methodological Objections Revisited" from Goldfinch, Andrew. _Rethinking Evolutionary Psychology_. New York: Palgrave Macmillan, 2015. 114-122 [download](/downloads/goldfinchRethinkingEvolutionaryPsychology2015-114-122.pdf)
 - Writing topic: summarizing sources, explanation, stance
 	- Read before class (recommended):
 		- Chapter 1, "Coming to Terms" of Harris, Joseph. _Rewriting: How to Do Things with Texts, Second Edition_. Second edition. Logan: Utah State University Press, 2017. [download](/downloads/harrisComingtoTerms.pdf)
-<!--Class media:
-	- [How Logical Are You? (Psychology of Reasoning)](https://www.youtube.com/watch?v=t7NE7apn-PA) -->
-<!-- - Additional resources:
-	- West, P. M. (2005). The Lion's Mane. _American Scientist_, 93(3), 226-235. https://doi.org/10.1511/2005.3.226 [download](/downloads/westLionMane2005bw1-4.pdf) (don't need to read in advance, I just want you to have access to a softcopy of the whole article)
- -->
 
-###### Due Sun 1 Feb 2026: E04 - Explain Goldfinch
+###### Due Sun 30 Aug 2026: E04 - explain Goldfinch
 >
-<!-- ###### Due Sun 1 Feb 2026: Evolution intermediate quiz (take once by this date, you may re-take as many times as you like) -->
->
-###### Due Sun 1 Feb 2026: E13 - Workload report, Jan
 
-## 4.1 Mon 2 Feb 2026
+
+## 4.1 Mon 31 Aug 2026
 
 - EP and art topic: art as by-product
-	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp8.pdf), [:Pinker discussion questions](#x-pinker-discussion-questions)
+	- Read:"The Meaning of Life", in Pinker, Steven. _How the Mind Works_. London, England: Penguin Books, 1999. 521-543 (you may skip the technical discussion of music on 530-534, marked at the beginning and end by strikethrough lines) [download](/downloads/pinkerHowMindWorks1999-521-543-chp8.pdf)
+		- [:Pinker discussion questions](#x-pinker-discussion-questions)
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
-<!--Class media:
-	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
-	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min) -->
 
-## 4.2 Thu 5 Feb 2026
+## 4.2 Thu 3 Sep 2026
 
 - EP and art topic: art and sexual selection
 	- Read before class:
-		- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](/downloads/duttonArtHumanSelfdomestication2009.pdf), [:Dutton discussion questions](#x-dutton-discussion-questions)
-- Writing topic: outlining, paragraph structure
+		- Read: "Art and Human Self-Domestication", in Dutton, Denis, _The Art Instinct: Beauty, Pleasure, & Human Evolution_. New York, NY: Bloomsbury Press, 2009. 135-63 (you can skim 135-144) [download](/downloads/duttonArtHumanSelfdomestication2009.pdf)
+			- [:Dutton discussion questions](#x-dutton-discussion-questions)
+- Writing topic: paragraph structure, topic sentences
 	- Read before class (recommended): none
-<!--Class media: -->
 
-###### Due Sun 8 Feb 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+###### Due Sun 6 Sep 2026: E12 - Workload report, Aug
+>
 
-## 5.1 Mon 9 Feb 2026
+
+###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
+>
+
+
+## 5.1 Mon 7 Sep 2026
 
 - EP and art topic: art and natural selection via cooperation
 	- Read before class:
 		- "The Evolution of Cooperation", in Boyd, Brian, _On the Origin of Stories: Evolution, Cognition, and Fiction_. Cambridge, MA: Harvard University Press, 2009. 51-66 (reread, with focus on 55-66) [download](/downloads/boydOriginStoriesEvolution2009-51-66.pdf)
-- Writing topic: revision, structuring sentences clearly, qualifying claims
+- Writing topic: revision, structuring sentences clearly, qualifying claims, outlining
 	- Read before class (recommended):
 		- _COR_ 17, "Revising Style: Telling Your Story Clearly"
 		- Wepler, R. (2011). Revising efficiently and effectively. Yale College Writing Center. www.yale.edu/writing [download](/downloads/weplerRevisingEfficientlyEffectively2011.pdf)
-<!--Class media: -->
 
-## 5.2 Thu 12 Feb 2026
+## 5.2 Thu 10 Sep 2026
 
 - EP and art topic: cooperation and storytelling, and catch-up class
 	- Read before class:
-		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](/downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!-- [:Austin discussion questions](#x-austin-discussion-questions) -->
+		- Read: "The Problem of Other People", in Austin, Michael, _Useful fictions: Evolution, anxiety, and the origins of literature_. University of Nebraska Press. 81-99 (you can skim the section from the first strikeout sentence at the bottom of 84 to the second strikeout sentence at the top of 93) [download](/downloads/austinUsefulFictionsEvolution2010-81-99.pdf),<!--  [:Austin discussion questions](#x-austin-discussion-questions) -->
 		- review Boyd and Dutton, bring to class
-- Writing topic: introductions orienting your reader, using examples effectively
+- Writing topic: introductions - orienting your reader, using examples effectively
 	- Read (recommended): _COR_, 16 "Introductions and Conclusions" 232-247
-<!--Class media: -->
 
-###### Due Sun 15 Feb 2026: P02 - Paper 1 Draft
+###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
+>
 
-## 6.1 and 6.2 (16 and 19 Feb 2026) no class meetings, student conferences
+
+## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
+
 
 ###### Due day of conference: E05 - Paper 1 Conference report
 >
+
+
 ###### Due six days after conference: P03 - Paper 1 Final
 >
+
+
 ###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
 >
-###### Due Sun 1 Mar 2026: E13 - Workload report, Feb
 
-## 7.1 Mon 2 Mar 2026
+
+## Reading Week
+
+- Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no class meetings.
+
+## 7.1 Mon 28 Sep 2026
 
 - EP and art topic: EP and the multilevel mind
-    - Read: none
+	- Read: none
 - Writing topic: Paper 2 overview
 	- Read before class (recommended): none
 
-<!-- ###### Mid-semester course evaluation -->
-
-###### Due Wed 4 Mar 2026: E07 - Reading questions
-
-## 7.2 Thu 5 Mar 2026
+## 7.2 Thu 1 Oct 2026
 
 - Devices may be used in this class meeting
 - EP and art topic: appeal of imaginary narrative worlds
-	- Read before class: (see E07 for assigned sections)
-		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. _Behavioral and Brain Sciences_, 45, e276. https://doi.org/10.1017/S0140525X21000923  [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
-- Writing topic: transitions
-	- Read before class (recommended): none
+	- Read before class:
+		- Dubourg, E., & Baumard, N. (2022). Why imaginary worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds. _Behavioral and Brain Sciences_, 45, e276. https://doi.org/10.1017/S0140525X21000923 [download](/downloads/dubourgWhyImaginaryWorlds2022.pdf)
+			- Read these sections:
+				- Abstract (full)
+				- Pages 1-3 (Introduction & section 2)
+				- Pages 4-5 (section 3 - just first and last paragraphs)
+				- Pages 63-65 (Author's Response sections R1.1, R1.1.1, R1.1.2, and R1.2)
+				- Skim the rest of the article by just reading topic sentences
+				- (Recommended) search for (Ctrl+F) and read sentences with "we argue that", "we propose", and "we hypothesize"
+- Writing topic: none
+	- Read before class (recommended):
+		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf),<!-- [:Ahn discussion questions](#x-ahn-discussion-questions)-->
+			- [:Ahn discussion questions](#x-ahn-discussion-questions)
+		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 
-###### Due Sun 8 Mar 2026: E08 - Reading questions
+###### Due Wed 30 Sep 2026: E07 - Reading questions
+>
 
-## 8.1 Mon 9 Mar 2026
+
+###### Due Sun 4 Oct 2026: E08 - Reading questions
+>
+
+
+###### Due Sun 4 Oct 2026: E12 - Workload report, Sep
+>
+
+
+## 8.1 Mon 5 Oct 2026
 
 - Devices may be used in this class meeting
 - EP and art topic: enjoyment of negative emotions in art
-	- Read before class: (see E08 for assigned sections)
+	- Read before class: (pages TBD)
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: none
 	- Read before class (recommended): none
 
-###### Due Wed 11 Mar 2026: E09 - Reading questions
-
-## 8.2 Thu 12 Mar 2026
+## 8.2 Thu 8 Oct 2026
 
 - Devices may be used in this class meeting
 - EP and art topic: evolution of music
-	- Read before class: (see E09 for assigned sections)
+	- Read before class: (pages TBD)
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. _Behavioral and Brain Sciences_, 44, e60. https://doi.org/10.1017/S0140525X20000345
 		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. _Behavioral and Brain Sciences_, 44, e59. https://doi.org/10.1017/S0140525X20000333
-		- download both articles and commentary in one file:  [download](/downloads/savage-mehrMusicEvolution.pdf)
-- Writing topic: none
+		- download both articles and commentary in one file: [download](/downloads/savage-mehrMusicEvolution.pdf)
+- Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-## 9.1 Mon 16 Mar 2026
+###### Due Wed 7 Oct 2026: E09 - Reading questions
+>
+
+
+###### Due Sun 11 Oct 2026: P04 - Paper 2 Article selection
+>
+
+
+## 9.1 Mon 12 Oct 2026
 
 - EP and art topic: none
 	- Read before class:
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
-- Writing topic: none
+- Writing topic: writing with outlines and drafts, writing concisely
 	- Read before class (recommended): none
 
-## 9.2 Thu 19 Mar 2026
+## 9.2 Thu 15 Oct 2026
 
 - Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
-###### Due Wed 18 Mar 2026: P04 - Paper 2 Article selection
+###### Due Sun 18 Oct 2026: P05 - Paper 2 Identify the criticism and verify positions
 >
-###### Due Sun 22 Mar 2026, 6pm: P05 - Paper 2 Identify criticism (peer review checkpoint)
 
-## 10.1 Mon 23 Mar 2026
+
+## 10.1 Mon 19 Oct 2026
+
+- Writing topic: none
+
+## 10.2 Thu 22 Oct 2026
+
+- Writing topic: none
+
+###### Due Sun 25 Oct 2026, 6pm: P06 - Paper 2 Going beneath, working draft (peer review checkpoint)
+>
+
+
+## 11.1 Mon 26 Oct 2026
 
 - Devices may be used in this class meeting
-- [:Week 10 peer review groups](#x-week-10-peer-review-groups)
-- Writing topic: peer review
-	- Read before class (recommended): peer writing
-- NOTE: Bring at least three hardcopies of your P05 to be reviewed.
+- [:Week 11 peer review groups](#x-week-11-peer-review-groups)
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
+- Writing topic: peer review, conclusions
+	- Read before class (recommended): peer drafts
 
-## 10.2 Thu 26 Mar 2026
-
-- Devices may be used in this class meeting
-- Continue peer review from 10.1 with same groups
-- Writing topic: peer review
-	- Read before class (recommended): peer writing
-- NOTE: Bring at least three hardcopies of your P05 to be reviewed.
-
-###### Due Sun 29 Mar 2026: P06 - Paper 2 Verify positions
->
-## 11.1 and 11.2 (30 Mar and 2 Apr 2026) no class meetings, student conferences
-
-###### Due day of conference: E10 - Paper 2 Conference report (positions)
->
-###### Due Sun 5 Apr 2026: E13 - Workload report, Mar
->
-###### Due Sun 5 Apr 2026, 6pm: P07 - Paper 2 Working document (for peer review)
->
-## 12.1 Mon 6 Apr 2026
-
-- Devices may be used in this class meeting
-- [:Week 12 peer review groups](#x-week-12-peer-review-groups)
-- Writing topic: peer review
-	- Read before class (recommended): peer writing
-- NOTE: Bring at least three hardcopies of your P07 to be reviewed.
-
-## 12.2 Thu 9 Apr 2026
+## 11.2 Thu 29 Oct 2026
 
 - Devices may be used in this class meeting
 - Last in-person class meeting
+- Continue peer review from 11.1 with the same groups
+- [:Week 11 peer review groups](#x-week-11-peer-review-groups)
 - Writing topic: peer review
-	- Read before class (recommended): peer writing
-- NOTE: Bring at least three hardcopies of your P07 to be reviewed.
+	- Read before class (recommended): peer drafts
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 
-###### Due Sun 12 Apr 2026: P08 - Paper 2 Full draft and outline
+###### Due Sun 1 Nov 2026: E12 - Workload report, Oct
 >
-## 13.1 and 13.2 (13 and 16 Apr 2026) — no class meetings; individual student conferences
 
-###### Due day of conference: E11 - Paper 2 Conference report (draft)
+
+###### Due Sun 1 Nov 2026: P07 - Paper 2 Full draft and outline
 >
-###### Due six days after conference: P09 - Paper 2 Final
+
+
+## 12.1 and 12.2 (2 and 5 Nov 2026) no class meetings, Paper 2 draft conferences
+
+- Conferences run Tue 3 Nov to Fri 6 Nov 2026.
+
+###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
-###### Due one day after Paper 2: E12 - Paper 2 Writing reflection
+
+
+## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
+
+
+###### Due five days after conference: P08 - Paper 2 Final
 >
-###### Due one day after Paper 2: E13 - Workload report, Apr (final)
+
+
+###### Due one day after Paper 2: E11 - Paper 2 Writing reflection
+>
+
+
+###### Due one day after Paper 2: E12 - Workload report, Nov (final)
+>
+
 
 ##### :x assigned videos
 
@@ -293,7 +326,7 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 - [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4) (3 min)
 - [What Is The Gene's Eye View of Evolution?](https://youtu.be/KqdlBOoZsXo) (13 min)
 
-##### :x boyd discussion questions:
+##### :x boyd discussion questions
 
 - What is the overall structure of the chapter's opening argument?
 - What are the different types of cooperation Boyd describes?
@@ -307,11 +340,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 
 ##### :x goldfinch conclusion discussion questions
 
-1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism" (200). Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
-
-2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
-
-3. On page 200, Goldfinch says "This is the positive case for evolutionary psychology. The streamlined case." What is this positive case? What does Goldfinch argue EP can legitimately do?
+- 1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism." Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
+- 2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
+- 3. On page 200, Goldfinch says "This is the positive case for evolutionary psychology. The streamlined case." What is this positive case? What does Goldfinch argue EP can legitimately do?
 
 ##### :x pinker discussion questions
 
@@ -321,45 +352,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 
 ##### :x dutton discussion questions
 
-- On p. 136, there is a sentence beginning "It is human intelligence..." that contains the word "art". Which of the two senses of "art" is Dutton using here?
+- On p. 139, there is a sentence beginning "It is human intelligence..." that contains the word "art". Which of the two senses of "art" is Dutton using here?
 - How many sections are in this article? Can you summarize the main point of each section?
 - What is the main argument of this chapter? How does each section support that argument (if it does)? Do the sections depend on each other?
-
-##### :x austin discussion questions
-
-- [forthcoming]
-
-##### :x week 10 peer review groups
-
-Session 1 (2pm):
-
-- Group 1: Yongchan (e1715227), Ashley (e1519486), Xin Yang (e1519500)
-- Group 2: Navya (e1715153), Tia (e1715185), Joshua (e1524046)
-- Group 3: Amin (e1528022), Disha (e1715172)
-- Group 4: Ethan (e1526083), Ian Tay (e1519376), Pulastya (e1591070)
-
-Session 2 (4pm):
-
-- Group 5: Yee Xiang (e1528172), Eugene (e1519526), Naman (e1715233)
-- Group 6: Bo-Ruei (e1525440), Bennett (e1526200), Xavier (e1525925)
-- Group 7: JY (e1519408), yk (e1525938), Rui Ting (e1519522)
-- Group 8: Khang Sian (e1519366), Jae Yan (e1519441), Zhaoyi (e1519460)
-
-##### :x week 12 peer review groups
-
-Session 1 (2pm):
-
-- Group 1: Yongchan (e1715227), Tia (e1715185), Pulastya (e1591070)
-- Group 2: Navya (e1715153), Xin Yang (e1519500), Ian Tay (e1519376)
-- Group 3: Amin (e1528022), Joshua (e1524046)
-- Group 4: Ethan (e1526083), Disha (e1715172), Ashley (e1519486)
-
-Session 2 (4pm):
-
-- Group 5: JY (e1519408), Yee Xiang (e1528172), Bo-Ruei (e1525440)
-- Group 6: Khang Sian (e1519366), Eugene (e1519526)
-- Group 7: yk (e1525938), Zhaoyi (e1519460), Xavier (e1525925)
-- Group 8: Rui Ting (e1519522), Jae Yan (e1519441), Bennett (e1526200)
 
 ##### :x ahn discussion questions
 
@@ -372,5 +367,9 @@ Session 2 (4pm):
 - How well do the methods test the hypotheses?
 - What do the authors conclude from their research?
 - How well-supported are their conclusions?
+- Note: feel free to ignore all statistics in this paper.
 
-Note: feel free to ignore all statistics in this paper.
+##### :x week 11 peer review groups
+
+- [forthcoming]
+

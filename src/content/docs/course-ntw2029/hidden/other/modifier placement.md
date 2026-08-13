@@ -1,6 +1,5 @@
 ---
 title: modifier placement
-date: 2025-11-16
 draft: true
 sidebar:
   badge:
@@ -9,7 +8,7 @@ sidebar:
 ---
 
 
-# Misplaced modifiers
+## Misplaced modifiers
 
 ## importance of modifier location
 
@@ -24,7 +23,7 @@ Make sure your modifiers are placed carefully, immediately before or after the n
 
 > He explains that humans have adapted to improve our knowledge of threats through narratives, as it allows one to learn about a greater number of threats from others in a safe setting rather than only being able to learn through dangerous personal experiences.
 
-# avoid dangling modifiers [or is it really a dangling modifier?] **Misleading Clause Attachments: When Missing Commas Confuse the Reader**
+## avoid dangling modifiers [or is it really a dangling modifier?] **Misleading Clause Attachments: When Missing Commas Confuse the Reader**
 
 A "dangling modifier" error occurs when a sentence has a modifying phrase, but it is unclear what the phrase is modifying or the phrase modifies a noun in a way that doesn't make sense. Usually, this error occurs when the sentence begins with a descriptive clause and is immediately followed by the subject of the sentence, but that subject is not what is described by the introductory clause. This error can lead to confusion or ambiguity in the sentence, as the reader may not be sure what the modifier is intended to modify.
 

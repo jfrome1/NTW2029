@@ -1,7 +1,6 @@
 ---
 
 title: Logical connectors
-date: 2025-09-19
 draft: true
 sidebar:
   badge:

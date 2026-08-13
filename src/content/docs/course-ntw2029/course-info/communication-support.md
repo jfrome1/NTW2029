@@ -1,6 +1,5 @@
 ---
 title: Communication & Support
-date: 2025-10-13
 ---
 
 ## Before You Contact Me
