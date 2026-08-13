@@ -1,5 +1,5 @@
 ---
-title: E12 - Paper 2 writing reflection
+title: E11 - Paper 2 writing reflection
 ---
 
 ## Purpose
@@ -18,7 +18,7 @@ Copy and paste the questions below into a document and type your answer below ea
 2. How did your understanding of the disagreement between your target article and your commentary article change from your first reading to your final draft? What caused that shift?
 3. What guidance would you give future students about strategies to use and to avoid in writing this paper?
 4. What parts of your paper are you most proud of and why?
-5. What aspect of Paper 2 (from any assignment P04-P09) was most challenging to fulfill? Do you have any suggestions for how to make this aspect easier for future students?
+5. What aspect of Paper 2 (from any assignment P04-P08) was most challenging to fulfill? Do you have any suggestions for how to make this aspect easier for future students?
 6. What's one thing you now know about analyzing scholarly disagreements that you didn't know before writing this paper?
 7. Paper 2 asks you to explain both positions accurately without arguing for one side. Where in your writing process did you find this most difficult, and what did you do about it?
 8. You'll encounter scholarly disagreements in future courses. Based on writing this paper, what's your plan for approaching them?
@@ -32,7 +32,7 @@ Include a GenAI link/non-use statement at the top of your assignment (required) 
 - Be honest in your self-assessment—these answers won't affect your paper grade
 - Don't try to present a curated image of yourself as a writer; you'll benefit most from genuine reflection
 - When discussing challenges, be specific about what made them difficult
-- For questions about the assignment sequence (P04-P09), reference specific exercises if relevant
+- For questions about the assignment sequence (P04-P08), reference specific exercises if relevant
 - For questions about strategies and plans, provide concrete approaches rather than general intentions
 
 ## Feedback

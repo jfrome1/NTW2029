@@ -87,6 +87,15 @@ A paragraph that introduces a list:
 1. A numbered item that introduces sub-bullets.
    - A sub-bullet indented three spaces, which is the width a numbered parent's marker requires. Its parent node is a paragraph rather than a bullet, so it keeps its indent in its node text.
    - A second sub-bullet at the same indent.
+2. A second numbered item, sitting on the line directly after those sub-bullets with no blank line between. Nothing in the map records that the blank line is absent, so rule 3's list-item exception is the only thing that puts this item back tight against them; without it the whole list regenerates loose and every item renders in its own paragraph.
+
+## A loose numbered list
+
+1. The first item of a loose numbered list, separated from the next by a blank line.
+
+2. The second item, which must keep the blank line before it.
+
+3. The third and last item. This list is the negative case for the rule above: a numbered item following a numbered item keeps its blank line, because a run of consecutive numbered lines would have imported as a single node and two adjacent numbered nodes can only mean the source separated them.
 
 ## Lines that begin with a structural character but are not structure
 
@@ -122,3 +131,9 @@ sits on its own line in the source and must keep that break.
 
 **A bold lead-in inside the nutshell**, whose second line
 continues on the next line and belongs to the same paragraph.
+
+- The first item of a loose list inside the nutshell explanation, separated from the next by a blank line.
+
+- The second item, which must keep the blank line before it.
+
+- The third and last item, which takes no trailing newline of its own, because the explanation ends here and no bullet follows it.

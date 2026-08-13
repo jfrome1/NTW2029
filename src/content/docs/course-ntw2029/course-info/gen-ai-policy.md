@@ -64,7 +64,7 @@ Below are instructions for sharing ChatGPT links; others are similar. Check that
 ### New Chat Guidelines
 
 - Start a new chat for each assignment to keep chats organized
-- Try to use just one chat per assignment (P01-P09 count as separate assignments)
+- Try to use just one chat per assignment (P01-P08 count as separate assignments)
 - If you forget and have more than one chat for an assignment, submit links to all of them
 - Submit entire chats regardless of length
 

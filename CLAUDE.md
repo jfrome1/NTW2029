@@ -28,7 +28,7 @@ The authoritative build is Vercel's, not a local one. Pushing to `main` deploys,
 
 ## Term-Suffixed Pages and Staged Next-Term Versions
 
-Paper assignment pages carry the semester code in the filename, and therefore in the student-visible URL: `p1-2520.md` serves `/course-ntw2029/assignments/papers/p1-2520/`. Exercise pages carry no semester code and pass between terms unchanged.
+Paper assignment pages carry the semester code in the filename, and therefore in the student-visible URL: `p1-2520.md` serves `/course-ntw2029/assignments/papers/p1-2520/`. From 2610 the exercise pages follow the same convention: they used to carry no semester code and pass between terms unchanged, and now each term copies them fresh, so a renumbering in one term is not inherited by the next.
 
 When a page exists in two term versions at once (for example `p2-p06-explain-positions-2520.md` alongside `p2-p06-explain-positions-2610.md`), the pair is deliberate. The later-term file holds revisions the instructor wants for the following term but does not want live during the current one, and `draft: true` in its frontmatter is what keeps it hidden. Do not treat such a pair as duplication to clean up, and do not merge the staged file into the live page. Rolling the site over to a new term means promoting the staged file (clear its `draft: true`) and retiring the old term's page.
 

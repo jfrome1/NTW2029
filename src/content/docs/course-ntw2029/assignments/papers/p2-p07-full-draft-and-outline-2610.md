@@ -1,5 +1,10 @@
 ---
-title: P08 - Paper 2 full draft and outline
+title: P07 - Paper 2 full draft and outline
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
@@ -8,7 +13,7 @@ This assignment helps you build on your P2 work to produce a full draft and simp
 
 ## Overview
 
-Write a draft of up to 2750 words structured as a complete essay, including an introduction, thesis, explanation, analysis, and a conclusion discussing significance. Integrate insights written for P07 and revised through peer review into the full draft.
+Write a draft of up to 2750 words structured as a complete essay, including an introduction, thesis, explanation, analysis, and a conclusion discussing significance. Integrate insights written for P06 and revised through peer review into the full draft.
 
 ## Requirements
 
@@ -70,11 +75,11 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 ## Feedback
 
-I'll provide recorded feedback on P08, which we'll discuss in a conference during Week 13.
+I'll provide recorded feedback on P07, which we'll discuss in a conference during Week 13.
 
 ##### :x using writing from earlier assignments
 
-Earlier assignments developed your analytical understanding through verification and thesis development. P08 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how earlier work carries forward into P08:
+Earlier assignments developed your analytical understanding through verification and thesis development. P07 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how earlier work carries forward into P07:
 
 - Thesis
     - Your working thesis should evolve as you continue your analysis.
@@ -92,7 +97,7 @@ Earlier assignments developed your analytical understanding through verification
 
 ##### :x developing your thesis
 
-Your working thesis from P07 identified what drives the disagreement. Your P08 thesis should reflect what your continued analysis revealed, whether that means refining your P07 identification, explaining what drives it, or reformulating if you discovered something different.
+Your working thesis from P06 identified what drives the disagreement. Your P07 thesis should reflect what your continued analysis revealed, whether that means refining your P06 identification, explaining what drives it, or reformulating if you discovered something different.
 
 For theoretical disagreements, analysis might identify explicit differences (they define key terms differently, they focus on different aspects of the phenomenon) or explain what drives those differences (implicit assumptions neither author states, structural constraints in their theoretical frameworks, why their positions logically exclude each other).
 
@@ -102,7 +107,7 @@ Your analysis determines which aspects matter for your case. Not all papers need
 
 ##### :x how to write your introduction
 
-P07 focused on analysis and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
+P06 focused on analysis and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
 
 - Introduces your reader to the academic conversation (the introduction to the puzzle in P2 can be shorter, with less explanation, than in P1)
 - Briefly states the target article's thesis/main conclusion in a way that addresses the puzzle
