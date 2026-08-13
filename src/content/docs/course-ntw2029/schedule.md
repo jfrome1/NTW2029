@@ -162,7 +162,9 @@ This file is generated from a Freeplane mind map via export_syllabus.groovy, but
 >
 ###### Due one day after Paper 1 final: E06 - Paper 1 writing reflection
 
-Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no meetings and nothing due.
+## Reading Week
+
+- Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no class meetings.
 
 ## 7.1 Mon 28 Sep 2026
 
@@ -358,11 +360,6 @@ Session 1 (2pm):
 - Group 4: Ethan (e1526083), Disha (e1715172), Ashley (e1519486)
 
 Session 2 (4pm):
-
-- Group 5: JY (e1519408), Yee Xiang (e1528172), Bo-Ruei (e1525440)
-- Group 6: Khang Sian (e1519366), Eugene (e1519526)
-- Group 7: yk (e1525938), Zhaoyi (e1519460), Xavier (e1525925)
-- Group 8: Rui Ting (e1519522), Jae Yan (e1519441), Bennett (e1526200)
 
 ##### :x ahn discussion questions
 
