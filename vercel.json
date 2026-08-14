@@ -1,5 +1,10 @@
 {
   "installCommand": "pnpm install",
   "framework": "astro",
-  "buildCommand": "pnpm run build"
+  "buildCommand": "pnpm run build",
+  "git": {
+    "deploymentEnabled": {
+      "working": false
+    }
+  }
 }
