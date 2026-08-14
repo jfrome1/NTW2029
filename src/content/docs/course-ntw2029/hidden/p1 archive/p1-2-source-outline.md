@@ -6,7 +6,6 @@ sidebar:
   badge:
     text: Draft
     variant: caution
-
 ---
 
 This assignment is optional. If you submit it, you will receive feedback that can guide your writing process. There is no penalty for not submitting it.

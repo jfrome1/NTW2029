@@ -1,6 +1,10 @@
 ---
 title: Import Test
 draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Test fixture for `build_website.groovy`, the Freeplane website import. It stays in the repo: `draft: true` keeps it out of production builds, so it is never a published route, and it holds the only coverage of several constructs the course pages do not use. Every construct below exists to be checked against its imported nodes. No H1 appears here on purpose: the importer rejects a page carrying one and aborts the whole run.

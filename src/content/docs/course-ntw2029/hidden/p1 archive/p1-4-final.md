@@ -6,7 +6,6 @@ sidebar:
   badge:
     text: Draft
     variant: caution
-
 ---
 
 Please review the [Paper 1 assignment](/course-ntw2029/assignments/papers/p1-1-overview) and all [paper guidelines](/course-ntw2029/assignments/general/paper-guidelines) carefully before submitting. I also suggest reviewing the writing topics covered covered in class and on the website as you revise your paper.

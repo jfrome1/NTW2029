@@ -5,7 +5,6 @@ sidebar:
   badge:
     text: Draft
     variant: caution
-
 ---
 
 Please start by reading this entire assignment without clicking on the links. Then, click on links as needed to get additional details and guidance on the assignment.

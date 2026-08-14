@@ -3,9 +3,9 @@ title: Causality
 pagefind: false
 draft: true
 sidebar:
- badge:
-  text: Draft
-  variant: caution
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 
