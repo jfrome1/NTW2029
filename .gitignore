@@ -76,3 +76,6 @@ coverage/
 
 # Package manager lock files
 tmpclaude-*
+
+.vercel
+.env*
