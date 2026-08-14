@@ -3,7 +3,6 @@
 title: Introduction to Evolutionary Psychology (EP) (2.1)
 draft: true
 sidebar:
-  label: Introduction to EP (2.1)
   badge:
     text: Draft
     variant: caution
