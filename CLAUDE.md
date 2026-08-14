@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-08-11
+lastUpdated: 2026-08-14
 lastEvaluated: 2026-06-18
 writingClarityEvaluated: 2026-06-18
 ---
@@ -17,6 +17,22 @@ This repository contains only the course website. Course design work, class meet
 
 Transcripts are organized by semester in:
 `C:\Dev\repos\AI-projects\ntw2029 course design\tasks\transcript-analysis\transcripts organized\`
+
+## Course Pages Are Generated From the Planner Map
+
+Since 2026-08-12 the Freeplane planner map holds the course content, and every page under
+`src/content/docs/course-ntw2029/` is written out of it. A change made directly to a page's body is
+overwritten at the next export and lost, so edit the map instead. The map is
+`C:\Dev\repos\AI-projects\ntw2029 course design\data\planner\2610-planner.mm` and the exporter is
+`C:\Dev\repos\AI-projects\freeplane\scripts\export_website.groovy`.
+
+Two exemptions. A page's YAML frontmatter is copied through from the file rather than generated,
+because the map has never held it, so frontmatter is edited here. And a page the map holds no node
+for is not reached by the exporter at all, so it can be edited here safely, at the cost of not
+being editable in the map.
+
+The rule covers page bodies only. Astro configuration, components, styles, and everything outside
+`src/content/docs/course-ntw2029/` are authored in this repo as normal.
 
 ## Commands
 
