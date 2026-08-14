@@ -1,0 +1,13 @@
+# Pin line endings. Without this, the same file written on two machines can be
+# stored with different endings, and git then finds no matching line to merge
+# around: on 2026-08-14 CLAUDE.md conflicted on all 81 lines although the two
+# sides differed by 11 lines of content.
+* text=auto eol=lf
+
+# Binary formats, declared rather than left to git's detection
+*.pdf binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.docx binary
+*.pptx binary
