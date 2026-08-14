@@ -49,13 +49,16 @@ import posthog from "posthog-js";
           persistence: 'memory',
           person_profiles: 'identified_only',
         });
-        setupVisibilityTracking();
+        // Identify before the first capture, so the tab-visibility event that
+        // setupVisibilityTracking sends on page load carries the student's id
+        // instead of an anonymous one
         if (user?.id) {
           posthog.identify(user.id, {
             name: user.username,
             timestamp: new Date().toISOString()
           });
         }
+        setupVisibilityTracking();
       } catch (error) {
         console.error('Error initializing tracking:', error);
       }
