@@ -2,6 +2,7 @@
   "installCommand": "pnpm install",
   "framework": "astro",
   "buildCommand": "pnpm run build",
+  "trailingSlash": true,
   "git": {
     "deploymentEnabled": {
       "working": false
