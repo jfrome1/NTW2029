@@ -79,3 +79,6 @@ tmpclaude-*
 
 .vercel
 .env*
+
+.vercel
+.env*
