@@ -1,5 +1,10 @@
 ---
 title: Course Expectations
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Technology Requirements
@@ -17,7 +22,7 @@ Keep electronic devices out of sight during class (except for disability accommo
 
 NOTE: I expect you to check these daily. If you don't, you will miss something.
 
-[:Why you should ignore the Canvas gradebook](#x-why-you-should-ignore-the-canvas-gradebook)
+The Canvas gradebook reports complete/incomplete status for assignments other than Paper 1 (P03) and Paper 2 (P08). [:Why the Canvas final grade is wrong](#x-why-the-canvas-final-grade-is-wrong)
 
 ## Classroom Conduct
 
@@ -29,10 +34,10 @@ NOTE: I expect you to check these daily. If you don't, you will miss something.
 
 ### During Class
 
-- Don't hesitate to ask questions--others probably have the same question!
+- Don't hesitate to ask questions; others probably have the same question!
 - Drinks are ok, but don't eat during class
 - Save side conversations for after class; it's a **really** small class and they are distracting (yes, we can see and hear you whispering and writing small notes to your classmate)
-- If you have a question or missed something, just ask me to repeat myself--no big deal
+- If you have a question or missed something, just ask me to repeat myself, no big deal
 
 ## Academic Integrity
 
@@ -42,11 +47,11 @@ Using GenAI without submitting transcripts or failing to include the non-use sta
 
 I may use anonymized examples from student work to teach writing concepts in future classes. Your name and identifying information will never be included. Let me know if you prefer your work not be used this way.
 
-## FAQs
+## Frequently Asked Questions
 
 ### What if I miss class?
 
-Let me know in advance if possible—a brief message is fine. Get notes from a classmate, review any posted materials, and ask me if you have questions about what you missed.
+Let me know in advance if possible; a brief message is fine. Get notes from a classmate, review any posted materials, and ask me if you have questions about what you missed.
 
 ### When are the readings due?
 
@@ -56,14 +61,14 @@ Readings are listed on the day they will be discussed in class. For example, you
 
 Yes, attendance is part of your participation grade (15%). Please sign the attendance sheet every class.
 
-##### :x why these settings matter
-
-Although I rarely use Announcements, Deadline notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.
-
-##### :x why you should ignore the canvas gradebook
-
-Canvas gradebook tries to calculate your final grade, but I track grades separately in my own spreadsheet. Canvas might show you have 50% when you actually have an A. Ignore it.
-
 ##### :x why no electronics
 
 The ideas we discuss are genuinely complicated, and devices promise easy answers that usually aren't there. The temptation to Google instead of think disrupts the kind of deep focus these topics need.
+
+##### :x why these settings matter
+
+Although I rarely use Announcements, Due Date notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.
+
+##### :x why the canvas final grade is wrong
+
+The Canvas gradebook tries to calculate your final grade, but I track grades separately in my own spreadsheet. Canvas might show your final grade as 50% when you actually have an A. Ignore it.
