@@ -2,22 +2,7 @@
 title: How to Succeed in This Course
 ---
 
-## Making Conferences Count
-
-Good conferences happen when you come prepared. Before we meet:
-
-- Review the assignment and your submission
-- Write down specific questions (not "what should I fix?")
-- Identify the hardest part for you
-
-During our Zoom conference:
-
-- Find a quiet indoor space (wind noise makes it hard to hear)
-- Keep video on with your face visible
-- Don't eat during the meeting
-- Take notes actively - split screen or use two devices
-
-I can record conferences if you ask at the beginning. You'll get the recording and transcript to review later.
+This page is the advice I'd give you in person about getting the most out of the course. Following this advice helps you understand how I deliver instruction and how to make the most out of the resources provided. It can save you a lot of frustration down the line. Read it the beginning of the course and come back to it a few times to refresh your memory.
 
 ## Read the Details
 
@@ -33,21 +18,36 @@ Use feedback intelligently. When I identify a pattern in your writing (like comm
 
 Strong students take ownership of improving their skills. Weaker students want me to tell them exactly what to do to fix all of the "problems" in their paper.
 
+## Making Conferences Count
+
+Good conferences happen when you come prepared. Before we meet:
+
+- Review the assignment and your submission
+- Write down specific questions (not _"what should I fix?"_)
+- Identify the hardest part for you
+
+During our video conference:
+
+- Find a quiet indoor space (wind noise makes it hard to hear)
+- Keep video on with your face visible
+- Don't eat during the meeting
+- Take notes actively - split screen or use two devices
+
 ## Asking the Right Questions at the Right Time
 
-When I teach writing, I often explain general principles for writing clearly. I explain why the principles work and illustrate them with concrete examples. Abstract questions about these princples are welcomed.
+When I teach writing, I often explain general principles for writing clearly. I explain why the principles work and illustrate them with concrete examples. Abstract questions about these principles are welcomed.
 
-However, students who want to avoid mistakes will sometimes follow up by asking for detailed information about how to apply these principles or how balance one principle against another before they even have a draft to discuss. Actual examples:
+However, students who want to avoid mistakes will sometimes follow up by asking for detailed information about how to apply these principles or how to balance one principle against another before they even have a draft to discuss. Actual examples:
 
-- "Is there a rule for how many examples we should have per paragraph?"
-- "How do I know if my argument is strong enough?"
-- "Should we use the old vs new technique to make our quotes flow better in our explanations?"
-- "How strongly should I state my claims in my paper 2?"
+- _"Is there a rule for how many examples we should have per paragraph?"_
+- _"How do I know if my argument is strong enough?"_
+- _"Should we use the old vs new technique to make our quotes flow better in our explanations?"_
+- _"How strongly should I state my claims in my Paper 2?"_
 
 While these questions are very understandable, it's usually not possible to answer these types of questions.
 
 Writing is a situated, contextual activity, meaning that you write about a specific topic in a specific way for a specific kind of reader. While it's important to understand basic writing principles, you really can't discuss details about those principles outside of a concrete example, such as a paper draft.
 
-Questions about specific choices require something concrete to look at. I can't tell you in the absract whether it's more important to include additional examples or to keep a paragraph brief and simple. Yet, I'm happy to look at an draft paragraph and tell you what I think works best in one particular instance.
+Questions about specific choices require something concrete to look at. I can't tell you in the abstract whether it's more important to include additional examples or to keep a paragraph brief and simple. Yet, I'm happy to look at a draft paragraph and tell you what I think works best in one particular instance.
 
-That's why conferences happen after you've written something. When you ask "How can I make this clearer?" you're working with the material. When you ask "What exactly do you want?" before writing, you're trying to skip that process—and it doesn't work.
+That's why conferences happen after you've written something. When you ask _"How can I make this clearer?"_ you're working with the material. When you ask _"What exactly do you want?"_ before writing, you're trying to skip that process—and it doesn't work.

@@ -14,7 +14,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read before class (recommended): none
 - Class media:
 	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
-- watch [A Darwinian theory of beauty | Denis Dutton ](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
 ###### Due Wed 12 Aug 2026: E01 - Introductions
 >
@@ -38,9 +37,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
 
 ###### Due Sun 16 Aug 2026: E02 - Explain something
->
-
-###### Due Sun 23 Aug 2026: E03 - Explain Boyd
 >
 
 ## 2.1 Mon 17 Aug 2026
@@ -69,6 +65,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
+
+###### Due Sun 23 Aug 2026: E03 - Explain Boyd
+>
 
 ## 3.1 Mon 24 Aug 2026
 

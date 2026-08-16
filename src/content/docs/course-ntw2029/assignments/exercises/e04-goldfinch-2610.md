@@ -42,8 +42,8 @@ For this exercise, after the submission deadline, I'll post an example explanati
 
 Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted here after class 3.1.
 
-[Example explanations of 2.7.1 to 2.7.3](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3)
+<!-- [Example explanations of 2.7.1 to 2.7.3](/course-ntw2029/hidden/exercise-examples/e04-eg-1-3) -->
 
 An example explanation of 2.7.4 will be posted here after the exercise 4 deadline.
 
-[Example explanation of 2.7.4](/course-ntw2029/hidden/exercise-examples/e04-eg-4)
+<!-- [Example explanation of 2.7.4](/course-ntw2029/hidden/exercise-examples/e04-eg-4) -->

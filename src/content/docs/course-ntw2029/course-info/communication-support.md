@@ -14,7 +14,7 @@ Please use the website search box!
 
 - If you have information I've provided but need clarification or suspect an error, contact me.
 - If your question is non-basic (topics you don't understand, how to write/revise), contact me.
-- Always contact/email/message me directly rather than posting in the class chat. Class chat is for talking to other students.
+- Always contact/email/message me directly rather than posting in the class chat.
 - It's fine to contact me anytime. You won't wake me with messages/emails (I use 'do not disturb').
 
 **Choose your channel:**
@@ -28,7 +28,7 @@ Please use the website search box!
 ## Contact Information
 
 - **Email**: frome@nus.edu.sg
-- **Office**: RC3-02-04K (same hallway as CR23)
+- **Office**: RC3-02-04K (Cendana 2nd floor)
 - **Office hours**: By appointment; I'm on campus most days.
 
 ---

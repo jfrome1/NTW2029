@@ -1,5 +1,10 @@
 ---
 title: Grading
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Grade Overview
