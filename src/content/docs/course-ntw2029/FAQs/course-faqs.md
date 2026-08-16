@@ -13,7 +13,7 @@ These FAQs cover topics that don't fit on other specific pages. For topic-specif
 
 ### When will you update [course website page]?
 
-It's actually updated; you probably need to reload the page. Your browser sometimes shows you an old cached version of the website instead of the latest updates. To see the current version:
+Probably, it's actually updated but you need to reload the page. Your browser sometimes shows you an old cached version of the website instead of the latest updates. To see the current version:
 
 **Windows**: Press Ctrl+F5 or Ctrl+Shift+R to force a full refresh that clears the cache for that page.
 
@@ -23,7 +23,7 @@ If that doesn't work, please reboot and try again, and if you still don't see wh
 
 ### What if website instructions seem unclear?
 
-Please email me with specifics about what's confusing. It would help me improve the website for you and future students.
+Please email me with specifics about what's confusing. It will help me improve the website for you and future students.
 
 ## Course Content
 

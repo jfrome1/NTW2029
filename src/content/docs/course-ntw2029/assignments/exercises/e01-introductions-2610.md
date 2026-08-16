@@ -2,8 +2,7 @@
 title: E01 - Introductions
 ---
 
-<!-- I've introduced myself to you on the "Meet your instructor" page. Now it's your turn! Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "Exercise 1 - introductions".
- -->
+<!-- I've introduced myself to you on the "Meet your instructor" page. Now it's your turn! Please introduce yourself to me and the class in a post on the "Discussions" page in the thread "Exercise 1 - introductions". -->
 
 I know we did quick introductions in our first class, but I'd like everyone to get to know each other better by asking you to introduce yourself in a post. It's a small class and works much better when we are comfortable talking in the group. Having this written down also helps me remember everyone's details when I'm planning lessons or giving feedback.
 

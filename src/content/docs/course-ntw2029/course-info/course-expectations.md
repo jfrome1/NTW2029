@@ -67,6 +67,18 @@ The ideas we discuss are genuinely complicated, and devices promise easy answers
 
 ##### :x why these settings matter
 
+Although I rarely use Announcements, Deadline notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.
+
+##### :x why you should ignore the canvas gradebook
+
+Canvas gradebook tries to calculate your final grade, but I track grades separately in my own spreadsheet. Canvas might show you have 50% when you actually have an A. Ignore it.
+
+##### :x why no electronics
+
+The ideas we discuss are genuinely complicated, and devices promise easy answers that usually aren't there. The temptation to Google instead of think disrupts the kind of deep focus these topics need.
+
+##### :x why these settings matter
+
 Although I rarely use Announcements, Due Date notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.
 
 ##### :x why the canvas final grade is wrong

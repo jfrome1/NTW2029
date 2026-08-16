@@ -1,10 +1,5 @@
 ---
 title: Conferences
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Overview
@@ -25,6 +20,7 @@ The items below help us make the most of our conference time. Following them mea
 
 - Book your conference through the Zoom tool on Canvas once times are available [:instructions](#x-instructions)
 - Check times carefully—schedule when you can review feedback during the 2 hours before we meet [:why this timing matters](#x-why-this-timing-matters)
+
 <!-- - [:What if I see strange conference times?](#x-what-if-i-see-strange-conference-times) - this was for troubleshooting time zone issues with Microsoft Booking, not Zoom -->
 
 **Review your work:**
@@ -56,7 +52,7 @@ The items below help us make the most of our conference time. Following them mea
 ### Starting the Conference
 
 - Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
-    - NOTE: Your booking confirmation email includes a different Zoom link—ignore it. Always use the link above (Meeting ID: 250 394 5161).
+	- NOTE: Your booking confirmation email includes a different Zoom link—ignore it. Always use the link above (Meeting ID: 250 394 5161).
 - Email or message me if you have connection difficulties
 - I try to record all student interactions, but if you want to make sure that you can access a recording of the conference, you must remind me to record[:about recordings](#x-about-recordings)
 
@@ -114,10 +110,6 @@ To book your conference slot:
 
 Feedback sometimes arrives just two hours before your conference. If you're busy up until the conference, you won't be able to review the feedback by conference time, which is essential for a productive conference.
 
-##### :x about recordings
-
-Recordings help you review feedback later and help me improve my teaching materials. Recordings are not guaranteed unless you request them at the start.
-
 ##### :x what counts as a specific question
 
 Vague questions ask for reassurance without identifying a specific problem. Specific questions show you've identified what you're trying to achieve and where you're stuck.
@@ -135,6 +127,10 @@ Vague questions ask for reassurance without identifying a specific problem. Spec
 - "You said I needed to connect my examples to my main point. I added this sentence [quotes it]. Does it do that?"
 
 Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance.
+
+##### :x about recordings
+
+Recordings help you review feedback later and help me improve my teaching materials. Recordings are not guaranteed unless you request them at the start.
 
 ##### :x what if i see strange conference times
 

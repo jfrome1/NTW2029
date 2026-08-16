@@ -35,7 +35,7 @@ Major YouTube science channel Veritasium borrows this approach (with credit) in 
 ## Human sexual selection
 
 - [Are Short Men at a Disadvantage in Romance?](http://youtu.be/AR3YR1ZTonc)
-		- _The bit at the very end that is hard to hear is a woman saying "I guess the only thing you could say is that the other four are criminals [or something like that]." You can then hear in the background another woman saying "psychotic"!_
+	- _The bit at the very end that is hard to hear is a woman saying "I guess the only thing you could say is that the other four are criminals [or something like that]." You can then hear in the background another woman saying "psychotic"!_
 - [Will Dancing Get You Laid?](https://www.youtube.com/watch?v=kqx0-ol5qeQ)
 
 ## The Wason selection task

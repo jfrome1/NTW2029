@@ -6,6 +6,7 @@ sidebar:
     text: Draft
     variant: caution
 ---
+
 ## Topic Sentences and Paragraph Structure
 
 ### What makes a good topic sentence?

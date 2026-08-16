@@ -2,17 +2,9 @@
 title: Schedule
 ---
 
-<!-- Last exported: 2026-08-13 13:05 -->
-
 :::tip
 Links that start with `:` are text-expansion links. I recommend reading through the page without clicking, and then going back to click for more detail.
 :::
-
-<!--
-Claude: this page is generated from the Freeplane planner map by export_syllabus.groovy. Do not edit it here. Each export overwrites the whole file, so a change made in this file is lost at the next run. Edit the map and re-export instead.
-
-The exporter writes a line containing just `>` after every line starting with `###### Due`, which is what spaces those lines correctly on the rendered page.
--->
 
 ## 1.1 Mon 10 Aug 2026: no class meeting, National Day holiday
 
@@ -20,10 +12,12 @@ The exporter writes a line containing just `>` after every line starting with `#
 	- Read before class: none
 - Writing topic: university academic writing
 	- Read before class (recommended): none
+- Class media:
+	- [A Darwinian theory of beauty | Denis Dutton](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
+- watch [A Darwinian theory of beauty | Denis Dutton ](https://www.youtube.com/watch?v=PktUzdnBqWI) (15 min)
 
 ###### Due Wed 12 Aug 2026: E01 - Introductions
 >
-
 
 ## 1.2 Thu 13 Aug 2026
 
@@ -36,13 +30,18 @@ The exporter writes a line containing just `>` after every line starting with `#
 		- TSIS Preface "Demystifying Academic Conversation", xvi-xxvi
 		- TSIS Introduction "Entering the Conversation", 1-15
 		- TSIS 14 "What's Motivating this Writer? Reading for the Conversation", 174-183
-- Additional resources:
+- Class media:
+	- [World's Weirdest--Birds _Moonwalk_ to Impress the Ladies](http://youtu.be/o42C6ajjqWg)
+	- [Peacock Spider](https://www.youtube.com/watch?v=d_yYC5r8xMI)
+	- [Puffer Fish carves crop circles in Amami Oshima](http://youtu.be/IO-NI7qbUrM)
 	- [Our Planet | Birds Of Paradise dance](https://www.youtube.com/watch?v=rX40mBb8bkU)
 	- [World's Weirdest--Bowerbird Woos Female with Ring](http://youtu.be/U89tw093s_Y)
 
 ###### Due Sun 16 Aug 2026: E02 - Explain something
 >
 
+###### Due Sun 23 Aug 2026: E03 - Explain Boyd
+>
 
 ## 2.1 Mon 17 Aug 2026
 
@@ -55,11 +54,6 @@ The exporter writes a line containing just `>` after every line starting with `#
 		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
 		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research_. 4th ed. Chicago, IL: University of Chicago Press, 2016.
 		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
-- Additional resources:
-	- short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
-	- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
-	- [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
-		- _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
 
 ## 2.2 Thu 20 Aug 2026
 
@@ -75,10 +69,6 @@ The exporter writes a line containing just `>` after every line starting with `#
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
-
-###### Due Sun 23 Aug 2026: E03 - Explain Boyd
->
-
 
 ## 3.1 Mon 24 Aug 2026
 
@@ -101,7 +91,6 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 30 Aug 2026: E04 - explain Goldfinch
 >
 
-
 ## 4.1 Mon 31 Aug 2026
 
 - EP and art topic: art as by-product
@@ -122,10 +111,8 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 6 Sep 2026: E12 - Workload report, Aug
 >
 
-
 ###### Due Sun 6 Sep 2026: P01 - Paper 1 Pre-writing (optional, not expected or graded)
 >
-
 
 ## 5.1 Mon 7 Sep 2026
 
@@ -149,25 +136,20 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 13 Sep 2026: P02 - Paper 1 Draft
 >
 
-
 ## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
-
 
 ###### Due day of conference: E05 - Paper 1 Conference report
 >
 
+## Reading Week
+
+- Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no class meetings.
 
 ###### Due six days after conference: P03 - Paper 1 Final
 >
 
-
 ###### Due one day after Paper 1 final: E06 - Paper 1 Writing reflection
 >
-
-
-## Reading Week
-
-- Recess runs Sat 19 Sep to Sun 27 Sep 2026. There are no class meetings.
 
 ## 7.1 Mon 28 Sep 2026
 
@@ -175,6 +157,9 @@ The exporter writes a line containing just `>` after every line starting with `#
 	- Read: none
 - Writing topic: Paper 2 overview
 	- Read before class (recommended): none
+
+###### Due Wed 30 Sep 2026: E07 - Reading questions
+>
 
 ## 7.2 Thu 1 Oct 2026
 
@@ -195,17 +180,11 @@ The exporter writes a line containing just `>` after every line starting with `#
 			- [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 
-###### Due Wed 30 Sep 2026: E07 - Reading questions
->
-
-
 ###### Due Sun 4 Oct 2026: E08 - Reading questions
 >
 
-
 ###### Due Sun 4 Oct 2026: E12 - Workload report, Sep
 >
-
 
 ## 8.1 Mon 5 Oct 2026
 
@@ -215,6 +194,9 @@ The exporter writes a line containing just `>` after every line starting with `#
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: none
 	- Read before class (recommended): none
+
+###### Due Wed 7 Oct 2026: E09 - Reading questions
+>
 
 ## 8.2 Thu 8 Oct 2026
 
@@ -227,13 +209,8 @@ The exporter writes a line containing just `>` after every line starting with `#
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due Wed 7 Oct 2026: E09 - Reading questions
->
-
-
 ###### Due Sun 11 Oct 2026: P04 - Paper 2 Article selection
 >
-
 
 ## 9.1 Mon 12 Oct 2026
 
@@ -252,7 +229,6 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 18 Oct 2026: P05 - Paper 2 Identify the criticism and verify positions
 >
 
-
 ## 10.1 Mon 19 Oct 2026
 
 - Writing topic: none
@@ -263,7 +239,6 @@ The exporter writes a line containing just `>` after every line starting with `#
 
 ###### Due Sun 25 Oct 2026, 6pm: P06 - Paper 2 Going beneath, working draft (peer review checkpoint)
 >
-
 
 ## 11.1 Mon 26 Oct 2026
 
@@ -286,10 +261,8 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due Sun 1 Nov 2026: E12 - Workload report, Oct
 >
 
-
 ###### Due Sun 1 Nov 2026: P07 - Paper 2 Full draft and outline
 >
-
 
 ## 12.1 and 12.2 (2 and 5 Nov 2026) no class meetings, Paper 2 draft conferences
 
@@ -298,21 +271,16 @@ The exporter writes a line containing just `>` after every line starting with `#
 ###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
 
-
 ## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
-
 
 ###### Due five days after conference: P08 - Paper 2 Final
 >
 
-
-###### Due one day after Paper 2: E11 - Paper 2 Writing reflection
+###### Due one day after Paper 2: E11 - Paper 2 Writing reflection (no extensions)
 >
-
 
 ###### Due one day after Paper 2: E12 - Workload report, Nov (final)
 >
-
 
 ##### :x assigned videos
 
@@ -340,9 +308,11 @@ The exporter writes a line containing just `>` after every line starting with `#
 
 ##### :x goldfinch conclusion discussion questions
 
-- 1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism." Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
-- 2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
-- 3. On page 200, Goldfinch says "This is the positive case for evolutionary psychology. The streamlined case." What is this positive case? What does Goldfinch argue EP can legitimately do?
+1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism." Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
+
+2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
+
+3. On page 200, Goldfinch says "This is the positive case for evolutionary psychology. The streamlined case." What is this positive case? What does Goldfinch argue EP can legitimately do?
 
 ##### :x pinker discussion questions
 
@@ -367,9 +337,9 @@ The exporter writes a line containing just `>` after every line starting with `#
 - How well do the methods test the hypotheses?
 - What do the authors conclude from their research?
 - How well-supported are their conclusions?
-- Note: feel free to ignore all statistics in this paper.
+
+Note: feel free to ignore all statistics in this paper.
 
 ##### :x week 11 peer review groups
 
 - [forthcoming]
-

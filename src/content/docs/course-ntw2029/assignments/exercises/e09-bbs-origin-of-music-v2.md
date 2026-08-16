@@ -39,7 +39,6 @@ Copy and paste the following questions into a document and type answers below ea
 2. **Existing theories**: The authors review several previous theories. Choose TWO from the following: sexual selection, parent-infant interaction, coalition signaling, or skill development. For each:
    - Briefly explain what it claims
    - Identify one weakness the authors find with it
-
 3. **The new proposal**: Explain the social bonding hypothesis in your own words. What are its TWO main components (hint: see abstract)? How is it different from just saying "music helps people bond"?
 
 4. **Identifying critique**: Quote one specific criticism Killin makes about the target article's argument. After the quote, explain in your own words what assumption or claim Killin is challenging.
@@ -51,14 +50,13 @@ Copy and paste the following questions into a document and type answers below ea
 - For question 2, focus on the authors' evaluation of theories, not detailed explanation of each theory
 - For question 3, distinguish between the general claim and the specific mechanisms proposed
 - For question 5, think about:
-  - Untested assumptions (what do they take for granted?)
-  - Missing evidence (what would you need to know to believe their claim?)
-  - Alternative explanations not considered
-  - Definitional issues (are key terms clear?)
+	- Untested assumptions (what do they take for granted?)
+	- Missing evidence (what would you need to know to believe their claim?)
+	- Alternative explanations not considered
+	- Definitional issues (are key terms clear?)
 
 ## Feedback
 
 This exercise will receive completion credit only. We'll discuss your answers in class 9.1, where we'll practice identifying argumentative weaknesses in preparation for Paper 2.
-
 
 3.1 byproduct 3.2 social bonding

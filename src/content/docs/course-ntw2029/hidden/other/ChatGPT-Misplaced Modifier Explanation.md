@@ -8,7 +8,6 @@ sidebar:
     variant: caution
 ---
 
-
 ## Misplaced Modifier Explanation
 
 **User:** nemo-openai@ihtfp.net (nemo-openai@ihtfp.net)

@@ -59,7 +59,8 @@ online resources on transitions:
 - https://writingcenter.unc.edu/tips-and-tools/transitions/
 - https://writingcenter.fas.harvard.edu/transitions
 
-<!-- weak transition:
+<!--
+weak transition:
 > Pinker then talks about why we are attracted to fictional stories. He highlights that the desire for fiction serves as a "cognitive adaptation," by noting its instructional value (539).
 
 good transition:
@@ -68,4 +69,4 @@ good transition:
 - e.g. sentence to sentence transitions to revise
 	- In the 'Beginner's Guide', the author cites cosmetics use as an example of behaviour that is explained by evolutionary psychology. Sexual selection is an evolutionary process that drives the survival of a species.
 	-  Evolutionary psychology explains that people wear make-up in modern society to conform to societal beauty standards, which were also derived from evolution. Institutional facts are facts that "exist only because we all agree that they do" (144).
- -->
+-->

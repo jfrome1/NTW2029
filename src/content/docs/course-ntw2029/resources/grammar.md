@@ -29,13 +29,15 @@ Don't use a comma to indicate where you would pause if reading a sentence out lo
 
 There's no shame in misusing commas because no one ever taught you how to use them, but you now have some resources and can ask me to clarify any rules you don't understand. If you want to use commas properly,  invest the time to learn the rules.
 
-<!-- **Commas and compound predicates**
+<!--
+**Commas and compound predicates**
 
 It's usually better to avoid a comma in a sentence with a compound predicate. See the explanation here: https://blog.apastyle.org/apastyle/2013/09/comma-usage-and-compound-predicates.html and this article for a more in-depth discussion: https://cmosshoptalk.com/2021/01/19/commas-between-compound-predicates/
 
 Avoid: "Pinker states that art is a byproduct, and argues that those who think is art is an adaptation are wrong."
 
-Better: "Pinker states that art is a byproduct and argues that those who think is art is an adaptation are wrong." -->
+Better: "Pinker states that art is a byproduct and argues that those who think is art is an adaptation are wrong."
+-->
 
 ## Dashes
 

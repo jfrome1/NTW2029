@@ -7,6 +7,7 @@ sidebar:
     text: Draft
     variant: caution
 ---
+
 - Topic sentences should directly state the main idea of the paragraph.
 - Topic sentences should be at the beginning of each body paragraph unless you have a good reason to place them elsewhere.
 - Topic sentences are usually just one sentence long, but sometimes two sentences are necessary.

@@ -1,5 +1,10 @@
 ---
 title: E10 - P07 conference report (full draft)
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose
@@ -34,9 +39,7 @@ Copy and paste the questions below into a document and type your answer below ea
 ### Getting help
 
 - Don't ask me questions in this assignment; if you want me to answer, email or message me separately
-<!-- Restore this bullet when the conferences page leaves draft. It links into that page, and a link to a draft page builds no route and fails starlight-links-validator, so the two changes reverse together.
 - After this conference, I encourage questions about your revision process. See [what kinds of questions I can answer](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question) and [why I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-my-revisions-for-more-feedback).
--->
 
 ## Feedback
 

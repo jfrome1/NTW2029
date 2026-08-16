@@ -34,17 +34,20 @@ This assignment helps you finalize your source selection and understand how it f
 ##### :x verify source is appropriate
 
 Your source must:
+
 - Be recent (published within the last 10 years)
 - Be published in an academic journal or by an academic press
 - Make an argumentative claim (not just a literature review)
 - Contribute to a conversation about evolutionary psychology and art
 
 To verify your source is appropriate:
+
 - Check the introduction to confirm it makes a specific argument
 - Review the literature review section to identify the academic conversation
 - Make sure the source proposes and defends a thesis rather than just summarizing existing research
 
 Need help identifying if a source is a literature review? Literature reviews typically:
+
 - Have words like "review," "survey," or "overview" in the title
 - Discuss many different theories without strongly advocating for one
 - Come from handbooks or companions (e.g., "The Oxford Handbook of...")
@@ -58,6 +61,7 @@ To identify and describe the academic conversation:
 3. Note which scholars they cite frequently and how they frame their own contribution
 
 Key elements to include in your first paragraph:
+
 - What phenomenon is being explained or explored?
 - What knowledge gaps or puzzling aspects does your source identify?
 - What previous explanations or theories does your source build upon or challenge?
@@ -73,6 +77,7 @@ To explain your source's contribution:
 3. Explain how the source aims to add to the academic conversation
 
 Key elements to include in your second paragraph:
+
 - What specific argumentative thesis does the source propose?
 - What evidence or reasoning supports this thesis?
 - What methods did the researchers use (e.g., empirical study, theoretical analysis)?

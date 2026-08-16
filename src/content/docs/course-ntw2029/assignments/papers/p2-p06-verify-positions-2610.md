@@ -78,7 +78,8 @@ Side by side, provide:
 
 **C2. Room test**
 
-<!-- REVISION NEEDED (2026-03-29): The "room test" label is misapplied here. What's
+<!--
+REVISION NEEDED (2026-03-29): The "room test" label is misapplied here. What's
 currently called the room test is actually a characterization check (does the commentary
 accurately represent the target?). The real room test is a two-part process:
 
@@ -102,7 +103,8 @@ real room test question. If the real room test is explicit, Part D can be simple
 
 See 2510 conference analysis at recordings/2510 P06 conference/conferences-analysis/
 (recurring-challenges.md, teaching-strategies.md) for evidence of how this move worked
-in practice. -->
+in practice.
+-->
 
 Imagine the target authors and commentary authors in a room together with a whiteboard. The commentary says "You claim X."
 

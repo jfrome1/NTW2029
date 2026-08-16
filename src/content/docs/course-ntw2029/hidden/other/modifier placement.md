@@ -7,7 +7,6 @@ sidebar:
     variant: caution
 ---
 
-
 ## Misplaced modifiers
 
 ## importance of modifier location
@@ -50,6 +49,7 @@ Real student examples:
 - _When auditory scene analysis is applied to music, Pinker asserts that music provides pleasure because our minds are able to distinguish and assign sounds in music to their soundmaker (536)._
 - _Aside from actually increasing biological fitness, Pinker proposes that human senses are capable of inducing pleasure when senses detect pleasure-stimulating patterns given off by fitness-promoting environments._
 - _Being artificially created for the purpose of pleasure, Pinker posits that arts provides humans with more intense pleasure than available in the natural world._
+
 _Rather than taking pleasure in exploring unfamiliar environments, Shtulman argues that it is the familiar elements presented in novel ways that explain the appeal of imaginary worlds._
 _Despite being costly to produce and consume, Dubourg & Baumard (D&B) want to understand why humans are so attracted to these imaginary worlds._
 _To understand why humans enjoy art, Pinker first suggests that natural selection shaped the human mind to find certain environmental cues rewarding because they were historically associated with biological fitness._
