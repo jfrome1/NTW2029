@@ -126,15 +126,15 @@ Have at least one in-text citation in each paragraph that uses a source's ideas,
 
 ---
 
+##### :x why not include all references you looked at
+
+Some reference lists include all works read or consulted in writing a paper, but here we list only references actually cited in your essay.
+
 ##### :x when is page number not required
 
 If you are not telling the reader where you got an idea or quote, but are instead pointing to the entire source as an example of something, you don't include a page number; e.g.:
 
 > _Some scholars argue that art is adaptive due to cooperation (Boyd 2002, Austin 2010)._
-
-##### :x why not include all references you looked at
-
-Some reference lists include all works read or consulted in writing a paper, but here we list only references actually cited in your essay.
 
 ##### :x detailed examples showing the redundancy principle
 
@@ -168,6 +168,10 @@ If the first time you mention a source's authors is in a sentence, you put the y
 vs.
 
 > _Musical structure mirrors the structure of language (Pinker, 2002, 405)._
+
+##### :x proper formatting example
+
+![reference list formatting](/images/reference-list-formatting.jpg)
 
 ##### :x how to find dois and official urls
 
@@ -278,7 +282,3 @@ The difference:
 - **Simplified APA**: Pinker (2002) on first mention only
 
 This simplification typically prevents 3-4 errors per paper. You'll need standard APA in other courses, but for this course, focus on the simplified version to ensure accuracy in the fundamentals.
-
-##### :x proper formatting example
-
-![reference list formatting](/images/reference-list-formatting.jpg)

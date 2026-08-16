@@ -30,15 +30,15 @@ sidebar:
 		2. not all members of a species reproduce due to selection pressure (such as limited food)
 		3. those who reproduce pass their traits to their children, the next generation, by passing on their genes, including genes responsible for their particular variety of traits
 	- powerpoint explanation:
-		- [berries.pptx](/downloads/evolution-berries.pptx)
+	- [berries.pptx](/downloads/evolution-berries.pptx)
 	- note that all traits must be adaptations, byproducts, or vestigial/disappearing
-		- adaptations: traits that increase reproductive fitness
-			- adaptations are not traits that are useful in every situation, but increase fitness *on average, across the population*
-			- e.g. thirst in lifeboat
-		- byproducts: traits that continue not due to their effect on reproductive fitness, but because they are side-effects of adaptations
-		- vestigial/disappearing: traits that are no longer adaptive, have some cost, and thus are selected against
-		- why are all traits in one of these categories?
-			- A characteristic trait of a species continues through generations, according to evolutionary theory, because it is fitness-enhancing (adaptation), is connected to a fitness-enhancing trait (byproduct). Any other trait that appeared in an organism that wasn't vestigial/disappearing would be temporary. It wouldn't continue through generations and thus wouldn't be a trait of the species.
+	- adaptations: traits that increase reproductive fitness
+		- adaptations are not traits that are useful in every situation, but increase fitness *on average, across the population*
+		- e.g. thirst in lifeboat
+	- byproducts: traits that continue not due to their effect on reproductive fitness, but because they are side-effects of adaptations
+	- vestigial/disappearing: traits that are no longer adaptive, have some cost, and thus are selected against
+	- why are all traits in one of these categories?
+		- A characteristic trait of a species continues through generations, according to evolutionary theory, because it is fitness-enhancing (adaptation), is connected to a fitness-enhancing trait (byproduct). Any other trait that appeared in an organism that wasn't vestigial/disappearing would be temporary. It wouldn't continue through generations and thus wouldn't be a trait of the species.
 - online resources
 	- "Tell me more about natural selection"
 		- [Natural selection - Wikipedia](https://en.wikipedia.org/wiki/Natural_selection)

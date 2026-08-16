@@ -167,6 +167,12 @@ Strategies you should use include:
 	- make very clear to the reader which arguments are yours and which are Pinker's
 	- illustrate Pinker's abstract claims with original concrete examples
 
+##### :x main research question
+
+Don't forget that an important part of understanding the source's argument is figuring out what academic conversation it is aiming to contribute to and what ideas it is responding to.
+
+In class, we noted that Pinker talks about why the psychology of the arts is obscure and about status before clarifying his main question: why do we enjoy art? Paper 1 should focus on arguments related to the question of why we enjoy art.
+
 ##### :x may use these strategies
 
 Strategies you may use include:
@@ -174,27 +180,6 @@ Strategies you may use include:
 - objectively describe [:potential gaps or problems](#x-potential-gaps-or-problems) with the argument that you have identified
 - discuss the implications of any specific problems for the argument's persuasiveness or [:explanatory power](#x-explanatory-power) overall
 - identify limits to Pinker's arguments in explaining our enjoyment of [:some types of art but not others](#x-some-types-of-art-but-not-others), even broadly popular ones
-
-##### :x known by your target audience
-
-You can assume your reader knows these basic evolutionary terms:
-
-- evolution
-- species
-- traits/phenotype
-- survival and reproduction
-- genes/genotype
-- fitness
-- natural selection
-- sexual selection
-
-You should briefly define the terms "adaptation" and "byproduct" if you use them. No extensive explanation nor illustrative examples are needed for these terms themselves. However, any claims you make with these terms must still be explained and/or illustrated to make them clear to the reader.
-
-##### :x main research question
-
-Don't forget that an important part of understanding the source's argument is figuring out what academic conversation it is aiming to contribute to and what ideas it is responding to.
-
-In class, we noted that Pinker talks about why the psychology of the arts is obscure and about status before clarifying his main question: why do we enjoy art? Paper 1 should focus on arguments related to the question of why we enjoy art.
 
 ##### :x potential gaps or problems
 
@@ -227,6 +212,10 @@ Follow these guidelines about strategies you _should not_ use:
 ##### :x use pinkers language
 
 Obviously, in explaining Pinker, you will use some similar terms.However, your goals are different than his. Pinker's writing is more concerned with engagement than clarity. Did you find it easy to understand his arguments on first reading? I didn't. Your paper should aim to explain his arguments so clearly that a generalist reader can understand them with minimal effort after reading your paper just one time. Use consistent keyterms with clear meanings, whether or not Pinker does.
+
+##### :x original alternate answer
+
+In your analysis, it's fine to suggest small improvements to parts of the source argument, but don't propose a wholly new theory that acts as an alternative to the source's argument.
 
 ##### :x defended in other parts of his book
 
@@ -271,6 +260,17 @@ Don't get me wrong; it is potentially useful to discuss counterexamples if they 
 
 Paper 1 assumes that the source is not completely self-explanatory and clear. The principle of charity suggests that we should aim to steelman the source argument to focus on whether its most persuasive version is true.
 
-##### :x original alternate answer
+##### :x known by your target audience
 
-In your analysis, it's fine to suggest small improvements to parts of the source argument, but don't propose a wholly new theory that acts as an alternative to the source's argument.
+You can assume your reader knows these basic evolutionary terms:
+
+- evolution
+- species
+- traits/phenotype
+- survival and reproduction
+- genes/genotype
+- fitness
+- natural selection
+- sexual selection
+
+You should briefly define the terms "adaptation" and "byproduct" if you use them. No extensive explanation nor illustrative examples are needed for these terms themselves. However, any claims you make with these terms must still be explained and/or illustrated to make them clear to the reader.

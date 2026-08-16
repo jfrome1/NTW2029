@@ -77,34 +77,6 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 I'll provide recorded feedback on P07, which we'll discuss in a conference during Week 13.
 
-##### :x using writing from earlier assignments
-
-Earlier assignments developed your analytical understanding through verification and thesis development. P07 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how earlier work carries forward into P07:
-
-- Thesis
-    - Your working thesis should evolve as you continue your analysis.
-    - Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
-- Explanation of both positions
-    - A very brief version of your explanation will go in your introduction above your thesis--just enough to set context and make your thesis understandable. The essay body will contain a more detailed version.
-- Accuracy of characterization
-    - Your thesis should state what your verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
-    - If the verification was straightforward (i.e. target and commentary's claims were both clear and accurate), your explanation will include the verified claims.
-    - If the verification was complicated or nuanced, your explanation will likely present a simple version of the claims, and your analysis will use verification evidence (specific quotes, characterization checks) to support claims about the disagreement.
-- Continuing analysis
-    - Your additional analysis should be reflected in your thesis.
-- Source identification
-    - Your additional sources should be cited in your essay.
-
-##### :x developing your thesis
-
-Your working thesis from P06 identified what drives the disagreement. Your P07 thesis should reflect what your continued analysis revealed, whether that means refining your P06 identification, explaining what drives it, or reformulating if you discovered something different.
-
-For theoretical disagreements, analysis might identify explicit differences (they define key terms differently, they focus on different aspects of the phenomenon) or explain what drives those differences (implicit assumptions neither author states, structural constraints in their theoretical frameworks, why their positions logically exclude each other).
-
-For empirical disagreements, analysis might identify explicit differences (they interpret the same data differently, they apply different standards for what counts as evidence) or explain what drives those differences (different views of burden of proof, different methodological commitments that produce different interpretations).
-
-Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities—what matters is accurately explaining the disagreement you discovered.
-
 ##### :x how to write your introduction
 
 P06 focused on analysis and thesis development without framing. Now that your working thesis has stabilized through peer review, write an introduction that:
@@ -116,6 +88,16 @@ P06 focused on analysis and thesis development without framing. Now that your wo
 - After the thesis, states a brief significance statement (1-2 sentences) indicating what understanding this disagreement reveals.
 
 Choose your introduction details carefully, with an aim to not overwhelm the reader. Your reader needs orientation to the specific criticism you're analyzing, not a comprehensive explanation of the articles' positions.
+
+##### :x developing your thesis
+
+Your working thesis from P06 identified what drives the disagreement. Your P07 thesis should reflect what your continued analysis revealed, whether that means refining your P06 identification, explaining what drives it, or reformulating if you discovered something different.
+
+For theoretical disagreements, analysis might identify explicit differences (they define key terms differently, they focus on different aspects of the phenomenon) or explain what drives those differences (implicit assumptions neither author states, structural constraints in their theoretical frameworks, why their positions logically exclude each other).
+
+For empirical disagreements, analysis might identify explicit differences (they interpret the same data differently, they apply different standards for what counts as evidence) or explain what drives those differences (different views of burden of proof, different methodological commitments that produce different interpretations).
+
+Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities—what matters is accurately explaining the disagreement you discovered.
 
 ##### :x developing your significance discussion
 
@@ -171,6 +153,24 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 - Expand scope beyond your chosen criticism
 
 Keep focus on analyzing the disagreement between target and commentary, using additional sources to support that analysis.
+
+##### :x using writing from earlier assignments
+
+Earlier assignments developed your analytical understanding through verification and thesis development. P07 transforms that understanding into a complete essay with proper framing and significance discussion. Here's how earlier work carries forward into P07:
+
+- Thesis
+	- Your working thesis should evolve as you continue your analysis.
+	- Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
+- Explanation of both positions
+	- A very brief version of your explanation will go in your introduction above your thesis--just enough to set context and make your thesis understandable. The essay body will contain a more detailed version.
+- Accuracy of characterization
+	- Your thesis should state what your verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
+	- If the verification was straightforward (i.e. target and commentary's claims were both clear and accurate), your explanation will include the verified claims.
+	- If the verification was complicated or nuanced, your explanation will likely present a simple version of the claims, and your analysis will use verification evidence (specific quotes, characterization checks) to support claims about the disagreement.
+- Continuing analysis
+	- Your additional analysis should be reflected in your thesis.
+- Source identification
+	- Your additional sources should be cited in your essay.
 
 ##### :x how to create and use your outline
 

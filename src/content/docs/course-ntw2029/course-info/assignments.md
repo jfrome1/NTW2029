@@ -68,60 +68,6 @@ These requirements apply to the exercises (E01-E12) only. The paper prep assignm
 - Don't quote or cite sources unless specifically requested
 - Don't do outside research
 
-##### :x full-formatting-details
-
-**Required formatting:**
-
-- In [:paragraph settings](#x-paragraph-settings)
-    - Set up double-spacing with left justification only (not justified on both sides)
-    - Indent first line of each paragraph 0.5 inches or 1.25 cm
-    - Remove extra space/blank line between paragraphs (Word usually adds this automatically)
-- [:Insert page numbers](#x-insert-page-numbers) in the page footer
-- Use [:12-point font](#x-12-point-font)
-- In the Layout menu, set 1-inch or 2.5 cm [:margins](#x-margins) on all sides
-- Center paper title at top of first page (no separate title page)
-- Format citations and reference list in APA style (see Citations page)
-
-If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search)
-
-There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, so I can't help formatting from affecting how I view a paper. It irks me to see incorrect formatting, even though I realize that it's not the most important thing, so your formatting determines my mood when I start reading your paper.
-
-##### :x late-assignment-fine-print
-
-"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each additional 24-hour day"
-
-##### :x show-comments
-
-![show comments](/images/show-comments.jpg)
-
-##### :x paragraph-settings
-
-In Imperial:
-
-![paragraph settings in imperial](/images/formatting-settings-imperial.jpg)
-
-In Metric:
-
-![paragraph settings in metric](/images/formatting-settings-metric.jpg)
-
-##### :x insert-page-numbers
-
-![insert page numbers](/images/insert-page-numbers.jpg)
-
-##### :x 12-point-font
-
-![font size](/images/font-size.jpg)
-
-##### :x margins
-
-![margins](/images/margins.jpg)
-
-##### :x use-word-function-search
-
-![use Word function search](/images/use-word-function-search.jpg)
-
----
-
 ## FAQs
 
 ### What if I have technical problems during submission?
@@ -171,6 +117,60 @@ Your file sizes should now be back to normal.
 #### What's the paper template?
 
 The paper template is a pre-formatted Word document that has all the correct formatting already set up for you - double-spacing, margins, indentation, font, and heading styles. Just download it, save it with a new name for your assignment, and start typing. The template handles first-line indentation, proper spacing between paragraphs, correct font and size, and title and reference list formatting. Download it from the link above and use it for all your papers.
+
+##### :x late-assignment-fine-print
+
+"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each additional 24-hour day"
+
+##### :x show-comments
+
+![show comments](/images/show-comments.jpg)
+
+##### :x full-formatting-details
+
+**Required formatting:**
+
+- In [:paragraph settings](#x-paragraph-settings)
+	- Set up double-spacing with left justification only (not justified on both sides)
+	- Indent first line of each paragraph 0.5 inches or 1.25 cm
+	- Remove extra space/blank line between paragraphs (Word usually adds this automatically)
+- [:Insert page numbers](#x-insert-page-numbers) in the page footer
+- Use [:12-point font](#x-12-point-font)
+- In the Layout menu, set 1-inch or 2.5 cm [:margins](#x-margins) on all sides
+- Center paper title at top of first page (no separate title page)
+- Format citations and reference list in APA style (see Citations page)
+
+If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search)
+
+There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in academic publishing, so I can't help formatting from affecting how I view a paper. It irks me to see incorrect formatting, even though I realize that it's not the most important thing, so your formatting determines my mood when I start reading your paper.
+
+##### :x paragraph-settings
+
+In Imperial:
+
+![paragraph settings in imperial](/images/formatting-settings-imperial.jpg)
+
+In Metric:
+
+![paragraph settings in metric](/images/formatting-settings-metric.jpg)
+
+##### :x insert-page-numbers
+
+![insert page numbers](/images/insert-page-numbers.jpg)
+
+##### :x 12-point-font
+
+![font size](/images/font-size.jpg)
+
+##### :x margins
+
+![margins](/images/margins.jpg)
+
+##### :x use-word-function-search
+
+![use Word function search](/images/use-word-function-search.jpg)
+
+---
 
 ##### :x why-do-i-need-to-remove-comments
 

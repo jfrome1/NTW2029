@@ -7,6 +7,7 @@ sidebar:
     text: Draft
     variant: caution
 ---
+
 writing concisely
 	concision is not about moving through your reasoning quickly, skipping steps in your explanation, or eliminating nuance
 	concision is about avoiding these errors:
@@ -26,7 +27,6 @@ writing concisely
 				> I concede that it may seem that way; however, a problem I have with it is that...
 				> I contend that his lack of specific scientific evidence threatens the cogency of his stand.
 				> Additionally, we need to understand why Boyd argues that...
-
 
 	Reader-Centered Benefits
 Increased Clarity: Concise writing makes complex ideas easier to understand. When unnecessary words are eliminated, main points stand out more clearly, helping readers grasp arguments more quickly and accurately.
@@ -55,7 +55,6 @@ You're more likely to stay within assigned word limits
 You demonstrate mastery of academic communication standards
 
 Enhanced Revision Skills: Learning to write concisely develops editing skills that transfer to all forms of communication, teaching you to recognize patterns of wordiness and make deliberate language choices.
-
 
 student e.g.s
 

@@ -9,7 +9,7 @@ sidebar:
 ---
 
 - natural and sexual selection explain why species have traits that increase their chances of reproduction, but they could not explain one type of behavioral trait: biological altruism
-		- in ordinary language, "altruism" means helping others at some cost to yourself (even if the cost is just your time or attention)
+	- in ordinary language, "altruism" means helping others at some cost to yourself (even if the cost is just your time or attention)
 	- we think of altruism as something motivated by morality, a positive human nature, or a good upbringing
 	- in evolution, "altruism" means increasing another organism's reproductive fitness (i.e., their likelihood of passing on their genes) at a cost to your own
 	- [Altruism](https://www.youtube.com/watch?v=jKtOXvA14X4) (3 min)

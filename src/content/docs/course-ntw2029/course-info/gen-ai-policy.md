@@ -9,8 +9,8 @@ GenAI is a tool we'll all be using more and more, so this course lets you explor
 You may use GenAI chatbots for any coursework with no grade penalty if you follow these requirements:
 
 - For each submitted assignment:
-    - If you use GenAI, submit links to all relevant chat transcripts
-    - If you don't use GenAI, submit the statement "I did not use GenAI in any way for this assignment"
+	- If you use GenAI, submit links to all relevant chat transcripts
+	- If you don't use GenAI, submit the statement "I did not use GenAI in any way for this assignment"
 - Submit links/non-use statements at the top of the assignment, above the title
 - Copy links using the share function, not browser URLs
 - Use only text-based chatbot interactions (prompts and responses)

@@ -8,7 +8,6 @@ sidebar:
     variant: caution
 ---
 
-
 Avoid using conversational comparison phrases such as "similar to how…" or "like when…." These expressions feel natural in speech and their meaning is understandable, but they sound informal in academic writing and require extra mental work from the reader.
 
 Why do they require more mental work?

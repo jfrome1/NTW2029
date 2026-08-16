@@ -60,10 +60,12 @@ Its closing marker is on the third line.
 
 - A top-level bullet with a hyphen marker.
 - A second top-level bullet.
-  - A bullet indented two spaces.
-    - A bullet indented four spaces.
+	- A bullet indented two spaces.
+		- A bullet indented four spaces.
 - A bullet whose continuation line follows it.
+
   This continuation line is indented two spaces and is not itself a bullet.
+
 * A top-level bullet written with an asterisk marker, which exercises the parser's `[-*]` alternative. It survives only because this file's name carries the `-nolint` token, which stops the markdownlint hook rewriting `*` to `-`.
 
 A paragraph that introduces a list:
@@ -130,8 +132,8 @@ A paragraph whose second line
 sits on its own line in the source and must keep that break.
 
 - A bullet inside the nutshell explanation.
-  - A bullet indented two spaces inside the nutshell explanation.
-    - A bullet indented four spaces inside the nutshell explanation.
+	- A bullet indented two spaces inside the nutshell explanation.
+		- A bullet indented four spaces inside the nutshell explanation.
 
 **A bold lead-in inside the nutshell**, whose second line
 continues on the next line and belongs to the same paragraph.

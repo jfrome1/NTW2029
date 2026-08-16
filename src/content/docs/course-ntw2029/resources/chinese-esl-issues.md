@@ -2,11 +2,9 @@
 title: Common issues for native Chinese speakers
 ---
 
-There are several grammar issues commonly faced by native Chinese speakers when writing English (although native English speakers make these mistakes also!). I recommend that you read this useful handout about [Common English mistakes made by native Chinese speakers](/downloads/chinese-english-mistakes.pdf)
+There are several grammar issues commonly faced by students whose main household language was not English (although native English speakers make these mistakes also!).
 
 If you have questions about any of these issues, please ask and I'll help you.
-
-Additional resources:
 
 ## Articles
 
@@ -20,8 +18,6 @@ See [here](/course-ntw2029/resources/grammar/#subject-verb-agreement)
 
 - for verb tenses in general, see [Introduction to Verb Tenses - Purdue OWL®](https://owl.purdue.edu/owl/general_writing/grammar/verb_tenses/index.html)
 - for verb tenses in writing about what sources do (e.g. says, writes, argues), see [here](/course-ntw2029/resources/grammar/#verb-tenses)
-
-
 
 ## Plurals:
 

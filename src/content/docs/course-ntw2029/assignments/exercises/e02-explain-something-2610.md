@@ -13,11 +13,13 @@ This assignment relates to the latter idea and will give you practice thinking a
 
 ## Overview
 
-Write a 300-word explanation of how to do something, predict where readers might struggle, and collect actual reader feedback. Your submission will have three parts: the explanation itself, your predictions about confusion points, and a friend's actual feedback about unclear sections.
+Write a 300-word explanation of how to do something, predict where readers might struggle, and collect actual reader feedback. Your submission will have four parts: the explanation itself, your predictions about confusion points, a reader's actual feedback about unclear sections, and your assessment of your predictions.
 
 ## Instructions
 
-This assignment has three required parts that you'll submit together:
+Remember to follow guidance for writing your assignments with Process Feedback.
+
+This assignment has several required parts that you'll submit together:
 
 ### Part 1: The Explanation (300 words or less)
 
@@ -39,13 +41,38 @@ Format this as:
 
 ### Part 3: Actual Reader Feedback
 
-Show your explanation to a friend (an actual, living person, not a chatbot) who is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Then, ask them to identify 1-3 specific places where they might be confused about what to do or how to do it.
+Find someone near your physical location that's willing to help you for a few minutes. This step MUST be done live, in person, where you are able to see your reader's movement and facial expressions. You cannot get the same type of feedback remotely or through messaging.
 
-Report their feedback exactly as given. Format this like the above, using direct quotes and reporting your friend's feedback.
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Check that your reader is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Tell them that their job is _NOT_ to provide peer review (checking grammar, wording, writing), but to give feedback as a reader that actually wants to do what you're explaining.
+    </p>
+  </body>
+</html>
 
-Note: Your friend must identify at least one point of confusion but doesn't need to find three if they think the explanation is really clear.
+Then, ask them to identify 2-3 specific places where they aren't confident that they could perform the step described (either because they don't understand what's being asked or aren't sure they could actually do that step correctly).
+
+Report their feedback exactly as given. Format this like the above, using direct quotes and reporting your reader's feedback.
+
+### Part 4: Your Assessment
+
+Give a brief assessment of how your predictions matched or didn't match the reader feedback.
 
 ## Guidelines
+
+### Academic Writing Basics
+
+A few rules to follow for all academic writing in this class:
+
+- Don't use bold or italics for emphasis (with a few exceptions, check with me if you're tempted)
+- Don't use emojis, arrows, bullet points, or exclamation points
+- Use full sentences, a classroom tone, and simple sentences and wording.
+
+Although I don't follow these rules on my website or lecture notes, I do follow them in my academic writing.
 
 ### Choosing Your Topic
 
@@ -58,25 +85,29 @@ Pick something based on your own knowledge and skills and of an appropriately na
 
 Pick something that you know how to do but that most people in this class won't know how to do. It should be something that you took lessons for, or had to be explicitly taught, or had to teach yourself using a tutorial or instruction manual. Due to the word limit, pick something small within your larger area of expertise. For example, "how to dance" is too broad, but "how to do the dance move called 'flossing'" might work.
 
+### Writing Your Explanation
+
+Although this is just an early exercise, don't write a first draft and immediately hand it to your reader. Go through at least a few re-readings and reflect on whether a reader would understand the steps. Make revisions to clarify the explanation.
+
 ### Red Flag Phrases to Avoid
 
 Watch for these phrases in your writing - they often signal you're assuming too much reader knowledge:
 
 - Directional terms without clear reference points ("the right side," "turn it over", "cut in half")
-- Technical terms without definitions
-- References to judgements ("until it's done", "don't wait too long")d
+- Technical terms without definitions ("foil paper," "cook until al dente," "just ahead of the downbeat")
+- References to judgements ("until it's done", "don't wait too long")
 
 ### Think of Your Reader
 
 Make sure that you think of your reader while writing your explanation. What would an average NUSC first-year student know about your topic already? What terms or concepts would they need explained?
 
-After reading your explanation, your reader should be able to do the thing you explain (even if at a beginner level). It's not enough if they just know the steps involved in the task but can't actually perform those steps. For difficult actions, don't just say what to do, but explain how to do it.
+After reading your explanation, your reader should be able to _actually do the thing you explain_ (even if at a beginner level). It's not enough if they just know the steps involved in the task or if they think the steps are explained clearly. They should actually be able to perform those steps. For difficult actions, don't just say what to do, but explain how to do it.
 
 It's best not to pick something that is easy to describe but hard to do, like playing an instrument. You can explain, "to play piano, hit the keys in the right order with the right timing and rhythm", but that doesn't actually help your reader.
 
 ## Feedback
 
-For this assignment, I'll provide brief feedback and see if my view matches your friend's view.
+For this assignment, I'll provide brief feedback and see if my view matches your reader's view. I'm going to be evaluating whether a person could actually do the thing you're describing correctly based on your explanation.
 
 ## GenAI Submission Requirement
 

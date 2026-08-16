@@ -28,5 +28,7 @@ sidebar:
 		- how to actually contribute to an ongoing academic conversation
 
 Online resources
+
 - [Why Academics’ Writing Stinks - The Chronicle of Higher Education](file:///C:/Users/nemo-/Zotero/storage/472LSSFN/pinkerWhyAcademicsStink2014.html)
+
 -

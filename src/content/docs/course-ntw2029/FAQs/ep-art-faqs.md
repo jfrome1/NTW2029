@@ -6,6 +6,7 @@ sidebar:
     text: Draft
     variant: caution
 ---
+
 ## Understanding Evolution and EP
 
 ### What's the difference between adaptation and evolution?

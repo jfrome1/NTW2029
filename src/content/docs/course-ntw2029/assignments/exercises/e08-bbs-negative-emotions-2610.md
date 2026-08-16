@@ -45,8 +45,8 @@ Include a GenAI link/non-use statement (required) but not a word count.
 
 - Aim to understand the big picture, not the details. What is the basic idea of the DEM?
 - Skip (for now):
-    - Author biographies on page 2
-    - Detailed research studies and examples
+	- Author biographies on page 2
+	- Detailed research studies and examples
 
 ## Feedback
 
