@@ -97,7 +97,7 @@ For theoretical disagreements, analysis might identify explicit differences (the
 
 For empirical disagreements, analysis might identify explicit differences (they interpret the same data differently, they apply different standards for what counts as evidence) or explain what drives those differences (different views of burden of proof, different methodological commitments that produce different interpretations).
 
-Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities—what matters is accurately explaining the disagreement you discovered.
+Your analysis determines which aspects matter for your case. Not all papers need to address all these possibilities: what matters is accurately explaining the disagreement you discovered.
 
 ##### :x developing your significance discussion
 
@@ -105,7 +105,7 @@ Earlier, you considered how significant this criticism is for the target's argum
 
 **The connection between thesis and significance:**
 
-Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals—what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
+Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals: what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
 
 [:Example showing different levels of thesis and significance](#x-example-showing-different-levels-of-thesis-and-significance)
 
@@ -130,12 +130,12 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 
 - Thesis: "They disagree about photography's status as art because they rely on different definitions of art. The target defines on art by aesthetic response while the commentary defines it as an act of creative intention."
 - Significance: "Understanding this definitional disagreement reveals that resolving the debate requires prior agreement on whether art is defined by production or reception, not more analysis of photography's features."
-- Why this works: The thesis identifies the explicit difference that drives disagreement. The significance explains what this reveals about these authors' frameworks—an article-level observation that's accurate and meaningful but doesn't extend to field-level claims.
+- Why this works: The thesis identifies the explicit difference that drives disagreement. The significance explains what this reveals about these authors' frameworks, an article-level observation that's accurate and meaningful but doesn't extend to field-level claims.
 
 **Strong thesis and significance:**
 
-- Thesis: "The commentary characterizes the target as claiming photographers 'create' images, but the target's actual claim is that photographers 'select and frame' existing visual arrangements. This disconnect reveals that the ordinary concept of 'artistic creation' conflates two distinct activities—generating new configurations versus recognizing and isolating existing ones."
-- Significance: "Understanding this conceptual ambiguity reveals why debates about photography's artistic status persist despite extensive discussion—the term 'creation' carries unexamined assumptions about what artistic activity involves. This pattern extends to other selection-based practices (found art, readymades, curatorial work), suggesting that progress on this topic requires more specification of the ordinary-language concept of "creating art."
+- Thesis: "The commentary characterizes the target as claiming photographers 'create' images, but the target's actual claim is that photographers 'select and frame' existing visual arrangements. This disconnect reveals that the ordinary concept of 'artistic creation' conflates two distinct activities: generating new configurations versus recognizing and isolating existing ones."
+- Significance: "Understanding this conceptual ambiguity reveals why debates about photography's artistic status persist despite extensive discussion: the term 'creation' carries unexamined assumptions about what artistic activity involves. This pattern extends to other selection-based practices (found art, readymades, curatorial work), suggesting that progress on this topic requires more specification of the ordinary-language concept of "creating art."
 - Why this works: The thesis reveals a conceptual ambiguity that neither author acknowledges but which drives the entire disagreement. The significance extends beyond the particular dispute between the target and commentary articles because it exposes a conceptual problem in the academic conversation as a whole.
 
 ##### :x using additional sources appropriately
@@ -162,7 +162,7 @@ Earlier assignments developed your analytical understanding through verification
 	- Your working thesis should evolve as you continue your analysis.
 	- Some theses will become more refined and detailed; others might significantly shift focus from explicit disagreement to underlying causes. Different paths are appropriate depending on what your analysis reveals.
 - Explanation of both positions
-	- A very brief version of your explanation will go in your introduction above your thesis--just enough to set context and make your thesis understandable. The essay body will contain a more detailed version.
+	- A very brief version of your explanation will go in your introduction above your thesis, just enough to set context and make your thesis understandable. The essay body will contain a more detailed version.
 - Accuracy of characterization
 	- Your thesis should state what your verification revealed (genuine disagreement, mischaracterization, terminological confusion, etc.)
 	- If the verification was straightforward (i.e. target and commentary's claims were both clear and accurate), your explanation will include the verified claims.
@@ -174,13 +174,13 @@ Earlier assignments developed your analytical understanding through verification
 
 ##### :x how to create and use your outline
 
-Create your outline by extracting your thesis, topic sentences, and a significance statement from your draft. Start with your thesis statement (not numbered). Then list your body paragraph topic sentences in a flat numbered list in order of appearance -- no section headers, no sub-numbering. At the end, add a significance statement: 1-2 sentences from your conclusion that capture why your argument matters beyond the specific disagreement you analyzed. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
+Create your outline by extracting your thesis, topic sentences, and a significance statement from your draft. Start with your thesis statement (not numbered). Then list your body paragraph topic sentences in a flat numbered list in order of appearance (no section headers, no sub-numbering). At the end, add a significance statement: 1-2 sentences from your conclusion that capture why your argument matters beyond the specific disagreement you analyzed. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
 Here is an [example outline](/downloads/p08-outline-example.pdf) from a past student's Paper 2, so you can see what the format looks like. (It's from a different paper assignment, so don't try to match the outline content.)
 
-If your first sentence doesn't capture the main idea of the paragraph, that's useful information -- it means your topic sentence probably needs revision. For the outline, reword the sentence so it captures what the paragraph is actually about. The outline should represent the point of each paragraph, not just announce what it will discuss.
+If your first sentence doesn't capture the main idea of the paragraph, that's useful information: it means your topic sentence probably needs revision. For the outline, reword the sentence so it captures what the paragraph is actually about. The outline should represent the point of each paragraph, not just announce what it will discuss.
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 

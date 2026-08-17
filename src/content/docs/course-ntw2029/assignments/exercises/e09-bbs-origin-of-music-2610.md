@@ -41,7 +41,7 @@ Copy and paste the following questions into a document and type answers below ea
 
 4. Mehr challenges byproduct: Mehr presents six arguments against the byproduct hypothesis (section 3.1). Choose the TWO arguments you find most persuasive. For each, briefly explain: (a) what the argument claims, and (b) why you find it persuasive or what makes it strong.
 
-5. Mehr challenges social bonding: Explain Mehr's free-rider critique in section 3.2.2 (see guidelines below for help). According to Mehr, how do thees explanations confuse proximate with ultimate causes? What is their point about free-riders and how does it challenge the social bonding hypothesis?
+5. Mehr challenges social bonding: Explain Mehr's free-rider critique in section 3.2.2 (see guidelines below for help). According to Mehr, how do these explanations confuse proximate with ultimate causes? What is their point about free-riders and how does it challenge the social bonding hypothesis?
 
 6. Evaluating efficiency: In section 3.2.3, Mehr argues music is "poorly designed" for group coordination compared to language. Explain his reasoning using the coxswain example. Do you find this argument persuasive? Why or why not?
 
@@ -53,7 +53,7 @@ Include a GenAI link/non-use statement (required) but not a word count.
 
 - Focus on understanding how the arguments fit into the academic conversation
 - For question 5, recall Boyd's discussion of cooperation and free-riders. Also, note that proximate explanations of a trait describe how a trait works biologically (i.e., what is the mechanism causing the stimuli to produce the effect) while ultimate explanations describe why a trait evolved (i.e., what adaptive problem it solved)
-- For question 6, think about whether cost always equals poor design—are there benefits to costly signals?
+- For question 6, think about whether cost always equals poor design: are there benefits to costly signals?
 
 ## Feedback
 

@@ -58,15 +58,15 @@ Your revisions will likely focus on:
 
 Papers are assessed holistically based on the following elements:
 
-**Understanding** - How accurate is the explanation of the target and commentary articles?
+**Understanding**: How accurate is the explanation of the target and commentary articles?
 
-**Analysis** - How well-reasoned and well-supported (with quotations and other evidence) is the discussion of what drives the disagreement (e.g. assumptions, definitions, methodological commitments)?
+**Analysis**: How well-reasoned and well-supported (with quotations and other evidence) is the discussion of what drives the disagreement (e.g. assumptions, definitions, methodological commitments)?
 
-**Significance** - How well does your discussion reveal why understanding this disagreement matters?
+**Significance**: How well does your discussion reveal why understanding this disagreement matters?
 
-**Clarity** - How much mental effort would it take your target audience to read and understand your paper?
+**Clarity**: How much mental effort would it take your target audience to read and understand your paper?
 
-**Polish** - How well does your paper meet standards of academic writing and citation?
+**Polish**: How well does your paper meet standards of academic writing and citation?
 
 ## Guidelines
 
@@ -76,7 +76,7 @@ Your thesis should emerge from your analysis, not motivate it. You've spent P04-
 
 ### Your Contribution
 
-Your paper should feel like a genuine contribution to understanding this criticism. You're not just reporting what authors say—you're analyzing what drives their disagreement and revealing why that matters.
+Your paper should feel like a genuine contribution to understanding this criticism. You're not just reporting what authors say; you're analyzing what drives their disagreement and revealing why that matters.
 
 ### Understanding Performance Expectations
 
@@ -84,21 +84,21 @@ Your paper is assessed on how well you explain both positions, analyze what driv
 
 **Build your foundation first.** Establishing what positions actually claim prepares you to analyze what drives their differences. Understanding what drives differences prepares you to examine consequences. Jumping to implications before establishing what drives disagreement typically produces weak analysis.
 
-**Accurate understanding** of both positions is the foundation. You need to explain what each position claims, using specific textual evidence. If you struggle to explain what the target and commentary actually say—in your own words, with evidence—focus on comprehension before attempting to analyze their disagreement.
+**Accurate understanding** of both positions is the foundation. You need to explain what each position claims, using specific textual evidence. If you struggle to explain what the target and commentary actually say (in your own words, with evidence), focus on comprehension before attempting to analyze their disagreement.
 
 **Analytical depth** comes from answering the question: what drives this disagreement?
 
-Foundational analysis identifies where they explicitly disagree—you show that the disagreement exists and explain what each side claims.
+Foundational analysis identifies where they explicitly disagree: you show that the disagreement exists and explain what each side claims.
 
-Strong analysis examines what drives the disagreement. You might identify underlying assumptions each position relies on, show how different definitions lead to different conclusions, or reveal how methodological commitments constrain what each position can claim. This level analyzes patterns in the disagreement—what structural factors produce different conclusions, whether positions are genuinely incompatible or addressing different questions.
+Strong analysis examines what drives the disagreement. You might identify underlying assumptions each position relies on, show how different definitions lead to different conclusions, or reveal how methodological commitments constrain what each position can claim. This level analyzes patterns in the disagreement: what structural factors produce different conclusions, whether positions are genuinely incompatible or addressing different questions.
 
 Sophisticated analysis moves beyond identifying what drives disagreement to examining its implications. You might analyze what would resolve the disagreement, what theoretical goals make different approaches useful, what's gained and lost with each framework, or why methodological differences matter for the field.
 
-**Significance discussion** should reveal why understanding this disagreement matters—what's at stake, what becomes possible or impossible depending on how it's resolved, or what your analysis shows about different approaches to the phenomenon.
+**Significance discussion** should reveal why understanding this disagreement matters: what's at stake, what becomes possible or impossible depending on how it's resolved, or what your analysis shows about different approaches to the phenomenon.
 
 **Clear writing** means each paragraph conveys one main idea, sentences flow logically, evidence supports claims, and the overall argument develops coherently.
 
-**Polish** means meeting standards of academic writing and citation—accurate quotations, proper citations, consistency in key terms, and attention to sentence-level clarity. Finish your main writing in time to review your draft for:
+**Polish** means meeting standards of academic writing and citation: accurate quotations, proper citations, consistency in key terms, and attention to sentence-level clarity. Finish your main writing in time to review your draft for:
 
 - Smooth transitions between ideas
 - Accurate quotations with proper citations

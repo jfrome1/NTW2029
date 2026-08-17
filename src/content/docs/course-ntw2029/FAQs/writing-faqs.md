@@ -11,7 +11,7 @@ sidebar:
 
 ### What makes a good topic sentence?
 
-A topic sentence should fully capture the one main idea of the paragraph. A reader who reads only the first sentence of each paragraph should be able to follow your paper's entire argument. Details on the [Topic Sentences page](/course-ntw2029/resources/writing/topic-sentences).
+A topic sentence should fully capture the one main idea of the paragraph. A reader who reads only the first sentence of each paragraph should be able to follow your paper's entire argument. Details on the [Topic Sentences page](/course-ntw2029/resources/topic-sentences).
 
 ### Where should topic sentences go?
 
@@ -19,13 +19,13 @@ Topic sentences should be at the beginning of each body paragraph unless you hav
 
 ### How do I connect paragraphs smoothly?
 
-Topic sentences are usually combined with transitions. They might begin with a transition word or phrase linking the previous paragraph to the current paragraph. Always move from old to new information - recap the previous idea briefly, then introduce the new one.
+Topic sentences are usually combined with transitions. They might begin with a transition word or phrase linking the previous paragraph to the current paragraph. Always move from old to new information: recap the previous idea briefly, then introduce the new one.
 
 ## Analysis vs. Summary
 
 ### What's the difference between analyzing and summarizing?
 
-Analyzing means seeing how the parts of an argument contribute to the claim - identifying implicit and explicit reasons, evidence, and assumptions. It means noting gaps or problems in the connections. Summary just reports what the source says. See [Analyzing Arguments](/course-ntw2029/resources/writing/analyzing-arguments) for details.
+Analyzing means seeing how the parts of an argument contribute to the claim: identifying implicit and explicit reasons, evidence, and assumptions. It means noting gaps or problems in the connections. Summary just reports what the source says. See [Analyzing Arguments](/course-ntw2029/resources/writing/analyzing-arguments) for details.
 
 ### What questions should I ask when analyzing?
 
@@ -57,21 +57,21 @@ Introductions are essential for helping your reader understand your paper. Witho
 
 ### When should I quote vs. paraphrase?
 
-Quote only when the exact wording matters or the phrasing is particularly elegant. Most of your paper should be paraphrasing with citations. See examples of good balance in class and on the [Citations page](/course-ntw2029/resources/writing/citations).
+Quote only when the exact wording matters or the phrasing is particularly elegant. Most of your paper should be paraphrasing with citations. See examples of good balance in class and on the [Citations page](/course-ntw2029/resources/citations).
 
 ### How do I frame quotes properly?
 
-Use three-part framing for quotes longer than a short phrase: introduce the quote, present it, then interpret or explain it. Don't let quotes speak for themselves - always explain how they support your point.
+Use three-part framing for quotes longer than a short phrase: introduce the quote, present it, then interpret or explain it. Don't let quotes speak for themselves; always explain how they support your point.
 
 ### Do I need to cite paraphrases?
 
-Yes! Citation is required whether you use exact words (quotation) or state ideas in your own words (paraphrase/summary). It doesn't matter where you got the ideas - you must cite them.
+Yes! Citation is required whether you use exact words (quotation) or state ideas in your own words (paraphrase/summary). It doesn't matter where you got the ideas: you must cite them.
 
 ## Academic Writing Basics
 
 ### What's "academic writing as conversation"?
 
-Academic writing means joining an ongoing scholarly discussion. You're not just presenting information - you're responding to what others have said and adding your own ideas. Details on the [Academic Conversations page](/course-ntw2029/resources/writing/academic-conversations).
+Academic writing means joining an ongoing scholarly discussion. You're not just presenting information; you're responding to what others have said and adding your own ideas. Details on the [Academic Conversations page](/course-ntw2029/resources/writing/academic-conversations).
 
 ### How formal should my writing be?
 
@@ -79,13 +79,13 @@ Use formal academic style but prioritize clarity. Choose simple, clear language 
 
 ### What are common ESL issues I should watch for?
 
-Common issues include article usage (a/an/the), subject-verb agreement, and unclear referents. The [Chinese ESL Issues page](/course-ntw2029/resources/writing/chinese-esl-issues) and [Unclear Referent page](/course-ntw2029/resources/writing/unclear-referent) have specific guidance.
+Common issues include article usage (a/an/the), subject-verb agreement, and unclear referents. The [Chinese ESL Issues page](/course-ntw2029/resources/chinese-esl-issues) and [Unclear Referent page](/course-ntw2029/resources/unclear-referent) have specific guidance.
 
 ## Paper Development
 
 ### How do I develop a strong thesis?
 
-Your thesis should be contestable - someone could disagree with it. Avoid descriptive statements like "I will explicate X." Make a specific claim that you'll defend with evidence and reasoning.
+Your thesis should be contestable: someone could disagree with it. Avoid descriptive statements like "I will explicate X." Make a specific claim that you'll defend with evidence and reasoning.
 
 ### How do I know if my argument is strong enough?
 

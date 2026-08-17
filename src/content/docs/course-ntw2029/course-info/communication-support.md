@@ -21,7 +21,7 @@ Please use the website search box!
 
 - **Telegram DM**: Use for quick, informal questions
 - **Email**: Use for extensions, grades, or special arrangements [:why email?](#x-why-email)
-- **Informal meetings**: Request for writing feedback or course issues—via Telegram, email, or in person
+- **Informal meetings**: Request for writing feedback or course issues (via Telegram, email, or in person)
 
 ---
 
@@ -36,8 +36,8 @@ Please use the website search box!
 ## Email Expectations
 
 - Always include "NTW2029" in subject line so I can find your email
-- I respond within one business day (usually not on weekends—plan ahead since deadlines are usually Sunday)
-- If I don't respond, send a reminder (it's not rude—I give you permission because I can lose track of my MANY emails)
+- I respond within one business day (usually not on weekends; plan ahead since deadlines are usually Sunday)
+- If I don't respond, send a reminder (it's not rude; I give you permission because I can lose track of my MANY emails)
 
 ### Email Etiquette
 
@@ -72,7 +72,7 @@ The earlier you reach out, the more options we have to help.
 
 - [NUSC Pastoral Care](https://tinyurl.com/nuscpastoralcare)
 
-## FAQs
+## Frequently Asked Questions
 
 ### You didn't answer my email, what do I do?
 

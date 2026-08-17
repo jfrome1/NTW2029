@@ -4,7 +4,7 @@ title: E12 - Workload report
 
 ## Assignment
 
-Track and report the time you spend on NTW2029 coursework. [:Why do I want students to log time?](#x-why-log-time)
+Track and report the time you spend on NTW2029 coursework. [:Why do I want students to log time?](#x-why-do-i-want-students-to-log-time)
 >
 Estimates are fine if you don't know exact times.
 
@@ -20,6 +20,6 @@ No GenAI link or word count needed on this exercise.
 - Submit monthly as indicated on the course website schedule
 - Submit as `.docx` format only
 
-##### :x why log time
+##### :x why do i want students to log time
 
 Instructors are told that this course should require an average of 10 hours of work per week, and I want to verify whether I'm meeting this guideline. Your reported hours will not affect your grade in any way, including class participation. I'm not tracking individual student time.

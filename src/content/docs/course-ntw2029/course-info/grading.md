@@ -38,19 +38,22 @@ This category includes all exercises, paper prep, and drafts (E01-E12, P01-02, P
 
 ### Grading Individual Submissions
 
-All items in the 15% category are marked complete if you:
+I mark an item complete if you:
 
-- Submit by the deadline (or within the 12-hour extension window)
 - Include at top: Your name, GenAI link/non-use statement, word count
 - Include all required elements for that specific assignment
 
+The mark is about what's in your submission, not when it arrived. Timing is separate, below.
+
 Grading scale:
 
-- **Complete** (1 point): All requirements fully met
-- **Complete on resubmission** (0.5 points): Submitted on time and fixed after feedback (1 week maximum, only 1 resubmission per item)
-- **Incomplete** (0 points): Not submitted on time, or resubmission doesn't fully meet requirements
+- **1 point**: I mark it complete, and you submitted by noon the day after the due date
+- **0.5 points**: I mark it complete, but the version I accept arrives later
+- **0 points**: I never accept a complete version
 
-Don't panic about getting one or two incompletes - each item is a very small part of your final grade.
+You have one week from the day I post marks to submit late work or to fix something I marked incomplete. I'll tell you when marks are up, and you'll see them in Canvas. One resubmission per assignment. P06 and E11 are the exceptions: neither gets the 12-hour extension or a resubmission, because your classmates and I need them on the day they're due.
+
+Don't panic about getting one or two incompletes: each item is a very small part of your final grade.
 
 ### Overall Category Grade
 
@@ -71,19 +74,15 @@ Final paper grading criteria will be discussed in future classes.
 
 Although you are allowed to miss exercises, all paper prep assignments must be submitted on time at minimum acceptable quality to pass the course.
 
-## FAQs
+## Frequently Asked Questions
 
 ### Can I revise and resubmit?
 
-Before the deadline: Yes, as many times as you want. I only grade the most recent version. After the deadline: For exercises and paper prep (15% category), if you submitted on time but received "incomplete," you have one week and one attempt to fix issues and earn 0.5 points. For final papers (P03, P08): No resubmission after the deadline. Use conferences and peer review to improve drafts before submitting finals.
-
-### Why is Canvas showing the wrong grade?
-
-Don't panic about Canvas grades - I track grades separately in my own spreadsheet. Canvas might show confusing numbers that don't reflect your actual grade.
+Before the due date: yes, as many times as you want. I only grade the most recent version. After it: for anything in the 15% category, you have one week from the day I post marks, and one attempt, to fix an incomplete and earn 0.5. For final papers (P03, P08), no resubmission after the deadline; use conferences and peer review to improve your drafts instead.
 
 ### What if I get an incomplete on an exercise?
 
-Don't worry - each exercise is a very small part of your final grade.
+Don't worry: each exercise is a very small part of your final grade.
 
 ### What if I get an incomplete on a paper prep assignment?
 
@@ -93,7 +92,7 @@ If you get an incomplete because you failed to include a key element, just add i
 
 I understand that sometimes things get away from you, and I'm not upset when it happens. All students get an automatic 12-hour extension on every deadline for any reason; no need to request it. Beyond that, I grant additional extensions only for serious documented circumstances (e.g., medical issues). Travel and CCAs are not grounds for additional extensions.
 
-If you're running short on time, it's better to submit something at lower quality by the deadline than to submit late. A complete-but-rough submission earns full credit, and if it's marked incomplete you can still fix it on resubmission for half credit. A late submission earns zero.
+If you're running short on time, it's better to submit something rough by the deadline than to submit late. A complete-but-rough submission earns full credit. A late one earns 0.5, and you have until one week after I post marks to get it in.
 
 Late exercises (E01-E12) are not a big deal. A missed item is a pretty small part of your grade.
 
@@ -117,7 +116,7 @@ Late final papers (P03, P08) are penalized up to one letter grade per day as des
 
 ##### :x why-i-incorporate-srl
 
-Good writing develops through deliberate practice and reflection. It's not enough to just complete assignments - to improve, you need to think about what you're doing to build your skills. Are you just following instructions hoping for a good grade? Or are you thinking about your writing and taking action to improve?
+Good writing develops through deliberate practice and reflection. It's not enough to just complete assignments; to improve, you need to think about what you're doing to build your skills. Are you just following instructions hoping for a good grade? Or are you thinking about your writing and taking action to improve?
 
 When you create an action plan after a conference, or when you use resources to fix a problem I identified in Paper 1 before writing Paper 2, you're demonstrating self-regulated learning. Students who actively engage with feedback and course resources improve their writing the most.
 

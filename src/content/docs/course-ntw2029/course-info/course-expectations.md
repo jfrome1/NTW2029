@@ -9,6 +9,12 @@ sidebar:
 
 ## Technology Requirements
 
+This course uses two websites, Canvas and this website, and they have different purposes
+
+On Canvas, you post to class discussions, submit assignments, see whether your assignments were marked complete or incomplete (with the exception of graded assignments Paper 1-P03 and Paper 2-P08), and receive any written feedback (most of my feedback is recorded).
+
+On this website, I distribute all other course information: assignment instructions, course policies, the schedule, assignments, and any other information you need.
+
 ### In Class
 
 Keep electronic devices out of sight during class (except for disability accommodations). [:Why no electronics?](#x-why-no-electronics) I'll let you know when you can use devices during class activities. I provide printed lecture notes every class so you don't have to worry about missing anything.
@@ -21,8 +27,6 @@ Keep electronic devices out of sight during class (except for disability accommo
 - Include "NTW2029" in every email subject line so it reaches the right folder
 
 NOTE: Check these daily. If you don't, you will miss something.
-
-The Canvas gradebook reports complete/incomplete status for assignments other than Paper 1 (P03) and Paper 2 (P08). [:Why the Canvas final grade is wrong](#x-why-the-canvas-final-grade-is-wrong)
 
 ## Classroom Conduct
 
@@ -70,7 +74,3 @@ The ideas we discuss are genuinely complicated, and devices promise easy answers
 ##### :x why these settings matter
 
 Although I rarely use Announcements, Due Date notifications have saved many students from missing assignments. Discussion notifications let you know when I respond to your post-class discussion posts.
-
-##### :x why the canvas final grade is wrong
-
-The Canvas gradebook tries to calculate your final grade, but I track grades separately in my own spreadsheet. Canvas might show your final grade as 50% when you actually have an A. Ignore it.

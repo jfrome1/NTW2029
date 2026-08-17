@@ -41,18 +41,9 @@ Format this as:
 
 ### Part 3: Actual Reader Feedback
 
-Find someone near your physical location that's willing to help you for a few minutes. This step MUST be done live, in person, where you are able to see your reader's movement and facial expressions. You cannot get the same type of feedback remotely or through messaging.
+Find someone near your physical location who's willing to help you for a few minutes. This step MUST be done live, in person, where you are able to see your reader's movement and facial expressions. You cannot get the same type of feedback remotely or through messaging.
 
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Check that your reader is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Tell them that their job is _NOT_ to provide peer review (checking grammar, wording, writing), but to give feedback as a reader that actually wants to do what you're explaining.
-    </p>
-  </body>
-</html>
+Check that your reader is genuinely unfamiliar with your topic (e.g., don't show a recipe to someone who already knows how to cook). Ask them to read it carefully and to imagine doing it. Tell them that their job is _NOT_ to provide peer review (checking grammar, wording, writing), but to give feedback as a reader that actually wants to do what you're explaining.
 
 Then, ask them to identify 2-3 specific places where they aren't confident that they could perform the step described (either because they don't understand what's being asked or aren't sure they could actually do that step correctly).
 
@@ -91,11 +82,11 @@ Although this is just an early exercise, don't write a first draft and immediate
 
 ### Red Flag Phrases to Avoid
 
-Watch for these phrases in your writing - they often signal you're assuming too much reader knowledge:
+Watch for these phrases in your writing; they often signal you're assuming too much reader knowledge:
 
-- Directional terms without clear reference points ("the right side," "turn it over", "cut in half")
+- Directional terms without clear reference points ("the right side," "turn it over," "cut in half")
 - Technical terms without definitions ("foil paper," "cook until al dente," "just ahead of the downbeat")
-- References to judgements ("until it's done", "don't wait too long")
+- References to judgments ("until it's done," "don't wait too long")
 
 ### Think of Your Reader
 

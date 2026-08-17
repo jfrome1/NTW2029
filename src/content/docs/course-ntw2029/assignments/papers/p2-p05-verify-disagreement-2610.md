@@ -13,7 +13,7 @@ This assignment helps you select a commentary and develop a clear understanding 
 
 ## Overview
 
-Select a commentary article that criticizes your target, then answer questions about the criticism and locate the relevant passages in the target article. This is comprehension work, not analysis—your goal is to understand what each article says. No word count requirement.
+Select a commentary article that criticizes your target, then answer questions about the criticism and locate the relevant passages in the target article. This is comprehension work, not analysis: your goal is to understand what each article says. No word count requirement.
 
 Note: Since you'll discuss each other's topics in detail during peer review, I'd like all students in each section to write about different article pairs. I don't think this will be an issue, and I'm fine if a few students choose the same pair but write about different criticisms.
 
@@ -23,7 +23,7 @@ Copy and paste the questions below into a document and type your answer below ea
 
 ### Part 1: Select Your Commentary
 
-Choose one commentary from the recommended list below (or propose an alternativeFF). Read the full commentary, not just the abstract.
+Choose one commentary from the recommended list below (or propose an alternative). Read the full commentary, not just the abstract.
 
 ### Part 2: Answer These Questions
 
@@ -61,13 +61,13 @@ Quote 2-3 passages from the target article that discuss the topic the commentary
 
 **Question 5: What does the target actually say in these passages?**
 
-For each passage you quoted in Question 4, explain in your own words what the target is claiming. Don't evaluate whether the commentary is right—just explain what the target says.
+For each passage you quoted in Question 4, explain in your own words what the target is claiming. Don't evaluate whether the commentary is right; just explain what the target says.
 
 ---
 
 **Question 6: What reasoning supports the commentary's criticism?**
 
-First, explain in your own words the commentary's argument—what evidence or logic does the commentary use to support its criticism?
+First, explain in your own words the commentary's argument: what evidence or logic does the commentary use to support its criticism?
 
 Then, quote 1-2 key passages (with page numbers) that show the commentary's reasoning.
 

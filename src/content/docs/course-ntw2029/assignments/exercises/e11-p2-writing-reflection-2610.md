@@ -13,7 +13,7 @@ This exercise encourages you to critically reflect on how you approached Paper 2
 
 ## Overview
 
-Answer the following questions about your writing process, from initial reading through final revisions. Submit your responses one day after your Paper 2 final is due. Answers can be as long or short as needeed.
+Answer the following questions about your writing process, from initial reading through final revisions. Submit your responses one day after your Paper 2 final is due. Answers can be as long or short as needed.
 
 ## Requirements
 
@@ -34,7 +34,7 @@ Include a GenAI link/non-use statement at the top of your assignment (required) 
 
 ## Guidelines
 
-- Be honest in your self-assessment—these answers won't affect your paper grade
+- Be honest in your self-assessment: these answers won't affect your paper grade
 - Don't try to present a curated image of yourself as a writer; you'll benefit most from genuine reflection
 - When discussing challenges, be specific about what made them difficult
 - For questions about the assignment sequence (P04-P08), reference specific exercises if relevant

@@ -17,10 +17,10 @@ You will answer questions about Menninghaus et al.'s article on negative emotion
 Read (at least) the following parts of "The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception" (Menninghaus et al., 2017):
 
 - Abstract (in full)
-- Section 1, "Introduction" (in full, be sure to examine  Figure 1 and read its captions)
+- Section 1, "Introduction" (in full, be sure to examine Figure 1 and read its captions)
 - Section 2, "The goals of art, characteristics of negative emotions, and their strong role in artworks" (first paragraph only [starts "Ever since Greek and Latin antiquity..."], ends 2 lines into p. 5)
 - Section 3, "Cognitive mechanisms that keep negative emotions at a psychological distance: The Distancing factor" (two paragraphs of intro only, no subsections)
-- Section 4, "How the arts of selecting, combining, and formally elaborating constituent parts of artworks promote the enjoyment of negative emotions: The Embracing factor"  (two paragraphs of intro, first 2 paragraphs of subsection 4.1)
+- Section 4, "How the arts of selecting, combining, and formally elaborating constituent parts of artworks promote the enjoyment of negative emotions: The Embracing factor" (two paragraphs of intro, first 2 paragraphs of subsection 4.1)
 - One subsection of 4.2 (your choice, see question 2 below)
 
 Also read the commentary article "'Negative emotions' live in stories, not in the hearts of readers who enjoy them" (Konečni, 2017) on pp. 32-33.
@@ -33,7 +33,7 @@ Copy and paste the following questions into a document and type answers below ea
 
 2. Conversation so far (the source's "they say"): How have others attempted to explain this phenomenon? Using the authors' description of existing theories, pick ONE existing theory explaining the paradox of negative emotions from ONE of the following sections 4.2.1 (sadness), 4.2.2 (horror), or 4.2.3 (disgust). What does this theory claim and why do the authors think it's insufficient?
 
-3. What the source is adding: (the source's "I say"): How does the target article claim to add to the conversation? In your own words, explain the two key parts of the Distancing-Embracing Model (or DEM). Focus on explaining these components in general and don't name or discuss all of their subparts. (Optional - identify what the authors claim is the benefit of the DEM over existing theories).
+3. What the source is adding (the source's "I say"): How does the target article claim to add to the conversation? In your own words, explain the two key parts of the Distancing-Embracing Model (or DEM). Focus on explaining these components in general and don't name or discuss all of their subparts. (Optional: identify what the authors claim is the benefit of the DEM over existing theories).
 
 4. Finding disagreement: Explain one of Konečni's criticisms of the target article. Quote a sentence from the commentary that shows the disagreement and explain the quotation in your own words.
 

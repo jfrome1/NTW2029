@@ -1,14 +1,19 @@
 ---
 title: Unclear referents and ambiguous pronouns
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 Try to follow this argument:
 
 _The novel ends with a sense of closure for the reader as good triumphs over evil. This is contrary to what we experience in the real world, where situations often remain unresolved, and morals are often complex and dynamic. This makes it difficult to feel reassured about what will happen in the future. Thus, we enjoy reading detective fiction, Zunshine argues, because it provides a sense of stability in an alternate universe that is difficult to experience in real life._
 
-Was it easy to follow the argument? Or did you pause when parsing the sentences starting with "This"? Readers have to figure out what "this" in the second sentence refers to. Is it the sense of closure? Good triumphing over evil? The entire concept? And the "this" in the third sentence—does it mean the unresolved situations, the complex and dynamic morals, or something else entirely?
+Was it easy to follow the argument? Or did you pause when parsing the sentences starting with "This"? Readers have to figure out what "this" in the second sentence refers to. Is it the sense of closure? Good triumphing over evil? The entire concept? And the "this" in the third sentence: does it mean the unresolved situations, the complex and dynamic morals, or something else entirely?
 
-Student authors know what they mean when they write "this is" or "it means", but readers are confused when it's not clear what those pronouns are referring to. [:See how clarifying the referents makes writing clearer](#x-See-how-clarifying-the-referents-makes-writing-clearer)
+Student authors know what they mean when they write "this is" or "it means", but readers are confused when it's not clear what those pronouns are referring to. [:See how clarifying the referents makes writing clearer](#x-see-how-clarifying-the-referents-makes-writing-clearer)
 
 ## Unclear referents
 

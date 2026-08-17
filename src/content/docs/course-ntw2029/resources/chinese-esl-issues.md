@@ -1,5 +1,10 @@
 ---
 title: Common issues for native Chinese speakers
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 There are several grammar issues commonly faced by students whose main household language was not English (although native English speakers make these mistakes also!).
@@ -10,15 +15,15 @@ If you have questions about any of these issues, please ask and I'll help you.
 
 [How to Use Articles (a/an/the) - Purdue OWL®](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html)
 
-## Subject/verb agreement:
+## Subject/verb agreement
 
 See [here](/course-ntw2029/resources/grammar/#subject-verb-agreement)
 
-## Verb tense:
+## Verb tense
 
 - for verb tenses in general, see [Introduction to Verb Tenses - Purdue OWL®](https://owl.purdue.edu/owl/general_writing/grammar/verb_tenses/index.html)
 - for verb tenses in writing about what sources do (e.g. says, writes, argues), see [here](/course-ntw2029/resources/grammar/#verb-tenses)
 
-## Plurals:
+## Plurals
 
-Problems with plurals in this class usually involve whether to treat abstractions as plurals, but all of the resources I found for avoiding mistakes with English plurals were about basic nouns like "chair/chairs". If you know of any better resources, please send them to me
+Problems with plurals in this class usually involve whether to treat abstractions as plurals, but all of the resources I found for avoiding mistakes with English plurals were about basic nouns like "chair/chairs". If you know of any better resources, please send them to me.

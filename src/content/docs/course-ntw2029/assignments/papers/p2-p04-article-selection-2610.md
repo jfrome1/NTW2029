@@ -9,7 +9,7 @@ sidebar:
 
 ## Purpose
 
-This assignment develops your ability to understand and articulate a scholarly argument before encountering criticism of it. By explaining the target's argument in your own words, you'll identify what you understand clearly and where ambiguities remain—essential groundwork for evaluating criticisms in P05.
+This assignment develops your ability to understand and articulate a scholarly argument before encountering criticism of it. By explaining the target's argument in your own words, you'll identify what you understand clearly and where ambiguities remain, essential groundwork for evaluating criticisms in P05.
 
 ## Overview
 
@@ -64,11 +64,11 @@ Your own-words explanations should demonstrate understanding, not just reword th
 This weak example uses the article's language ("evolved predisposition," "adaptive," "ancestral environment") without explaining the underlying logic. You don't really need to understand the article's argument to produce this example.
 
 **Example of strong explanation (demonstrating understanding):**
-> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes. This trait, they argue, evolved because our ancestors who feared snakes were less likely to be bitten and thus more likely to survive and have children. The fear was thus fitness-enhancing, and their children, who inherited their fear, were more likely to reproduce, and the fear because a universal human trait. Thus, viewers who see snakes in the film fear them almost as a reflex."
+> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes. This trait, they argue, evolved because our ancestors who feared snakes were less likely to be bitten and thus more likely to survive and have children. The fear was thus fitness-enhancing, and their children, who inherited their fear, were more likely to reproduce, and the fear became a universal human trait. Thus, viewers who see snakes in the film fear them almost as a reflex."
 
 This strong example names the phenomenon (film is scary), the mechanism that explains the phenomenon (fear of snakes), and how this mechanism causes the phenomenon.
 
-If you find yourself unable to explain something in your own words, that's useful information—note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
+If you find yourself unable to explain something in your own words, that's useful information: note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
 
 ### Selecting Quotations
 
@@ -76,7 +76,7 @@ Choose quotations that directly support your explanation. Brief quotations (1-2 
 
 ### Noting Clarity or Ambiguity
 
-For each element, state whether the article's meaning seems clear or unclear to you. It's fine if most elements are clear—that's useful information too.
+For each element, state whether the article's meaning seems clear or unclear to you. It's fine if most elements are clear; that's useful information too.
 
 If something is unclear, ambiguities might include:
 
@@ -84,7 +84,7 @@ If something is unclear, ambiguities might include:
 - Claims that could mean different things
 - Scope that isn't clearly specified (e.g., does the article claim this is always true, usually true, or sometimes true?)
 
-Identifying ambiguities isn't a sign of failure—it's valuable preparation for later assignments where you'll need to pin down exactly what the target claims.
+Identifying ambiguities isn't a sign of failure; it's valuable preparation for later assignments where you'll need to pin down exactly what the target claims.
 
 ### Building Toward P05
 

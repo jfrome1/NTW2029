@@ -29,18 +29,10 @@ Please email me with specifics about what's confusing. It will help me improve t
 
 ### Do I need to understand all the biology?
 
-You'll be okay! I'll explain what you need to know. Just ask me if you have questions - if you're confused, others probably are too.
+You'll be okay! I'll explain what you need to know. Just ask me if you have questions: if you're confused, others probably are too.
 
 ### What textbooks are required?
 
 The main readings from Pinker, Boyd, and others are provided on the website. "They Say / I Say" (TSIS) and "The Craft of Research" (COR) are recommended resources but not required purchases.
 
-### Can I see examples of good papers?
-
-I provide anonymized examples on the website and discuss them in class. Check the resources section for these examples.
-
-<!--
-### Why don't you allow electronic devices in class?
-
-XXX - I provide printed lecture notes so you can focus on discussion without devices. If you need device accommodation for disabilities, please contact me.
--->
+<!-- ### Can I see examples of good papers? -->

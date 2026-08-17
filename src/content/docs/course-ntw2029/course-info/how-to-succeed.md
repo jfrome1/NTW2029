@@ -8,7 +8,7 @@ This page is the advice I'd give you in person about getting the most out of the
 
 Class discussion helps you understand ideas, but the assignments contain much more than what we cover in class. Don't assume that understanding the lecture means you've fully understood the assignment. There isn't time to provide the same level of guidance in class as on the website.
 
-Don't assume that your former teachers and I use the same words to mean the same things. Read assignments carefully rather than trusting that you've got the basic idea. Most of what I point out in feedback is already covered in the written guidance—time spent with the details is time well spent.
+Don't assume that your former teachers and I use the same words to mean the same things. Read assignments carefully rather than trusting that you've got the basic idea. Most of what I point out in feedback is already covered in the written guidance: time spent with the details is time well spent.
 
 ## Taking Ownership of Your Learning
 
@@ -31,7 +31,6 @@ During our video conference:
 - Find a quiet indoor space (wind noise makes it hard to hear)
 - Keep video on with your face visible
 - Don't eat during the meeting
-- Take notes actively - split screen or use two devices
 
 ## Asking the Right Questions at the Right Time
 
@@ -50,4 +49,4 @@ Writing is a situated, contextual activity, meaning that you write about a speci
 
 Questions about specific choices require something concrete to look at. I can't tell you in the abstract whether it's more important to include additional examples or to keep a paragraph brief and simple. Yet, I'm happy to look at a draft paragraph and tell you what I think works best in one particular instance.
 
-That's why conferences happen after you've written something. When you ask _"How can I make this clearer?"_ you're working with the material. When you ask _"What exactly do you want?"_ before writing, you're trying to skip that process—and it doesn't work.
+That's why conferences happen after you've written something. When you ask _"How can I make this clearer?"_ you're working with the material. When you ask _"What exactly do you want?"_ before writing, you're trying to skip that process, and it doesn't work.

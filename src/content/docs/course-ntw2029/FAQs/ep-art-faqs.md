@@ -23,11 +23,11 @@ Good question! Actually, the idea is that we evolved traits for the EEA, but our
 
 ### What is Niche Construction Theory (NCT)?
 
-Niche Construction Theory is not a behavior or an aspect of an organism - it's a theory (a way of looking at the world) that encourages us to notice that many aspects of the environment are shaped by organisms' behaviors. Think of beavers building dams, which then create new environments and selection pressures. Please check the NCT resources on the website for short, helpful readings on this topic!
+Niche Construction Theory is not a behavior or an aspect of an organism: it's a theory (a way of looking at the world) that encourages us to notice that many aspects of the environment are shaped by organisms' behaviors. Think of beavers building dams, which then create new environments and selection pressures. Please check the NCT resources on the website for short, helpful readings on this topic!
 
 ### Does NCT mean humans stopped evolving?
 
-You got it! We changed our environment so quickly that biological evolution couldn't keep up. Cultural evolution has largely replaced biological evolution for humans - we solve problems with technology and social changes rather than waiting for genetic changes. This is why we're "mismatched" to modern life.
+We didn't "stop" evolving, but we changed our environment so quickly that biological evolution couldn't keep up. For all practical purposes, biological evolution can't explain explain or predict additional changes in observable human traits. Cultural evolution has largely replaced biological evolution for humans; we solve problems with technology and social changes rather than waiting for genetic changes. These rapid environmental changes are why we're "mismatched" to modern life.
 
 ### How does ecological inheritance work?
 
@@ -45,11 +45,11 @@ It's not always clear what counts as art, but for EP purposes, we often focus on
 
 ### What's kitsch, and why does it matter?
 
-Kitsch is a type of popular art that is particularly looked down upon by cultural elites - think paintings on black velvet or garden gnomes. Pinker believes that studying art from an evolutionary perspective requires looking at the most popular forms of art rather than art that is considered most praiseworthy by cultural elites. Not all popular art is kitsch though - nice landscape calendars are popular but not necessarily lowbrow.
+Kitsch is a type of popular art that is particularly looked down upon by cultural elites: think paintings on black velvet or garden gnomes. Pinker believes that studying art from an evolutionary perspective requires looking at the most popular forms of art rather than art that is considered most praiseworthy by cultural elites. Not all popular art is kitsch though; nice landscape calendars are popular but not necessarily lowbrow.
 
 ### How do optical illusions relate to EP?
 
-Our brains didn't evolve to handle 2D representations or impossible figures. Optical illusions exploit perceptual systems that work fine in nature but fail with artificial stimuli. It's interesting to learn that we hadn't evolved to process optical illusions as the brain hadn't evolved to distinguish fiction from reality - this ability wasn't an adaptation in the EEA.
+Our brains didn't evolve to handle 2D representations or impossible figures. Optical illusions exploit perceptual systems that work fine in nature but fail with artificial stimuli. It's interesting to learn that we hadn't evolved to process optical illusions as the brain hadn't evolved to distinguish fiction from reality: this ability wasn't an adaptation in the EEA.
 
 ### What are hyperstimuli?
 
@@ -63,7 +63,7 @@ Different brain systems are at work here. Your evolved perceptual system operate
 
 ### What's the difference between natural and sexual selection?
 
-Natural selection favors traits that help survival (like camouflage or disease resistance). Sexual selection favors traits that help mating success, even if they hurt survival - think of the peacock's tail, which attracts mates but also makes the bird more visible to predators.
+Natural selection favors traits that help survival (like camouflage or disease resistance). Sexual selection favors traits that help mating success, even if they hurt survival: think of the peacock's tail, which attracts mates but also makes the bird more visible to predators.
 
 ### Why do humans find certain landscapes beautiful?
 
@@ -71,7 +71,7 @@ We evolved preferences for environments that offered good survival prospects. Ro
 
 ### Is enjoying art "irrational" from an evolutionary view?
 
-This depends on which theory you accept! If art is a byproduct (Pinker's view), then yes - in some sense we're "wasting" time and resources. But if art serves adaptive functions like social bonding or skill practice (Boyd's view), then it's fulfilling evolved purposes. We'll explore both perspectives.
+This depends on which theory you accept! If art is a byproduct (Pinker's view), then yes, in some sense we're "wasting" time and resources. But if art serves adaptive functions like social bonding or skill practice (Boyd's view), then it's fulfilling evolved purposes. We'll explore both perspectives.
 
 ### Why does fiction feel real when we know it's fake?
 
@@ -85,11 +85,11 @@ Not at all! We're able to override many instinctive behaviors. For example, you 
 
 ### Is everything about humans explained by evolution?
 
-No - culture, individual learning, and random factors all matter too. Evolution provides the basic architecture and tendencies, but doesn't determine everything we do. Also, if you think about the population as a whole, we see patterns even though individuals vary.
+No. Culture, individual learning, and random factors all matter too. Evolution provides the basic architecture and tendencies, but doesn't determine everything we do. Also, if you think about the population as a whole, we see patterns even though individuals vary.
 
 ### Does "adaptive" mean "good" or "useful now"?
 
-Be careful here! Adaptive means it helped reproduction in ancestral environments. Many adaptive traits cause problems now (anxiety, sweet cravings). Don't commit the naturalistic fallacy - natural doesn't mean good or desirable in modern contexts.
+Be careful here! Adaptive means it helped reproduction in ancestral environments. Many adaptive traits cause problems now (anxiety, sweet cravings). Don't commit the naturalistic fallacy: natural doesn't mean good or desirable in modern contexts.
 
 ### Are humans still evolving?
 
@@ -101,13 +101,13 @@ You will be okay! Just ask me if you have questions. If you're confused about so
 
 ### Should I assume the EEA concept is true for my papers?
 
-The concept of EEA may be controversial among critics of EP, but it isn't among EP proponents. Thus, we will use it to discuss EP, but should be aware of its potential limitations. Although I have some reservations about many types of EP research, I don't think that the concept of an EEA is something that can be dismissed - it's a coherent concept that can be useful in discussing human evolution.
+The concept of EEA may be controversial among critics of EP, but it isn't among EP proponents. Thus, we will use it to discuss EP, but should be aware of its potential limitations. Although I have some reservations about many types of EP research, I don't think that the concept of an EEA is something that can be dismissed: it's a coherent concept that can be useful in discussing human evolution.
 
 ## Common Evolution Questions
 
 ### Isn't evolution "just a theory"?
 
-Science uses "theory" differently than everyday language. We have the "germ theory of disease" but no one says "aren't germs just a theory?" In science, a theory is a well-substantiated explanation supported by evidence - like the theory of gravity. See more on the [Questioning Evolution page](/course-ntw2029/resources/evolution/questioning-evolution).
+Science uses "theory" differently than everyday language. We have the "germ theory of disease" but no one says "aren't germs just a theory?" In science, a theory is a well-substantiated explanation supported by evidence, like the theory of gravity. See more on the [Questioning Evolution page](/course-ntw2029/resources/evolution/questioning-evolution).
 
 ### Has evolution ever been observed?
 
@@ -115,13 +115,13 @@ Yes! We've observed evolution in our lifetimes, including new species arising. T
 
 ### If we evolved from monkeys, why are there still monkeys?
 
-We didn't evolve FROM modern monkeys - we share a common ancestor WITH them. It's like asking "if you descended from your grandparents, why do you still have cousins?" Different branches evolved in different directions.
+We didn't evolve FROM modern monkeys; we share a common ancestor WITH them. It's like asking "if you descended from your grandparents, why do you still have cousins?" Different branches evolved in different directions.
 
 ## Nature vs. Nurture
 
 ### Are traits determined by genes or environment?
 
-Most traits result from both! Very few traits are determined by genes alone (like earlobes or blood type). Most bodily and behavioral traits come from the interaction of many genes and environment. Height is mostly genetic but also affected by nutrition. Even vision requires environmental input - animals raised in darkness become blind. Details on the [Nature vs. Nurture page](/course-ntw2029/resources/evolution/nature-vs-nurture).
+Most traits result from both! Very few traits are determined by genes alone (like earlobes or blood type). Most bodily and behavioral traits come from the interaction of many genes and environment. Height is mostly genetic but also affected by nutrition. Even vision requires environmental input: animals raised in darkness become blind. Details on the [Nature vs. Nurture page](/course-ntw2029/resources/evolution/nature-vs-nurture).
 
 ### How should I think about nature vs. nurture?
 
@@ -129,7 +129,7 @@ Think "environmental variation within genetic range." Genetics sets the paramete
 
 ### What are innate traits?
 
-Innate doesn't mean present at birth or existing in every member without exception. Innate means developing in members of a species under normal circumstances - like color vision, walking ability, or male facial hair after puberty. See the [Traits page](/course-ntw2029/resources/evolution/traits).
+Innate doesn't mean present at birth or existing in every member without exception. Innate means developing in members of a species under normal circumstances, like color vision, walking ability, or male facial hair after puberty. See the [Traits page](/course-ntw2029/resources/evolution/traits).
 
 ## Cooperation and Altruism
 
@@ -139,11 +139,11 @@ Cooperation can increase survival! The Prisoner's Dilemma shows how cooperation 
 
 ### Can you explain the part about kin selection in bees in [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4&t=119s)?
 
-That part in the video is confusing because it doesn't really explain the part about "a strange fact about honey bee genetics..."  the queen and the female drones have two sets of bars while the male drones have only one set of bars? The bars are their genes--female bees have 2x the number of genes as male bees. Because male and female be have different amounts of genes, female bees share on average 75% of their genes with their sisters, but would share only 50% of genes on average with their own children, if they had children. This difference is supposed to explain why female bees evolved do not have their own children, but instead help the queen reproduce have children. The female bees "altruistically "don't spend time creating children or raising them, instead helping the Queen create and raise children (their "sisters"). The video suggests that this behavior evolved because it, on average, produces more copies of the female bees' genes.
+That part in the video is confusing because it doesn't really explain the part about "a strange fact about honey bee genetics..."  the queen and the female drones have two sets of bars while the male drones have only one set of bars? The bars are their genes: female bees have 2x the number of genes as male bees. Because male and female be have different amounts of genes, female bees share on average 75% of their genes with their sisters, but would share only 50% of genes on average with their own children, if they had children. This difference is supposed to explain why female bees evolved do not have their own children, but instead help the queen reproduce have children. The female bees "altruistically "don't spend time creating children or raising them, instead helping the Queen create and raise children (their "sisters"). The video suggests that this behavior evolved because it, on average, produces more copies of the female bees' genes.
 
 ### What's the free-rider problem?
 
-In groups, individuals can benefit from cooperation without contributing (free-riding). Evolution has produced mechanisms to detect and punish cheaters - like our strong emotional reactions to unfairness. See the monkey fairness experiment on the [Cooperation page](/course-ntw2029/resources/evolution/cooperation).
+In groups, individuals can benefit from cooperation without contributing (free-riding). Evolution has produced mechanisms to detect and punish cheaters, like our strong emotional reactions to unfairness. See the monkey fairness experiment on the [Cooperation page](/course-ntw2029/resources/evolution/cooperation).
 
 ## Understanding Genetics
 
@@ -153,4 +153,4 @@ DNA is the molecule containing genetic information. Genes are sections of DNA th
 
 ### What's the difference between genotype and phenotype?
 
-Genotype is your genetic blueprint (your DNA). Phenotype is what actually shows up - your observable traits. The same genotype can produce different phenotypes in different environments. Details on the [Traits page](/course-ntw2029/resources/evolution/traits).
+Genotype is your genetic blueprint (your DNA). Phenotype is what actually shows up: your observable traits. The same genotype can produce different phenotypes in different environments. Details on the [Traits page](/course-ntw2029/resources/evolution/traits).

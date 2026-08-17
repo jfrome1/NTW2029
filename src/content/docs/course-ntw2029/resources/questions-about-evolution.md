@@ -16,8 +16,8 @@ Evolution is supported by overwhelming evidence from several scientific fields. 
 Science uses the word "theory" differently than we do when speaking in ordinary language. In science, "theory" means a well-substantiated explanation supported by evidence, not a guess. Evolution is both a fact (it happens) and a theory (explaining how it happens). Note that you rarely hear anyone say, "isn't gravity just a theory, not a fact?"
 
 - Here's a good written explanation of what "theory" and "law" mean in science vs. ordinary language:
-	- Part 1—[When Does a Theory Become a Law? | The Happy Scientist](https://www.thehappyscientist.com/content/when-does-theory-become-law)
-	- Part 2—[Is Gravity a Theory or a Law? | The Happy Scientist](https://www.thehappyscientist.com/science-experiment/gravity-theory-or-law)
+	- Part 1: [When Does a Theory Become a Law? | The Happy Scientist](https://www.thehappyscientist.com/content/when-does-theory-become-law)
+	- Part 2: [Is Gravity a Theory or a Law? | The Happy Scientist](https://www.thehappyscientist.com/science-experiment/gravity-theory-or-law)
 - ["Why Science is Not 'Just a Theory'"](http://youtu.be/1uzsuCFUQ68)
 - [Why You Should Never Say "It's Just A Theory"](https://www.youtube.com/watch?v=h0H-amOti_o)
 
@@ -31,7 +31,7 @@ Yes, we've directly observed evolution in lab experiments and in nature, includi
 
 ### Why haven't we seen intermediate fossils?
 
-We actually have seen many transitional fossils—fish with limb-like fins, feathered dinosaurs, early humans with ape-like features.
+We actually have seen many transitional fossils: fish with limb-like fins, feathered dinosaurs, early humans with ape-like features.
 
 - [Richard Dawkins: Show me the intermediate fossils!](https://www.youtube.com/watch?v=o92x6AvxCFg)
 
@@ -61,18 +61,18 @@ There wasn't a "first" of any species. Each generation looks almost identical to
 
 ### Are humans still evolving?
 
-Yes, humans are still evolving, and we can see various trait changes in different human populations. However, these trait changes haven't cause humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans. [:more detailed answer](#x-more-detailed-answer)
+Yes, humans are still evolving, and we can see various trait changes in different human populations. However, these trait changes haven't caused humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans. [:more detailed answer](#x-more-detailed-answer)
 
 - [Are Humans Still Evolving?](https://www.youtube.com/watch?v=wEhOZJ55Ve8&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=4)
 - Genetic engineering: [CRISPR and the Future of Human Evolution](https://www.youtube.com/watch?v=_pGNM9CTLJg&list=PLsmqeqKj7M-pS2SyV82Y4CGyihKLCW35w&index=4)
 
 ### Are evolution and religion compatible?
 
-Many religious people accept evolution as an explanation of how biological diversity developed. For more, see resource page `Evolution and Religion`.
+Many religious people accept evolution as an explanation of how biological diversity developed. For more, see resource page [Evolution and Religion](/course-ntw2029/resources/ev-religion).
 
 ### If evolution is random, how can species be so perfectly designed?
 
-Mutations are random, but natural selection isn't—it consistently preserves helpful traits. And species aren't perfectly designed; they're full of evolutionary compromises and leftover quirks.
+Mutations are random, but natural selection isn't: it consistently preserves helpful traits. And species aren't perfectly designed; they're full of evolutionary compromises and leftover quirks.
 
 - [Evolution is dumb](https://youtu.be/c_jyHp3bmEw?t=422)
 - [Evolution FAILS in the Human Body](https://www.youtube.com/watch?v=bmf1znpMjbI&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=32)
@@ -80,16 +80,16 @@ Mutations are random, but natural selection isn't—it consistently preserves he
 
 ### If evolution works through tiny changes, how can something complex like an eye evolve? An eye requires lots of different parts to work together, so a tiny change creating one part of an eye wouldn't be useful and wouldn't be reproduced.
 
-Parts of eyes are each useful on their own--even a simple light-sensitive patch helps organisms detect shadows and avoid predators, which is useful. The complex interactions in the modern eye evolved through several smaller changes (curved shape to detect direction, pinhole for sharper image, lens for focus) that each provided immediate benefits and spread through populations.
+Parts of eyes are each useful on their own: even a simple light-sensitive patch helps organisms detect shadows and avoid predators, which is useful. The complex interactions in the modern eye evolved through several smaller changes (curved shape to detect direction, pinhole for sharper image, lens for focus) that each provided immediate benefits and spread through populations.
 
 - [Can evolution make an eye?](https://youtu.be/c_jyHp3bmEw?t=232)
 
 ### Doesn't evolution violate the second law of thermodynamics, which says systems tend to become more chaotic rather than more organized?
 
-No, the second law only says closed systems become more disordered, but Earth isn't closed—we get constant energy from the sun. Life can become more complex because it uses energy to create local order while increasing disorder elsewhere.
+No, the second law only says closed systems become more disordered, but Earth isn't closed: we get constant energy from the sun. Life can become more complex because it uses energy to create local order while increasing disorder elsewhere.
 
 - [Does evolution violate the 2nd law of thermodynamics?](https://youtu.be/c_jyHp3bmEw?t=577)
 
 ##### :x more detailed answer
 
-Yes, humans are still evolving, and we have seen some minor trait changes in different human populations over the last 10-15,000 years (such as development of lactose tolerance after dairy farming began and high-altitude adaptations in Andean populations). However, these trait changes haven't cause humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans. Consider: Evolution says that organisms that can best survive and attract mates are most likely to have the most offspring, spreading their variations throughout the species. Yet the richest and most developed countries, with the highest life expectancies, often have below replacement birth rates. So, traditional fitness markers such as access to resources no longer correlate with having more offspring. Genetic engineering also offers an path to potentially change human genetics outside of evolutionary forces. In other words, evolutionary theory is no longer a useful way to predict how humans will change in the future.
+Yes, humans are still evolving, and we have seen some minor trait changes in different human populations over the last 10-15,000 years (such as development of lactose tolerance after dairy farming began and high-altitude adaptations in Andean populations). However, these trait changes haven't caused humans to branch off into different species, and our ability to change our environments and potentially our own genetics means that evolutionary concepts don't apply neatly or reliably to modern humans. Consider: Evolution says that organisms that can best survive and attract mates are most likely to have the most offspring, spreading their variations throughout the species. Yet the richest and most developed countries, with the highest life expectancies, often have below replacement birth rates. So, traditional fitness markers such as access to resources no longer correlate with having more offspring. Genetic engineering also offers a path to potentially change human genetics outside of evolutionary forces. In other words, evolutionary theory is no longer a useful way to predict how humans will change in the future.

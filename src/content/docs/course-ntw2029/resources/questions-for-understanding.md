@@ -7,7 +7,7 @@ sidebar:
     variant: caution
 ---
 
-In class, we ask questions to better understand the readings. Here is a longer list of questions you can use te practice this skill on your own.
+In class, we ask questions to better understand the readings. Here is a longer list of questions you can use to practice this skill on your own.
 
 ## Questions to ask about your source
 
@@ -15,7 +15,7 @@ In class, we ask questions to better understand the readings. Here is a longer l
 - What is the thesis?
 - What are the key terms and concepts used in the source?
 - How clearly are the key terms defined?
-- In simple terms, what seems to be motivating the source? What are they trying to do? What (if anything) do they think is wrong with what other have said?
+- In simple terms, what seems to be motivating the source? What are they trying to do? What (if anything) do they think is wrong with what others have said?
 - What does the source claim to contribute to the conversation? (It may be more than one of the following)
 	- Synthesize and review existing sources
 	- Fill a research gap (and what is that gap?)
@@ -45,7 +45,7 @@ In class, we ask questions to better understand the readings. Here is a longer l
 - Can you imagine equally strong justification for opposite hypotheses?
 - What is the study methodology?
 - What does the source claim the data shows?
-- Are there confounding variables? (I.e. Factors that could have caused the results other than what the experiment varied)
+- Are there confounding variables? (i.e., factors that could have caused the results other than what the experiment varied)
 - Are there possible explanations for the results other than the ones the source proposed?
-- Are the stimuli studied representative of the larger phenomena the sources is aiming to explain? (E.g., if they are trying to study music, how typical is the music they use in the study?)
+- Are the stimuli studied representative of the larger phenomena the source is aiming to explain? (E.g., if they are trying to study music, how typical is the music they use in the study?)
 - How generalizable are the findings?

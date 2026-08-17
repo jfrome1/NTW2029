@@ -27,7 +27,7 @@ Below are a few example videos. The whole evolution playlist is [here](https://w
 
 Major YouTube science channel Veritasium borrows this approach (with credit) in the useful video [Simulating The Strange Way Life (Likely) Started](https://youtu.be/XX7PdJIGiCw), which also helpfully discusses altruism and the gene's eye view.
 
-## Epigenitics
+## Epigenetics
 
 - [Is Epigenetic Inheritance Real?](https://www.youtube.com/watch?v=81rFpRsF80c&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=101)
 - [What is epigenetics?](https://www.youtube.com/watch?v=_aAhcNjmvhc)

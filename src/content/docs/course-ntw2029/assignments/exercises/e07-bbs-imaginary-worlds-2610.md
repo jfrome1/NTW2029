@@ -8,7 +8,7 @@ This exercise helps you develop the skill of reading a complex academic paper to
 
 ## Overview
 
-Answer the following questions about the assigned reading. Answers can be as long or short as needed—there are no length requirements. We will discuss these and other questions about the reading in class 7.2.
+Answer the following questions about the assigned reading. Answers can be as long or short as needed: there are no length requirements. We will discuss these and other questions about the reading in class 7.2.
 
 ## Instructions
 
@@ -16,7 +16,7 @@ Read "Why imaginary worlds? The psychological foundations and cultural evolution
 
 - Abstract (full)
 - Pages 1-3 (Introduction & section 2)
-- Pages 4-5 (section 3 - just first and last paragraphs)
+- Pages 4-5 (section 3: just first and last paragraphs)
 - Pages 63-65 (Author's Response sections R1.1, R1.1.1, R1.1.2, and R1.2)
 - Skim the rest of the article by just reading topic sentences
 - (Recommended) search for (Ctrl+F) and read sentences with "we argue that", "we propose", and "we hypothesize"

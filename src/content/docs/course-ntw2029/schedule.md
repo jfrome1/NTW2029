@@ -43,13 +43,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
-- Class reading: read all webpages on this website under _Course information_
-- Writing topic: explanation
-	- Read before class (recommended):
-		- TSIS 1 "They Say Starting with What Others Are Saying", 19-29
-		- TSIS 2, "Her Point Is The Art of Summarizing", 30-41
-		- COR refers to: Booth, Wayne C., Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald. _The Craft of Research_. 4th ed. Chicago, IL: University of Chicago Press, 2016.
-		- COR 6, "Engaging Sources", (6.1-6.5 only, 85-94)
 
 ## 2.2 Thu 20 Aug 2026
 
@@ -62,6 +55,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 			- Note: read just until page 60—we'll discuss the rest in another class.
 			- [:Boyd discussion questions](#x-boyd-discussion-questions)
 		- Note: in places, these videos discuss religion and politics. Feel free to ignore those sections, as we will not focus on them in this class.
+		- Class reading: read all webpages on this website under _Course information_
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105

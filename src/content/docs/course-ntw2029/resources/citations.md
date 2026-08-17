@@ -1,13 +1,18 @@
 ---
 title: Citations
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## How Academic Citation Works
 
 Academic citation requires two interconnected components:
 
-1. **In-text citations** - Brief parenthetical notes in the essay text showing where you are relying on sources
-2. **Reference list** - Full publication details for every source cited
+1. **In-text citations**: Brief parenthetical notes in the essay text showing where you are relying on sources
+2. **Reference list**: Full publication details for every source cited
 
 Every in-text citation must match a reference list entry. Don't include any sources in your reference list that aren't cited in-text. <span class="smaller-text"> [:Why not include all references you looked at?](#x-why-not-include-all-references-you-looked-at) </span>
 
@@ -79,7 +84,7 @@ Don't:
 
 - Never add quotation marks around article titles (use italics)
 - Never include page numbers for whole books
-- Never use database URLs (JSTOR, ProQuest) or repository URLs (ssrn.org, academia.edu) - only official DOIs/URLs [:How to find DOIs and official URLs](#x-how-to-find-dois-and-official-urls)
+- Never use database URLs (JSTOR, ProQuest) or repository URLs (ssrn.org, academia.edu): only official DOIs/URLs [:How to find DOIs and official URLs](#x-how-to-find-dois-and-official-urls)
 
 ## When Citation Is Required
 
@@ -102,11 +107,11 @@ Don't:
 
 ## Self-Assessment Tools
 
-- [:Practice examples with answers](#x-practice-examples)
+- [:Practice examples with answers](#x-practice-examples-with-answers)
 
 <!-- - [Interactive Citation Quiz](canvas-link) - Test your format recognition -->
 
-## FAQs
+## Frequently Asked Questions
 
 ### Can you double-check my citations?
 
@@ -151,7 +156,7 @@ We name the author in text, so the parentheses only need year and page. We don't
 >
 > _He argues that art is merely a byproduct of other evolved capacities (407)._
 
-Just page number - reader knows we're still discussing Pinker (2002).
+Just page number: reader knows we're still discussing Pinker (2002).
 
 **New paragraph, same source:**
 >
@@ -235,7 +240,7 @@ Many students think page numbers are only needed for direct quotes, but that's n
 
 Solution: Cite page numbers in text whenever discussing claims or evidence from particular places in your sources.
 
-##### :x practice examples
+##### :x practice examples with answers
 
 Test yourself! Try to identify all errors in each item before expanding to see the answers:
 

@@ -1,14 +1,19 @@
 ---
 title: Exaptation, adaptation, and byproduct
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
-Some of the Paper 2 commentaries discuss a concept called "exaptation." If your commentary mentions exaptation, this page will help you understand what the term means and how it relates to concepts we've discussed in class. You don't need to cite this page in your paper -- treat it like lecture notes.
+Some of the Paper 2 commentaries discuss a concept called "exaptation." If your commentary mentions exaptation, this page will help you understand what the term means and how it relates to concepts we've discussed in class. You don't need to cite this page in your paper; treat it like lecture notes.
 
 ## What is exaptation?
 
 In evolutionary biology, a trait that evolved because it served a specific function is called an "adaptation." Your tongue is an adaptation for moving food around your mouth while chewing. Your fear of heights is an adaptation that helped ancestors avoid fatal falls.
 
-An "exaptation" is a trait that originally evolved for one function but was later co-opted for a different function. The classic example is feathers. Feathers originally evolved in dinosaurs for insulation or display. Later, feathers were co-opted for flight in birds. The key point is that feathers didn't evolve _for_ flying -- they evolved for something else and were repurposed. (Feathers still serve their original functions -- birds use them for warmth and display as well as flight -- but an exaptation's original function can also be reduced or lost over time.)
+An "exaptation" is a trait that originally evolved for one function but was later co-opted for a different function. The classic example is feathers. Feathers originally evolved in dinosaurs for insulation or display. Later, feathers were co-opted for flight in birds. The key point is that feathers didn't evolve _for_ flying: they evolved for something else and were repurposed. (Feathers still serve their original functions: birds use them for warmth and display as well as flight. But an exaptation's original function can also be reduced or lost over time.)
 
 The term was introduced by Stephen Jay Gould and Elisabeth Vrba in 1982 to replace the older and misleading term "preadaptation," which incorrectly implied that evolution plans ahead.
 
@@ -19,7 +24,7 @@ Both adaptations and exaptations can enhance an organism's fitness, which is why
 - An **adaptation** was shaped by natural selection _for_ its current function. The eye is an adaptation for seeing.
 - An **exaptation** serves a current function that it was _not_ originally selected for. Feathers serve flight, but they were originally selected for insulation or display, not for flying.
 
-This distinction matters because when an author in your commentary claims that a behavior is an exaptation, they're making a specific claim about its evolutionary history: the behavior serves a real function now, but that function is not the reason the underlying trait originally evolved. A different author might argue the same behavior is a direct adaptation -- that it was selected specifically for the function it currently serves. Recognizing which type of claim an author is making will help you follow their argument.
+This distinction matters because when an author in your commentary claims that a behavior is an exaptation, they're making a specific claim about its evolutionary history: the behavior serves a real function now, but that function is not the reason the underlying trait originally evolved. A different author might argue the same behavior is a direct adaptation (that it was selected specifically for the function it currently serves). Recognizing which type of claim an author is making will help you follow their argument.
 
 ## Where do byproducts fit in?
 
@@ -27,7 +32,7 @@ We've discussed in class that some traits are byproducts, which we defined as tr
 
 In the original Gould and Vrba framework, exaptation is a third category distinct from both adaptation and byproduct: unlike a byproduct, an exaptation currently serves a useful function, but unlike an adaptation, the trait wasn't originally selected for that function.
 
-However, some researchers define "byproduct" more broadly than we did in class. David Buss, a central figure in evolutionary psychology, has argued that exaptations are better understood as a type of byproduct. In his framework, "byproduct" includes any feature that wasn't directly shaped by selection for its current role -- even if the feature happens to be useful now. Under this broader definition, exaptation isn't a separate category, it's just a byproduct that happens to be doing something fitness-enhancing, perhaps due to a change in environment.
+However, some researchers define "byproduct" more broadly than we did in class. David Buss, a central figure in evolutionary psychology, has argued that exaptations are better understood as a type of byproduct. In his framework, "byproduct" includes any feature that wasn't directly shaped by selection for its current role, even if the feature happens to be useful now. Under this broader definition, exaptation isn't a separate category, it's just a byproduct that happens to be doing something fitness-enhancing, perhaps due to a change in environment.
 
 The key difference from the class definition is where Buss draws the line between byproduct and adaptation. For him, a trait remains a byproduct until natural selection begins favoring it specifically for the new function. Once individuals with variations that better serve the new function start surviving and reproducing more successfully (i.e., once selection is actively shaping the trait for its new role), the new modifications count as adaptations. So feathers that evolved for warmth but happen to be useful for flight start as byproducts in Buss's framework. Feathers only become adaptations for flight once natural selection starts shaping them specifically for flying.
 

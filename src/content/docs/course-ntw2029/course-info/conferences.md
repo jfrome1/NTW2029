@@ -24,7 +24,7 @@ The items below help us make the most of our conference time. Following them mea
 **Book your conference:**
 
 - Book your conference through the Zoom tool on Canvas once times are available [:instructions](#x-instructions)
-- Check times carefully—schedule when you can review feedback during the 2 hours before we meet [:why this timing matters](#x-why-this-timing-matters)
+- Check times carefully: schedule when you can review feedback during the 2 hours before we meet [:why this timing matters](#x-why-this-timing-matters)
 
 <!-- - [:What if I see strange conference times?](#x-what-if-i-see-strange-conference-times) - this was for troubleshooting time zone issues with Microsoft Booking, not Zoom -->
 
@@ -57,9 +57,9 @@ The items below help us make the most of our conference time. Following them mea
 ### Starting the Conference
 
 - Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
-	- NOTE: Your booking confirmation email includes a different Zoom link—ignore it. Always use the link above (Meeting ID: 250 394 5161).
+	- NOTE: Your booking confirmation email includes a different Zoom link. Ignore it. Always use the link above (Meeting ID: 250 394 5161).
 - Email or message me if you have connection difficulties
-- I try to record all student interactions, but if you want to make sure that you can access a recording of the conference, you must remind me to record[:about recordings](#x-about-recordings)
+- I try to record all student interactions, but if you want to make sure that you can access a recording of the conference, you must remind me to record [:about recordings](#x-about-recordings)
 
 ### After the Conference
 
@@ -67,7 +67,7 @@ The items below help us make the most of our conference time. Following them mea
 - Ask specific questions via email/Telegram [:what counts as a specific question?](#x-what-counts-as-a-specific-question)
 - You may request additional meetings, but my schedule is very tight during conference weeks.
 
-## FAQs
+## Frequently Asked Questions
 
 ### How do I access my conference recording?
 
@@ -97,7 +97,7 @@ Please do not change your booking on the day of the conference or without notify
 
 <p class="smaller-text">
 
-**Note on conference requirements:** Conferences require a submitted assignment, reviewed feedback, working audio/video, and a private space. If these basics aren't in place, we'll need to reschedule—and during busy conference weeks, another slot may not be available.
+**Note on conference requirements:** Conferences require a submitted assignment, reviewed feedback, working audio/video, and a private space. If these basics aren't in place, we'll need to reschedule, and during busy conference weeks, another slot may not be available.
 </p>
 
 ##### :x instructions

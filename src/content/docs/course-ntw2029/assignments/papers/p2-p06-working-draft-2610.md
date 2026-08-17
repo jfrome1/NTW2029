@@ -9,7 +9,7 @@ sidebar:
 
 ## Purpose
 
-This assignment develops your analytical contribution—your thesis about what underlies the disagreement between target and commentary. You'll practice formulating a thesis that "goes beneath" what either author explicitly states, then developing that thesis with specific evidence.
+This assignment develops your analytical contribution, your thesis about what underlies the disagreement between target and commentary. You'll practice formulating a thesis that "goes beneath" what either author explicitly states, then developing that thesis with specific evidence.
 
 ## Overview
 
@@ -36,13 +36,13 @@ Search both articles for your key claim. Quote any passages where either author 
 Then explain:
 
 - If you find your thesis stated explicitly, you've described rather than analyzed. Revise to identify something neither author says outright.
-- If your thesis names something implicit—an unstated assumption, an unacknowledged commitment, a pattern neither author identifies—explain what makes it implicit.
+- If your thesis names something implicit (an unstated assumption, an unacknowledged commitment, a pattern neither author identifies), explain what makes it implicit.
 
 [:Why the "going beneath" test matters](#x-why-the-going-beneath-test-matters)
 
 ### 3. Analysis Development
 
-Develop your thesis with specific evidence from both articles. Answer whichever diagnostic questions fit your case—most commentaries will match one or two patterns.
+Develop your thesis with specific evidence from both articles. Answer whichever diagnostic questions fit your case; most commentaries will match one or two patterns.
 
 Your analysis should explain HOW the differences you identified in your thesis produce the logical conflict. Use quotations and specific evidence to support your claims.
 
@@ -85,7 +85,7 @@ You're still developing your thesis through analysis. An introduction requires f
 
 ### Don't Evaluate Which Position Is Right
 
-It's natural to form judgments about which position seems stronger. Hold that thought for P07. For P06, focus on explaining WHY they reach different conclusions—what assumptions, definitions, or evidence interpretations drive their disagreement.
+It's natural to form judgments about which position seems stronger. Hold that thought for P07. For P06, focus on explaining WHY they reach different conclusions: what assumptions, definitions, or evidence interpretations drive their disagreement.
 
 ### About Depth
 
@@ -136,9 +136,9 @@ Your working thesis should explain what prevents these positions from being comp
 - "Their disagreement stems from [type of mischaracterization], but the underlying issue is [what the exchange reveals]"
 - "The commentary criticizes a position stronger than what the target claims, but there's still genuine tension about [what remains once qualifiers are restored]"
 
-These templates cover different types of underlying issues. Definitional and methodological differences are typically theoretical disagreements—different ways of framing or studying the phenomenon. Evidentiary differences are empirical disagreements about what evidence is sufficient or what standards should apply. The distinction matters because your analysis will develop differently depending on which type of disagreement you're working with.
+These templates cover different types of underlying issues. Definitional and methodological differences are typically theoretical disagreements, different ways of framing or studying the phenomenon. Evidentiary differences are empirical disagreements about what evidence is sufficient or what standards should apply. The distinction matters because your analysis will develop differently depending on which type of disagreement you're working with.
 
-Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement—the assumption, definition, or methodological commitment that produces the conflict.
+Don't argue that one scholar is right and the other wrong. Instead, explain what drives the disagreement: the assumption, definition, or methodological commitment that produces the conflict.
 
 [:How theses develop through P06-P07](#x-how-theses-develop-through-p06-p07)
 
@@ -188,11 +188,11 @@ A thesis that "goes beneath" identifies something neither author states:
 
 The second version names an assumption neither author explicitly identifies. That's your analytical contribution.
 
-If you search both articles and find your claim stated explicitly, that's useful information—it means you need to dig deeper. What enables that explicit disagreement? What assumption would both authors need to accept for their positions to be compatible?
+If you search both articles and find your claim stated explicitly, that's useful information: it means you need to dig deeper. What enables that explicit disagreement? What assumption would both authors need to accept for their positions to be compatible?
 
 ##### :x diagnostic patterns
 
-Develop your thesis with specific evidence and reasoning. Answer whichever diagnostic questions fit your case—most commentaries will match one or two patterns. Your analysis should explain how these issues produce the incompatibility you identified in your thesis. Use specific evidence from both articles to develop your claims.
+Develop your thesis with specific evidence and reasoning. Answer whichever diagnostic questions fit your case; most commentaries will match one or two patterns. Your analysis should explain how these issues produce the incompatibility you identified in your thesis. Use specific evidence from both articles to develop your claims.
 
 To identify why the positions reach different conclusions, answer whichever questions apply to your case. You don't need to answer questions that don't fit your disagreement:
 
@@ -252,4 +252,4 @@ During P06, identify additional sources you'll need for P07:
 - If the commentary or author's response references other work by either author, locate those sources to see whether they clarify or complicate the criticism
 - If you need to understand theoretical frameworks or technical concepts, find sources that explain them
 
-List these sources with brief explanation of how each will support your analysis. Additional sources should help you evaluate THIS specific criticism—they should not introduce entirely new arguments or shift focus away from the disagreement between your target and commentary.
+List these sources with brief explanation of how each will support your analysis. Additional sources should help you evaluate THIS specific criticism; they should not introduce entirely new arguments or shift focus away from the disagreement between your target and commentary.

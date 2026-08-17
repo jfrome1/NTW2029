@@ -23,16 +23,16 @@ This table shows which requirements apply to different assignment types. See sec
 
 ## Submission Basics
 
-- Submit assignments as an attached Word document (.docx) - not Pages, PDF, or Google Docs
+- Submit assignments as an attached Word document (.docx), not Pages, PDF, or Google Docs
 - Include at top: Your name, GenAI link/non-use statement, word count
 - You can resubmit unlimited times until the deadline; I grade only the last submission
 - All paper assignments (P02-08) must be submitted at minimum acceptable quality to pass the course
-- Specific requirements are explained each assignment
+- Specific requirements are explained in each assignment
 
 ## Extension Policy
 
 - You may submit any assignment (except peer review) up to 12 hours late (i.e. automatic extension until noon the following day)
-- No need to email me, explain, or apologize -- I trust you have a good reason
+- No need to email me, explain, or apologize: I trust you have a good reason
 - Peer review assignments cannot be extended since delays affect classmates
 - Extensions apply to final papers
 - Any further extensions will be granted only for serious, documented circumstances
@@ -73,7 +73,7 @@ These requirements apply to the exercises (E01-E12) only. The paper prep assignm
 - Don't quote or cite sources unless specifically requested
 - Don't do outside research
 
-## FAQs
+## Frequently Asked Questions
 
 ### What if I have technical problems during submission?
 
@@ -121,7 +121,7 @@ Your file sizes should now be back to normal.
 
 #### What's the paper template?
 
-The paper template is a pre-formatted Word document that has all the correct formatting already set up for you - double-spacing, margins, indentation, font, and heading styles. Just download it, save it with a new name for your assignment, and start typing. The template handles first-line indentation, proper spacing between paragraphs, correct font and size, and title and reference list formatting. Download it from the link above and use it for all your papers.
+The paper template is a pre-formatted Word document that has all the correct formatting already set up for you: double-spacing, margins, indentation, font, and heading styles. Just download it, save it with a new name for your assignment, and start typing. The template handles first-line indentation, proper spacing between paragraphs, correct font and size, and title and reference list formatting. Download it from the link above and use it for all your papers.
 
 ##### :x late-assignment-fine-print
 
