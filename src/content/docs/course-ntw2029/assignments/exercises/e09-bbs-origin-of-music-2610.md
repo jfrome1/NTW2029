@@ -1,5 +1,10 @@
 ---
 title: "E09 - Reading questions: Origin of music"
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

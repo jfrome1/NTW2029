@@ -1,5 +1,10 @@
 ---
 title: "E07 - Reading questions: Imaginary worlds"
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

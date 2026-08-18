@@ -1,5 +1,10 @@
 ---
 title: E05 - P02 conference report (draft)
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

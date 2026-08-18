@@ -1,5 +1,10 @@
 ---
 title: E04 - Explain Goldfinch
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

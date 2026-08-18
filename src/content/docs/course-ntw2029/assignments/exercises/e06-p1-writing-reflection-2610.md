@@ -1,5 +1,10 @@
 ---
 title: E06 - Paper 1 writing reflection
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

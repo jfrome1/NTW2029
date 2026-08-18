@@ -1,5 +1,10 @@
 ---
 title: "E08 - Reading questions: Art and negative emotions"
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 ## Purpose

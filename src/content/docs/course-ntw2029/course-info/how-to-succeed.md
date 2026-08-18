@@ -1,5 +1,10 @@
 ---
 title: How to Succeed in This Course
+draft: true
+sidebar:
+  badge:
+    text: Draft
+    variant: caution
 ---
 
 This page is the advice I'd give you in person about getting the most out of the course. Following this advice helps you understand how I deliver instruction and how to make the most out of the resources provided. It can save you a lot of frustration down the line. Read it the beginning of the course and come back to it a few times to refresh your memory.
