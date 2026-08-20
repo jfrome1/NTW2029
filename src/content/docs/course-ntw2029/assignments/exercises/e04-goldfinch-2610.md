@@ -41,7 +41,7 @@ Remember to properly attribute all ideas to their source rather than writing the
 
 ## Feedback
 
-For this exercise, after the submission deadline, I'll post an example explanation on this page for you to compare to your submission. I'll also make brief individualized comments with suggestions for writing improvement. You are welcome to ask for additional feedback either in an in-person meeting or via email/messaging.
+For this exercise, after the submission deadline, I'll post an example explanation on this page for you to compare to your submission. I'll also make brief individualized comments with suggestions for writing improvement. You are welcome to ask for additional feedback on this exercise, either in an in-person meeting or via email/messaging.
 
 ## Example Explanations
 

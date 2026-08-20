@@ -1,10 +1,5 @@
 ---
 title: Course Expectations
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Technology Requirements
@@ -65,7 +60,7 @@ Readings are listed on the day they will be discussed in class. For example, you
 
 ### Is attendance mandatory?
 
-Yes, attendance is part of your participation grade (15%). Please sign the attendance sheet every class.
+Yes, attendance is mandatory and is part of your [participation grade (15%)](/course-ntw2029/course-info/grading/#class-participation-15). Please sign the attendance sheet every class.
 
 ##### :x why no electronics
 

@@ -1,10 +1,5 @@
 ---
 title: How to Succeed in This Course
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 This page is the advice I'd give you in person about getting the most out of the course. Following this advice helps you understand how I deliver instruction and how to make the most out of the resources provided. It can save you a lot of frustration down the line. Read it the beginning of the course and come back to it a few times to refresh your memory.
@@ -28,7 +23,7 @@ Strong students take ownership of improving their skills. Weaker students want m
 Good conferences happen when you come prepared. Before we meet:
 
 - Review the assignment and your submission
-- Write down specific questions (not _"what should I fix?"_)
+- Write down specific questions (not _"what should I fix?"_) [:what counts as a specific question](/course-ntw2029/course-info/conferences/#x-what-counts-as-a-specific-question)
 - Identify the hardest part for you
 
 During our video conference:

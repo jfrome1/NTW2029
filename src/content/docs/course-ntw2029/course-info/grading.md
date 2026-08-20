@@ -1,20 +1,8 @@
 ---
 title: Grading
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Grade Overview
-
-| | Writing Development | Final Papers |
-|---|---|---|
-| Grading | Complete/Incomplete | Letter grade |
-| Weight | 15% (cumulative) | Paper 1, 30%<br>Paper 2, 40% |
-
-## Final Grade Components
 
 - Class Participation: 15%
 - Writing Development Work: 15%
@@ -34,7 +22,7 @@ I evaluate your engagement during class meetings based on:
 
 ## Writing Development Work (15%)
 
-This category includes all exercises, paper prep, and drafts (E01-E12, P01-02, P04-07). Everything here is graded complete/incomplete.
+This category includes all exercises (E01-E12) and paper prep assignments (P01-02, P04-07), including drafts. Everything here is graded complete/incomplete.
 
 ### Grading Individual Submissions
 
@@ -70,9 +58,11 @@ The SRL adjustment rewards students who engage with feedback, use course resourc
 
 ## Paper 1 (30%) and Paper 2 (40%)
 
+Both papers receive letter grades.
+
 Final paper grading criteria will be discussed in future classes.
 
-Although you are allowed to miss exercises, all paper prep assignments must be submitted on time at minimum acceptable quality to pass the course.
+Although you are allowed to miss exercises, all paper prep assignments must be completed at minimum acceptable quality to pass the course. [:what is minimum acceptable quality?](#x-what-is-minimum-acceptable-quality)
 
 ## Frequently Asked Questions
 
@@ -86,7 +76,7 @@ Don't worry: each exercise is a very small part of your final grade.
 
 ### What if I get an incomplete on a paper prep assignment?
 
-If you get an incomplete because you failed to include a key element, just add it and resubmit. But please submit something by the deadline, because all paper prep assignments must be submitted by the (extended) deadline at minimum acceptable quality to pass the course.
+If you get an incomplete because you failed to include a key element, just add it and resubmit. But please submit something by the deadline: a complete-but-rough submission earns full credit, and all paper prep assignments must be completed at minimum acceptable quality to pass the course. [:what is minimum acceptable quality?](#x-what-is-minimum-acceptable-quality)
 
 ### What happens if I submit an assignment late?
 
@@ -96,7 +86,7 @@ If you're running short on time, it's better to submit something rough by the de
 
 Late exercises (E01-E12) are not a big deal. A missed item is a pretty small part of your grade.
 
-Late paper prep (P01, P04-P06) is also minor grade-wise, but you're not guaranteed feedback if it's turned in late.
+Late paper prep (P01-02, P04-07) is also minor grade-wise, but you're not guaranteed feedback if it's turned in late.
 
 Late drafts (P02, P07) are more costly. Beyond the completion credit, you'll typically lose your feedback and conference, which means you'll be writing your final paper without the individualized guidance other students received.
 
@@ -134,3 +124,7 @@ I look for evidence that you:
 - Identify and prioritize the key issues in your writing
 - Apply feedback from earlier assignments to improve later ones
 - Show accuracy and insight in your self-assessments
+
+##### :x what-is-minimum-acceptable-quality
+
+Minimum acceptable quality means the assignment earns at least 0.5 points. That happens as long as you submit it and I mark it complete within one week of the day I post marks for that assignment.

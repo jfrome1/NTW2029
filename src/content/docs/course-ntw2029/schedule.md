@@ -43,6 +43,13 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - EP and art topic: niche construction theory & intro to Evolutionary Psychology (EP)
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
+- Writing topic: explanation
+- Class media:
+- Additional resources:
+	- short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
+	- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
+	- [You've Been Lied To About Genetics](https://www.youtube.com/watch?v=zpIqQ0pGs1E) (14 min)
+		- _This one explains why it's a huge oversimplification to say that DNA is a "blueprint"; it's very interesting but in class we need to keep things simple enough for the non-expert class to discuss EP._
 
 ## 2.2 Thu 20 Aug 2026
 
@@ -264,9 +271,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
 
-## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, individual student conferences
+## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, Paper 2 reflection conferences
 
-###### Due five days after conference: P08 - Paper 2 Final
+###### Due five days after your draft conference: P08 - Paper 2 Final
 >
 
 ###### Due one day after Paper 2: E11 - Paper 2 Writing reflection (no extensions)

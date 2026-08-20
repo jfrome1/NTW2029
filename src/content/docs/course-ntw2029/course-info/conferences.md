@@ -1,10 +1,5 @@
 ---
 title: Conferences
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Overview
@@ -12,8 +7,8 @@ sidebar:
 This course includes three required conferences:
 
 - **Week 6**: Paper 1 draft conference
-- **Week 11**: Paper 2 explain positions conference
-- **Week 13**: Paper 2 draft conference
+- **Week 11**: Paper 2 draft conference
+- **Week 13**: Paper 2 reflection conference
 
 ## For a Productive Conference
 
