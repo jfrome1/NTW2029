@@ -45,6 +45,8 @@ The styles are in the `src/styles/custom` directory and are overwritten. The Nut
 
 ## Internal Markdown Links for Astro/Starlight
 
+Maintained together with `ntw2029 course design/standards/nutshell-vs-anchor-links.md` (AI-projects repo), which governs when the two disagree.
+
 For this e.g. file structure:
 .
 ├── src/
@@ -64,6 +66,7 @@ For this e.g. file structure:
 
 These will work for all pages as absolute links
 **(note: shown here as display examples, not functional links)**
+
 - page link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy)
 - heading link: Although we present a sample policy [here](/course-ntw2029/course-info/gen-ai-policy/#nus-general-genai-policy)
 - image link (from public folder): ![Another File](/images/add-another-file.png)
@@ -86,7 +89,7 @@ Hello
 
 ## Mermaid Diagrams
 
-How to use the `Mermaid` component within an Astro project to render Mermaid diagrams. This can only be used in *mdx* files
+How to use the `Mermaid` component within an Astro project to render Mermaid diagrams. This can only be used in _mdx_ files
 
 **Importing the Component:**
 
@@ -124,8 +127,8 @@ This document outlines how to use the `checkNutshellLinks.js` script for verifyi
 - **Purpose:** To check all `.md` files within a specified directory for broken or incorrect internal links.
 - **Steps:**
 
-  1.  **Replace Placeholder:** Modify the `YOUR_PATH_TO_FOLDER_HERE` in the following command with the actual path to your `NTW2029\src\content/docs` directory.
-  2.  **Execute Command:** Open your terminal or command prompt and run the following command:
+  1. **Replace Placeholder:** Modify the `YOUR_PATH_TO_FOLDER_HERE` in the following command with the actual path to your `NTW2029\src\content/docs` directory.
+  2. **Execute Command:** Open your terminal or command prompt and run the following command:
 
       ```bash
       node checkNutshellLinks.js {YOUR_PATH_TO_FOLDER_HERE}\NTW2029\src\content\docs
@@ -142,10 +145,10 @@ This document outlines how to use the `checkNutshellLinks.js` script for verifyi
 - **Purpose:** To create a VS Code task that allows you to quickly check the links in the currently active `.md` file.
 - **Steps:**
 
-  1.  **Open User Tasks:**
+  1. **Open User Tasks:**
       - Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS) to open the command palette.
       - Type `>Task` and select "Tasks: Open User Tasks".
-  2.  **Paste and Uncomment:**
+  2. **Paste and Uncomment:**
 
       - A `tasks.json` file will open.
       - Paste the following JSON code into the `tasks.json` file, replacing any existing content within the `tasks` array.
@@ -174,8 +177,8 @@ This document outlines how to use the `checkNutshellLinks.js` script for verifyi
       }
       ```
 
-  3.  **Save:** Save the `tasks.json` file.
-  4.  **Run Task: (If you completed the steps above)**
+  3. **Save:** Save the `tasks.json` file.
+  4. **Run Task: (If you completed the steps above)**
       - Open the `.md` file you want to check in VS Code.
       - Press `Ctrl+Shift+B` (or `Cmd+Shift+B` on macOS) to run the default build task.
       - The `checkNutshellLinks.js` script will execute, and any errors or warnings will be displayed in the terminal.
