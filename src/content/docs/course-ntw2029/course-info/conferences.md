@@ -51,8 +51,9 @@ The items below help us make the most of our conference time. Following them mea
 
 ### Starting the Conference
 
-- Join via Zoom: <https://nus-sg.zoom.us/my/jonathanfrome>
-	- NOTE: Your booking confirmation email includes a different Zoom link. Ignore it. Always use the link above (Meeting ID: 250 394 5161).
+- Join using the Zoom link in your booking confirmation email. Each conference has its own link, so use the one that came with the
+  booking you made.
+	- If you don't see me in the room at our scheduled time, wait 5 minutes, and then send me a Telegram message to figure out what's going on.
 - Email or message me if you have connection difficulties
 - I try to record all student interactions, but if you want to make sure that you can access a recording of the conference, you must remind me to record [:about recordings](#x-about-recordings)
 
@@ -104,7 +105,7 @@ To book your conference slot:
 3. Click the "Appointments" tab
 4. Browse the available time slots and select one that works for you
 5. Review the date and time in the pop-up, then click "Book"
-6. You'll receive an email confirmation with the Zoom meeting link
+6. You'll receive an email confirmation with the Zoom meeting link. Flag that email: that unique link is how you join the conference.
 
 ##### :x why this timing matters
 

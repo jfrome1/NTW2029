@@ -1,10 +1,5 @@
 ---
 title: E12 - Workload report
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Assignment

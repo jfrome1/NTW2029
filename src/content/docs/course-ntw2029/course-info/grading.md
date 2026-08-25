@@ -28,7 +28,7 @@ This category includes all exercises (E01-E12) and paper prep assignments (P01-0
 
 I mark an item complete if you:
 
-- Include at top: Your name, GenAI link/non-use statement, word count
+- Include at top: Your name, GenAI link/non-use statement, link to your Google Doc, word count
 - Include all required elements for that specific assignment
 
 The mark is about what's in your submission, not when it arrived. Timing is separate, below.

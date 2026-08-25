@@ -107,7 +107,7 @@ At your conferences, come prepared to discuss and answer questions about your pa
 
 ## What to submit with every assignment
 
-You must share all relevant chat links and Google Docs links for every assignment, and keep all of your chats and documents, as evidence that you've followed the course policies:
+You must share all AI links and Google Docs links for every assignment, and keep all of your chats and documents, as evidence that you've followed the course policies:
 
 At the top of every assignment, above the title:
 
@@ -118,6 +118,7 @@ Getting the links right:
 
 - Copy links using the share function, not the browser URL. Browser URLs do not work for anyone else.
 - Start a new chat for each assignment (P01 through P09 count as separate assignments). If you end up with more than one chat for an assignment, submit links to all of them.
+- Create your share links at the end, when you submit, after you've finished working on the assignment.
 
 ### What submitting your links says
 
@@ -213,16 +214,6 @@ For papers, DON'T FORGET your declaration and check all links, because lack of d
 
 No, you're not expected to use GenAI. If you don't use it, just state: "I did not use GenAI in any way for this assignment."
 
-<!-- ## 4. What you must be able to show -->
-
-<!-- ## Your record-keeping responsibilities -->
-
-<!-- The current policy relies on you providing records of your writing process, including your AI use, so I can use a broader range of information to evaluate what you have learned in the course. -->
-
-<!-- This course allows you to use GenAI as a conversation partner, but it cannot be used to actually write any of your assignments. While you are free to use ideas, feedback, explanations, or other conversational aspects of GenAI chats, you must be the author of all work you submit, as described below. -->
-
-<!-- ## What I collect, and what I do with it -->
-
 ##### :x why only these
 
 Whatever you do with GenAI has to happen somewhere that gives you a shareable link to the conversation itself, so I can read what you and the AI actually said. These are the chatbots that I have confirmed allow you to share links in a way that I can see them. If you want to use a different chatbot that allows share links, ask me, and don't use it until I've added it here.
@@ -243,7 +234,7 @@ When you submit, click Share, add my Google email address (jonathan.frome@gmail.
 
 ##### :x how to create an ai chat shared link
 
-Below are instructions for sharing ChatGPT links; others are similar. Check that your share links work by opening an incognito or private browser window and visiting the link.
+Below are instructions for sharing ChatGPT links; others are similar. Check your share links by opening an incognito or private browser window and visiting each one. Make sure each link opens and shows the entire conversation.
 
 First, click the share link icon:
 

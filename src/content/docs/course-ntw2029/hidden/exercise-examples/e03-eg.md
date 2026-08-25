@@ -1,11 +1,6 @@
 ---
 title: Exercise 3 example
 pagefind: false
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ### Boyd pages 51-55
