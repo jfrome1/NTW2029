@@ -282,6 +282,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due one day after Paper 2: E12 - Workload report, Nov (final)
 >
 
+The course's [policy fine print page](/course-ntw2029/hidden/other/fine-print/) spells out details of the policies stated on the course info pages, and is part of the course policies.
+
 ##### :x assigned videos
 
 - [What is Evolution?](https://youtu.be/GhHOjC4oxh8) (9 min)
@@ -307,10 +309,6 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Consider the EP arguments we have discussed so far in class. Are the arguments proposed in the readings effective challenges to these EP arguments?
 
 ##### :x goldfinch conclusion discussion questions
-
-1. Goldfinch describes the "moderate skeptic" as saying that "there's more to evolutionary theory than adaptationism." Here, "adaptationism" refers to EP's problem-solution framework: identify an adaptive problem, then hypothesize a psychological mechanism designed to solve it. The moderate skeptic argues this framework is too simplistic. What's Goldfinch's response to this position? Is it persuasive?
-
-2. Goldfinch describes the "strong skeptic" as focusing on EP failing to meet evidential standards (as in 2.7.4). Without this evidence, the skeptic argues, EP hypotheses are "just so stories." What's Goldfinch's response to this position? Is it persuasive?
 
 3. On page 200, Goldfinch says "This is the positive case for evolutionary psychology. The streamlined case." What is this positive case? What does Goldfinch argue EP can legitimately do?
 
