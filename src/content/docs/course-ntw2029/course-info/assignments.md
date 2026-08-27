@@ -50,6 +50,7 @@ You can also read the [:full formatting details](#x-full-formatting-details) to 
 - Highlight your thesis statement in yellow (2 consecutive sentences maximum)
 - Highlight all body paragraph topic sentences in light blue
 - Include reference list, start it on a new page at the end
+- Format the reference list so each source begins with a hanging indent (0.5 inches or 1.25 cm) [:how?](#x-hanging-indent)
 - Italicize all titles in both body text and reference list
 
 ## Exercises
@@ -80,23 +81,13 @@ Word count includes in-text citations but excludes the reference list.
 
 ### How do I remove comments from my document?
 
-If your submission has comments, you must remove them before submitting your paper. <span class="smaller-text">  [:Why do I need to remove comments?](#x-why-do-i-need-to-remove-comments) </span>
-
-To remove comments in Google Docs, click a comment, then click the three dots and choose Delete (or click Resolve). Repeat for each comment before downloading your document.
-
-<!-- [screenshot: deleting a comment in Google Docs] -->
-
-<!--
-1. Go to the Review tab
-2. In the Comments section, click the arrow under "Delete"
-3. Select [:"Delete All Comments in Document"](#x-delete-all-comments-in-document)
--->
+If your submission has comments, you must remove them before submitting your paper. [:how?](#x-how-to-remove-comments) <span class="smaller-text">  [:why?](#x-why-do-i-need-to-remove-comments) </span>
 
 ### What's the paper template?
 
 The paper template is a pre-formatted Google Doc that has all the correct formatting already set up for you: double-spacing, margins, indentation, font, and heading styles. Just make your own copy from the link above, save it with the name of your assignment, and start typing. The template handles first-line indentation, proper spacing between paragraphs, correct font and size, and title and reference list formatting. The commented version, also linked above, explains each formatting rule.
 
-<!-- #### What does "Remove extra space/blank line between paragraphs" mean? How do I do that? -->
+<!-- ### What does "Remove extra space/blank line between paragraphs" mean? How do I do that? -->
 
 <!-- #### Why is my Word document file so large? -->
 
@@ -108,40 +99,68 @@ The paper template is a pre-formatted Google Doc that has all the correct format
 
 **Required formatting:**
 
-- In your paragraph settings:
-	- Set up double-spacing with left justification only (not justified on both sides)
-	- Indent first line of each paragraph 0.5 inches or 1.25 cm
-	- Remove extra space/blank line between paragraphs (word processors often add this automatically)
-- Insert page numbers in the page footer
-
-<!-- ##### :x insert-page-numbers -->
-
-<!-- ##### :x insert-page-numbers -->
-
-- Use 12-point font
-
-<!-- ##### :x 12-point-font -->
-
-<!-- ##### :x 12-point-font -->
-
-- Set 1-inch or 2.5 cm margins on all sides
-
-<!-- ##### :x margins -->
-
-<!-- ##### :x margins -->
-
+- Insert page numbers in the page footer [:how?](#x-insert-page-numbers)
+- Use 12-point font [:how?](#x-12-point-font)
+- Double-space [:how?](#x-double-space)
+- Indent the first line of each paragraph [:how?](#x-first-line-indent)
+- Align text left [:how?](#x-align-text-left)
+- Set 1-inch or 2.5 cm margins on all sides [:how?](#x-margins)
 - Center paper title at top of first page (no separate title page)
 - Format citations and reference lists (when present) in APA style (see Citations page)
 
 There is no official grade bonus/penalty for correct/incorrect formatting, but exacting formatting is very important in publishing, and incorrect formatting suggests unprofessionalism.
 
-<!-- If you can't find the settings window you need, [:use Word function search](#x-use-word-function-search) -->
+If you can't find a setting, type its name into the [:Help menu's search box](#x-help-menus-search-box).
 
-<!-- If you can't find a setting, type its name into the [:Help menu's search box](#x-help-menus-search-box). -->
+##### :x insert-page-numbers
 
-<!-- ##### :x paragraph-settings -->
+In Google Docs, open Insert > Page numbers and choose an option that puts the number in the footer.
 
-<!-- ##### :x paragraph-settings -->
+![Insert menu with Page numbers](/images/gdocs-page-number.png)
+
+##### :x 12-point-font
+
+Set the font size box in the toolbar to 12.
+
+![Font size box in the Google Docs toolbar](/images/gdocs-font-size.png)
+
+##### :x double-space
+
+In Google Docs, open Format > Line & paragraph spacing to set double spacing
+
+![Line and paragraph spacing menu](/images/gdocs-double-spacing.png)
+
+##### :x first-line-indent
+
+For the first-line indent, open Format > Align & indent > Indentation options and set the Special indent to "First line", 0.5 inches or 1.25 cm.
+
+![Format menu path to Indentation options](/images/gdocs-indentation-options-menu.png)
+![Indentation options dialog with a first line indent](/images/gdocs-indentation-options-first-line.png)
+
+##### :x align-text-left
+
+To set left alignment, open Format > Align & indent and choose Left.
+
+![Align and indent menu with Left selected](/images/gdocs-align-left.png)
+
+##### :x margins
+
+In Google Docs, open File > Page setup and set all four margins to 1 inch or 2.5 cm.
+
+![File menu with Page setup](/images/gdocs-page-setup-menu.png)
+![Page setup dialog with margins](/images/gdocs-page-setup-margins.png)
+
+##### :x help-menus-search-box
+
+Open the Help menu and type what you're looking for (or press Alt+/), and Google Docs finds the menu item for you.
+
+![Searching the menus in Google Docs](/images/gdocs-search-icon.png)
+
+##### :x hanging-indent
+
+In Google Docs, open Format > Align & indent > Indentation options and set the Special indent to "Hanging", 0.5 inches or 1.25 cm.
+
+![Indentation options with Hanging selected](/images/gdocs-indentation-options-hanging.png)
 
 ##### :x why-do-i-need-to-remove-comments
 
@@ -150,3 +169,13 @@ Comments are like personal notes; they're for you, not your reader. It's profess
 ##### :x see-the-canvas-display-issue
 
 ![canvas comments blurred](/images/canvas-comments-blurred.jpg)
+
+##### :x how-to-remove-comments
+
+To remove comments in Google Docs, click the checkmark on each comment to mark it resolved, which removes it from your document. You have to do this one comment at a time; Google Docs has no way to remove all comments at once. (If you know of a way, tell me!)
+
+![Marking a comment resolved in Google Docs](/images/gdocs-comment-mark-resolved.png)
+
+To see every comment in one list while you work, choose View > Comments > Show all comments.
+
+![View menu path to Show all comments](/images/gdocs-show-all-comments.png)
