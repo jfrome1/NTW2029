@@ -14,7 +14,7 @@ This page describes how to write and submit assignments. For grading criteria, s
 
 ## Assignment Formatting Overview
 
-This table is a summmary; see sections below for detailed explanations.
+This table is a summary; see sections below for detailed explanations.
 
 | | Exercises (E01-E12) &<br>Paper prep other than drafts (P01, P04-P06) | Drafts (P02, P07) &<br>Final Papers (P03, P08) |
 |---|---|---|
@@ -26,14 +26,28 @@ This table is a summmary; see sections below for detailed explanations.
 
 ## Extension Policy
 
-- You may submit any assignment (except peer review) up to 12 hours late (i.e. automatic extension until noon the following day)
+- You may submit any assignment (except P06 and E11) up to 12 hours late (i.e. automatic extension until noon the following day)
+- If you submit during the extension window, Canvas may show your submission as "late" at first; don't worry, that will change. [:why?](#x-late-but-not-late)
 - No need to email me, explain, or apologize: I trust you have a good reason
 - Peer review assignments cannot be extended since delays affect classmates
 - Extensions apply to final papers
 - Any further extensions will be granted only for serious, documented circumstances
-- Any unauthorized late submissions may incur grade penalties up to one letter grade per day late <span class="smaller-text"> [:late assignment fine print](#x-late-assignment-fine-print) </span>
+- Any unauthorized late submissions may incur grade penalties up to one letter grade per day late
 
 If you're struggling with workload, come talk to me early and check [NUSC pastoral care resources](https://tinyurl.com/nuscpastoralcare).
+
+## Writing Requirements
+
+A few rules to follow for all academic writing in this class:
+
+- Write in full sentences and paragraphs (unless the assignment says otherwise)
+- Use proper grammar so I know errors aren't from carelessness
+- Use formal style like an essay, not a casual email
+- Choose simple, clear language over complex vocabulary
+- Don't use bold or italics for emphasis (a few exceptions exist; check with me if you're tempted)
+- Don't use emojis, arrows, bullet points, or exclamation points
+
+Although I don't follow these rules on my website or lecture notes, I do follow them in my academic writing.
 
 ## Formatting Requirements
 
@@ -57,18 +71,6 @@ You can also read the [:full formatting details](#x-full-formatting-details) to 
 
 Please don't spend more than two hours on any exercise (excluding reading time); they are for practice and learning, not for evaluating you.
 
-### Content Requirements for Exercises
-
-These requirements apply to the exercises (E01-E12) only. The paper prep assignments (P01-02, P04-07) are not exercises, so they follow the formatting requirements above but not the content requirements below.
-
-- Write in full sentences and paragraphs (unless the assignment says otherwise)
-- Use proper grammar so I know errors aren't from carelessness
-- Use formal style like an essay, not a casual email
-- Choose simple, clear language over complex vocabulary
-- Skip introductions and conclusions (exercises aren't full essays)
-- Don't quote or cite sources unless specifically requested
-- Don't do outside research
-
 ## Frequently Asked Questions
 
 ### What if I have technical problems during submission?
@@ -91,9 +93,9 @@ The paper template is a pre-formatted Google Doc that has all the correct format
 
 <!-- #### Why is my Word document file so large? -->
 
-##### :x late-assignment-fine-print
+##### :x late-but-not-late
 
-"up to one letter grade per day late" technically means "up to one letter grade penalty applied at 1 min late and an additional grade penalty applied after each additional 24-hour day"
+Canvas compares your submission time against the original deadline, because the automatic 12-hour extension isn't entered into Canvas until all submissions are in. Once I update the deadline, the late flag disappears. As long as your work is in before noon the day after the due date, it is not late.
 
 ##### :x full-formatting-details
 

@@ -271,9 +271,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
 
-## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, Paper 2 reflection conferences
-
-###### Due five days after your draft conference: P08 - Paper 2 Final
+###### Due five days after your draft conference, and two days before your reflection conference: P08 - Paper 2 Final
 >
 
 ###### Due one day after Paper 2: E11 - Paper 2 Writing reflection (no extensions)
@@ -281,6 +279,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ###### Due one day after Paper 2: E12 - Workload report, Nov (final)
 >
+
+## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, Paper 2 reflection conferences
 
 The course's [policy fine print page](/course-ntw2029/hidden/other/fine-print/) spells out details of the policies stated on the course info pages, and is part of the course policies.
 

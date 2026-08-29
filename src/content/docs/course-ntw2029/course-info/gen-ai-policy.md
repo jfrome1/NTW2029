@@ -21,7 +21,7 @@ Both of these goals rely on my ability to evaluate your writing and thinking ski
 
 AI has made it much harder to evaluate a student's writing and thinking abilities on the basis of the assignments they submit alone.
 
-Further, AI can also be used in ways that interfere with learning how to write and think. You can't learn to organize a paper if the AI makes the choices about how to organize. Thus, so the course allows some uses and prohibits others.
+Further, AI can also be used in ways that interfere with learning how to write and think. You can't learn to organize a paper if the AI makes the choices about how to organize. Thus, the course allows some uses and prohibits others.
 
 My policy is not anti-AI as a whole. I use GenAI in my work, and in this course, you can use GenAI as well. AI can be a useful tool for improving your writing. Using it is not shameful and will not make me think less of your ability. I just want you to use it in a way that allows us to achieve these main course goals of instruction and fairness.
 
@@ -111,8 +111,8 @@ You must share all AI links and Google Docs links for every assignment, and keep
 
 At the top of every assignment, above the title:
 
-- The link to the Google Doc you wrote the assignment in. [:how to share your documents](#x-how-to-share-your-documents)
 - Links to all of the chats you had while working on it, or, if you used no GenAI, the statement "I did not use GenAI in any way for this assignment." [:how to create an AI chat shared link](#x-how-to-create-an-ai-chat-shared-link)
+- The link to the Google Doc you wrote the assignment in. [:how to share your documents](#x-how-to-share-your-documents)
 
 Getting the links right:
 
@@ -146,11 +146,7 @@ Although it takes time for you to organize and provide these records, and it tak
 
 ## Academic honesty
 
-NUS defines plagiarism as presenting the work or ideas of another person or entity, including AI, as your own without proper attribution. Declaring your GenAI use is that attribution.
-
-So declaring matters twice over. Declare, and your use isn't plagiarism, whatever you used GenAI for. Don't declare, and your use is plagiarism, under the university's definition rather than under a rule I invented, and I have to treat the matter as an academic honesty issue rather than as a course penalty.
-
-Supplying a missing declaration later doesn't change that. Making an assignment complete fixes your grade for it; the academic honesty question is separate.
+NUS defines plagiarism as presenting the work or ideas of another person or entity, including AI, as your own without proper attribution. If you use AI, your declaration is that attribution. If you declare fully, you avoid plagiarism. If you declare inaccurately, you commit plagiarism.
 
 ## Frequently Asked Questions
 
@@ -226,12 +222,6 @@ While some of these services have a share button, the links usually just let oth
 
 Pasted text makes it much harder to tell whether you or AI wrote your work. While not foolproof, this requirement makes it less likely that someone will offload their writing to an AI and submit something they don't understand.
 
-##### :x how to share your documents
-
-Create a separate Google Doc for each assignment, and write the entire assignment in that doc. Google Docs keeps a version history automatically.
-
-When you submit, click Share, add my Google email address (jonathan.frome@gmail.com) [NOT my NUS address], set my access to Editor, and paste the document's link at the top of your submission alongside your chat links. Editor access is what lets me open the version history, and Viewer access isn't enough. The instructions for giving edit access are at https://processfeedback.org/docs/how-to-provide-edit-access-in-gdocs/.
-
 ##### :x how to create an ai chat shared link
 
 Below are instructions for sharing ChatGPT links; others are similar. Check your share links by opening an incognito or private browser window and visiting each one. Make sure each link opens and shows the entire conversation.
@@ -257,6 +247,12 @@ Don't copy the URL from your browser, since it won't work for others:
 Don't use the "copy link" option in GPT builder, since that links to the tool and not to your chat:
 
 ![don't copy this link](/images/chatgpt-dont-copy-link.png)
+
+##### :x how to share your documents
+
+Create a separate Google Doc for each assignment, and write the entire assignment in that doc. Google Docs keeps a version history automatically.
+
+When you submit, click Share, add my Google email address (jonathan.frome@gmail.com) [NOT my NUS address], set my access to Editor, and paste the document's link at the top of your submission alongside your chat links. Editor access is what lets me open the version history, and Viewer access isn't enough. The instructions for giving edit access are at https://processfeedback.org/docs/how-to-provide-edit-access-in-gdocs/.
 
 ##### :x why I ask for links
 

@@ -7,7 +7,7 @@ title: Conferences
 This course includes three required conferences:
 
 - **Week 6**: Paper 1 draft conference
-- **Week 11**: Paper 2 draft conference
+- **Week 12**: Paper 2 draft conference
 - **Week 13**: Paper 2 reflection conference
 
 ## For a Productive Conference
@@ -59,7 +59,7 @@ The items below help us make the most of our conference time. Following them mea
 
 ### After the Conference
 
-- Submit your conference summary the day you receive your conference link.
+- Submit your conference summary
 - Ask specific questions via email/Telegram [:what counts as a specific question?](#x-what-counts-as-a-specific-question)
 - You may request additional meetings, but my schedule is very tight during conference weeks.
 
@@ -91,10 +91,10 @@ Please do not change your booking on the day of the conference or without notify
 
 ---
 
-<p class="smaller-text">
-
-**Note on conference requirements:** Conferences require a submitted assignment, reviewed feedback, working audio/video, and a private space. If these basics aren't in place, we'll need to reschedule, and during busy conference weeks, another slot may not be available.
+<p class="smaller-text">Note on conference requirements: Conferences require a submitted assignment, reviewed feedback, working audio/video, and a private space. If these basics aren't in place, we'll need to reschedule, and during busy conference weeks, another slot may not be available.
 </p>
+
+<!-- ##### :x what if i see strange conference times -->
 
 ##### :x instructions
 
@@ -132,19 +132,3 @@ Notice how specific questions identify: (1) what you're trying to do, (2) what y
 ##### :x about recordings
 
 Recordings help you review feedback later and help me improve my teaching materials. Recordings are not guaranteed unless you request them at the start.
-
-##### :x what if i see strange conference times
-
-If you only see middle-of-night times, your Microsoft account timezone likely differs from Singapore time. To fix this:
-
-1. Sign into webmail at https://exchange.nus.edu.sg/
-2. Click the settings gear (top right)
-3. Navigate to General → Language and time
-4. Confirm that the timezone is UTC+08:00 Singapore
-   - If not Singapore: change to Singapore timezone
-   - If already Singapore: change to another timezone, then back to Singapore
-5. Under Calendar → View, check "Display my calendar in time zone"
-6. Click "Yes, update" if the button appears
-
-![timezone](/images/timezone.png)
-![yes-update](/images/yes-update.png)

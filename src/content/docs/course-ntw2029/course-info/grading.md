@@ -72,7 +72,7 @@ Before the due date: yes, as many times as you want. I only grade the most recen
 
 ### What if I get an incomplete on an exercise?
 
-Don't worry: each exercise is a very small part of your final grade.
+Don't worry: each item is a very small part of your final grade.
 
 ### What if I get an incomplete on a paper prep assignment?
 
@@ -80,7 +80,7 @@ If you get an incomplete because you failed to include a key element, just add i
 
 ### What happens if I submit an assignment late?
 
-I understand that sometimes things get away from you, and I'm not upset when it happens. All students get an automatic 12-hour extension on every deadline for any reason; no need to request it. Beyond that, I grant additional extensions only for serious documented circumstances (e.g., medical issues). Travel and CCAs are not grounds for additional extensions.
+I understand that sometimes things get away from you, and I'm not upset when it happens. All students get an automatic 12-hour extension on nearly every deadline for any reason; no need to request it. Beyond that, I grant additional extensions only for serious documented circumstances (e.g., medical issues). Travel and CCAs are not grounds for additional extensions.
 
 If you're running short on time, it's better to submit something rough by the deadline than to submit late. A complete-but-rough submission earns full credit. A late one earns 0.5, and you have until one week after I post marks to get it in.
 
