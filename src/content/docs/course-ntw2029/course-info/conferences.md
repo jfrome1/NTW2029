@@ -32,7 +32,7 @@ The items below help us make the most of our conference time. Following them mea
 
 - Note any feedback that's unclear
 - Identify any obstacles you need to overcome
-- Prepare specific questions about your draft [:what counts as a specific question?](#x-what-counts-as-a-specific-question)
+- Prepare specific questions about your draft
 
 ### Conference Setup
 
@@ -60,7 +60,7 @@ The items below help us make the most of our conference time. Following them mea
 ### After the Conference
 
 - Submit your conference summary
-- Ask specific questions via email/Telegram [:what counts as a specific question?](#x-what-counts-as-a-specific-question)
+- Ask specific questions via email/Telegram ([what counts as a specific question?](#what-counts-as-a-specific-question))
 - You may request additional meetings, but my schedule is very tight during conference weeks.
 
 ## Frequently Asked Questions
@@ -89,6 +89,24 @@ Yes, but I can't do it for you. Cancel your existing booking and make a new one.
 
 Please do not change your booking on the day of the conference or without notifying me. I schedule the order of feedback reviews based on conference times, so last-minute changes make things difficult for me.
 
+### What counts as a specific question?
+
+Vague questions ask for reassurance without identifying a specific problem. Specific questions show you've identified what you're trying to achieve and where you're stuck.
+
+**Vague questions (avoid):**
+
+- "Is my intro ok?"
+- "Which source should I choose?"
+- "Does this paragraph work?"
+
+**Specific questions (productive):**
+
+- "I can't figure out how to introduce ideas X and Y in this paragraph but still connect the sentences smoothly. [quotes 2-3 sentences] Can you suggest anything?"
+- "You said to make my thesis less descriptive. Is this revised version better?"
+- "You said I needed to connect my examples to my main point. I added this sentence [quotes it]. Does it do that?"
+
+Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance.
+
 ---
 
 <p class="smaller-text">Note on conference requirements: Conferences require a submitted assignment, reviewed feedback, working audio/video, and a private space. If these basics aren't in place, we'll need to reschedule, and during busy conference weeks, another slot may not be available.
@@ -110,24 +128,6 @@ To book your conference slot:
 ##### :x why this timing matters
 
 Feedback sometimes arrives just two hours before your conference. If you're busy up until the conference, you won't be able to review the feedback by conference time, which is essential for a productive conference.
-
-##### :x what counts as a specific question
-
-Vague questions ask for reassurance without identifying a specific problem. Specific questions show you've identified what you're trying to achieve and where you're stuck.
-
-**Vague questions (avoid):**
-
-- "Is my intro ok?"
-- "Which source should I choose?"
-- "Does this paragraph work?"
-
-**Specific questions (productive):**
-
-- "I can't figure out how to introduce ideas X and Y in this paragraph but still connect the sentences smoothly. [quotes 2-3 sentences] Can you suggest anything?"
-- "You said to make my thesis less descriptive. Is this revised version better?"
-- "You said I needed to connect my examples to my main point. I added this sentence [quotes it]. Does it do that?"
-
-Notice how specific questions identify: (1) what you're trying to do, (2) what you've already attempted, and (3) where exactly you need guidance.
 
 ##### :x about recordings
 

@@ -30,6 +30,7 @@ NOTE: Check these daily. If you don't, you will miss something.
 - Attend every class meeting; let me know in advance about any misses
 - Sign the attendance sheet every class (make sure to sign if you come in late!)
 - Please get notes from classmates for missed content and ask me any follow-up questions you have
+- Peer review classes need you there in person: your group is counting on you to read and respond to their drafts, and nobody else can do that for them. If you can't make one, you are expected to arrange a time to provide peer review to your groupmates outside of class.
 
 ### During Class
 

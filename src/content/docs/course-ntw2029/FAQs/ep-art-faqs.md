@@ -27,7 +27,7 @@ Niche Construction Theory is not a behavior or an aspect of an organism: it's a 
 
 ### Does NCT mean humans stopped evolving?
 
-We didn't "stop" evolving, but we changed our environment so quickly that biological evolution couldn't keep up. For all practical purposes, biological evolution can't explain explain or predict additional changes in observable human traits. Cultural evolution has largely replaced biological evolution for humans; we solve problems with technology and social changes rather than waiting for genetic changes. These rapid environmental changes are why we're "mismatched" to modern life.
+We didn't "stop" evolving, but we changed our environment so quickly that biological evolution couldn't keep up. For all practical purposes, biological evolution can't explain or predict additional changes in observable human traits. Cultural evolution has largely replaced biological evolution for humans; we solve problems with technology and social changes rather than waiting for genetic changes. These rapid environmental changes are why we're "mismatched" to modern life.
 
 ### How does ecological inheritance work?
 
@@ -139,7 +139,9 @@ Cooperation can increase survival! The Prisoner's Dilemma shows how cooperation 
 
 ### Can you explain the part about kin selection in bees in [Are Genes Really Selfish? - Instant Egghead #57](https://www.youtube.com/watch?v=8ZlOjVtnRx4&t=119s)?
 
-That part in the video is confusing because it doesn't really explain the part about "a strange fact about honey bee genetics..."  the queen and the female drones have two sets of bars while the male drones have only one set of bars? The bars are their genes: female bees have 2x the number of genes as male bees. Because male and female be have different numbers of genes, female bees share on average 75% of their genes with their sisters, but would share only 50% of genes on average with their own children, if they had children. This difference is supposed to explain why female bees evolved do not have their own children, but instead help the queen reproduce have children. The female bees "altruistically "don't spend time creating children or raising them, instead helping the Queen create and raise children (their "sisters"). The video suggests that this behavior evolved because it, on average, produces more copies of the female bees' genes.
+That part in the video is confusing because it doesn't really explain the "strange fact about honey bee genetics" it mentions. The fact is that female bees carry two copies of each gene, where male bees carry only one. That's what the bars underneath the bees in the video represent: the queen and the worker bees, which are all female, have two sets of bars, while the drones, which are male, have only one.
+
+That fact is the basis for the video's numbers: sisters share on average 75% of their genes with each other, but would share only 50% of their genes with their own children, if they had any. That difference is supposed to explain why worker bees evolved not to have children of their own, and to help the queen have children instead. The workers "altruistically" don't spend time creating or raising their own children, and instead help the queen create and raise hers (the workers' "sisters"). The video suggests that this behavior evolved because, on average, it produces more copies of the workers' genes.
 
 ### What's the free-rider problem?
 

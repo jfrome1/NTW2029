@@ -23,7 +23,7 @@ Strong students take ownership of improving their skills. Weaker students want m
 Good conferences happen when you come prepared. Before we meet:
 
 - Review the assignment and your submission
-- Write down specific questions (not _"what should I fix?"_) [:what counts as a specific question](/course-ntw2029/course-info/conferences/#x-what-counts-as-a-specific-question)
+- Write down specific questions (not "what should I fix?") [what counts as a specific question?](/course-ntw2029/course-info/conferences/#what-counts-as-a-specific-question)
 - Identify the hardest part for you
 
 During our video conference:
