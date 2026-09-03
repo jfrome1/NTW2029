@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-08-14
+lastUpdated: 2026-09-03
 lastEvaluated: 2026-06-18
 writingClarityEvaluated: 2026-06-18
 ---
@@ -31,6 +31,8 @@ The rule covers page bodies only. Astro configuration, components, styles, and e
 ## Commands
 
 This project uses pnpm, not npm. Always use `pnpm` for installs and scripts; do not run `npm install` or `npm run ...`. The available scripts are listed in `package.json`.
+
+pnpm 11 applies a one-day install cooldown by default (`minimumReleaseAge`, 1440 minutes), so a package version published less than a day ago will not resolve. `pnpm-workspace.yaml` carries a `minimumReleaseAgeExclude` list of exact versions because the cooldown blocked those versions during the 2026-07-30 Astro 7 upgrade; the exclusions are pinned to those versions and do not loosen later installs. When a fresh release blocks an install, add that exact version to the list rather than turning the cooldown off, since the cooldown is the repo's guard against installing a freshly poisoned package. Dependabot's version-update PRs carry GitHub's default cooldown of 3 days on top.
 
 Do not run `pnpm build` without explicit user approval. Content review and editing does not require building.
 
