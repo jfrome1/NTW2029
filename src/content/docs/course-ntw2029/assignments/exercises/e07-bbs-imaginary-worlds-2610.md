@@ -28,7 +28,7 @@ Read "Why imaginary worlds? The psychological foundations and cultural evolution
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations. No word count requirements.
+Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations, but no reference list is needed. No word count requirements.
 
 1. The phenomenon: What specific success/trend about imaginary worlds do the authors document? (pp. 1-2, give 2 examples of this trend)
 2. The "they say": According to the Author's Response (pp. 64-65), what is the "information hypothesis" that other scholars believe about why we consume fiction? Why do D&B think this explanation fails for imaginary worlds specifically?

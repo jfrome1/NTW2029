@@ -22,11 +22,12 @@ Copy and paste the questions below into a document and type your answer below ea
 1. What parts of your paper are you most proud of and why?
 2. What parts of the paper do you think still need improvement and why?
 3. What were the two or three biggest changes you made on your draft after our conference?
-4. Did you use AI? If yes, how did you do so and how helpful was it?
-5. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
-6. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
-7. In general, what was the biggest challenge in writing this paper?
-8. What did you learn from writing this paper that you will apply to future writing assignments?
+4. Were there any pieces of feedback you couldn't address? If so, why? (time constraints, unclear how, tried and failed, contradictory feedback, solving one creates another problem, etc.)
+5. Did you use AI? If yes, how did you do so and how helpful was it?
+6. Did you consult others for feedback? If yes, how did you do so and how helpful was it?
+7. Was there any specific aspect of writing (e.g. topic sentences, illustrative examples, unclear referents) that you found particularly challenging to deal with?
+8. In general, what was the biggest challenge in writing this paper?
+9. What did you learn from writing this paper that you will apply to future writing assignments?
 
 Include a GenAI link/non-use statement (required) but not a word count.
 

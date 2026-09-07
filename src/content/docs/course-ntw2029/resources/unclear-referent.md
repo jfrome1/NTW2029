@@ -1,10 +1,5 @@
 ---
 title: Unclear referents and ambiguous pronouns
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 Try to follow this argument:

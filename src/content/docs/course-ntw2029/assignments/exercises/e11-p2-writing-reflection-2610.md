@@ -24,11 +24,12 @@ Copy and paste the questions below into a document and type your answer below ea
 3. What guidance would you give future students about strategies to use and to avoid in writing this paper?
 4. What parts of your paper are you most proud of and why?
 5. What aspect of Paper 2 (from any assignment P04-P08) was most challenging to fulfill? Do you have any suggestions for how to make this aspect easier for future students?
-6. What's one thing you now know about analyzing scholarly disagreements that you didn't know before writing this paper?
-7. Paper 2 asks you to explain both positions accurately without arguing for one side. Where in your writing process did you find this most difficult, and what did you do about it?
-8. You'll encounter scholarly disagreements in future courses. Based on writing this paper, what's your plan for approaching them?
-9. Do you have any suggestions about how to make the P2 assignment more effective as a learning experience?
-10. What were the one or two most significant things you learned in or skills you developed in this course?
+6. Were there any pieces of feedback you couldn't address? If so, why? (time constraints, unclear how, tried and failed, contradictory feedback, solving one creates another problem, etc.)
+7. What's one thing you now know about analyzing scholarly disagreements that you didn't know before writing this paper?
+8. Paper 2 asks you to explain both positions accurately without arguing for one side. Where in your writing process did you find this most difficult, and what did you do about it?
+9. You'll encounter scholarly disagreements in future courses. Based on writing this paper, what's your plan for approaching them?
+10. Do you have any suggestions about how to make the P2 assignment more effective as a learning experience?
+11. What were the one or two most significant things you learned in or skills you developed in this course?
 
 Include a GenAI link/non-use statement at the top of your assignment (required) but not a word count.
 

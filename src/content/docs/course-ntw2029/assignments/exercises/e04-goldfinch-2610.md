@@ -16,7 +16,9 @@ Explain section 2.7.4 of Andrew Goldfinch's _Rethinking Evolutionary Psychology_
 
 - Keep your explanation under 500 words.
 - Write no introduction and no conclusion.
-- Attribute every idea to its author in your text. Citations aren't necessary for this exercise.
+- Attribute every idea to its author in your text.
+- Use only this one source
+- Do not use quotations longer than 5 words each (none are required). No citations.
 
 ## Guidelines
 

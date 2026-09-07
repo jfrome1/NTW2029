@@ -1,10 +1,5 @@
 ---
 title: Grammar and style
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 This page provides grammar and style information that I can quickly refer to when providing feedback.

@@ -1,10 +1,5 @@
 ---
 title: Citations
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## How Academic Citation Works

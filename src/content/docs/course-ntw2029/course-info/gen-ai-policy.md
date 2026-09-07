@@ -112,7 +112,7 @@ You must share all AI links and Google Docs links for every assignment, and keep
 At the top of every assignment, above the title:
 
 - Links to all of the chats you had while working on it, or, if you used no GenAI, the statement "I did not use GenAI in any way for this assignment." [:how to create an AI chat shared link](#x-how-to-create-an-ai-chat-shared-link)
-- The link to the Google Doc you wrote the assignment in. [:how to share your documents](#x-how-to-share-your-documents)
+- The link to the Google Doc you wrote the assignment in, shared with me as Editor. [:how to share your documents](#x-how-to-share-your-documents)
 
 Getting the links right:
 
@@ -252,7 +252,13 @@ Don't use the "copy link" option in GPT builder, since that links to the tool an
 
 Create a separate Google Doc for each assignment, and write the entire assignment in that doc. Google Docs keeps a version history automatically.
 
-When you submit, click Share, add my Google email address (jonathan.frome@gmail.com) [NOT my NUS address], set my access to Editor, and paste the document's link at the top of your submission alongside your chat links. Editor access is what lets me open the version history, and Viewer access isn't enough. The instructions for giving edit access are at https://processfeedback.org/docs/how-to-provide-edit-access-in-gdocs/.
+When you submit:
+
+1. Click Share.
+2. Type my Google address, jonathan.frome@gmail.com, into the "Add people" box. Don't use my NUS address.
+3. Change the dropdown beside my address from "Viewer" to "Editor". Google sets that dropdown to "Viewer" when you add someone, so it will already look filled in. Viewer access isn't enough: Editor access is what lets me open the version history.
+4. Click Send.
+5. Paste the document's link at the top of your submission alongside your chat links.
 
 ##### :x why I ask for links
 

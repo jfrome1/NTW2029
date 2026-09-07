@@ -1,10 +1,5 @@
 ---
 title: Topic Sentences
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Summary

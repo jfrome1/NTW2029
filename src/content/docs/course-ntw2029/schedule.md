@@ -45,6 +45,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 	- Read: Badcock, Christopher. _Evolutionary Psychology: A Critical Introduction_. Cambridge, England: Polity, 2000. 11-13 [download](/downloads/badcockEEA-11-13.pdf)
 - Writing topic: explanation
 - Class media:
+	- [Ecological Niche](https://www.youtube.com/watch?v=N4vUa5FmtcY) (2 min)
+	- [What Happened Before History? Human Origins YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o) (first 6 min)
 - Additional resources:
 	- short excerpt on Niche Construction Theory from Dunbar, R., Barrett, L., & Lycett, J. (2005). _Evolutionary psychology: A beginner's guide_. Oneworld. [download](/downloads/nct-dunbarEvolutionaryPsychologyBeginner2005.pdf)
 	- [Is Height Genetic?](https://www.youtube.com/watch?v=0cuO5OSDMbw&list=PLsmqeqKj7M-rZTTXNXuL07poGP5B6TKKu&index=50) (7 min)
@@ -66,6 +68,10 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: analyzing arguments, engaging with sources
 	- Read (recommended):
 		- _COR_, 6, "Engaging Sources," 85-105
+- Class media:
+	- [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg) (7 min)
+	- [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw) (6 min)
+	- [golden balls. the weirdest split or steal ever!](https://www.youtube.com/watch?v=S0qjK3TWZE8) (7 min)
 
 ###### Due Sun 23 Aug 2026: E03 - Explain Boyd
 >
@@ -98,6 +104,9 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 		- [:Pinker discussion questions](#x-pinker-discussion-questions)
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
+- Class media:
+	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
+	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
 
 ## 4.2 Thu 3 Sep 2026
 
@@ -281,6 +290,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 >
 
 ## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, Paper 2 reflection conferences
+
+Mon 9 Nov 2026 is the Deepavali holiday, so reflection conferences this week run Tue 10 Nov to Fri 13 Nov.
 
 The course's [policy fine print page](/course-ntw2029/hidden/other/fine-print/) spells out details of the policies stated on the course info pages, and is part of the course policies.
 

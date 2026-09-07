@@ -36,7 +36,7 @@ Then, read "Origins of music in credible signaling" (Mehr et al., 2021):
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations. No word count requirements.
+Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations, but no reference list is needed. No word count requirements.
 
 1. The puzzle: Both articles address the same evolutionary puzzle about music. What is it? Why is this puzzling from an evolutionary perspective?
 
