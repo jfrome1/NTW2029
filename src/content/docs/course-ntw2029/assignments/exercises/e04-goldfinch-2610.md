@@ -58,4 +58,4 @@ Example Goldfinch explanations of 2.7.1 to 2.7.3 will be posted here after class
 
 An example explanation of 2.7.4 will be posted here after the exercise 4 deadline.
 
-<!-- [Example explanation of 2.7.4](/course-ntw2029/hidden/exercise-examples/e04-eg-4) -->
+[Example explanation of 2.7.4](/course-ntw2029/hidden/exercise-examples/e04-eg-4)
