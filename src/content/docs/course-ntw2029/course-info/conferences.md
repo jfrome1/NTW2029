@@ -7,6 +7,9 @@ title: Conferences
 This course includes three required conferences:
 
 - **Week 6**: Paper 1 draft conference
+
+Book a slot here: https://scheduler.zoom.us/jonathan-frome-meeting/p02-conference
+
 - **Week 12**: Paper 2 draft conference
 - **Week 13**: Paper 2 reflection conference
 
@@ -18,7 +21,10 @@ The items below help us make the most of our conference time. Following them mea
 
 **Book your conference:**
 
-- Book your conference through the Zoom tool on Canvas once times are available [:instructions](#x-instructions)
+- Book your conference using the links above
+
+<!-- ##### :x instructions -->
+
 - Check times carefully: schedule when you can review feedback during the 2 hours before we meet [:why this timing matters](#x-why-this-timing-matters)
 
 <!-- - [:What if I see strange conference times?](#x-what-if-i-see-strange-conference-times) - this was for troubleshooting time zone issues with Microsoft Booking, not Zoom -->
@@ -113,17 +119,6 @@ Notice how specific questions identify: (1) what you're trying to do, (2) what y
 </p>
 
 <!-- ##### :x what if i see strange conference times -->
-
-##### :x instructions
-
-To book your conference slot:
-
-1. Open Canvas and go to your NTW2029 course
-2. Click "Zoom" in the left navigation menu
-3. Click the "Appointments" tab
-4. Browse the available time slots and select one that works for you
-5. Review the date and time in the pop-up, then click "Book"
-6. You'll receive an email confirmation with the Zoom meeting link. Flag that email: that unique link is how you join the conference.
 
 ##### :x why this timing matters
 
