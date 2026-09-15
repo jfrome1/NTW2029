@@ -1,10 +1,5 @@
 ---
-title: E05 - P02 conference report (draft)
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
+title: E05 - Paper 1 Conference report
 ---
 
 ## Purpose
@@ -25,18 +20,15 @@ Copy and paste the following questions into a document and type answers below ea
 4. Are there any next steps that you don't currently know how to make progress on?
 5. (optional) Do you have any other comments or feedback?
 
-Include a GenAI link/non-use statement (required) but not a word count.
-
 ## Guidelines
 
 - Be specific when describing feedback points: reference particular sections or issues in your draft
-- Your answer to question 3 should focus on the most important planned changes (you don't need to address every point of feedback), but don't be vague and formulate an actual, specific plan (e.g. not "I plan to revise the introduction" but "I plan to revise the introduction to make sure it does [function 1] and [function 2]")
+- Your answer to question 3 should focus on the most important planned changes (you don't need to address every point of feedback), but don't be vague, and formulate an actual, specific plan (e.g. not "I plan to revise the introduction" but "I plan to revise the introduction to make sure it does [function 1] and [function 2]")
 
 ### Getting help
 
 - Don't ask me questions in this assignment; if you want me to answer, email or message me separately
-
-<!-- - After this conference, I encourage questions about your revision process. See [what kinds of questions I can answer](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question) and [why I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-my-revisions-for-more-feedback). -->
+- After this conference, you may ask me [specific questions](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question), but [I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-my-revisions-for-more-feedback).
 
 ## Feedback
 
