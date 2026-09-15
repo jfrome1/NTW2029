@@ -32,4 +32,4 @@ Copy and paste the following questions into a document and type answers below ea
 
 ## Feedback
 
-This exercise won't receive individual comments but will inform my understanding of your writing development process.
+This exercise won't receive individual comments but will inform my understanding of your writing development process (15% of final grade).
