@@ -1,5 +1,5 @@
 ---
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-17
 lastEvaluated: 2026-06-18
 writingClarityEvaluated: 2026-06-18
 ---
@@ -54,7 +54,7 @@ Before responding, check if the prompt involves these topics. If so, load the co
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | FAQ, nutshell, anchor link, content placement                           | `{AI_PROJECTS}/ntw2029 course design/standards/nutshell-vs-anchor-links.md`                    |
 | link syntax, markdown links, heading ID                                 | `{AI_PROJECTS}/ntw2029 course design/references/link-syntax-quick-reference.md`                |
-| astro.config.mjs, build config, astro-compress, sidebar missing, page not appearing, draft frontmatter, content entry error, responsive CSS not applying, Vercel deployment or build logs, ignored build step, rehype plugins, site URL, log in to the site, inspect the live site, view as a student | `{AI_PROJECTS}/ntw2029 course design/context/project-website-context.md`                       |
+| astro.config.mjs, build config, astro-compress, sidebar missing, page not appearing, broken or missing image, dev server not showing a change, restarting pnpm dev, draft frontmatter, content entry error, responsive CSS not applying, Vercel deployment or build logs, ignored build step, rehype plugins, site URL, log in to the site, inspect the live site, view as a student | `{AI_PROJECTS}/ntw2029 course design/context/project-website-context.md`                       |
 | local build fails, node_modules, pnpm, corepack, packageManager pin, parseCookie error, Starlight schema error on build | `{AI_PROJECTS}/pc-management/references/per-machine-dependencies.md`                            |
 | writing style, student email, post-class feedback, course document tone | `{AI_PROJECTS}/ntw2029 course design/standards/JF_Frome_writing_style.md`                      |
 | assignment structure, assignment template, creating assignment          | `{AI_PROJECTS}/ntw2029 course design/standards/assignment-template.md`                         |
