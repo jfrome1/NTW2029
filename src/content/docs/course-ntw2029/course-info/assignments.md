@@ -53,7 +53,11 @@ Although I don't follow these rules on my website or lecture notes, I do follow 
 
 ### For All Assignments
 
-Follow my formatting guidelines for all assignments (except E12, workload log). The easiest way is to click the [paper template](https://docs.google.com/document/d/1u9bOmm7CrG-7OAkI4pdCZHZnY1mTRRqhC07wy-Ydp58/copy) and make your own copy when Google offers it. Save the copy with the name of your assignment and replace the sample text with your own. To see what the formatting rules are, read the [commented version of the template](https://docs.google.com/document/d/1Eobn1JAuOYIqXzhTAyoNT2OJeIWTWR5I8psLWyLGmcA/edit), which explains each formatting rule in margin comments.
+Follow my formatting guidelines for all assignments (except E12, workload log). The easiest way is to click the [paper template](https://docs.google.com/document/d/1u9bOmm7CrG-7OAkI4pdCZHZnY1mTRRqhC07wy-Ydp58/copy) and make your own copy when Google offers it. Save the copy with the name of your assignment and replace the sample text with your own.
+
+Before you submit, put your paper next to the template and make sure they match, because deleting the sample text can remove some of the template's formatting. Fix any discrepancies using the instructions below under "full formatting details".
+
+To see what the formatting rules are, read the [commented version of the template](https://docs.google.com/document/d/1Eobn1JAuOYIqXzhTAyoNT2OJeIWTWR5I8psLWyLGmcA/edit), which explains each formatting rule in margin comments.
 
 If you use margin comments as part of your editing process, remember to remove them before submitting the assignment.
 
@@ -88,6 +92,28 @@ If your submission has comments, you must remove them before submitting your pap
 ### What's the paper template?
 
 The paper template is a pre-formatted Google Doc that has all the correct formatting already set up for you: double-spacing, margins, indentation, font, and heading styles. Just make your own copy from the link above, save it with the name of your assignment, and start typing. The template handles first-line indentation, proper spacing between paragraphs, correct font and size, and title and reference list formatting. The commented version, also linked above, explains each formatting rule.
+
+### How do I make sure that my document displays correctly for English?
+
+If you've been directed here, your document's default language is set to an East Asian language, usually because that is the interface language of your Google Docs or Word. That setting is fine in itself, but it changes how lines break: English words get split in the middle, with no hyphen, at the end of a line. [:what this looks like](#x-east-asian-word-breaks)
+
+You don't need to resubmit, but please fix this in future assignments. You can fix it in two ways, depending on where your document is now.
+
+If you are still working in Google Docs, set the document language there and it will carry into the file you download (this doesn't affect the Google menu/interface language):
+
+1. Go to **File > Language** and choose an English variety
+2. Download the file with **File > Download > Microsoft Word (.docx)**
+
+If you have already downloaded your .docx, fix it in Word instead:
+
+1. Select the whole document: **Ctrl+A** (**Cmd+A** on Mac)
+2. On the **Home** tab, click the small arrow at the bottom-right corner of the **Paragraph** group to open the Paragraph dialog
+
+3. Open the **Asian Typography** tab
+4. Uncheck **Allow Latin text to wrap in the middle of a word**
+5. Click **OK**, then save your document again
+
+Your English words should now stay whole at the end of a line.
 
 <!-- ### What does "Remove extra space/blank line between paragraphs" mean? How do I do that? -->
 
@@ -181,3 +207,7 @@ To remove comments in Google Docs, click the checkmark on each comment to mark i
 To see every comment in one list while you work, choose View > Comments > Show all comments.
 
 ![View menu path to Show all comments](/images/gdocs-show-all-comments.png)
+
+##### :x east-asian-word-breaks
+
+![A justified paragraph in which English words are split in the middle at the end of each line](/images/east-asian-word-breaks.png)
