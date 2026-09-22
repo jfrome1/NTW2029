@@ -12,7 +12,7 @@ Answer the following questions about the conference feedback and your revision p
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences:
+Copy and paste the questions below into a document and type your answer below each question, in full sentences. Keep the questions numbered:
 
 1. What were the two or three most important points of feedback on your draft?
 2. What other points of feedback were discussed?

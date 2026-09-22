@@ -43,4 +43,4 @@ Include a GenAI link/non-use statement at the top of your assignment (required) 
 
 ## Feedback
 
-This exercise won't receive individual comments but will inform my understanding of your writing development process and help improve the course for future students.
+This exercise won't receive individual comments but will inform my understanding of your writing development process (15% of final grade) and help improve the course for future students.
