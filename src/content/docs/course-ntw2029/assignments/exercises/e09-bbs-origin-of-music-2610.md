@@ -1,10 +1,5 @@
 ---
 title: "E09 - Reading questions: Origin of music"
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
@@ -36,7 +31,7 @@ Then, read "Origins of music in credible signaling" (Mehr et al., 2021):
 
 ## Requirements
 
-Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations, but no reference list is needed. No word count requirements.
+Copy and paste the following questions into a document and type answers below each question, in full sentences. Keep the questions numbered. Include page numbers for any quotations, but no reference list is needed. No length requirements (but report word count).
 
 1. The puzzle: Both articles address the same evolutionary puzzle about music. What is it? Why is this puzzling from an evolutionary perspective?
 
@@ -46,13 +41,11 @@ Copy and paste the following questions into a document and type answers below ea
 
 4. Mehr challenges byproduct: Mehr presents six arguments against the byproduct hypothesis (section 3.1). Choose the TWO arguments you find most persuasive. For each, briefly explain: (a) what the argument claims, and (b) why you find it persuasive or what makes it strong.
 
-5. Mehr challenges social bonding: Explain Mehr's free-rider critique in section 3.2.2 (see guidelines below for help). According to Mehr, how do these explanations confuse proximate with ultimate causes? What is their point about free-riders and how does it challenge the social bonding hypothesis?
+5. Mehr challenges social bonding: Explain Mehr's free-rider critique in section 3.2.2 (see guidelines below for help). According to Mehr, how do these explanations confuse proximate with ultimate causes? What is his point about free-riders and how does he think it challenges the social bonding hypothesis?
 
 6. Evaluating efficiency: In section 3.2.3, Mehr argues music is "poorly designed" for group coordination compared to language. Explain his reasoning using the coxswain example. Do you find this argument persuasive? Why or why not?
 
 7. Finding gaps: Choose ONE of Mehr's critiques (from 3.1, 3.2.2, or 3.2.3) and identify one assumption he makes or one piece of evidence he would need to make his argument stronger. Use this template: "Mehr argues that [X] proves [Y], but this assumes [Z is true / doesn't explain why W]."
-
-Include a GenAI link/non-use statement (required) but not a word count.
 
 ## Guidelines
 

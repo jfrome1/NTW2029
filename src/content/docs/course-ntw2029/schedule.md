@@ -181,7 +181,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 				- Pages 1-3 (Introduction & section 2)
 				- Pages 4-5 (section 3 - just first and last paragraphs)
 				- Pages 63-65 (Author's Response sections R1.1, R1.1.1, R1.1.2, and R1.2)
-				- Skim the rest of the article by just reading topic sentences
+				- (Recommended) Skim the rest of the article by just reading topic sentences
 				- (Recommended) search for (Ctrl+F) and read sentences with "we argue that", "we propose", and "we hypothesize"
 - Writing topic: none
 	- Read before class (recommended):
@@ -199,7 +199,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - Devices may be used in this class meeting
 - EP and art topic: enjoyment of negative emotions in art
-	- Read before class: (pages TBD)
+	- Read before class: (sections listed in E08)
 		- Menninghaus, W., Wagner, V., Hanich, J., Wassiliwizky, E., Jacobsen, T., & Koelsch, S. (2017). The Distancing-Embracing model of the enjoyment of negative emotions in art reception. _Behavioral and Brain Sciences_, 40. https://doi.org/10.1017/S0140525X17000309 [download](/downloads/menninghausDistancingEmbracingModelEnjoyment2017.pdf)
 - Writing topic: none
 	- Read before class (recommended): none
@@ -211,7 +211,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - Devices may be used in this class meeting
 - EP and art topic: evolution of music
-	- Read before class: (pages TBD)
+	- Read before class: (sections listed in E09)
 		- Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. _Behavioral and Brain Sciences_, 44, e60. https://doi.org/10.1017/S0140525X20000345
 		- Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. _Behavioral and Brain Sciences_, 44, e59. https://doi.org/10.1017/S0140525X20000333
 		- download both articles and commentary in one file: [download](/downloads/savage-mehrMusicEvolution.pdf)
