@@ -3,12 +3,11 @@ title: Paper 2 - Reflections from Previous Students
 pagefind: false
 ---
 
-These are reflections from students who completed Paper 2 last term that offer perspectives on that paper.
-Don't read these as instructor guidance you must follow. These are suggestions from other students, and their experiences may differ from yours, but you may find some of their observations useful as you work through the assignment.
+These are reflections from former students, not instructor guidance, and their experiences may differ from yours. However, you may find some of their observations useful as you work through the assignment.
 
 ## Reading and understanding the articles
 
-"My biggest advice would be to do multiple close readings of the target article and the commentary (especially the target article) before thinking about the analysis. Between P04 and P09, I did around 5 close readings of the target article, and I found something noteworthy that I hadn't previously noticed each time. The re-readings helped my analysis a lot."
+"My biggest advice would be to do multiple close readings of the target article and the commentary (especially the target article) before thinking about the analysis. Between the first assignment and final paper, I did around 5 close readings of the target article, and I found something noteworthy that I hadn't previously noticed each time. The re-readings helped my analysis a lot."
 
 "I think that being able to explain something clearer comes naturally with actually understanding the paper logically. I found it difficult to explain at the start, but after struggling and having spent over a long time on the materials, I find it is easier to explain things clearly. So do not be too harped up over writing succinctly at the start."
 
@@ -23,8 +22,6 @@ Don't read these as instructor guidance you must follow. These are suggestions f
 "I would say to avoid choosing a disagreement because it looks 'easy'. Instead I would suggest choosing a disagreement that the commentary seems to take seriously, rather than using a criticism that serves their own purpose."
 
 "Target the paper on a very small section of each article to ensure that the scope is sufficiently narrow."
-
-"I would suggest future students to nail down on an explicit disagreement early on so that you can then spend more time thinking about what stems from the disagreement for a better analysis."
 
 "I would suggest that other students avoid choosing a topic they do not feel interested in because they will spend a lot of time writing about it."
 
@@ -64,13 +61,9 @@ Don't read these as instructor guidance you must follow. These are suggestions f
 
 ## Using AI tools
 
-Students had different experiences with AI tools. Notice how they reached different conclusions based on their own use:
+"Do not rely on ChatGPT for now, at least....I realized that most of the time ChatGPT unconditionally agreed with you, even though there is an obvious flaw in your argument. That is one of the reasons why I stopped using ChatGPT to even refine my argument in Paper 2. That being said, ChatGPT is useful for looking for ideas, but that's all." (Spring 2026)
 
-"Do not rely on ChatGPT for now, at least. ChatGPT is bad at academic writing because it changes a lot of words and definitions that should have remained consistent in academic writing without noticing you. Also, I realized that most of the time ChatGPT unconditionally agreed with you, even though there is an obvious flaw in your argument. That is one of the reasons why I stopped using ChatGPT to even refine my argument in Paper 2. That being said, ChatGPT is useful for looking for ideas, but that's all."
-
-"Do not use ChatGPT for getting an overall summary of the research papers. Use ChatGPT only for specific clarifications you want to make. And make sure what ChatGPT says fits in with your overall understanding of the paper. You will save more time wrestling with the research, line by line, than being lazy and using ChatGPT. Because in the end you will have to fix the issues ChatGPT makes, and it can be difficult to spot the nuanced mistakes. The mistaken explanations ChatGPT gives you would make you more confused."
-
-"Initially, I used to use AI more for my NTW assignments because I thought that the best way to use AI was for it to give me its own original content and then I can tailor it to my expectations. However, I realised that AI is a better teacher than a student. So, towards the second half of my NTW, I used significantly less AI but instead fully came up with essays and research on my own then made GenAI act as a teacher and provide feedback for my work."
+"Do not use ChatGPT for getting an overall summary of the research papers. Use ChatGPT only for specific clarifications you want to make. And make sure what ChatGPT says fits in with your overall understanding of the paper. You will save more time wrestling with the research, line by line, than being lazy and using ChatGPT. Because in the end you will have to fix the issues ChatGPT makes, and it can be difficult to spot the nuanced mistakes. The mistaken explanations ChatGPT gives you would make you more confused." (Spring 2026)
 
 ## What students discovered about scholarly disagreements
 
