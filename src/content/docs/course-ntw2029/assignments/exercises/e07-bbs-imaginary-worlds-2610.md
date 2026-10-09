@@ -40,14 +40,10 @@ Copy and paste the following questions into a document and type answers below ea
   </head>
   <body>
     <p>
-      5. The evolutionary argument: On page 65, they discuss fiction as 
-      &quot;entertainment&quot; vs &quot;information.&quot; Which side do they take and why does 
-      this matter for imaginary worlds with impossible elements (flying 
-      broomsticks, dragons)?
+      5. The evolutionary argument: On page 65, they discuss fiction as &quot;entertainment&quot; vs &quot;information.&quot; Which side do they take and why does this matter for imaginary worlds with impossible elements (flying broomsticks, dragons)?
     </p>
   </body>
 </html>
-
 -->
 
 ## Guidelines

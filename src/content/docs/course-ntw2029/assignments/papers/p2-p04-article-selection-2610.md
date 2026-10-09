@@ -1,10 +1,5 @@
 ---
 title: P04 - Paper 2 article selection
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 ## Purpose
@@ -13,9 +8,7 @@ This assignment develops your ability to understand and articulate a scholarly a
 
 ## Overview
 
-Select one of the four target articles and explain its main argument. You'll address four elements of the argument, providing your own explanation, a supporting quotation, and notes on any ambiguities for each. No word count requirement.
-
-Note: For peer review to work well, I need a reasonably even distribution of target article choices across each section. After you've selected your article, post your choice on the section Telegram channel. If you see that many students have already chosen a particular article, consider selecting a different one. You don't need to change if you have a strong preference, but aim for balance where possible.
+Select one of the four target articles and explain its main argument. For each of four elements of the argument, you'll give an answer in your own words, one or more supporting quotations, and a note on whether the article's meaning is clear. No length requirements (but report word count).
 
 ## Requirements
 
@@ -28,63 +21,54 @@ Choose one of the following BBS target articles:
 - Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. *Behavioral and Brain Sciences*, 44, e59: 1-77.
 - Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. *Behavioral and Brain Sciences*, 44, e60: 1-87.
 
+Post your article choice on the class Telegram channel. I'll post a list of target articles. Copy the most recent version of the list from the channel, add your name and section (E1/2pm, E2/4pm) under your choice, and post the whole list again, so we can see all the choices in one place.
+
+For peer review to work well, I need a reasonably even distribution of target article choices across each section. Please limit to four students per article per section!
+
 ### 2. Explain the Target's Argument
 
 For each of the four elements below, do three things:
 
-- **(a)** Explain it in your own words
-- **(b)** Provide a supporting quotation with page number (more than one sentence is OK) <span class="smaller-text">[:Why both paraphrase and quotation?](#x-why-both-paraphrase-and-quotation)</span>
-- **(c)** State whether the article's meaning seems clear or unclear. If unclear, explain what's not clear about it (e.g. "The article doesn't explain if they are saying that X explains only some Ys or every Y").
+- Explain the element in your own words, in a few sentences. Your answer should show understanding, not just reword the source. Work at the level of the article's main claim. Say what the authors claim and the main reasons or evidence supporting the claim.
+- Provide one or more supporting quotations with page number. A page number in parentheses after each quotation is all the citation this assignment needs. You don't need APA in-text citations or a reference list, since your only source is the target article. <span class="smaller-text">[:Why both your own words and a quotation?](#x-why-both-your-own-words-and-a-quotation)</span>
+- State whether the article's meaning seems clear or unclear. If unclear, explain what's not clear about it (e.g. "The article doesn't explain if they are saying that X explains only some Ys or every Y").
 
 **Element 1: Phenomenon**
 
-What phenomenon does the target article claim to explain? Be specific about what the authors are trying to account for.
+What phenomenon does the target claim to explain? Be specific about what the authors are trying to account for. An article may explain more than one phenomenon (e.g. why we create art and why we consume art). Name each, and say how the article relates them.
 
-**Element 2: Mechanism**
+**Element 2: Explanation**
 
-What explanation or mechanism does the target propose? How does the target say the phenomenon works or why it exists?
+What explanation does the target propose? How does the target say the phenomenon works, or why it exists? Give the central idea and how its main parts fit together, not every component.
 
-**Element 3: Evidence**
+**Element 3: Support**
 
-What main evidence or reasoning supports the target's explanation? What do the authors point to as support for their claims?
+What main evidence or reasoning supports the target's explanation? What does the target point to as support for its claims?
 
 **Element 4: Contribution**
 
-What do the target authors claim is new or different about their approach compared to existing theories?
+What do the target authors claim is new or different about their explanation compared to existing theories?
 
 ## Guidelines
 
-### Writing Your Explanations
-
-Your own-words explanations should demonstrate understanding, not just reword the source. I'm looking for explanations that could help someone unfamiliar with the article understand the concept.
-
-**Example of weak explanation (rewording):**
-> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes, which is an adaptation from our ancestral environment, where snakes posed a significant threat to survival."
-
-This weak example uses the article's language ("evolved predisposition," "adaptive," "ancestral environment") without explaining the underlying logic. You don't really need to understand the article's argument to produce this example.
-
-**Example of strong explanation (demonstrating understanding):**
-> "The authors argue that the film _Snake Attack at NUSC_ is scary because humans have an evolved predisposition to fear snakes. This trait, they argue, evolved because our ancestors who feared snakes were less likely to be bitten and thus more likely to survive and have children. The fear was thus fitness-enhancing, and their children, who inherited their fear, were more likely to reproduce, and the fear became a universal human trait. Thus, viewers who see snakes in the film fear them almost as a reflex."
-
-This strong example names the phenomenon (film is scary), the mechanism that explains the phenomenon (fear of snakes), and how this mechanism causes the phenomenon.
-
-If you find yourself unable to explain something in your own words, that's useful information: note it as an ambiguity rather than guessing. It's better to acknowledge confusion now than to build later work on a shaky foundation.
+<!-- ### Examples for Each Element -->
 
 ### Selecting Quotations
 
-Choose quotations that directly support your explanation. Brief quotations (1-2 sentences) are usually more useful than long passages. Include page numbers so I can locate the passage if needed.
+Choose quotations that directly support your answer. Brief quotations (1-2 sentences) are more useful than long passages. Usually, when students are tempted to include a whole paragraph, they are subconsciously trying to avoid having to choose the relevant sentences within that paragraph. Include page numbers so I can locate the quotations.
 
-### Noting Clarity or Ambiguity
+### Describing Clarity or Unclarity
 
-For each element, state whether the article's meaning seems clear or unclear to you. It's fine if most elements are clear; that's useful information too.
+For each element, state whether the article's meaning seems clear or unclear to you. It's fine if most elements are clear; that's useful information too. If you find yourself unable to explain something in your own words, note what is unclear about it rather than guessing what it means. It's better to acknowledge lack of clarity now than to build later work on an incorrect assumption.
 
-If something is unclear, ambiguities might include:
+If something is unclear, the problem might be:
 
 - Terms the article uses without defining
 - Claims that could mean different things
 - Scope that isn't clearly specified (e.g., does the article claim this is always true, usually true, or sometimes true?)
+- Context that isn't clearly specified (e.g., when the article talks about art, does it mean "stuff in a museum" or "stuff that people do to express themselves" or something else?)
 
-Identifying ambiguities isn't a sign of failure; it's valuable preparation for later assignments where you'll need to pin down exactly what the target claims.
+Noting that something seems unclear is not an admission that you couldn't understand the article; the note is valuable input for later assignments where you'll need to pin down exactly what the target claims.
 
 ### Building Toward P05
 
@@ -94,6 +78,6 @@ Your understanding of the target article will inform your commentary selection i
 
 I'll provide brief feedback to guide any students who are on the wrong track back towards the correct approach.
 
-##### :x Why both paraphrase and quotation?
+##### :x Why both your own words and a quotation?
 
-The quotation lets me see exactly what the article states without having to follow every student's in-text citations and look in the articles for the original. The paraphrase helps me see if you are correctly interpreting what the quotation says.
+The quotation lets me see exactly what the article states without having to follow every student's in-text citations and look in the articles for the original. Your own words help me see if you are correctly interpreting what the quotation says.

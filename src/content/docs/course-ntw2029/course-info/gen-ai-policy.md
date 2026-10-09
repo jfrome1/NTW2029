@@ -36,13 +36,18 @@ To learn how to write and think, you must do the writing and thinking. AI can be
 When you use AI:
 
 - Use only approved chatbots. Currently, the approved ones are Copilot, Gemini, Claude, and ChatGPT. [:why only these?](#x-why-only-these)
-- Don't use any other type of AI. That includes AI that lets you "chat" about uploaded groups of documents (such as NotebookLM), AI that writes to documents (such as the ChatGPT `/canvas` function or AI-generated research reports), the AI built into PDF readers like Adobe Acrobat, and the assistance built into writing programs such as Microsoft Word and Google Docs. [:why can't I use these if I can upload files to a chatbot?](#x-why-cant-i-use-these-if-i-can-upload-files-to-a-chatbot)
+- Don't use any other type of AI. [:why can't I use these if I can upload files to a chatbot?](#x-why-cant-i-use-these-if-i-can-upload-files-to-a-chatbot) That includes:
+	- AI that lets you "chat" about uploaded groups of documents (such as NotebookLM)
+	- AI that writes to documents (such as the ChatGPT `/canvas` function or AI-generated research reports)
+	- AI answers in a search engine (such as Google's AI Mode)
+	- the AI built into PDF readers like Adobe Acrobat
+	- the AI assistance built into writing programs such as Microsoft Word and Google Docs
 - Ask a chatbot anything you want, and upload material to discuss with it.
 - Don't download anything from the chat, copy any writing it generates, or let the AI edit or create files. If you want a chatbot's help with your writing, paste your writing into the chat, get the feedback, and make any revisions to your document yourself.
 
 When you submit an assignment:
 
-- If you used GenAI, submit links to all of the chats you had while working on it, at the top of the assignment, above the title. Any interaction with GenAI counts, whether or not you used anything from it, including:
+- If you used GenAI, submit links to all of the chats you had for the assignment, at the top of the assignment, above the title. Any interaction with GenAI counts, whether or not you used anything from it, including:
 	- checking spelling or grammar
 	- asking questions that proved unhelpful
 	- trying the tool without using its output
@@ -111,18 +116,20 @@ You must share all AI links and Google Docs links for every assignment, and keep
 
 At the top of every assignment, above the title:
 
-- Links to all of the chats you had while working on it, or, if you used no GenAI, the statement "I did not use GenAI in any way for this assignment." [:how to create an AI chat shared link](#x-how-to-create-an-ai-chat-shared-link)
+- Links to all of the chats you had for the assignment, or, if you used no GenAI, the statement "I did not use GenAI in any way for this assignment." [:how to create an AI chat shared link](#x-how-to-create-an-ai-chat-shared-link)
 - The link to the Google Doc you wrote the assignment in, shared with me as Editor. [:how to share your documents](#x-how-to-share-your-documents)
 
 Getting the links right:
 
 - Copy links using the share function, not the browser URL. Browser URLs do not work for anyone else.
-- Start a new chat for each assignment (P01 through P09 count as separate assignments). If you end up with more than one chat for an assignment, submit links to all of them.
+- Start a new chat for each assignment (P01 through P08 count as separate assignments, even when they're parts of the same paper). When you submit an assignment, its chats are finished: don't continue them while working on the next assignment, and don't list them on future assignments.
+- If you end up with more than one chat for an assignment, submit links to all of them.
+- Chats about the readings and quick one-line questions count as chats for the assignment. Ask quick questions in an approved chatbot, not in a search engine's AI mode.
 - Create your share links at the end, when you submit, after you've finished working on the assignment.
 
 ### What submitting your links says
 
-Submitting your links says that this is all of your GenAI use for the assignment. Submitting one link says that chat was your only GenAI exchange for it. Submitting the non-use statement says you used none. [:why I ask for links](#x-why-i-ask-for-links)
+Submitting your links says that this is all of your GenAI use for the assignment. Submitting one link says that chat was your only GenAI exchange for it. Submitting the non-use statement says you used none. Here, "none" means no new chats for the assignment you're submitting; if you used GenAI on an earlier assignment for the same paper but had no new chats for this one, submit the non-use statement. [:why I ask for links](#x-why-i-ask-for-links)
 
 A chat you leave out isn't a paperwork slip. Leaving one out says you used GenAI in a way you didn't, which is a false statement about your own work.
 

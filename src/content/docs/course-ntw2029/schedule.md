@@ -218,21 +218,21 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: finding sources, effective transitions, how to cite: reference lists
 	- Read before class (recommended): none
 
-###### Due Sun 11 Oct 2026: P04 - Paper 2 Article selection
+## 9.1 Mon 12 Oct 2026
+
+- Writing topic: counterarguments and objections
+	- Read before class (recommended): none
+
+###### Due Mon 12 Oct 2026: P04 - Paper 2 Article selection
 >
 
-## 9.1 Mon 12 Oct 2026
+## 9.2 Thu 15 Oct 2026
 
 - EP and art topic: none
 	- Read before class:
 		- Ahn, D., Annie Jin, S.-A., & Ritterfeld, U. (2012). "Sad movies don't always make me cry": The cognitive and affective processes underpinning enjoyment of tragedy. _Journal of Media Psychology_, 24(1), 9-18. https://doi.org/10.1027/1864-1105/a000058 [download](/downloads/ahnSadMoviesDon2012.pdf), [:Ahn discussion questions](#x-ahn-discussion-questions)
 		- Handout: [How to read empirical research articles](/downloads/howtoreadempiricalresearcharticles.pdf)
 - Writing topic: writing with outlines and drafts, writing concisely
-	- Read before class (recommended): none
-
-## 9.2 Thu 15 Oct 2026
-
-- Writing topic: counterarguments and objections
 	- Read before class (recommended): none
 
 ###### Due Sun 18 Oct 2026: P05 - Paper 2 Identify the criticism and verify positions
