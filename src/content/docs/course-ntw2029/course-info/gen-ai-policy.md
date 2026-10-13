@@ -5,7 +5,7 @@ title: GenAI policy
 ## AI Policy summary
 
 - You should use AI only as a conversation partner about your work. Therefore: use only chatbots, and only approved chatbots.
-- You should do all writing associated with your assignment, and AI should do none of the writing. Therefore: write all of your assignments in Google Docs, and don't copy/paste anything into the assignment (with some exceptions).
+- You should do all writing associated with your assignment, and AI should do none of the writing. Therefore: write all of your assignments in Google Docs, type everything yourself, and never put a sentence the AI wrote into your assignment, whether by pasting it or by typing it.
 - You should take responsibility for all work you submit. Therefore: submit work that reflects your choices, and be ready to account for those choices.
 
 This page contains important details below that you must be familiar with in order to follow course policy and earn credit for the course. Don't rely on the summary above.
@@ -43,7 +43,9 @@ When you use AI:
 	- the AI built into PDF readers like Adobe Acrobat
 	- the AI assistance built into writing programs such as Microsoft Word and Google Docs
 - Ask a chatbot anything you want, and upload material to discuss with it.
-- Don't download anything from the chat, copy any writing it generates, or let the AI edit or create files. If you want a chatbot's help with your writing, paste your writing into the chat, get the feedback, and make any revisions to your document yourself.
+- Don't download anything from the chat or let the AI edit or create files. Whatever it writes stays in the chat: its sentences don't go into your assignment, pasted or typed (see "You should do all writing" below). If you want a chatbot's help with your writing, paste your writing into the chat, ask it to point out the problems and explain them, and fix them yourself in your own words.
+
+<!-- ##### :x a prompt that keeps the chatbot from writing for you -->
 
 When you submit an assignment:
 
@@ -66,16 +68,16 @@ All semester: Your links are the record of your GenAI use and writing process, a
 
 ## You should do all writing associated with your assignment, and AI should do none of the writing.
 
-Doing the writing is the only way to actually learn how to write. You can't learn how to write by guiding an AI to write something; you build the skill by producing the sentences yourself.
+Doing the writing is the only way to actually learn how to write. You can't learn how to write by guiding an AI to write something; you build the skill by producing the sentences yourself. Writing means deciding what the words are and what order they go in. Typing, pasting, and dictating are just ways of getting words into a document. This policy is about the writing: the words in your assignment have to be words you decided on. A sentence a chatbot composed is the chatbot's writing whether you paste it in or type it in.
 
 When you start an assignment:
 
-- Write each assignment in its own new Google Doc, and share the document with me. [How to share a Google Doc](https://processfeedback.org/docs/how-to-provide-edit-access-in-gdocs/).
-- When your assignment continues work from a previous assignment (for example, your Paper 1 final continues your draft), start the new assignment by pasting your entire previous submission into a new document.
+- Write each assignment in its own new Google Doc, and share the document with me. [How to share a Google Doc](https://processfeedback.org/docs/how-to-provide-edit-access-in-gdocs/). Start a new document for every assignment, just as you start a new chat: P01 through P08 count as separate assignments, even when they're parts of the same paper. Process Feedback gives me one report per document, covering everything ever written in it, so if you keep writing in a document you've already submitted, the reports for the two assignments merge into one and I can't see which writing belongs to which assignment.
+- When your assignment continues work from a previous assignment (for example, your Paper 1 final continues your draft), create a new document, paste your entire previous submission into it, and continue working there. Once you submit an assignment, stop working in its document.
 
 While you write:
 
-- Type everything in your document yourself. Don't paste in text from anywhere else, whether or not you wrote it yourself, except for these things: [:why can't I paste in my own writing?](#x-why-cant-i-paste-in-my-own-writing)
+- Don't paste in text from anywhere else, whether or not you wrote it yourself, except for these things: [:why can't I paste in my own writing?](#x-why-cant-i-paste-in-my-own-writing)
 	- Pasting the previous submission into a new document to start the next assignment
 	- Quotations, with their citations
 	- The assignment question or prompt you're answering
@@ -83,7 +85,9 @@ While you write:
 	- Your chat share links
 	- Your Google Docs link
 	- Your declaration or non-use statement
+- The ban on copying text from outside the Google Doc and pasting it into the Google Doc does NOT mean that you can have the AI write your text as long as you type it in yourself and understand it. You still must still do all of the writing. The ban on pasting is just to deter unapproved AI usage.
 - Moving text around within your Google Doc is fine: you can cut text from one part of the document and paste it elsewhere in the same document.
+- When a chatbot comments on your writing, the test is whether there was a decision to make. If it tells you something in your sentence is wrong and there is only one right way to fix it (a misspelling, "he were" for "he was", a missing "the"), fix it. If it tells you something could be said better, how to say it is your decision, so don't use its version. When it hands you a rewritten sentence or paragraph anyway, leave it in the chat.
 
 When you submit an assignment:
 
@@ -117,7 +121,7 @@ You must share all AI links and Google Docs links for every assignment, and keep
 At the top of every assignment, above the title:
 
 - Links to all of the chats you had for the assignment, or, if you used no GenAI, the statement "I did not use GenAI in any way for this assignment." [:how to create an AI chat shared link](#x-how-to-create-an-ai-chat-shared-link)
-- The link to the Google Doc you wrote the assignment in, shared with me as Editor. [:how to share your documents](#x-how-to-share-your-documents)
+- The link to the Google Doc you wrote the assignment in, shared with me as Editor. Submit a new link with each assignment, never one you submitted with an earlier assignment, so that each assignment has its own Process Feedback report. [:how to share your documents](#x-how-to-share-your-documents)
 
 Getting the links right:
 
@@ -204,6 +208,10 @@ The key principle: you must be transparent about any assistance you receive, whe
 ### Can I upload files to a chatbot?
 
 Yes. Upload material to one of the approved chatbots and ask about it. What you can't use are tools that give you no link to your conversation, like NotebookLM or the AI in a PDF reader. NotebookLM's share button shares your documents rather than your chat, so it doesn't count.
+
+### Can I use a chatbot to check my grammar?
+
+Yes, and declare the chat like any other. Ask it to point out the errors and explain them. Where an error has one right fix, make the fix. Where it offers a better way to say something, that's writing, and the writing is yours: don't use its sentence, pasted or typed.
 
 ### What if I forget my GenAI declaration?
 
