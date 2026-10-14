@@ -246,17 +246,9 @@ I'll record brief feedback on your answers during week 10, starting from your an
 
 ## Frequently Asked Questions
 
-### After looking at the commentaries, I want to change my target article. Am I allowed to do this?
+### Can I change my target or commentary article?
 
-Yes, as long as you don't go over the 4-student-per-section max for that target article. You do this by reposting the target/commentary list on Telegram with your changes.
-
-### Do I have to redo P04 if I change my target article?
-
-You do not have to resubmit P04, but to successfully complete P05 and Paper 2, you will have to essentially recreate the work required for P04 with the new target article.
-
-### Can I change my target article or commentary after submitting P05?
-
-You can do this only with written approval from me in advance of submitting P06. It's rarely a good idea to change, so talk to me about your reasoning before planning a change.
+See [About Article Selection](/course-ntw2029/assignments/papers/p2-2610/#about-article-selection) in the Paper 2 FAQ.
 
 ##### :x Why do I need both a paraphrase and a quotation?
 

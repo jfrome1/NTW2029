@@ -79,15 +79,15 @@ I'll email you a link. I sometimes share recordings by forwarding my Zoom email 
 
 Note: Zoom transcription quality varies, so verify important details against the actual recording.
 
-### Can I email you my revisions for more feedback?
+### Can I email you drafts or revisions for additional feedback?
+
+Each assignment's Feedback section describes the feedback I'll give on that assignment. Beyond that, you're welcome to ask me [specific questions](/course-ntw2029/course-info/conferences/#what-counts-as-a-specific-question) by Telegram or email, or arrange an in-person meeting.
 
 I review drafts at scheduled checkpoints as part of normal course assignments. I cannot review additional drafts because:
 
 - Students can email drafts instantly, creating an unsustainable workload
 - The current feedback schedule already requires my full-time commitment
 - 10 minutes per extra draft × all students = 6+ hours of additional work
-
-Instead: Submit work at designated checkpoints, prepare thoroughly for conferences, and request meetings for specific help.
 
 ### Can I change my conference time once I've booked it?
 

@@ -28,7 +28,7 @@ Copy and paste the questions below into a document and type your answer below ea
 ### Getting help
 
 - Don't ask me questions in this assignment; if you want me to answer, email or message me separately
-- After this conference, you may ask me [specific questions](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question), but [I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-my-revisions-for-more-feedback).
+- After this conference, you may ask me [specific questions](/course-ntw2029/course-info/conferences#what-counts-as-a-specific-question), but [I can't review emailed draft sections](/course-ntw2029/course-info/conferences#can-i-email-you-drafts-or-revisions-for-additional-feedback).
 
 ## Feedback
 
