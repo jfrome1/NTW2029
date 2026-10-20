@@ -4,6 +4,8 @@ title: Fine Print
 
 The course info pages explain my expectations, policies, and requirements for the course. I've created this page because, in some very rare cases, students have been dogged and creative in using ambiguities of language or lawyerly arguments to try to violate course policies without consequences. This page, which is part of the course policies, spells out the details, so that those cases don't come at the expense of honest students.
 
+This page will be considered correct in case of any disagreements between this page and other policy pages.
+
 ## GenAI
 
 - Students are responsible not just for reporting generative AI use but for keeping copies of work and accessible versions of work in development in order to provide evidence of appropriate AI use. Such evidence includes all course-related chat logs. Failure to retain evidence of course-related activities may be interpreted as evidence that AI non-use claims are inaccurate.

@@ -42,7 +42,7 @@ When you use AI:
 	- AI answers in a search engine (such as Google's AI Mode)
 	- the AI built into PDF readers like Adobe Acrobat
 	- the AI assistance built into writing programs such as Microsoft Word and Google Docs
-- Ask a chatbot anything you want, and upload material to discuss with it.
+- Ask a chatbot anything you want, and upload material, including your own writing, to discuss with it.
 - Don't download anything from the chat or let the AI edit or create files. Whatever it writes stays in the chat: its sentences don't go into your assignment, pasted or typed (see "You should do all writing" below). If you want a chatbot's help with your writing, paste your writing into the chat, ask it to point out the problems and explain them, and fix them yourself in your own words.
 
 <!-- ##### :x a prompt that keeps the chatbot from writing for you -->
@@ -68,7 +68,7 @@ All semester: Your links are the record of your GenAI use and writing process, a
 
 ## You should do all writing associated with your assignment, and AI should do none of the writing.
 
-Doing the writing is the only way to actually learn how to write. You can't learn how to write by guiding an AI to write something; you build the skill by producing the sentences yourself. Writing means deciding what the words are and what order they go in. Typing, pasting, and dictating are just ways of getting words into a document. This policy is about the writing: the words in your assignment have to be words that are combined because you independently chose to put them together. A sentence a chatbot composed is the chatbot's writing whether you paste it in or type it in.
+Doing the writing is the only way to actually learn how to write. You can't learn how to write by guiding an AI to write something; you build the skill by producing the sentences yourself. Writing means deciding what the words are and what order they go in. Typing, pasting, and dictating are just ways of getting words into a document. This policy is about the writing: the words in your assignment have to be words that are combined because you independently chose to put them together. A sentence a chatbot composed is the chatbot's writing whether you paste it in or type it in. Asking it to revise, improve, fix, shorten, or clarify your text is asking it to write.
 
 When you start an assignment:
 
@@ -190,6 +190,7 @@ I may use GenAI to:
 - Generate questions for discussion, assignments, or quizzes
 - Create writing examples for class discussion
 - Revise course materials and handouts
+- Report to me whether submissions meet mechanically checkable criteria, such as whether your Google Docs links work or whether you included word count (I confirm these before posting Canvas feedback)
 - Edit (but not write) assignment feedback
 
 ### What is the NUS GenAI guidance?
@@ -212,6 +213,10 @@ Yes. Upload material to one of the approved chatbots and ask about it. What you 
 ### Can I use a chatbot to check my grammar?
 
 Yes, and declare the chat like any other. Ask it to point out the errors and explain them. Where an error has one right fix, make the fix. Where it offers a better way to say something, that's writing, and the writing is yours: don't use its sentence, pasted or typed.
+
+### Can I ask a chatbot to explain something I didn't understand?
+
+Yes. You can ask it to explain a sentence or passage from a reading, a comment I made on your paper, or a grammar rule, in simpler words or in as much detail as you want, and declare the chat like any other. Check what it tells you against the reading itself, since it often gets details wrong. What you can't ask is for a clearer version of your own sentence: that is writing, and the writing is yours.
 
 ### What if I forget my GenAI declaration?
 
