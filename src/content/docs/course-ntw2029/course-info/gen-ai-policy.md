@@ -68,7 +68,7 @@ All semester: Your links are the record of your GenAI use and writing process, a
 
 ## You should do all writing associated with your assignment, and AI should do none of the writing.
 
-Doing the writing is the only way to actually learn how to write. You can't learn how to write by guiding an AI to write something; you build the skill by producing the sentences yourself. Writing means deciding what the words are and what order they go in. Typing, pasting, and dictating are just ways of getting words into a document. This policy is about the writing: the words in your assignment have to be words you decided on. A sentence a chatbot composed is the chatbot's writing whether you paste it in or type it in.
+Doing the writing is the only way to actually learn how to write. You can't learn how to write by guiding an AI to write something; you build the skill by producing the sentences yourself. Writing means deciding what the words are and what order they go in. Typing, pasting, and dictating are just ways of getting words into a document. This policy is about the writing: the words in your assignment have to be words that are combined because you independently chose to put them together. A sentence a chatbot composed is the chatbot's writing whether you paste it in or type it in.
 
 When you start an assignment:
 
