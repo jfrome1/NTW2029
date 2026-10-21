@@ -58,6 +58,8 @@ Part C will likely take several passes to find, so work through the how-to and t
 
 Write up the explanation you worked out in finding Part C: how each author's position on the Part C difference leads to what they explicitly say about the issue, and so how the implicit disagreement produces the commentary's criticism. Support your reasoning with quotations from both articles.
 
+Explain why the two reach different conclusions; don't argue that one scholar is right and the other wrong. It's natural to form judgments about which position seems stronger, but P06 is about what drives the disagreement, not who wins.
+
 <!-- If you can't get from your candidate to the explicit disagreement in Part B, go back to step 2. A revised candidate takes the going beneath test again. -->
 
 Write this section in full-sentence paragraphs as an analysis, not as a verdict. Explain your thinking to someone who isn't familiar with these articles. This section will contribute to your P07 draft.
