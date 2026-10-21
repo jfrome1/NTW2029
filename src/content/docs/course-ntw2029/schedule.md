@@ -246,7 +246,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 - Writing topic: none
 
-###### Due Sun 25 Oct 2026, 6pm: P06 - Paper 2 Going beneath, working draft (peer review checkpoint)
+###### Due Sun 25 Oct 2026, 6pm: P06 - Paper 2 going beneath (peer review checkpoint)
 >
 
 ## 11.1 Mon 26 Oct 2026
