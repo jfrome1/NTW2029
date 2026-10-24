@@ -27,7 +27,7 @@ Your draft should include:
 
 - **Body (Explanation and Analysis)**: Explain the target article's argument, the commentary's criticism, and (if applicable) the target's response. Analyze the disagreement to support your thesis. Typically it's best to provide explanation first, then analysis. However, in some cases mixing explanation and analysis as you move from topic to topic works better. What's best depends on your specific essay.
 
-- **Conclusion (Significance)**: Your significance discussion should reveal why understanding this disagreement matters. [:Developing your significance discussion](#x-developing-your-significance-discussion)
+- **Conclusion (Significance)**: Your significance discussion should explain what your analysis means beyond the specific disagreement your paper focuses on. [:Developing your significance discussion](#x-developing-your-significance-discussion)
 
 - **Use of at least 4 academic sources**: The target article, commentary, and author's response can each count as one source. "Use of" means that all sources must be cited in the essay text. [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
 
@@ -75,7 +75,7 @@ Depth often comes from getting below the surface to understand what implicit iss
 
 ## Feedback
 
-I'll provide recorded feedback on P07, which we'll discuss in a conference during Week 13.
+I'll provide recorded feedback on P07, which we'll discuss in a conference during Week 12.
 
 ##### :x how to write your introduction
 
@@ -101,11 +101,34 @@ Your analysis determines which aspects matter for your case. Not all papers need
 
 ##### :x developing your significance discussion
 
-Earlier, you considered how significant this criticism is for the target's argument (i.e., what it would mean for the target's argument if the commentary's criticism were correct). Now, you need to explain the significance of your paper. If your thesis is true, how does that contribute to the academic conversation about this topic? What will the reader learn by reading your paper that they wouldn't learn just by reading the two articles you discuss?
+In this assignment, I use two terms for what you learn by analyzing the specific disagreement your paper focuses on
+
+- "Implications"  are consequences relevant just to that specific disagreement, such as what each author has to assume, what it would take to settle the dispute, or what other ideas each position would have to agree with. Implications belong in the body of your paper.
+- "Significance" are consequences relevant outside that specific disagreement, such as for the broader academic conversation on the topic, how researchers in the field approach approach issues, or questions outside the topic. Significance belongs in your conclusion.
+
+For example, Verpooten & Eens criticize Savage et al.'s theory, which predicts that more musical species should have more complex social bonds. The commentary says that specific research shows the prediction fails, while the target says the same data shows the prediction succeeds. A student paper argues that the explicit disagreement is based on an implicit disagreement about which animal vocalizations should count as music.
+
+Some _implications_ of this thesis (observations about the specific disagreement) are:
+
+whether the data confirms or refutes Savage et al.'s prediction depends on agreement about what determines whether vocalizations should count as music
+
+for Savage et al.'s theory to stand, their criteria for musicality should be consistent with their reasoning that music evolved for social bonding
+
+Savage et al.'s broader definition of musical behavior protects the prediction but makes it harder to test their theory
+
+A point of _significance_ is that research on evolution of music in humans can only rely on cross-species comparisons if researchers agree on what counts as music in other species.
+
+Parts of what you've already written are implications in this sense (even though those assignment didn't label them as such) and might be used in the body of your paper:
+
+your P05 answer about how significant the criticism is for the target's argument (that's about the commentary's significance, not your paper's significance)
+
+parts of your P06 "Beginning Significance" answers
+
+Your paper's significance discussion asks a different question: if your thesis is true, what does that mean for something larger than the specific disagreement your paper focuses on?
 
 **The connection between thesis and significance:**
 
-Significance flows directly from your thesis. Your thesis identifies what prevents these positions from being compatible (definitions, assumptions, methodological commitments, evidentiary standards). Your significance explains what understanding that incompatibility reveals: what becomes clearer, what becomes more difficult, what research directions this suggests, or what this shows about how scholars approach this phenomenon. A more basic thesis will have more limited significance that addresses what your analysis adds to our understanding of your target and commentary articles, while a more ambitious thesis may have deeper or broader significance for future research, the larger academic conversation, or the phenomenon being explained.
+Significance flows from your thesis. Your thesis identifies the implicit disagreement that drives the explicit one. Your significance discussion explains what understanding that disagreement shows about something larger than the specific disagreement your paper focuses on: for example, why a larger debate on the topic persists, what research directions it suggests, or what it reveals about how scholars approach this phenomenon. A brief significance discussion might name one way your thesis bears on the larger academic conversation on the topic; a more developed one explains that connection in detail or extends it to how the field approaches the topic.
 
 [:Example showing different levels of thesis and significance](#x-example-showing-different-levels-of-thesis-and-significance)
 
@@ -113,8 +136,8 @@ Significance flows directly from your thesis. Your thesis identifies what preven
 
 Your paper should reference significance twice:
 
-- **Introduction:** After your thesis, include 1-2 sentences previewing what understanding this disagreement reveals
-- **Conclusion:** Develop your full significance discussion here, explaining what understanding why they disagree contributes to the academic conversation
+- **Introduction:** After your thesis, include 1-2 sentences previewing your paper's significance
+- **Conclusion:** Develop your full significance discussion here, explaining what your thesis means for the larger academic conversation on this topic
 
 The conclusion is where readers expect to find "so what does this mean?" Your brief introduction mention orients them; your conclusion delivers the full discussion.
 
@@ -124,7 +147,7 @@ The conclusion is where readers expect to find "so what does this mean?" Your br
 
 - Thesis: "They disagree about whether photography qualifies as art; the target argues photography is art, the commentary argues photography is merely mechanical reproduction."
 - Significance: "Understanding this disagreement is important because photography is widely used and resolving whether it's art matters for the field."
-- Why this fails: This thesis just identifies opposing positions without explaining what drives them, so it doesn't add much to the academic conversation. Thus, the significance claim is limited to stating that the topic is important, without reference to what the paper contributes.
+- Why this fails: This thesis just identifies opposing positions without explaining what drives them, so it doesn't add much to the academic conversation. Thus, the significance claim is limited to stating that the topic is important, without reference to what the paper contributes (i.e. why it matters to the field).
 
 **Satisfactory thesis and significance:**
 
@@ -174,16 +197,16 @@ Earlier assignments developed your analytical understanding through verification
 
 ##### :x how to create and use your outline
 
-Create your outline by extracting your thesis, topic sentences, and a significance statement from your draft. Start with your thesis statement (not numbered). Then list your body paragraph topic sentences in a flat numbered list in order of appearance (no section headers, no sub-numbering). At the end, add a significance statement: 1-2 sentences from your conclusion that capture why your argument matters beyond the specific disagreement you analyzed. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
+Create your outline by extracting your thesis, topic sentences, and a significance statement from your draft. Start with your thesis statement (not numbered). Then list your body paragraph topic sentences in a flat numbered list in order of appearance (no section headers, no sub-numbering). Every body paragraph must have a highlighted topic sentence, and your list of topic sentences must include every topic sentence. At the end, add a significance statement: 1-2 sentences from your conclusion that capture why your argument matters beyond the specific disagreement you analyzed. Place the outline on a new page after your Reference list. You don't need to highlight the sentences.
 
 Most essays have 10-15 body paragraphs. If you have more or fewer, check that your paragraphs follow the rule "one idea per paragraph."
 
 Here is an [example outline](/downloads/p08-outline-example.pdf) from a past student's Paper 2, so you can see what the format looks like. (It's from a different paper assignment, so don't try to match the outline content.)
 
-If your first sentence doesn't capture the main idea of the paragraph, that's useful information: it means your topic sentence probably needs revision. For the outline, reword the sentence so it captures what the paragraph is actually about. The outline should represent the point of each paragraph, not just announce what it will discuss.
+If your topic sentence doesn't capture the main idea of the paragraph, that's useful information: either the topic sentence or the paragraph needs revision. Revise the topic sentence in your draft so it captures what the paragraph is actually about, or revise the paragraph so it fits the topic sentence, then put the revised topic sentence in the outline. The outline should represent the point of each paragraph, not just announce what it will discuss (see [announcing writing moves instead of stating the main point](/course-ntw2029/resources/topic-sentences/#announcing-writing-moves-instead-of-stating-the-main-point)).
 
 Keep the outline updated as you write your full draft. I suggest going back and forth between the two documents (draft and outline) as a way of keeping the big picture in mind.
 
 As you write the draft, regularly read through the outline to check that your argument flows logically and that each paragraph advances your thesis. If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph) the outline will fairly represent your essay's argument.
 
-When I give draft feedback before the Week 13 conference, I'll start by commenting on your argument as presented in the outline.
+When I give draft feedback before the Week 12 conference, I'll start by commenting on your argument as presented in the outline.
