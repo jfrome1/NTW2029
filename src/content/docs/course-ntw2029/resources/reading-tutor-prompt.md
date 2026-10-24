@@ -6,7 +6,7 @@ This page has a prompt you can give a chatbot when you're working with the readi
 
 - Keep the AI from doing things that would put you in violation of the GenAI policy. Chatbots constantly offer to write or revise things for you, even though you can't use anything they write.
 - Keep the thinking yours. When an AI explains an argument or works out an analysis for you, it's easy to feel that you understand it when you don't, and that often only becomes clear later, for example in your Paper 2 conference, when you have to explain your thinking yourself.
-- Point the AI at what it does reasonably well, like explaining concepts, background, and specific passages, and away from what it does poorly, like summarizing or analyzing a whole argument, especially for the Paper 2 readings.
+- Point the AI at what it does reasonably well, like explaining concepts, background, and specific passages, and away from what it does less reliably, like summarizing or analyzing a whole argument, especially for the Paper 2 readings.
 
 ## What the prompt does and doesn't do
 
