@@ -6,24 +6,25 @@ This page has a prompt you can give a chatbot when you're working with the readi
 
 - Keep the AI from doing things that would put you in violation of the GenAI policy. Chatbots constantly offer to write or revise things for you, even though you can't use anything they write.
 - Keep the thinking yours. When an AI explains an argument or works out an analysis for you, it's easy to feel that you understand it when you don't, and that often only becomes clear later, for example in your Paper 2 conference, when you have to explain your thinking yourself.
-- Point the AI at what it does reasonably well, like explaining concepts, background, and specific passages, and away from what it does poorly, like summarizing or analyzing a whole argument, especially for the Paper 2 readings (see what I said about this in class 10.1).
-
-This is a trial. I've tested the prompt myself, but no students have used it yet, so I want to hear how it works for you. Try it out on P06 and later assignments.
-
-## How to use it
-
-- Start a new chat in ChatGPT or Claude, paste the prompt at the bottom of this page as your first message, and then ask your questions.
-- Use it with ChatGPT or Claude only. When I tested it with Gemini, Gemini ignored the prompt and wrote the P06 analysis itself. (I haven't tested Copilot.)
-- Upload the readings you're asking about. Chatbots often can't get the full text of an article online (the Fritz commentary, for example, is behind a paywall on Cambridge's site), and when they can't, they may answer from the abstract or from what they guess the article says.
-- Using the prompt is optional, and all the [GenAI rules](/course-ntw2029/course-info/gen-ai-policy/) still apply: a new chat for each assignment, submit your chat links, and do all of the writing yourself.
+- Point the AI at what it does reasonably well, like explaining concepts, background, and specific passages, and away from what it does poorly, like summarizing or analyzing a whole argument, especially for the Paper 2 readings.
 
 ## What the prompt does and doesn't do
 
-The prompt tells the AI to explain concepts and background, discuss your ideas, and give you feedback, but not to summarize the readings, plan your assignment, or rewrite your text. Limiting the AI to these tasks doesn't make what it says correct. It can still misread a passage, and it can sound very sure when it's wrong. It's also not a reliable judge of whether your account of an argument is accurate, and it leans toward telling you that you're right. So when it tells you what a passage means, or that your interpretation is right or wrong, check what it says against the text. Its judgment isn't mine, and the fact that the prompt comes from me doesn't mean I'm vouching for what the AI tells you.
+The prompt tells the AI to explain concepts and background, discuss your ideas, and give you feedback, but not to summarize the readings, plan your assignment, or rewrite your text.
+
+Limiting the AI to these tasks doesn't make what it says correct. It can still misread a passage, and it can sound very sure when it's wrong. It's also not a reliable judge of whether your account of an argument is accurate, and it leans toward telling you that you're right. So when it tells you what a passage means, or that your interpretation is right or wrong, check what it says against the text.
+
+Its judgment isn't mine, and the fact that the prompt comes from me doesn't mean I'm vouching for what the AI tells you.
+
+## How to use it
+
+- Start a new chat in ChatGPT or Claude, paste the prompt at the bottom of this page as your first message, and then ask your questions. Note: my testing suggests that Gemini is the worst at following user instructions about what to do and not do in this context. It assumes it knows the best way to help and jumps ahead rather than doing things as you request. I recommend avoiding it.
+- Upload the readings you're asking about. Chatbots often can't get the full text of an article online, and when they can't, they may answer from the abstract or from what they guess the article says.
+- Using the prompt is optional, and all the [GenAI rules](/course-ntw2029/course-info/gen-ai-policy/) still apply: a new chat for each assignment, submit your chat links, and do all of the writing yourself.
 
 ## Tell me how it went
 
-After you've used it, please let me know what you thought: whether it helped, whether it got in the way, and anything it did that surprised you. It's most useful if you can give me specific examples, such as a question you asked and what the AI did with it. You can email me or tell me in class.
+This is a trial. I've only briefly tested the prompt myself, and no students have used it yet. If you try it, please let me know how it works for you, especially compared with how you used AI before. If it makes the AI seem hobbled, useless, or frustrating, that's totally fine to tell me, since students won't use a prompt they don't find helpful. Specific examples are the most useful, such as a question you asked and what the AI did with it. You can email me or tell me in class.
 
 ## The prompt
 

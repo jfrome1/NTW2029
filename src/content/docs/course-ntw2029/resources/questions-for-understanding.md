@@ -1,10 +1,5 @@
 ---
 title: Questions for understanding sources
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 In class, we ask questions to better understand the readings. Here is a longer list of questions you can use to practice this skill on your own.

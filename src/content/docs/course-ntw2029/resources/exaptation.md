@@ -1,10 +1,5 @@
 ---
 title: Exaptation, adaptation, and byproduct
-draft: true
-sidebar:
-  badge:
-    text: Draft
-    variant: caution
 ---
 
 Some of the Paper 2 commentaries discuss a concept called "exaptation." If your commentary mentions exaptation, this page will help you understand what the term means and how it relates to concepts we've discussed in class. You don't need to cite this page in your paper; treat it like lecture notes.
