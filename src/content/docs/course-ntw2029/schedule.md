@@ -252,20 +252,20 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 11.1 Mon 26 Oct 2026
 
 - Devices may be used in this class meeting
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed.
+- Writing topic: peer review
+	- Read before class: peer drafts
 - [:Week 11 peer review groups](#x-week-11-peer-review-groups)
-- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
-- Writing topic: peer review, conclusions
-	- Read before class (recommended): peer drafts
 
 ## 11.2 Thu 29 Oct 2026
 
 - Devices may be used in this class meeting
 - Last in-person class meeting
+- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed.
+- Writing topic: peer review
+	- Read before class: peer drafts
 - Continue peer review from 11.1 with the same groups
 - [:Week 11 peer review groups](#x-week-11-peer-review-groups)
-- Writing topic: peer review
-	- Read before class (recommended): peer drafts
-- NOTE: During peer review weeks, bring at least three hardcopies of your work to be reviewed and at least one hardcopy of your main source to class (more than one may be helpful but isn't required).
 
 ###### Due Sun 1 Nov 2026: E12 - Workload report, Oct
 >
@@ -351,4 +351,16 @@ Note: feel free to ignore all statistics in this paper.
 
 ##### :x week 11 peer review groups
 
-- [forthcoming]
+2 pm section:
+
+- Group 1: Ryan, Yihua, Jimmy
+- Group 2: Bradley, Charlotte, Joshua
+- Group 3: Jethro, Saathvika, Reidon
+- Group 4: Trakal, Samantha
+
+4 pm section:
+
+- Group 5: Ci En, Ju Wei, Anish
+- Group 6: Alex, Zhi Xin, Aida
+- Group 7: Genelle, Jaeheon, Jemima
+- Group 8: Doah, Yaj, Casey
