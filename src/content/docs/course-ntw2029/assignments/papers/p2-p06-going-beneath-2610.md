@@ -93,7 +93,7 @@ You'll develop significance more fully in P07, but beginning this thinking now w
 
 Your final paper must include at least 4 academic sources.
 
-Provide a reference list that includes at least 2 additional sources beyond the target and commentary (you can include the author's response if you plan to cite it).
+Provide a reference list that includes at least 2 additional sources beyond the target and commentary (you can include the author's response if you plan to cite it, and it counts as an additional source).
 
 Below the reference list, write 1-2 sentences for each additional source explaining how it supports your analysis.
 
