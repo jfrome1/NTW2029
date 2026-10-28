@@ -105,8 +105,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Writing topic: quotation, citation
 	- Read before class (recommended): _TSIS_ 3 "As He Himself Puts It The Art of Quoting", 42-51
 - Class media:
-	- [Human Nature Supernormal Stimuli](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
-	- [Shocking Female Model Body Photoshop Airbrush Transformation Video](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
+	- [Human Nature Supernormal Stimuli ](https://www.youtube.com/watch?v=nZANHO2o0RA) (jewel beetle) (3 min)
+	- [Shocking Female Model Body Photoshop Airbrush Transformation Video ](https://www.youtube.com/watch?v=AKlVyUJw3TM) (1 min)
 
 ## 4.2 Thu 3 Sep 2026
 
