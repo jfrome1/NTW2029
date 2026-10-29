@@ -167,7 +167,7 @@ Finding Part C means proposing a candidate, checking it, and revising. Expect to
 
 ##### :x three examples
 
-Here are three examples to see how it works:
+Here are some examples to see how it works or (for example 3) how it might go wrong.
 
 <!-- invented commentary on Savage et al., "Okafor & Lindqvist", which argues that the bonding Savage et al. describe comes from doing anything in synchrony (marching, rowing, chanting), so musicality is not what was selected for. -->
 
@@ -197,13 +197,31 @@ Context: Verpooten & Eens say that Savage et al.'s theory predicts that more mus
 
 - Part A: None. Verpooten & Eens quote the target's prediction as the target states it, that "across species, production or proficiency in 'musical' behaviors should predict both the number and complexity of social bonds", and Savage et al.'s response accepts the commentary as a test of that prediction.
 - Part B: _Savage et al. predict that musical behaviors should track social complexity across species; Verpooten & Eens find that learned contact calls track social complexity and songs do not, and that contact calls "are not particularly music-like"._
-- Part C: _They differ on what makes an animal vocalization musical for the purposes of the prediction: for Verpooten & Eens, music requires song-like elements such as complex, ordered, and repeated notes; for Savage et al., learned contact calls should count as music._
-- How Part C was found: by asking whether the two define a key term differently. They do: the prediction's test depends on what counts as musical, and the commentary and the target draw that line in different places.
+- Part C: _They differ on what makes an animal vocalization musical for the purposes of the prediction: for Verpooten & Eens, music requires song-like elements such as complex, ordered, and repeated notes; for Savage et al., learned contact calls should count as music._ [:How Part C was found](#x-how-part-c-was-found) [:How Part C might go wrong](#x-how-part-c-might-go-wrong)
+- Explanation (shortened; yours should also support each step with quotations from both articles): _Verpooten & Eens make a distinction between two kinds of animal vocalization: learned contact calls and songs. They say that learned contact calls should not be considered music, as they "are not particularly music-like" (89). On that definition, the species with the most complex social bonds, which rely on learned contact calls, look unmusical, while animals who use songs have less complex social bonds. Thus, Verpooten & Eens say the cross-species evidence undermines Savage et al.'s theory. In contrast, Savage et al. count both songs and learned contact calls as music, and predict that learned vocalizations of either kind should become more complex as social complexity increases. Since learned contact calls do track social complexity, they read the same evidence as supporting their prediction._ [:How the Explanation might go wrong](#x-how-the-explanation-might-go-wrong)
 - Thesis: _Verpooten & Eens disagree with Savage et al. about the implications of cross-species evidence about vocalization because they differ on what types of animal vocalizations count as musical: for Verpooten & Eens, animal songs, not learned contact calls, count as music, and song does not track social complexity; for Savage et al., both songs and calls count as music, so they think the data supports their theory rather than undermining it._
 
 <!-- **Example 1: Konečni on Menninghaus et al.** -->
 
 <!-- **Example 2: Gabriel et al. on Dubourg & Baumard (positions not opposites)** -->
+
+##### :x How Part C was found
+
+By asking whether the two define a key term differently. They do: the prediction's test depends on what counts as musical, and the commentary and the target draw that line in different places.
+
+##### :x How Part C might go wrong
+
+- Avoid: part C restates Part B: _They differ on whether the cross-species evidence supports Savage et al.'s prediction._
+
+Part B says that they disagree about the evidence; this Part C just says the same thing in different words.
+
+To test your own Part C, ask why each author holds their Part B position. If your Part C answers that question, it's doing its job. If it restates Part B without adding new details or ideas, keep digging.
+
+##### :x How the Explanation might go wrong
+
+- Avoid: an Explanation that doesn't show how Part C produces Part B: _Verpooten & Eens think the evidence doesn't support the prediction, and Savage et al. think it does._
+
+This explanation restates the two Part B positions without showing how each author's view of what counts as music leads to the explicit disagreement. Check that you've walked through the steps connecting Part C to Part B for both authors, not just one.
 
 ##### :x what additional sources to find
 
