@@ -108,39 +108,7 @@ To answer that question, ask if the main idea of your thesis might matter:
 - in how researchers approach the topic, e.g. does it show something researchers would need to agree on, define, or do differently for the larger debate to move forward?
 - in questions outside the topic, e.g. could it help explain a debate about a different phenomenon?
 
-Worked example for significance:
-
-Verpooten & Eens criticize Savage et al.'s music and social bonding (MSB) hypothesis.
-
-The MSB hypothesis predicts that more musical species should have more complex social bonds.
-
-Verpooten & Eens divide animal vocalizations into learned contact calls and songs, and say that learned contact calls aren't music-like, while songs are.
-
-Verpooten & Eens say that learned contact calls correlate with complex social bonds, but songs don't, and conclude that the evidence goes against the MSB hypothesis.
-
-Savage et al. reply that, by Fitch's definition, learned contact calls are songs, and thus musical, so the evidence supports MSB's prediction.
-
-A student paper argues that:
-
-the explicit disagreement is whether the evidence contradicts the MSB hypothesis
-
-the implicit disagreement underlying the explicit disagreement is about which animal vocalizations should count as musical
-
-Thesis: _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence shows that more musical species have more complex social bonds because they differ on which animal vocalizations count as musical. Verpooten & Eens evaluate vocalizations by their structure, and thus state that learned contact calls aren't musical, while Savage et al. evaluate them by the vocal learning behind them, and hold that learned contact calls are also songs._
-
-Significance that doesn't explain how this thesis affects issues outside the disagreement:
-
-_This disagreement matters because the evolution of music is an important question._
-
-That statement would be true whatever the student's thesis said.
-
-Significance that does explain how this thesis affects issues outside the disagreement:
-
-_Whether researchers count an animal vocalization as musical by its structure or by the vocal learning behind it affects the usefulness of cross-species evidence in research on music's evolutionary origins. Comparisons that sort vocalizations by structure, into songs and calls, test a different idea of music than theories that define musicality by vocal learning, such as Savage et al.'s. Cross-species comparisons can test such theories only if researchers first agree on which criterion to use._
-
-That statement uses the thesis's distinction between structure and vocal learning and says what the distinction means for research outside this one disagreement.
-
-In your draft, aim for significance like the second statement. In the conference, if your thesis supports even broader significance, I'll encourage you to develop it further.
+In your draft, aim for significance like the second statement in the worked example below. In the conference, if your thesis supports even broader significance, I'll encourage you to develop it further. [:Worked example for significance](#x-worked-example-for-significance)
 
 I ask for only a brief preview in the introduction because readers expect to find the answer to "so what does this mean?" in the conclusion.
 
@@ -156,25 +124,14 @@ The expectation is an accurate thesis about what drives the disagreement, built 
 
 Meeting the expectation is an achievement in itself. Some disagreements are hard to explain clearly, and a paper that does so is valuable even if its thesis seems unsurprising to you.
 
-A thesis can go wrong in several ways. The examples below use Verpooten & Eens's commentary on Savage et al., [:the third example in the last assignment](/course-ntw2029/assignments/papers/p2-p06-going-beneath-2610/#x-three-examples).
+A thesis can go wrong in several ways: restating the explicit disagreement in new words, misreading the sources, taking a side, or proposing a fix before correctly identifying what drives the disagreement. [:Examples of how a thesis can go wrong](#x-examples-of-how-a-thesis-can-go-wrong)
 
-- Avoid: restating the explicit disagreement in new words
-	- e.g. _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they interpret that evidence differently. Verpooten & Eens think it shows the prediction fails, and Savage et al. think it doesn't._
-	- The "because" clause and the second sentence restate Part B, what each side thinks the evidence shows, instead of naming a difference that explains Part B.
-	- To test whether your Part C goes beneath Part B, ask:
-		- Is there a fact, case, or factor that one side treats as important and the other doesn't? If so, why does it matter to one side and not the other?
-		- What makes each side judge the evidence "enough"?
-		- If the two sides agreed on your Part C, would they still disagree about Part B? If they would, your Part C doesn't explain Part B.
-		- If the commentary says the target fails to show something, does the target think its argument has to show it?
-- Avoid: misreading the sources
-	- e.g. _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they differ on what that evidence covers. Savage et al. reply that the learned contact calls in Verpooten & Eens's review aren't music, so the evidence doesn't bear on their prediction._
-	- The second sentence misreads the target. Savage et al. say the reverse: by Fitch's definition, learned contact calls are "songs," so their correlation with social complexity supports the prediction rather than undermining it.
-- Avoid: taking a side
-	- e.g. _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they differ on which animal vocalizations count as musical. Since only song-like vocalizations are music-like, Verpooten & Eens show that Savage et al.'s prediction fails._
-	- The first sentence names a difference that explains the disagreement, but the second argues who's right instead of explaining why the two disagree.
-- Avoid: proposing a fix before correctly identifying what drives the disagreement
-	- e.g. _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because that evidence covers too few species, so the disagreement would be settled if researchers studied more species._
-	- The "because" clause names the wrong cause, and the fix follows from it. Data on more species wouldn't settle the disagreement, since the target and commentary would still disagree about which vocalizations count as musical.
+To test whether your Part C goes beneath Part B, ask:
+
+- Is there a fact, case, or factor that one side treats as important and the other doesn't? If so, why does it matter to one side and not the other?
+- What makes each side judge the evidence "enough"?
+- If the two sides agreed on your Part C, would they still disagree about Part B? If they would, your Part C doesn't explain Part B.
+- If the commentary says the target fails to show something, does the target think its argument has to show it?
 
 **The stretch goal**
 
@@ -262,6 +219,58 @@ Whatever the use, make sure to:
 - If your topic sentence doesn't capture the main idea of the paragraph, the mismatch tells you that either the topic sentence or the paragraph needs revision. Revise the topic sentence in your draft so it captures what the paragraph is actually about, or revise the paragraph so it fits the topic sentence, then put the revised topic sentence in the outline. The outline should represent the point of each paragraph, not just announce what it will discuss (see [announcing writing moves instead of stating the main point](/course-ntw2029/resources/topic-sentences/#announcing-writing-moves-instead-of-stating-the-main-point)).
 - Keep the outline updated as you write your draft, and read through it regularly to check that your argument flows logically and that each paragraph advances your thesis. I suggest going back and forth between the draft and the outline as a way of keeping the big picture in mind.
 - If you apply the writing guidance taught throughout the course (one idea per paragraph, topic sentences start paragraphs, topic sentences capture the full idea of each paragraph), the outline will fairly represent your essay's argument.
+
+##### :x worked example for significance
+
+**The disagreement**
+
+- Verpooten & Eens criticize Savage et al.'s music and social bonding (MSB) hypothesis.
+- The MSB hypothesis predicts that more musical species should have more complex social bonds.
+- Verpooten & Eens divide animal vocalizations into learned contact calls and songs, and say that learned contact calls aren't music-like, while songs are.
+- Verpooten & Eens say that learned contact calls correlate with complex social bonds, but songs don't, and conclude that the evidence goes against the MSB hypothesis.
+- Savage et al. reply that, by Fitch's definition, learned contact calls are songs, and thus musical, so the evidence supports MSB's prediction.
+
+**A student paper argues that:**
+
+- the explicit disagreement is whether the evidence contradicts the MSB hypothesis
+- the implicit disagreement underlying the explicit disagreement is about which animal vocalizations should count as musical
+- **Thesis:** _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence shows that more musical species have more complex social bonds because they differ on which animal vocalizations count as musical. Verpooten & Eens evaluate vocalizations by their structure, and thus state that learned contact calls aren't musical, while Savage et al. evaluate them by the vocal learning behind them, and hold that learned contact calls are also songs._
+
+**Significance that doesn't explain how this thesis affects issues outside the disagreement:**
+
+_This disagreement matters because the evolution of music is an important question._
+
+That statement would be true whatever the student's thesis said.
+
+**Significance that does explain how this thesis affects issues outside the disagreement:**
+
+_Whether researchers count an animal vocalization as musical by its structure or by the vocal learning behind it affects the usefulness of cross-species evidence in research on music's evolutionary origins. Comparisons that sort vocalizations by structure, into songs and calls, test a different idea of music than theories that define musicality by vocal learning, such as Savage et al.'s. Cross-species comparisons can test such theories only if researchers first agree on which criterion to use._
+
+That statement uses the thesis's distinction between structure and vocal learning and says what the distinction means for research outside this one disagreement.
+
+##### :x examples of how a thesis can go wrong
+
+These examples use Verpooten & Eens's commentary on Savage et al., [:the third example in the last assignment](/course-ntw2029/assignments/papers/p2-p06-going-beneath-2610/#x-three-examples).
+
+**Avoid: restating the explicit disagreement in new words**
+
+- _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they interpret that evidence differently. Verpooten & Eens think it shows the prediction fails, and Savage et al. think it doesn't._
+- The "because" clause and the second sentence restate Part B, what each side thinks the evidence shows, instead of naming a difference that explains Part B.
+
+**Avoid: misreading the sources**
+
+- _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they differ on what that evidence covers. Savage et al. reply that the learned contact calls in Verpooten & Eens's review aren't music, so the evidence doesn't bear on their prediction._
+- The second sentence misreads the target. Savage et al. say the reverse: by Fitch's definition, learned contact calls are "songs," so their correlation with social complexity supports the prediction rather than undermining it.
+
+**Avoid: taking a side**
+
+- _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they differ on which animal vocalizations count as musical. Since only song-like vocalizations are music-like, Verpooten & Eens show that Savage et al.'s prediction fails._
+- The first sentence names a difference that explains the disagreement, but the second argues who's right instead of explaining why the two disagree.
+
+**Avoid: proposing a fix before correctly identifying what drives the disagreement**
+
+- _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because that evidence covers too few species, so the disagreement would be settled if researchers studied more species._
+- The "because" clause names the wrong cause, and the fix follows from it. Data on more species wouldn't settle the disagreement, since the target and commentary would still disagree about which vocalizations count as musical.
 
 ##### :x examples of thesis and significance
 
