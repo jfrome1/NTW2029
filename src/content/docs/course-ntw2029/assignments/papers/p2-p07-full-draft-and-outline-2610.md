@@ -228,7 +228,7 @@ Whatever the use, make sure to:
 - The MSB hypothesis predicts that more musical species should have more complex social bonds.
 - Verpooten & Eens divide animal vocalizations into learned contact calls and songs, and say that learned contact calls aren't music-like, while songs are.
 - Verpooten & Eens say that learned contact calls correlate with complex social bonds, but songs don't, and conclude that the evidence goes against the MSB hypothesis.
-- Savage et al. reply that, by Fitch's definition, learned contact calls are songs, and thus musical, so the evidence supports MSB's prediction.
+- Savage et al. reply that, by Fitch's definition, learned contact calls are songs, and thus musical, so the evidence doesn't undermine MSB's prediction.
 
 **A student paper argues that:**
 
@@ -260,7 +260,7 @@ These examples use Verpooten & Eens's commentary on Savage et al., [:the third e
 **Avoid: misreading the sources**
 
 - _Verpooten & Eens and Savage et al. disagree about whether the cross-species evidence contradicts the MSB hypothesis because they differ on what that evidence covers. Savage et al. reply that the learned contact calls in Verpooten & Eens's review aren't music, so the evidence doesn't bear on their prediction._
-- The second sentence misreads the target. Savage et al. say the reverse: by Fitch's definition, learned contact calls are "songs," so their correlation with social complexity supports the prediction rather than undermining it.
+- The second sentence misreads the target. Savage et al. say the reverse: by Fitch's definition, learned contact calls are "songs," so their correlation with social complexity doesn't undermine the prediction.
 
 **Avoid: taking a side**
 

@@ -11,6 +11,9 @@ This course includes three required conferences:
 Book a slot here: https://scheduler.zoom.us/jonathan-frome-meeting/p02-conference
 
 - **Week 12**: Paper 2 draft conference
+
+Book a slot here: https://scheduler.zoom.us/jonathan-frome-meeting/paper-2-draft-conferences
+
 - **Week 13**: Paper 2 reflection conference
 
 ## For a Productive Conference
