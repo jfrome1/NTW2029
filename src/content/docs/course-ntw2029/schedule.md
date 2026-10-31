@@ -147,6 +147,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 
 ## 6.1 and 6.2 (14 and 17 Sep 2026) no class meetings, student conferences
 
+- Scheduling links are on the Conferences page.
+
 ###### Due day of conference: E05 - Paper 1 Conference report
 >
 
@@ -276,6 +278,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 12.1 and 12.2 (2 and 5 Nov 2026) no class meetings, Paper 2 draft conferences
 
 - Conferences run Tue 3 Nov to Fri 6 Nov 2026.
+- Scheduling links are on the Conferences page.
 
 ###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
@@ -292,6 +295,8 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, Paper 2 reflection conferences
 
 Mon 9 Nov 2026 is the Deepavali holiday, so reflection conferences this week run Tue 10 Nov to Fri 13 Nov.
+
+Scheduling links are on the Conferences page.
 
 The course's [policy fine print page](/course-ntw2029/hidden/other/fine-print/) spells out details of the policies stated on the course info pages, and is part of the course policies.
 
