@@ -1,5 +1,5 @@
 ---
-title: Emailing researchers about their work
+title: Emailing academics about their work
 pagefind: false
 draft: true
 sidebar:
