@@ -11,6 +11,9 @@ importers:
       '@astrojs/check':
         specifier: ^0.9.10
         version: 0.9.10(prettier@3.7.1)(typescript@6.0.3)
+      '@astrojs/markdown-remark':
+        specifier: 7.2.2
+        version: 7.2.2(supports-color@10.2.2)
       '@astrojs/starlight':
         specifier: ^0.41.5
         version: 0.41.5(@astrojs/markdown-remark@7.2.2(supports-color@10.2.2))(astro@7.1.6(@astrojs/markdown-remark@7.2.2(supports-color@10.2.2))(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@24.12.3)(rollup@4.52.0)(terser@5.46.1)(yaml@2.8.4))(supports-color@10.2.2)(typescript@6.0.3)
@@ -6333,6 +6336,10 @@ snapshots:
     optionalDependencies:
       picomatch: 4.0.4
 
+  fdir@6.5.0(picomatch@4.0.5):
+    optionalDependencies:
+      picomatch: 4.0.5
+
   fflate@0.4.8: {}
 
   fill-range@7.1.1:
@@ -8197,8 +8204,8 @@ snapshots:
 
   tinyglobby@0.2.17:
     dependencies:
-      fdir: 6.5.0(picomatch@4.0.4)
-      picomatch: 4.0.4
+      fdir: 6.5.0(picomatch@4.0.5)
+      picomatch: 4.0.5
 
   to-regex-range@5.0.1:
     dependencies:

@@ -5,20 +5,27 @@ import starlightNutshell from "starlight-nutshell";
 import compress from "astro-compress";
 import starlightAutoDrafts from "starlight-auto-drafts";
 import rehypeExternalLinks from "rehype-external-links";
+import { unified } from "@astrojs/markdown-remark";
 
 export default defineConfig({
   site: "https://ntw-2029.vercel.app",
   markdown: {
-    rehypePlugins: [
-      [
-        rehypeExternalLinks,
-        {
-          content: { type: "text", value: " ↗" },
-          target: "_blank",
-          rel: ["noopener", "noreferrer"],
-        },
+    // Astro 7's default Markdown processor (Satteri) does not run rehype
+    // plugins, and the top-level markdown.rehypePlugins key is deprecated.
+    // Choosing the unified (remark/rehype) processor explicitly keeps
+    // rehype-external-links running.
+    processor: unified({
+      rehypePlugins: [
+        [
+          rehypeExternalLinks,
+          {
+            content: { type: "text", value: " ↗" },
+            target: "_blank",
+            rel: ["noopener", "noreferrer"],
+          },
+        ],
       ],
-    ],
+    }),
   },
   integrations: [
     starlight({
