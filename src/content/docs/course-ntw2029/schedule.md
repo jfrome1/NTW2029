@@ -283,7 +283,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
 
-###### Due five days after your draft conference, and two days before your reflection conference: P08 - Paper 2 Final
+###### Due five days after your Week 12 draft conference, and two days before your Week 13 reflection conference: P08 - Paper 2 Final
 >
 
 ###### Due one day after Paper 2: E11 - Paper 2 Writing reflection (no extensions)

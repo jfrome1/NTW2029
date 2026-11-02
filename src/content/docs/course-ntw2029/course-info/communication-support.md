@@ -46,6 +46,8 @@ Professional emails get faster, better responses. Here's what works:
 - Use both your formal name and what I call you in class, if different
 - Write like you're asking permission from a professor, not messaging your Grab driver. "May I meet with you after class?" works better than "I'll come see you after class." "Is it ok for me to leave class early due to an exam?" works better than "Just letting you know I'm leaving class 45 min early because I have an exam."
 
+For writing to an academic about their research, see [Emailing academics about their work](/course-ntw2029/resources/emailing-academics/).
+
 ---
 
 ## When to Ask for Help
