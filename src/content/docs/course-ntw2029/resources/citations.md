@@ -29,12 +29,14 @@ Tell the reader where you got any source ideas or quotes by citing the location 
 | Same source, same paragraph | _(407)_ [just the page number] |
 | Two authors | _(Boyd & Richerson, 1985, 23)_ |
 | Three+ authors | _(Savage et al., 2021, 15)_ |
+| Same authors, same year (e.g., a target article and the authors' response) | _Dubourg and Baumard (2022a)_ for the target article, _(Dubourg & Baumard, 2022b, 64)_ for the response |
 
 **Key rules**:
 
 - Page number almost always required <span class="smaller-text"> [:When is page number not required?](#x-when-is-page-number-not-required)  </span>
 - Period goes after closing parenthesis
 - No "p." before page numbers
+- With two works by the same authors in the same year, give the year and its letter each time you switch from one to the other
 
 [:Detailed examples showing the redundancy principle](#x-detailed-examples-showing-the-redundancy-principle)
 
@@ -70,6 +72,7 @@ Look at the paper template to quickly see proper reference list formatting. [:Pr
 Do:
 
 - Alphabetical order by first author's last name
+- Two works by the same authors in the same year: add "a" to the target article's year and "b" to the response's, and list the "a" entry first
 - Hanging indent (first line at page margin, following lines indented)
 - Include DOI or publisher URL where available
 - Italics for journal and book titles
@@ -114,11 +117,13 @@ I'm happy to answer specific questions about unusual sources or citation situati
 
 ### How are your citation rules different from standard APA?
 
-There is a really minor difference I didn't want to burden you with: standard APA tells you to include the year after an author's name every time you start a new paragraph.
+There are two really minor differences. Standard APA tells you to include the year after an author's name every time you start a new paragraph.
+
+Standard APA also assigns the letters for two works by the same authors in the same year alphabetically by title. For simplicity, I have you use "a" for the target article and "b" for the response.
 
 ### When do I need to cite sources?
 
-You need to cite every time you use others' ideas, whether you quote or paraphrase. Two exceptions: common knowledge and information from class. Failure to cite can have serious consequences, unintentional or not.
+You need to cite every time you use others' ideas, whether you quote or paraphrase. Two exceptions: common knowledge and information from class. Failure to cite (unintentional or not) can have serious consequences.
 
 ### How often should I include in-text citations?
 

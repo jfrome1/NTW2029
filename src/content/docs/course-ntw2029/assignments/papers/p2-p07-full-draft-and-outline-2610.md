@@ -16,11 +16,11 @@ Write one document with several parts. Start each part on a new page, but keep t
 
 1. **Full draft**: Write a complete essay with an introduction that proposes your thesis, a body that explains and analyzes the disagreement, and a conclusion that discusses the significance of your thesis. [:What to include in each part of your draft](#x-what-to-include-in-each-part-of-your-draft) Cite at least 4 academic sources in the text of your essay. [:Using additional sources appropriately](#x-using-additional-sources-appropriately)
 
-2. **Reference list**: Include a reference list after your draft, following the guidelines on the Citations page in the Resources section.
+2. **Reference list**: Include a reference list after your draft, following the guidelines on the Citations page in the Resources section. Remember, put all sources you cite in the reference list, and exclude non-cited items from the reference list.
 
 3. **Simplified outline**: On a new page after your reference list, list your thesis, the topic sentence of every body paragraph in order, and a 1-2 sentence significance statement taken from your conclusion. Download an [example outline](/downloads/paper2-draft-outline-example.pdf). [:How to create and use your outline](#x-how-to-create-and-use-your-outline)
 
-4. **Reflection**: After your outline, briefly describe: (a) the key terms or concepts from the articles that are most important for your argument, (b) aspects you're having trouble with or feel uncertain about, and/or (c) any specific questions you have about your draft.
+4. **Reflection**: After your outline, briefly describe: (a) the key terms or concepts from the articles that are most important for your argument, (b) aspects you're having trouble with or feel uncertain about, and/or (c) any specific questions you have about your draft (not general questions such as "is this ok?") [:What counts as a specific question?](/course-ntw2029/course-info/conferences/#what-counts-as-a-specific-question)
 
 ## Guidelines
 
@@ -173,7 +173,7 @@ I'll provide recorded feedback on your draft, starting with your argument as pre
 	- convey the target article's thesis or main conclusion about the phenomenon (briefly, but in a way a generalist reader can understand)
 	- convey the commentary's criticism (briefly, but in a way a generalist reader can understand)
 	- propose your thesis about what drives the disagreement
-	- after the thesis, preview the significance of your thesis in 1-2 sentences
+	- after the thesis, preview the significance of your thesis in 1-2 sentences (don't highlight the significance preview in yellow)
 - **Body**: Explain the part of the target article's argument that the criticism addresses, the commentary's criticism, and the author's response if it addresses the criticism. Leave out parts of either article the criticism doesn't concern. Analyze the disagreement to support your thesis.
 
 - **Conclusion**: Discuss the significance of your thesis, meaning what your analysis shows beyond the specific disagreement your paper focuses on. [:Implications and significance](#x-implications-and-significance)

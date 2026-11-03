@@ -65,7 +65,7 @@ You can also read the [:full formatting details](#x-full-formatting-details) to 
 
 ### Additional Formatting Requirements for Drafts (P02, P07) and Final Papers (P03, P08)
 
-- Highlight your thesis statement in yellow (2 consecutive sentences maximum)
+- Highlight your thesis statement in yellow (3 consecutive sentences maximum)
 - Highlight all body paragraph topic sentences in light blue
 - Include reference list, start it on a new page at the end
 - Format the reference list so each source begins with a hanging indent (0.5 inches or 1.25 cm) [:how?](#x-hanging-indent)
