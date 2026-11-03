@@ -18,7 +18,7 @@ Copy and paste the questions below into a document and type your answer below ea
 2. What other points of feedback were discussed?
 3. What are your planned next steps for revising your draft?
 4. Are there any next steps that you don't currently know how to make progress on?
-5. (optional) Do you have any other comments or feedback?
+5. (optional) Do you have any other comments or feedback for me?
 
 ## Guidelines
 
