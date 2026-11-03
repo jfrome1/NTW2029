@@ -9,7 +9,7 @@ Academic citation requires two interconnected components:
 1. **In-text citations**: Brief parenthetical notes in the essay text showing where you are relying on sources
 2. **Reference list**: Full publication details for every source cited
 
-Every in-text citation must match a reference list entry. Don't include any sources in your reference list that aren't cited in-text. <span class="smaller-text"> [:Why not include all references you looked at?](#x-why-not-include-all-references-you-looked-at) </span>
+Every in-text citation must match a reference list entry. Every reference list entry must match an in-text citation. Don't include any sources in your reference list that aren't cited in-text. <span class="smaller-text"> [:Why not include all references you looked at?](#x-why-not-include-all-references-you-looked-at) </span>
 
 The citation guidelines on this page are a simplified version of APA (American Psychological Association) rules.
 
@@ -17,28 +17,39 @@ The citation guidelines on this page are a simplified version of APA (American P
 
 ### Core Principle
 
-Tell the reader where you got any source ideas or quotes by citing the location in your text with (Author, Year, Page). But omit the information that's already obvious to the reader.
+Tell the reader where you got any source ideas or quotes by citing the location in your text with (Author, Year, Page). Give the author and year the first time you cite a source. After that, give only the page, unless the reader needs the author or year to tell which source you mean.
 
-### Quick Reference Table
+### Quick Reference Tables
+
+**The first time you cite a source:**
 
 | Situation | Citation Format |
 |-----------|----------------|
-| First mention of a source and author| Either _According to Pinker (2002)... (405)_ or _People seem to... (Pinker, 2002, 405)_ |
-| Author named in the sentence, year not yet given | _Pinker (2002) argues... (405)_ |
-| Source year already given, author obvious | _He also argues... (405)_ |
-| Same source, same paragraph | _(407)_ [just the page number] |
-| Two authors | _(Boyd & Richerson, 1985, 23)_ |
-| Three+ authors | _(Savage et al., 2021, 15)_ |
-| Same authors, same year (e.g., a target article and the authors' response) | _Dubourg and Baumard (2022a)_ for the target article, _(Dubourg & Baumard, 2022b, 64)_ for the response |
+| Author named in your sentence | _Pinker (2002) argues... (405)_ [year right after the name, page at the end] |
+| Author not named in your sentence | _People seem to... (Pinker, 2002, 405)_ |
+
+**Citing the same source again** (add only what the reader needs to tell which source you mean):
+
+| Situation | Citation Format |
+|-----------|----------------|
+| The reader can tell which source you mean | _He also argues... (407)_ or _This view also predicts... (407)_ [just the page number] |
+| You've cited a different source since, or you've started a new paragraph | _Pinker also argues... (410)_ or _The byproduct view holds... (Pinker, 410)_ [add the author's name] |
+| You cite more than one work by the same author | _Pinker (2002) argues... (405)_ [add the year each time you switch works] |
+| Two works by the same authors with the same year (e.g., a target article and the authors' response) | _Dubourg and Baumard (2022a) argue..._ for the target article, _Fiction may also... (Dubourg & Baumard, 2022b, 64)_ for the response [add the year and letter each time you switch works] |
+
+**Writing the authors' names** (in any citation, first or later):
+
+| Situation | Citation Format |
+|-----------|----------------|
+| Two authors | _Boyd and Richerson (1985) argue..._ or _Culture may evolve... (Boyd & Richerson, 1985, 23)_ |
+| Three or more authors | _Savage et al. (2021) argue..._ or _Music may have evolved... (Savage et al., 2021, 15)_ |
 
 **Key rules**:
 
 - Page number almost always required <span class="smaller-text"> [:When is page number not required?](#x-when-is-page-number-not-required)  </span>
 - Period goes after closing parenthesis
 - No "p." before page numbers
-- With two works by the same authors in the same year, give the year and its letter each time you switch from one to the other
-
-[:Detailed examples showing the redundancy principle](#x-detailed-examples-showing-the-redundancy-principle)
+- Don't repeat the author's name in the parentheses when your sentence already names the author
 
 ## Part 2: Reference List
 
@@ -141,39 +152,6 @@ If you are not telling the reader where you got an idea or quote, but are instea
 
 > _Some scholars argue that art is adaptive due to cooperation (Boyd 2002, Austin 2010)._
 
-##### :x detailed examples showing the redundancy principle
-
-The redundancy removal principle in action:
-
-**First citation:**
->
-> _According to evolutionary psychologist Steven Pinker (2002), art serves no adaptive function (405)._
-
-We name the author in text, so the parentheses only need year and page. We don't repeat "Pinker" in the in-text citation. [:Why isn't the year in the citation?](#x-why-isnt-the-year-in-the-citation)
-
-**Next sentence, same source:**
-
->
-> _He argues that art is merely a byproduct of other evolved capacities (407)._
-
-Just page number: reader knows we're still discussing Pinker (2002).
-
-**New paragraph, same source:**
->
-> _Pinker's byproduct hypothesis has three components (410)._
-
-Remind reader of author, but year unnecessary unless you are citing multiple Pinker sources and need to make clear which one you're referring to.
-
-##### :x why isnt the year in the citation
-
-If the first time you mention a source's authors is in a sentence, you put the year directly after the author's name, but if it's in an in-text citation, you put it in the citation. e.g.:
-
-> _According to Pinker (2002), musical structure mirrors the structure of language (405)._
-
-vs.
-
-> _Musical structure mirrors the structure of language (Pinker, 2002, 405)._
-
 ##### :x proper formatting example
 
 ![reference list formatting](/images/reference-list-formatting.jpg)
@@ -272,6 +250,25 @@ Error:
 
 - Very subtle error! "Savage et al." is plural because it refers to multiple authors, so the verb must be plural also: "argue", not "argues"
 - Correct: Savage et al. (2021) argue that music bonds groups (15).
+
+</details>
+
+<details><summary>In-text (the first time this source is cited): Dubourg and Baumard define imaginary worlds by the background knowledge a reader needs to understand them (2).</summary>
+
+Errors:
+
+- The first citation of a source needs the year: Dubourg and Baumard (2022)
+- Putting the year with the page at the end, (2022, 2), is also wrong: when your sentence names the authors, the year goes right after their names
+- Correct: Dubourg and Baumard (2022) define imaginary worlds by the background knowledge a reader needs to understand them (2).
+
+</details>
+
+<details><summary>In-text: Imaginary worlds are "fictional environments that the recipients of the fiction could not have possibly explored in real life" (Dubourg & Baumard, 2022).</summary>
+
+Errors:
+
+- A quotation always needs a page number
+- Correct: Imaginary worlds are "fictional environments that the recipients of the fiction could not have possibly explored in real life" (Dubourg & Baumard, 2022, 2).
 
 </details>
 
