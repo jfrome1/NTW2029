@@ -1,5 +1,5 @@
 ---
-title: E10 - P07 conference report (full draft)
+title: E10 - Paper 2 Conference report (draft)
 draft: true
 sidebar:
   badge:
