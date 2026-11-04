@@ -280,7 +280,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 - Conferences run Tue 3 Nov to Fri 6 Nov 2026.
 - Scheduling links are on the Conferences page.
 
-###### Due day of conference: E10 - Paper 2 Draft Conference report
+###### Due day of conference: E10 - Paper 2 Conference report (draft)
 >
 
 ###### Due five days after your Week 12 draft conference, and two days before your Week 13 reflection conference: P08 - Paper 2 Final
