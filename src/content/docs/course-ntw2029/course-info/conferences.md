@@ -16,6 +16,8 @@ Book a slot here: https://scheduler.zoom.us/jonathan-frome-meeting/paper-2-draft
 
 - **Week 13**: Paper 2 reflection conference
 
+Book a slot here: https://scheduler.zoom.us/jonathan-frome-meeting/paper-2-reflection-conferences
+
 ## For a Productive Conference
 
 The items below help us make the most of our conference time. Following them means we can focus on your draft rather than troubleshooting setup issues or restating feedback I've already sent.
