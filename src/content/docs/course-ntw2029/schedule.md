@@ -289,7 +289,7 @@ Links that start with `:` are text-expansion links. I recommend reading through 
 ###### Due one day after Paper 2: E11 - Paper 2 Writing reflection (no extensions)
 >
 
-###### Due one day after Paper 2: E12 - Workload report, Nov (final)
+###### Due the evening of your reflection conference: E12 - Workload report, Nov (final)
 >
 
 ## 13.1 and 13.2 (9 and 12 Nov 2026) no class meetings, Paper 2 reflection conferences

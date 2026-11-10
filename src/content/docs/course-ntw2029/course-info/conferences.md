@@ -102,13 +102,14 @@ Please do not change your booking on the day of the conference or without notify
 
 ### What counts as a specific question?
 
-Vague questions ask for reassurance without identifying a specific problem. Specific questions show you've identified what you're trying to achieve and where you're stuck.
+Vague questions ask for guidance or reassurance without identifying a specific problem. Specific questions show you've identified what you're trying to achieve and where you're stuck.
 
 **Vague questions (avoid):**
 
-- "Is my intro ok?"
+- "Here's my intro, is it ok?"
 - "Which source should I choose?"
 - "Does this paragraph work?"
+- "Which of these should I include?"
 
 **Specific questions (productive):**
 
